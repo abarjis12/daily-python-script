@@ -84,8 +84,9 @@ if not today_news and news_data:
     ]
     today_news = recent_news if recent_news else today_news
 
-# Sort by score in descending order
+# Sort by score in descending order and limit to top 25
 today_news.sort(key=lambda x: x["score"], reverse=True)
+today_news = today_news[:25]  # Limit to top 25 articles
 
 # Function to print news summary
 def print_news_summary():
@@ -93,7 +94,7 @@ def print_news_summary():
         print("No news available for today or the last 7 days.")
         return
 
-    print("\n=== Top Network Engineering News (Ranked by Relevance) ===")
+    print("\n=== Top 25 Network Engineering News (Ranked by Relevance) ===")
     for news in today_news:
         print(f"\n{news['title']} (Score: {news['score']})")
         print(f"- Summary: {news['summary']}")
@@ -112,7 +113,7 @@ def print_news_summary():
 # Function to save history to file
 def save_history():
     with open("news_history.txt", "a") as f:
-        f.write(f"\n--- News Summary for {current_date} ---\n")
+        f.write(f"\n--- Top 25 News Summary for {current_date} ---\n")
         if not today_news:
             f.write("No news available for today or the last 7 days.\n")
         else:
