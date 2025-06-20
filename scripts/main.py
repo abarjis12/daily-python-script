@@ -15,9 +15,9 @@ print(f"Generated on: {current_date} (CDT)")
 
 # Parameters for NewsAPI query
 params = {
-    "q": "network engineering OR AI OR Cisco OR Aruba OR Palo Alto Networks OR cybersecurity OR automation",  # Simplified query
-    "from": (datetime.datetime.now() - datetime.timedelta(days=30)).strftime("%Y-%m-%d"),  # 30 days back
-    "to": datetime.datetime.now().strftime("%Y-%m-%d"),  # Up to today
+    "q": "network engineering OR AI OR Cisco OR Aruba OR Palo Alto Networks OR cybersecurity OR automation",
+    "from": (datetime.datetime.now() - datetime.timedelta(days=30)).strftime("%Y-%m-%d"),
+    "to": datetime.datetime.now().strftime("%Y-%m-%d"),
     "sortBy": "publishedAt",
     "language": "en",
     "apiKey": API_KEY
@@ -35,7 +35,26 @@ except requests.exceptions.RequestException as e:
     print(f"Error fetching news: {e}")
     news_data = []
 
-# Filter and process news
+# Define scoring keywords and weights
+scoring_keywords = {
+    # Network Engineering Keywords
+    "network": 2, "engineering": 2, "Cisco": 3, "Aruba": 3, "Palo Alto Networks": 3, "HPE": 2, "switch": 1,
+    # AI Keywords
+    "AI": 4, "artificial intelligence": 4, "automation": 3, "machine learning": 3,
+    # Career Advancement Keywords
+    "certification": 4, "skills": 3, "training": 3, "job": 2, "career": 2
+}
+
+# Filter and score news
+def score_article(article):
+    score = 0
+    title = article.get("title", "").lower()
+    description = article.get("description", "").lower()
+    for keyword, weight in scoring_keywords.items():
+        if keyword in title or keyword in description:
+            score += weight
+    return score
+
 today_news = [
     {
         "title": article["title"],
@@ -43,7 +62,8 @@ today_news = [
         "source": article["url"],
         "date": article["publishedAt"][:10],
         "vendors": [vendor for vendor in ["Cisco", "Aruba", "Palo Alto Networks", "HPE", "DriveNets", "IBM", "Microsoft", "Adtran"] if vendor.lower() in article["title"].lower() or vendor.lower() in article.get("description", "").lower()],
-        "topics": ["AI-driven networking", "network automation", "cybersecurity", "cloud networking", "job skills"] if any(topic.lower() in article["title"].lower() or topic.lower() in article.get("description", "").lower() for topic in ["AI", "automation", "security", "cloud", "skills"]) else []
+        "topics": ["AI-driven networking", "network automation", "cybersecurity", "cloud networking", "job skills"] if any(topic.lower() in article["title"].lower() or topic.lower() in article.get("description", "").lower() for topic in ["AI", "automation", "security", "cloud", "skills"]) else [],
+        "score": score_article(article)
     }
     for article in news_data if article.get("publishedAt", "").startswith(datetime.datetime.now().strftime("%Y-%m-%d"))
 ]
@@ -57,11 +77,15 @@ if not today_news and news_data:
             "source": article["url"],
             "date": article["publishedAt"][:10],
             "vendors": [vendor for vendor in ["Cisco", "Aruba", "Palo Alto Networks", "HPE", "DriveNets", "IBM", "Microsoft", "Adtran"] if vendor.lower() in article["title"].lower() or vendor.lower() in article.get("description", "").lower()],
-            "topics": ["AI-driven networking", "network automation", "cybersecurity", "cloud networking", "job skills"] if any(topic.lower() in article["title"].lower() or topic.lower() in article.get("description", "").lower() for topic in ["AI", "automation", "security", "cloud", "skills"]) else []
+            "topics": ["AI-driven networking", "network automation", "cybersecurity", "cloud networking", "job skills"] if any(topic.lower() in article["title"].lower() or topic.lower() in article.get("description", "").lower() for topic in ["AI", "automation", "security", "cloud", "skills"]) else [],
+            "score": score_article(article)
         }
         for article in news_data if (datetime.datetime.now() - datetime.datetime.strptime(article.get("publishedAt", ""), "%Y-%m-%dT%H:%M:%SZ")).days <= 7
     ]
     today_news = recent_news if recent_news else today_news
+
+# Sort by score in descending order
+today_news.sort(key=lambda x: x["score"], reverse=True)
 
 # Function to print news summary
 def print_news_summary():
@@ -69,9 +93,9 @@ def print_news_summary():
         print("No news available for today or the last 7 days.")
         return
 
-    print("\n=== Top Network Engineering News ===")
+    print("\n=== Top Network Engineering News (Ranked by Relevance) ===")
     for news in today_news:
-        print(f"\n{news['title']}")
+        print(f"\n{news['title']} (Score: {news['score']})")
         print(f"- Summary: {news['summary']}")
         print(f"- Source: {news['source']}")
         print(f"- Date: {news['date']}")
@@ -93,7 +117,7 @@ def save_history():
             f.write("No news available for today or the last 7 days.\n")
         else:
             for news in today_news:
-                f.write(f"\n{news['title']}\n- Summary: {news['summary']}\n- Source: {news['source']}\n- Date: {news['date']}\n- Vendors: {', '.join(news['vendors']) if news['vendors'] else 'None'}\n- Topics: {', '.join(news['topics']) if news['topics'] else 'None'}\n")
+                f.write(f"\n{news['title']} (Score: {news['score']})\n- Summary: {news['summary']}\n- Source: {news['source']}\n- Date: {news['date']}\n- Vendors: {', '.join(news['vendors']) if news['vendors'] else 'None'}\n- Topics: {', '.join(news['topics']) if news['topics'] else 'None'}\n")
             f.write("\n=== Changes in Network Engineering Job Skills and Certifications ===\n")
             f.write("- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.\n")
             f.write("- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.\n")
