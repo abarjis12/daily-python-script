@@ -1,39 +1,41 @@
 name: Daily Python Script
 
-on:
-  schedule:
-    - cron: '30 13 * * *' # Runs daily at 8:30 AM CDT (13:30 UTC)
-  workflow_dispatch: # Allows manual triggering
+   on:
+     schedule:
+       - cron: '30 13 * * *' # Runs daily at 8:30 AM CDT (13:30 UTC)
+     workflow_dispatch: # Allows manual triggering
 
-jobs:
-  run-python-script:
-    runs-on: ubuntu-latest
+   jobs:
+     run-python-script:
+       runs-on: ubuntu-latest
+       permissions:
+         contents: write  # Explicitly grant write permissions to the GITHUB_TOKEN
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+       steps:
+       - name: Checkout repository
+         uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+       - name: Set up Python
+         uses: actions/setup-python@v5
+         with:
+           python-version: '3.10'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+       - name: Install dependencies
+         run: |
+           python -m pip install --upgrade pip
+           pip install requests beautifulsoup4
 
-    - name: Run Python script
-      env:
-        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-      run: python scripts/main.py  # Updated path to scripts/main.py
+       - name: Run Python script
+         env:
+           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+         run: python scripts/main.py
 
-    - name: Commit history file
-      run: |
-        git config --global user.name 'Your Name'
-        git config --global user.email 'your.email@example.com'
-        git add news_history.txt
-        git commit -m "Update news history for $(date +'%Y-%m-%d %H:%M %Z')" || echo "No changes to commit"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+       - name: Commit history file
+         run: |
+           git config --global user.name 'abarjis12'  # Use your GitHub username
+           git config --global user.email 'abarjis12@example.com'  # Use a valid email associated with your GitHub account
+           git add news_history.txt
+           git commit -m "Update news history for $(date +'%Y-%m-%d %H:%M %Z')" || echo "No changes to commit"
+           git push
+         env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
