@@ -15,8 +15,8 @@ print(f"Generated on: {current_date} (CDT)")
 
 # Parameters for NewsAPI query
 params = {
-    "q": "network engineering AI integration OR Cisco OR Aruba OR Palo Alto Networks OR cybersecurity OR network automation",
-    "from": (datetime.datetime.now() - datetime.timedelta(days=7)).strftime("%Y-%m-%d"),
+    "q": "network engineering AI integration OR Cisco OR Aruba OR Palo Alto Networks OR cybersecurity OR network automation OR AI",
+    "from": (datetime.datetime.now() - datetime.timedelta(days=30)).strftime("%Y-%m-%d"),
     "sortBy": "publishedAt",
     "language": "en",
     "apiKey": API_KEY
