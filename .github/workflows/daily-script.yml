@@ -1,11 +1,9 @@
 name: Daily Python Script
-
-   on:
+on:
      schedule:
        - cron: '30 13 * * *' # Runs daily at 8:30 AM CDT (13:30 UTC)
      workflow_dispatch: # Allows manual triggering
-
-   jobs:
+jobs:
      run-python-script:
        runs-on: ubuntu-latest
        permissions:
