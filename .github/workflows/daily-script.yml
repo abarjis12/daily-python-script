@@ -25,15 +25,15 @@ jobs:
 
     - name: Run Python script
       env:
-        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}  # Pass the secret
+        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       run: python main.py
 
-    - name: Commit output file (if generated)
+    - name: Commit history file
       run: |
         git config --global user.name 'Your Name'
         git config --global user.email 'your.email@example.com'
-        git add news_output.txt
-        git commit -m "Update news output for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git add news_history.txt
+        git commit -m "Update news history for $(date +'%Y-%m-%d %H:%M %Z')" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
