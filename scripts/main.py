@@ -1,65 +1,48 @@
 import datetime
+import os
 import requests
 from bs4 import BeautifulSoup
+
+# API configuration (using GitHub Secret)
+API_KEY = os.getenv("NEWSAPI_KEY")  # Retrieve from GitHub Secrets
+if not API_KEY:
+    raise ValueError("NEWSAPI_KEY environment variable not set. Add it as a GitHub Secret.")
+BASE_URL = "https://newsapi.org/v2/everything"
 
 # Current date and time
 current_date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M %Z")
 print(f"Generated on: {current_date} (CDT)")
 
-# Simulated news data (replace with API calls for real-time data)
-news_data = [
-    {
-        "title": "Cisco Unveils AI-Driven Networking Platform at Cisco Live 2025",
-        "summary": "Cisco introduced its AI Canvas and Deep Network Model at Cisco Live 2025, enhancing network troubleshooting and automation with a domain-specific LLM, 20% more precise than previous tools. The platform integrates with Hypershield for AI-driven security across distributed networks. New Nexus switches support AI workloads with post-quantum cryptography.",
-        "source": "https://www.networkworld.com/article/123456/cisco-ai-networking-2025",
-        "date": "2025-06-10",
-        "vendors": ["Cisco"],
-        "topics": ["AI-driven networking", "network automation", "cybersecurity"]
-    },
-    {
-        "title": "HPE Aruba Expands AI Capabilities with Networking Central",
-        "summary": "HPE Aruba Networking Central now uses AI to diagnose connectivity issues quickly, showcased at HPEDiscover 2025. New distributed services switches offload security tasks, supporting AI-driven cloud networking. Liquid cooling solutions address AI workload heat challenges.",
-        "source": "https://www.computerweekly.com/news/123456/hpe-aruba-ai-2025",
-        "date": "2025-06-18",
-        "vendors": ["HPE", "Aruba"],
-        "topics": ["AI-driven networking", "cloud networking", "cybersecurity"]
-    },
-    {
-        "title": "Palo Alto Networks Advances Precision AI for Cybersecurity",
-        "summary": "Palo Alto Networks leverages Precision AI, combining machine learning and GenAI, to achieve 100% accuracy in threat detection. The company’s SASE services with Kyndryl enhance zero-trust security, impacting network engineering skills with AI-augmented threat hunting.",
-        "source": "https://www.paloaltonetworks.com/blog/2025/06/precision-ai-update",
-        "date": "2025-06-13",
-        "vendors": ["Palo Alto Networks"],
-        "topics": ["cybersecurity", "AI-driven networking", "job skills"]
-    },
-    {
-        "title": "DriveNets Introduces Schedule Fabric for AI and HPC Networks",
-        "summary": "Startup DriveNets launched Schedule Fabric, a deterministic Ethernet solution for multi-tenant AI and HPC infrastructures, addressing InfiniBand limitations. This breakthrough supports scalable cloud networking at ISC 2025.",
-        "source": "https://www.drivenets.com/insights/isc-2025-ai-networking",
-        "date": "2025-06-18",
-        "vendors": ["DriveNets"],
-        "topics": ["cloud networking", "network automation"]
-    },
-    {
-        "title": "Cisco and xAI Join AI Infrastructure Partnership",
-        "summary": "Cisco collaborates with xAI and others to raise $30 billion for AI data centers, focusing on secure AI portfolios with G42. This trend signals increased demand for network engineers skilled in AI infrastructure.",
-        "source": "https://www.networkworld.com/article/123457/cisco-xai-partnership",
-        "date": "2025-05-13",
-        "vendors": ["Cisco", "xAI"],
-        "topics": ["AI-driven networking", "job skills"]
-    },
-    {
-        "title": "AI in Cybersecurity Market Growth to $120.8 Billion by 2032",
-        "summary": "The AI cybersecurity market is projected to grow due to ML-driven threat prediction and NLP for phishing detection. Major players like IBM and Microsoft are investing heavily, reshaping network security skills.",
-        "source": "https://www.newstrail.com/ai-cybersecurity-market-2025",
-        "date": "2025-06-19",
-        "vendors": ["IBM", "Microsoft"],
-        "topics": ["cybersecurity", "job skills"]
-    }
-]
+# Parameters for NewsAPI query
+params = {
+    "q": "network engineering AI integration OR Cisco OR Aruba OR Palo Alto Networks OR cybersecurity OR network automation",
+    "from": (datetime.datetime.now() - datetime.timedelta(days=7)).strftime("%Y-%m-%d"),  # Last 7 days
+    "sortBy": "publishedAt",
+    "language": "en",
+    "apiKey": API_KEY
+}
 
-# Filter news for today (June 20, 2025) - currently static, adjust with real-time API
-today_news = [news for news in news_data if news["date"] <= "2025-06-20"]
+# Fetch news from NewsAPI
+try:
+    response = requests.get(BASE_URL, params=params)
+    response.raise_for_status()  # Raise an error for bad status codes
+    news_data = response.json().get("articles", [])
+except requests.exceptions.RequestException as e:
+    print(f"Error fetching news: {e}")
+    news_data = []
+
+# Filter and process news
+today_news = [
+    {
+        "title": article["title"],
+        "summary": article.get("description", "No summary available"),
+        "source": article["url"],
+        "date": article["publishedAt"][:10],  # Extract date only
+        "vendors": [vendor for vendor in ["Cisco", "Aruba", "Palo Alto Networks", "HPE", "DriveNets", "IBM", "Microsoft", "Adtran"] if vendor.lower() in article["title"].lower() or vendor.lower() in article.get("description", "").lower()],
+        "topics": ["AI-driven networking", "network automation", "cybersecurity", "cloud networking", "job skills"] if any(topic.lower() in article["title"].lower() or topic.lower() in article.get("description", "").lower() for topic in ["AI", "automation", "security", "cloud", "skills"]) else []
+    }
+    for article in news_data if article.get("publishedAt", "").startswith(datetime.datetime.now().strftime("%Y-%m-%d"))
+]
 
 # Function to print news summary
 def print_news_summary():
@@ -73,15 +56,28 @@ def print_news_summary():
         print(f"- Summary: {news['summary']}")
         print(f"- Source: {news['source']}")
         print(f"- Date: {news['date']}")
-        print(f"- Vendors: {', '.join(news['vendors'])}")
-        print(f"- Topics: {', '.join(news['topics'])}")
+        print(f"- Vendors: {', '.join(news['vendors']) if news['vendors'] else 'None'}")
+        print(f"- Topics: {', '.join(news['topics']) if news['topics'] else 'None'}")
 
     # Job Skills and Certifications Section
     print("\n=== Changes in Network Engineering Job Skills and Certifications ===")
     print("AI and automation are reshaping network engineering roles. Key updates include:")
-    print("- Cisco's DevNet certifications will transition to CCNA, CCNP, and CCIE Automation by February 2026, emphasizing AI and automation skills (https://blogs.cisco.com/2025/05/devnet-certifications-update).")
-    print("- Demand for Zero Trust Architecture (ZTA) knowledge, with platforms like Palo Alto Prisma and Cisco Duo, is rising, requiring new cybersecurity expertise.")
-    print("- Emerging skills include AI-augmented threat hunting and network automation, driven by tools like Cisco's AI Canvas and Palo Alto's Precision AI.")
+    print("- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.")
+    print("- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.")
+    print("- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.")
 
-# Execute the summary
-print_news_summary()
+# Optional: Save output to a file
+def save_output():
+    with open("news_output.txt", "a") as f:  # Append mode to keep historical data
+        f.write(f"\n--- News Summary for {current_date} ---\n")
+        for news in today_news:
+            f.write(f"\n{news['title']}\n- Summary: {news['summary']}\n- Source: {news['source']}\n- Date: {news['date']}\n- Vendors: {', '.join(news['vendors']) if news['vendors'] else 'None'}\n- Topics: {', '.join(news['topics']) if news['topics'] else 'None'}\n")
+        f.write("\n=== Changes in Network Engineering Job Skills and Certifications ===\n")
+        f.write("- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.\n")
+        f.write("- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.\n")
+        f.write("- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.\n")
+
+# Execute the summary and save output
+if __name__ == "__main__":
+    print_news_summary()
+    save_output()  # Uncomment this line if you want to save to news_output.txt
