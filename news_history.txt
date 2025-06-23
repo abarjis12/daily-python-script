@@ -1588,3 +1588,186 @@ A ransomware attack pushed the German napkin firm Fasana into insolvency (Score:
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-06-23 13:55  ---
+
+Scale AI’s Alexandr Wang brings to Meta knowledge of what everyone else is doing (Score: 5)
+- Summary: Alexandr Wang, Scale AI co-founder, secures a massive investment from Meta. Mark Zuckerberg hires Wang to his superintelligence group. Wang's networking skills and industry knowledge are key to the deal. Meta gains leverage over AI rivals like OpenAI and Goog…
+- Source: https://economictimes.indiatimes.com/tech/artificial-intelligence/scale-ais-alexandr-wang-brings-to-meta-knowledge-of-what-everyone-else-is-doing/articleshow/121914288.cms
+- Date: 2025-06-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On theCUBE Pod: Scalability wars, SnowBricks convergence and the future of agentic AI (Score: 4)
+- Summary: Scalability is emerging as the defining factor in the enterprise race to operationalize artificial intelligence across cloud, data and developer ecosystems. As workloads evolve and expectations surge, organizations are rethinking the architecture of AI — from…
+- Source: https://siliconangle.com/2025/06/16/thecube-pod-scalability-wars-snowbricks-convergence-future-agentic-ai-thecubepod/
+- Date: 2025-06-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What Is infrastructure As Code (IaC) Scanning? (Score: 3)
+- Summary: This article was brought to you by Kumar Harsh, draft.dev. Infrastructure as code (IaC) is a popular practice in modern DevOps security and automation workflows. By treating infrastructure as code, teams can automate resource provisioning and deployments and …
+- Source: https://blog.jetbrains.com/teamcity/2025/06/what-is-iac-scanning/
+- Date: 2025-06-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Keep An Eye On – June 19th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, QXO, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies th…
+- Source: https://www.etfdailynews.com/2025/06/22/cybersecurity-stocks-to-keep-an-eye-on-june-19th/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) Receives $208.00 Average Target Price from Analysts (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) has been assigned an average recommendation of “Moderate Buy” from the forty-two ratings firms that are covering the company, MarketBeat.com reports. Two analysts have rated the stock with a sell rating…
+- Source: https://www.etfdailynews.com/2025/06/22/palo-alto-networks-inc-nasdaqpanw-receives-208-00-average-target-price-from-analysts/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cornerstone Wealth Management LLC Purchases 285 Shares of Palo Alto Networks, Inc. (NASDAQ:PANW) (Score: 2)
+- Summary: Cornerstone Wealth Management LLC raised its position in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 13.1% in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The firm o…
+- Source: https://www.etfdailynews.com/2025/06/21/cornerstone-wealth-management-llc-purchases-285-shares-of-palo-alto-networks-inc-nasdaqpanw/
+- Date: 2025-06-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Malicious Minecraft mods distributed by the Stargazers DaaS target Minecraft gamers (Score: 2)
+- Summary: Java-based malware targets Minecraft users via fake cheat tools, utilizing the Stargazers Ghost Network distribution-as-a-service (DaaS). Check Point researchers found a multi-stage malware on GitHub targeting Minecraft users via Stargazers DaaS, using Java/.…
+- Source: https://securityaffairs.com/179127/malware/malicious-minecraft-mods-distributed-by-the-stargazers-daas-target-minecraft-gamers.html
+- Date: 2025-06-19
+- Vendors: None
+- Topics: None
+
+Promising Cybersecurity Stocks To Consider – June 16th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Motorola Solutions, Fortinet, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/06/19/promising-cybersecurity-stocks-to-consider-june-16th/
+- Date: 2025-06-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zero Trust Network Access (ZTNA) Industry Report 2025: Growth Trends and Investment Opportunities Through 2029 & 2034 Featuring IBM, Cisco Systems, Palo Alto Networks, and Other Leading Players (Score: 2)
+- Summary: Rise in remote work and cyber threats are key drivers. Major players include IBM, Cisco, and Palo Alto Networks. Rise in remote work and cyber threats are key drivers. Major players include IBM, Cisco, and Palo Alto Networks.
+- Source: https://www.globenewswire.com/news-release/2025/06/19/3102061/28124/en/Zero-Trust-Network-Access-ZTNA-Industry-Report-2025-Growth-Trends-and-Investment-Opportunities-Through-2029-2034-Featuring-IBM-Cisco-Systems-Palo-Alto-Networks-and-Other-Leading-Pl.html
+- Date: 2025-06-19
+- Vendors: Cisco, Palo Alto Networks, IBM
+- Topics: None
+
+Cybersecurity Stocks To Follow Now – June 17th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, Fortinet, Motorola Solutions, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/06/19/cybersecurity-stocks-to-follow-now-june-17th/
+- Date: 2025-06-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why Palo Alto Networks is focusing on just a few big gen AI bets (Score: 2)
+- Summary: Palo Alto Networks has been highly selective in betting on generative AI, to get the best bang for her buck.
+- Source: https://fortune.com/2025/06/18/palo-alto-networks-cio-gen-ai/
+- Date: 2025-06-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+1,500+ Minecraft Players Infected by Java Malware Masquerading as Game Mods on GitHub (Score: 2)
+- Summary: A new multi-stage malware campaign is targeting Minecraft users with a Java-based malware that employs a distribution-as-service (DaaS) offering called Stargazers Ghost Network.
+"The campaigns resulted in a multi-stage attack chain targeting Minecraft users s…
+- Source: https://thehackernews.com/2025/06/1500-minecraft-players-infected-by-java.html
+- Date: 2025-06-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) Shares Purchased by Ritholtz Wealth Management (Score: 2)
+- Summary: Ritholtz Wealth Management lifted its stake in Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 19.9% during the 1st quarter, HoldingsChannel.com reports. The fund owned 10,718 shares of the network technology company’s stock after purchasing an additi…
+- Source: https://www.etfdailynews.com/2025/06/17/palo-alto-networks-inc-nasdaqpanw-shares-purchased-by-ritholtz-wealth-management/
+- Date: 2025-06-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Exchange Traded Concepts LLC Sells 799 Shares of Palo Alto Networks, Inc. (NASDAQ:PANW) (Score: 2)
+- Summary: Exchange Traded Concepts LLC cut its holdings in Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 3.6% during the 1st quarter, Holdings Channel reports. The firm owned 21,624 shares of the network technology company’s stock after selling 799 shares dur…
+- Source: https://www.etfdailynews.com/2025/06/17/exchange-traded-concepts-llc-sells-799-shares-of-palo-alto-networks-inc-nasdaqpanw/
+- Date: 2025-06-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Follow Today – June 15th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Emerson Electric, Fortinet, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/06/17/cybersecurity-stocks-to-follow-today-june-15th/
+- Date: 2025-06-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scale AI’s Wang Brings to Meta Knowledge of What Everyone Else is Doing (Score: 2)
+- Summary: Scale AI co-founder Alexandr Wang is such an enthusiastic networker that his former roommate — OpenAI Chief Executive Officer Sam Altman — once jokingly told him to tone it down a bit.
+- Source: https://www.livemint.com/companies/news/scale-ai-s-wang-brings-to-meta-knowledge-of-what-everyone-else-is-doing-11750120307540.html
+- Date: 2025-06-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Consider – June 13th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Emerson Electric, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/06/16/top-cybersecurity-stocks-to-consider-june-13th/
+- Date: 2025-06-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Endpoint Security Industry Global Report 2024-2025 & 2028: Explore Innovative Business Models, Disruptive Technologies, Transformative Megatrends (Score: 2)
+- Summary: Endpoint security is vital for protecting networks and devices against malware and cyberattacks. The market, projected to reach $12.99 billion in 2024 with a 14.5% CAGR through 2028, benefits from AI advancements in threat detection and response. Key players …
+- Source: https://www.globenewswire.com/news-release/2025/06/16/3099597/28124/en/Endpoint-Security-Industry-Global-Report-2024-2025-2028-Explore-Innovative-Business-Models-Disruptive-Technologies-Transformative-Megatrends.html
+- Date: 2025-06-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Iran confirmed it shut down internet to protect the country against cyberattacks (Score: 0)
+- Summary: Iran confirmed an Internet shutdown to counter Israeli cyberattacks, citing threats to critical infrastructure, and interfere with drone control. Iran experienced a near-total internet blackout on Wednesday as tensions with Israel escalated into the first wee…
+- Source: https://securityaffairs.com/179199/cyber-warfare-2/iran-confirmed-it-shut-down-internet-to-protect-the-country-against-cyberattacks.html
+- Date: 2025-06-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Godfather Android trojan uses virtualization to hijack banking and crypto apps (Score: 0)
+- Summary: Godfather Android trojan uses virtualization to hijack banking and crypto apps, stealing user funds, warns mobile security firm Zimperium. Zimperium zLabs has uncovered a major evolution of the GodFather Android trojan, which uses on-device virtualization to …
+- Source: https://securityaffairs.com/179191/malware/godfather-android-trojan-uses-virtualization-to-hijack-banking-and-crypto-apps.html
+- Date: 2025-06-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare blocked record-breaking 7.3 Tbps DDoS attack against a hosting provider (Score: 0)
+- Summary: Cloudflare blocked a record-breaking 7.3 Tbps DDoS attack in May 2025. Cloudflare blocked a record 7.3 Tbps DDoS attack in May 2025, 12% greater than its previous peak and 1 Tbps greater than the attack reported by the popular cyber journalist Brian Krebs. Th…
+- Source: https://securityaffairs.com/179181/hacking/cloudflare-blocked-record-breaking-7-3-tbps-ddos-attack.html
+- Date: 2025-06-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Supreme court widens court options for vaping companies pushing back against FDA rules (Score: 0)
+- Summary: WASHINGTON (AP) — The Supreme Court sided with e-cigarette companies on Friday in a ruling making it easier to sue over Food and Drug Administration decisions blocking their products from the multibillion-dollar vaping market. The 7-2 opinion comes as compani…
+- Source: https://financialpost.com/pmn/supreme-court-widens-court-options-for-vaping-companies-pushing-back-against-fda-rules
+- Date: 2025-06-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Court backs Trump's control of National Guard. And, the latest on the Israel-Iran war (Score: 0)
+- Summary: Trump can maintain control over California's National Guard troops in LA after a federal appeals court ruling. And, the president says he'll decide whether to strike Iran within two weeks.
+- Source: https://www.npr.org/2025/06/20/g-s1-73686/up-first-newsletter-california-national-guard-trump-israel-iran-war
+- Date: 2025-06-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Linux flaws chain allows Root access across major distributions (Score: 0)
+- Summary: Researchers discovered two local privilege escalation flaws that could let attackers gain root access on systems running major Linux distributions. Qualys researchers discovered two local privilege escalation (LPE) vulnerabilities, an attacker can exploit the…
+- Source: https://securityaffairs.com/179174/security/linux-flaws-chain-allows-root-access-across-major-distributions.html
+- Date: 2025-06-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A ransomware attack pushed the German napkin firm Fasana into insolvency (Score: 0)
+- Summary: A cyberattack pushed the German napkin firm Fasana into insolvency, likely worsening existing financial troubles and serving as the final blow. German napkin maker Fasana filed for insolvency after a major cyberattack on May 19 paralyzed its systems, halting …
+- Source: https://securityaffairs.com/179160/security/ransomware-attack-napkin-firm-fasana-insolvency.html
+- Date: 2025-06-20
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
