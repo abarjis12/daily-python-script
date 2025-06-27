@@ -2506,3 +2506,187 @@ Some of the most dangerous moves …
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-06-27 13:51  ---
+
+Best Cybersecurity Stocks To Follow Now – June 23rd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and…
+- Source: https://www.etfdailynews.com/2025/06/26/best-cybersecurity-stocks-to-follow-now-june-23rd/
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa (Score: 2)
+- Summary: Cybersecurity researchers are calling attention to a series of cyber attacks targeting financial organizations across Africa since at least July 2023 using a mix of open-source and publicly available tools to maintain access.
+Palo Alto Networks Unit 42 is tra…
+- Source: https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chart Your SASE Transformation with Prisma SD-WAN (Score: 2)
+- Summary: Successful SASE transformations often require balancing both network-led and security-led transformation priorities for a fully integrated solution. 
+The post Chart Your SASE Transformation with Prisma SD-WAN appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/06/chart-sase-transformation-prisma-sd-wan/
+- Date: 2025-06-25
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+scm-config-clone 0.3.1 (Score: 2)
+- Summary: A command-line tool to clone configuration objects between Palo Alto Networks Strata Cloud Manager (SCM) tenants.
+- Source: https://pypi.org/project/scm-config-clone/0.3.1/
+- Date: 2025-06-25
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Saviynt Appoints Palo Alto Networks, Citrix Exec Steve Blacklock as Channel Chief to Accelerate Global Partner Ecosystem Growth (Score: 2)
+- Summary: Seasoned alliances leader joins Saviynt to lead partner strategy and drive expansion LOS ANGELES — Saviynt, a leading provider of cloud-native identity and governance platform solutions, today announced the appointment of Steve Blacklock as its Senior Vice Pr…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/saviynt-appoints-palo-alto-networks-citrix-exec-steve-blacklock-as-channel-chief-to-accelerate-global-partner-ecosystem-growth
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Consider – June 21st (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Emerson Electric are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and p…
+- Source: https://www.etfdailynews.com/2025/06/24/promising-cybersecurity-stocks-to-consider-june-21st/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PyPANRestV2 added to PyPI (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.0 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.0/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Telecom Stocks To Add to Your Watchlist – June 22nd (Score: 2)
+- Summary: Broadcom, ServiceNow, Palo Alto Networks, Arista Networks, and AT&T are the five Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide telecommunications services such…
+- Source: https://www.etfdailynews.com/2025/06/24/top-telecom-stocks-to-add-to-your-watchlist-june-22nd/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Cybersecurity Stocks To Watch Now – June 22nd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Emerson Electric are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop hardw…
+- Source: https://www.etfdailynews.com/2025/06/24/promising-cybersecurity-stocks-to-watch-now-june-22nd/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Watch Today – June 20th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Motorola Solutions, and QXO are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (T…
+- Source: https://www.etfdailynews.com/2025/06/23/cybersecurity-stocks-to-watch-today-june-20th/
+- Date: 2025-06-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.3.41 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.3.41/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Keep An Eye On – June 19th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, QXO, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies th…
+- Source: https://www.etfdailynews.com/2025/06/22/cybersecurity-stocks-to-keep-an-eye-on-june-19th/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) Receives $208.00 Average Target Price from Analysts (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) has been assigned an average recommendation of “Moderate Buy” from the forty-two ratings firms that are covering the company, MarketBeat.com reports. Two analysts have rated the stock with a sell rating…
+- Source: https://www.etfdailynews.com/2025/06/22/palo-alto-networks-inc-nasdaqpanw-receives-208-00-average-target-price-from-analysts/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cornerstone Wealth Management LLC Purchases 285 Shares of Palo Alto Networks, Inc. (NASDAQ:PANW) (Score: 2)
+- Summary: Cornerstone Wealth Management LLC raised its position in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 13.1% in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The firm o…
+- Source: https://www.etfdailynews.com/2025/06/21/cornerstone-wealth-management-llc-purchases-285-shares-of-palo-alto-networks-inc-nasdaqpanw/
+- Date: 2025-06-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BridgeBio to Host Limb-girdle Muscular Dystrophy Type 2I/R9 Investor Webinar on Friday, July 11th at 8:00 am ET (Score: 0)
+- Summary: PALO ALTO, Calif., June 26, 2025 (GLOBE NEWSWIRE) -- BridgeBio Pharma, Inc. (Nasdaq: BBIO) (“BridgeBio” or the “Company”), a new type of biopharmaceutical company focused on genetic diseases, today announced the Company will host an investor webinar on Friday…
+- Source: https://www.globenewswire.com/news-release/2025/06/26/3105738/0/en/BridgeBio-to-Host-Limb-girdle-Muscular-Dystrophy-Type-2I-R9-Investor-Webinar-on-Friday-July-11th-at-8-00-am-ET.html
+- Date: 2025-06-26
+- Vendors: None
+- Topics: None
+
+What Would Happen If the Chatbots Broke Free of Their Masters? (Score: 0)
+- Summary: The tech industry I first wrote about as a young, eager technology journalist circa 1999 felt like it was filled with heroes. A brave new world in which plucky upstarts like Amazon (“The World’s Biggest Bookstore,” run out of a Bellevue garage) would bring ha…
+- Source: https://lithub.com/what-would-happen-if-the-chatbots-broke-free-of-their-masters/
+- Date: 2025-06-26
+- Vendors: None
+- Topics: None
+
+Why Everyone In Music Is Watching Blue Note’s New Hollywood Club (Score: 0)
+- Summary: Launching this summer with a dazzling array of A-list talent, Blue Note Los Angeles creates a new home base for jazz, blues and R&B performers.
+- Source: https://www.forbes.com/sites/davidhochman/2025/06/25/why-everyone-in-music-is-watching-blue-notes-new-hollywood-club/
+- Date: 2025-06-26
+- Vendors: None
+- Topics: None
+
+Hackers Use Open-Source Offensive Cyber Tools to Attack Financial Businesses in Africa (Score: 0)
+- Summary: The threat actor used a combination of open-source and publicly available tools to establish their attack framework
+- Source: https://www.infosecurity-magazine.com/news/hackers-financial-businesses-africa/
+- Date: 2025-06-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Report: 1 in 2 Employees Have Excessive Privileged Access–CloudEagle.ai Survey Warns of Escalating Insider Risk due to AI and SaaS Sprawl (Score: 0)
+- Summary: PALO ALTO, Calif., June 25, 2025 (GLOBE NEWSWIRE) — A new report from CloudEagle.ai, the AI-powered SaaS management and governance platform, reveals that 60% of enterprise SaaS and AI applications now operate outside IT’s visibility. This surge in “invisible …
+- Source: https://financialpost.com/globe-newswire/report-1-in-2-employees-have-excessive-privileged-access-cloudeagle-ai-survey-warns-of-escalating-insider-risk-due-to-ai-and-saas-sprawl
+- Date: 2025-06-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Investing in silicon valley real estate for Long-Term Growth (Score: 0)
+- Summary: When it comes to wealth preservation and capital appreciation, few asset classes rival silicon valley real estate. At Insogna, we understand that your business and personal financial goals are intertwined, and deploying capital in Bay Area properties can yiel…
+- Source: https://www.gamedev.net/blogs/entry/2295825-investing-in-silicon-valley-real-estate-for-long-term-growth
+- Date: 2025-06-25
+- Vendors: None
+- Topics: None
+
+PAN-SA-2025-0003 Informational: PAN-OS BIOS and Bootloader Security Bulletin (Severity: INFORMATIONAL) (Score: 0)
+- Summary: Related content: CVE-2025-4227 GlobalProtect App: Interception in Endpoint Traffic Policy Enforcement (Severity: LOW) CVE-2025-0124 PAN-OS: Authenticated File Deletion Vulnerability on the Management Web Interface (Severity: LOW) CVE-2025-4232 GlobalProtect: …
+- Source: https://security.paloaltonetworks.com/PAN-SA-2025-0003
+- Date: 2025-06-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Talkdesk Travel and Hospitality Experience Clouds enable first-class, personalized service across the entire guest journey, increasing customer satisfaction and loyalty (Score: 0)
+- Summary: Talkdesk announced the launches of Talkdesk Travel Experience Cloud and Talkdesk Hospitality Experience Cloud. ......
+- Source: https://www.globenewswire.com/news-release/2025/06/24/3104368/0/en/Talkdesk-Travel-and-Hospitality-Experience-Clouds-enable-first-class-personalized-service-across-the-entire-guest-journey-increasing-customer-satisfaction-and-loyalty.html
+- Date: 2025-06-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Announcing The Forrester Wave™: Security Analytics Platforms, 2025 – The SIEM Vs XDR Fight Intensifies (Score: 0)
+- Summary: The Forrester Wave™: Security Analytics Platforms, Q2 2025 published today and illustrates the dramatic changes this market is undergoing as legacy SIEM vendors are locked in heated competition with surging XDR providers. Over the past five months, we researc…
+- Source: https://www.forrester.com/blogs/announcing-the-forrester-wave-security-analytics-platforms-2025-the-siem-vs-xdr-fight-intensifies/
+- Date: 2025-06-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Raymond Laflamme (1960-2025) (Score: 0)
+- Summary: Even with everything happening in the Middle East right now, even with (relatedly) everything happening in my own family (my wife and son sheltering in Tel Aviv as Iranian missiles rained down), even with all the rather ill-timed travel I’ve found myself doin…
+- Source: https://scottaaronson.blog/?p=8949
+- Date: 2025-06-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
