@@ -2690,3 +2690,188 @@ Raymond Laflamme (1960-2025) (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-06-28 13:46  ---
+
+10 Stackable Credentials To Stand Out In Today’s AI-Driven Job Market (Score: 4)
+- Summary: The traditional four-year degree still has value, but for many workers, it’s no longer the only pathway to career advancement.
+- Source: https://www.forbes.com/sites/avivalegatt/2025/06/26/10-stackable-credentials-to-stand-out-in-todays-ai-driven-job-market/
+- Date: 2025-06-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Keep An Eye On – June 24th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Motorola Solutions, Fortinet, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/06/27/promising-cybersecurity-stocks-to-keep-an-eye-on-june-24th/
+- Date: 2025-06-27
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GHP Investment Advisors Inc. Sells 140 Shares of Palo Alto Networks, Inc. (NASDAQ:PANW) (Score: 2)
+- Summary: GHP Investment Advisors Inc. reduced its holdings in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 44.6% in the 1st quarter, Holdings Channel.com reports. The institutional investor owned 174 shares of the network technology company’s stoc…
+- Source: https://www.etfdailynews.com/2025/06/27/ghp-investment-advisors-inc-sells-140-shares-of-palo-alto-networks-inc-nasdaqpanw/
+- Date: 2025-06-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Financial Contrast: Check Point Software Technologies (NASDAQ:CHKP) vs. Palo Alto Networks (NASDAQ:PANW) (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report) and Check Point Software Technologies (NASDAQ:CHKP – Get Free Report) are both large-cap computer and technology companies, but which is the superior investment? We will compare the two businesses based on th…
+- Source: https://www.etfdailynews.com/2025/06/27/financial-contrast-check-point-software-technologies-nasdaqchkp-vs-palo-alto-networks-nasdaqpanw/
+- Date: 2025-06-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Global Reach — The New Scale of Chinese Cyberthreats (Score: 2)
+- Summary: David Moulton and Wendi Whitmore of Palo Alto Networks, put today's threat landscape in stark historical perspective as they discuss Chinese cyberthreats.
+The post Global Reach — The New Scale of Chinese Cyberthreats appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/06/new-scale-chinese-cyberthreats/
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Who Needs a Record Deal When You Have the Dolphin Emoji? (Score: 2)
+- Summary: Adanna Duru talks about balancing her funny videos with her serious music career and what it’s like to count SZA among her fans. ‘I don’t know if she knows how good even just a ‘like’ feels,’ she says. ‘It means so much every time.’
+- Source: http://www.vulture.com/article/adanna-duru-music-comedy-videos-interview.html
+- Date: 2025-06-26
+- Vendors: None
+- Topics: None
+
+Best Cybersecurity Stocks To Follow Now – June 23rd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and…
+- Source: https://www.etfdailynews.com/2025/06/26/best-cybersecurity-stocks-to-follow-now-june-23rd/
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa (Score: 2)
+- Summary: Cybersecurity researchers are calling attention to a series of cyber attacks targeting financial organizations across Africa since at least July 2023 using a mix of open-source and publicly available tools to maintain access.
+Palo Alto Networks Unit 42 is tra…
+- Source: https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chart Your SASE Transformation with Prisma SD-WAN (Score: 2)
+- Summary: Successful SASE transformations often require balancing both network-led and security-led transformation priorities for a fully integrated solution. 
+The post Chart Your SASE Transformation with Prisma SD-WAN appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/06/chart-sase-transformation-prisma-sd-wan/
+- Date: 2025-06-25
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+scm-config-clone 0.3.1 (Score: 2)
+- Summary: A command-line tool to clone configuration objects between Palo Alto Networks Strata Cloud Manager (SCM) tenants.
+- Source: https://pypi.org/project/scm-config-clone/0.3.1/
+- Date: 2025-06-25
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Saviynt Appoints Palo Alto Networks, Citrix Exec Steve Blacklock as Channel Chief to Accelerate Global Partner Ecosystem Growth (Score: 2)
+- Summary: Seasoned alliances leader joins Saviynt to lead partner strategy and drive expansion LOS ANGELES — Saviynt, a leading provider of cloud-native identity and governance platform solutions, today announced the appointment of Steve Blacklock as its Senior Vice Pr…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/saviynt-appoints-palo-alto-networks-citrix-exec-steve-blacklock-as-channel-chief-to-accelerate-global-partner-ecosystem-growth
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Consider – June 21st (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Emerson Electric are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and p…
+- Source: https://www.etfdailynews.com/2025/06/24/promising-cybersecurity-stocks-to-consider-june-21st/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PyPANRestV2 added to PyPI (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.0 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.0/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Telecom Stocks To Add to Your Watchlist – June 22nd (Score: 2)
+- Summary: Broadcom, ServiceNow, Palo Alto Networks, Arista Networks, and AT&T are the five Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide telecommunications services such…
+- Source: https://www.etfdailynews.com/2025/06/24/top-telecom-stocks-to-add-to-your-watchlist-june-22nd/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Cybersecurity Stocks To Watch Now – June 22nd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Emerson Electric are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop hardw…
+- Source: https://www.etfdailynews.com/2025/06/24/promising-cybersecurity-stocks-to-watch-now-june-22nd/
+- Date: 2025-06-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Watch Today – June 20th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Motorola Solutions, and QXO are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (T…
+- Source: https://www.etfdailynews.com/2025/06/23/cybersecurity-stocks-to-watch-today-june-20th/
+- Date: 2025-06-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.3.41 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.3.41/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Keep An Eye On – June 19th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, QXO, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies th…
+- Source: https://www.etfdailynews.com/2025/06/22/cybersecurity-stocks-to-keep-an-eye-on-june-19th/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) Receives $208.00 Average Target Price from Analysts (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) has been assigned an average recommendation of “Moderate Buy” from the forty-two ratings firms that are covering the company, MarketBeat.com reports. Two analysts have rated the stock with a sell rating…
+- Source: https://www.etfdailynews.com/2025/06/22/palo-alto-networks-inc-nasdaqpanw-receives-208-00-average-target-price-from-analysts/
+- Date: 2025-06-22
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cornerstone Wealth Management LLC Purchases 285 Shares of Palo Alto Networks, Inc. (NASDAQ:PANW) (Score: 2)
+- Summary: Cornerstone Wealth Management LLC raised its position in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 13.1% in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The firm o…
+- Source: https://www.etfdailynews.com/2025/06/21/cornerstone-wealth-management-llc-purchases-285-shares-of-palo-alto-networks-inc-nasdaqpanw/
+- Date: 2025-06-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Meta reportedly recruits four former OpenAI researchers to its superintelligence lab (Score: 0)
+- Summary: Meta Platforms Inc. has reportedly recruited four former OpenAI researchers to its newly launched superintelligence lab. TechCrunch today cited a source as saying that the hires include Trapit Bansal, who joined the ChatGPT developer in 2022. He reportedly pl…
+- Source: https://siliconangle.com/2025/06/26/meta-reportedly-recruits-four-former-openai-researchers-superintelligence-lab/
+- Date: 2025-06-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sorenson Capital Announces $150M Ventures Fund III to Maintain Focus on Cybersecurity and B2B Software Investments (Score: 0)
+- Summary: PALO ALTO, Calif. — Sorenson Capital, a leading venture capital firm with offices in Palo Alto and Salt Lake City, today announced the launch of its third early-stage fund, Ventures III, with $150 million in capital commitments. This new fund underscores the …
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/sorenson-capital-announces-150m-ventures-fund-iii-to-maintain-focus-on-cybersecurity-and-b2b-software-investments
+- Date: 2025-06-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BridgeBio to Host Limb-girdle Muscular Dystrophy Type 2I/R9 Investor Webinar on Friday, July 11th at 8:00 am ET (Score: 0)
+- Summary: PALO ALTO, Calif., June 26, 2025 (GLOBE NEWSWIRE) -- BridgeBio Pharma, Inc. (Nasdaq: BBIO) (“BridgeBio” or the “Company”), a new type of biopharmaceutical company focused on genetic diseases, today announced the Company will host an investor webinar on Friday…
+- Source: https://www.globenewswire.com/news-release/2025/06/26/3105738/0/en/BridgeBio-to-Host-Limb-girdle-Muscular-Dystrophy-Type-2I-R9-Investor-Webinar-on-Friday-July-11th-at-8-00-am-ET.html
+- Date: 2025-06-26
+- Vendors: None
+- Topics: None
+
+What Would Happen If the Chatbots Broke Free of Their Masters? (Score: 0)
+- Summary: The tech industry I first wrote about as a young, eager technology journalist circa 1999 felt like it was filled with heroes. A brave new world in which plucky upstarts like Amazon (“The World’s Biggest Bookstore,” run out of a Bellevue garage) would bring ha…
+- Source: https://lithub.com/what-would-happen-if-the-chatbots-broke-free-of-their-masters/
+- Date: 2025-06-26
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
