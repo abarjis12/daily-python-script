@@ -3431,3 +3431,190 @@ Catio wins ‘coolest tech’ award at VB Transform 2025 (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-07-02 13:53  ---
+
+10 Stackable Credentials To Stand Out In Today’s AI-Driven Job Market (Score: 4)
+- Summary: The traditional four-year degree still has value, but for many workers, it’s no longer the only pathway to career advancement.
+- Source: https://www.forbes.com/sites/avivalegatt/2025/06/26/10-stackable-credentials-to-stand-out-in-todays-ai-driven-job-market/
+- Date: 2025-06-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Stocks Worth Watching – June 29th (Score: 2)
+- Summary: Broadcom, ServiceNow, Apollo Global Management, Palo Alto Networks, AT&T, Arista Networks, and Zscaler are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that prov…
+- Source: https://www.etfdailynews.com/2025/07/01/telecom-stocks-worth-watching-june-29th/
+- Date: 2025-07-01
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Scattered Spider crime spree takes flight as focus turns to aviation sector (Score: 2)
+- Summary: Time ticking for defenders as social engineering pros weave wider web
+Just a few weeks after warning about Scattered Spider's tactics shifting toward the insurance industry, the same experts now say the aviation industry is now on the ransomware crew's radar.…
+- Source: https://www.theregister.com/2025/06/30/scattered_spider_aviation/
+- Date: 2025-06-30
+- Vendors: None
+- Topics: None
+
+Top Cybersecurity Stocks To Research – June 27th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Emerson Electric are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies that develop and sell products or …
+- Source: https://www.etfdailynews.com/2025/06/30/top-cybersecurity-stocks-to-research-june-27th/
+- Date: 2025-06-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Pi Network Unveils AI-Powered App Studio and Ecosystem Staking Features on Pi2Day 2025 (Score: 2)
+- Summary: June 30th, 2025 – Palo Alto, United States New tools expand access to decentralized app creation and engagement. Pi Network, a utilities-backed Web3 ecosystem with tens of millions of identity-verified users globally, announced product launches and ecosystem …
+- Source: https://dailyhodl.com/2025/06/30/pi-network-unveils-ai-powered-app-studio-and-ecosystem-staking-features-on-pi2day-2025/
+- Date: 2025-06-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Watch Now – June 28th (Score: 2)
+- Summary: Alphabet, CrowdStrike, QXO, Palo Alto Networks, Dell Technologies, Fortinet, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies th…
+- Source: https://www.etfdailynews.com/2025/06/30/cybersecurity-stocks-to-watch-now-june-28th/
+- Date: 2025-06-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Keep An Eye On – June 24th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Motorola Solutions, Fortinet, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/06/27/promising-cybersecurity-stocks-to-keep-an-eye-on-june-24th/
+- Date: 2025-06-27
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GHP Investment Advisors Inc. Sells 140 Shares of Palo Alto Networks, Inc. (NASDAQ:PANW) (Score: 2)
+- Summary: GHP Investment Advisors Inc. reduced its holdings in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 44.6% in the 1st quarter, Holdings Channel.com reports. The institutional investor owned 174 shares of the network technology company’s stoc…
+- Source: https://www.etfdailynews.com/2025/06/27/ghp-investment-advisors-inc-sells-140-shares-of-palo-alto-networks-inc-nasdaqpanw/
+- Date: 2025-06-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Financial Contrast: Check Point Software Technologies (NASDAQ:CHKP) vs. Palo Alto Networks (NASDAQ:PANW) (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report) and Check Point Software Technologies (NASDAQ:CHKP – Get Free Report) are both large-cap computer and technology companies, but which is the superior investment? We will compare the two businesses based on th…
+- Source: https://www.etfdailynews.com/2025/06/27/financial-contrast-check-point-software-technologies-nasdaqchkp-vs-palo-alto-networks-nasdaqpanw/
+- Date: 2025-06-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Global Reach — The New Scale of Chinese Cyberthreats (Score: 2)
+- Summary: David Moulton and Wendi Whitmore of Palo Alto Networks, put today's threat landscape in stark historical perspective as they discuss Chinese cyberthreats.
+The post Global Reach — The New Scale of Chinese Cyberthreats appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/06/new-scale-chinese-cyberthreats/
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Who Needs a Record Deal When You Have the Dolphin Emoji? (Score: 2)
+- Summary: Adanna Duru talks about balancing her funny videos with her serious music career and what it’s like to count SZA among her fans. ‘I don’t know if she knows how good even just a ‘like’ feels,’ she says. ‘It means so much every time.’
+- Source: http://www.vulture.com/article/adanna-duru-music-comedy-videos-interview.html
+- Date: 2025-06-26
+- Vendors: None
+- Topics: None
+
+Best Cybersecurity Stocks To Follow Now – June 23rd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and…
+- Source: https://www.etfdailynews.com/2025/06/26/best-cybersecurity-stocks-to-follow-now-june-23rd/
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa (Score: 2)
+- Summary: Cybersecurity researchers are calling attention to a series of cyber attacks targeting financial organizations across Africa since at least July 2023 using a mix of open-source and publicly available tools to maintain access.
+Palo Alto Networks Unit 42 is tra…
+- Source: https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html
+- Date: 2025-06-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chart Your SASE Transformation with Prisma SD-WAN (Score: 2)
+- Summary: Successful SASE transformations often require balancing both network-led and security-led transformation priorities for a fully integrated solution. 
+The post Chart Your SASE Transformation with Prisma SD-WAN appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/06/chart-sase-transformation-prisma-sd-wan/
+- Date: 2025-06-25
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+scm-config-clone 0.3.1 (Score: 2)
+- Summary: A command-line tool to clone configuration objects between Palo Alto Networks Strata Cloud Manager (SCM) tenants.
+- Source: https://pypi.org/project/scm-config-clone/0.3.1/
+- Date: 2025-06-25
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+In the Loop: Is AI Making the Next Pandemic More Likely? (Score: 0)
+- Summary: At top AI labs, the future looks either fantastically bright—or terrifyingly dark. More in today’s TIME tech newsletter.
+- Source: https://time.com/7298731/in-the-loop-pandemic-ai-study/
+- Date: 2025-07-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global Cybersecurity Market to Worth Over US$ 723.8 Billion By 2033 | North America Dominates, Asia-Pacific Accelerates, Europe Consolidates, Emerging Markets Awaken Says Astute Analytica (Score: 0)
+- Summary: Global cybersecurity market is expanding steadily, driven by relentless digital transformation and escalating threat sophistication. Compliance demands and hybrid working patterns further fuel enterprise investment, shifting procurement toward integrated, ser…
+- Source: https://www.globenewswire.com/news-release/2025/06/30/3107676/0/en/Global-Cybersecurity-Market-to-Worth-Over-US-723-8-Billion-By-2033-North-America-Dominates-Asia-Pacific-Accelerates-Europe-Consolidates-Emerging-Markets-Awaken-Says-Astute-Analytic.html
+- Date: 2025-06-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BitGo and Dinari Launch Unified API for Crypto, Stablecoins, and Tokenized U.S. Equities (Score: 0)
+- Summary: Fintechs can now access BTC, USDC, and tokenized stocks like AAPL and TSLA through one regulated gateway PALO ALTO, Calif., June 30, 2025 (GLOBE NEWSWIRE) — Dinari, the largest issuer of tokenized U.S. equities, and BitGo, the leading infrastructure provider …
+- Source: https://financialpost.com/globe-newswire/bitgo-and-dinari-launch-unified-api-for-crypto-stablecoins-and-tokenized-u-s-equities
+- Date: 2025-06-30
+- Vendors: None
+- Topics: None
+
+BitGo and Dinari Launch Unified API for Crypto, Stablecoins, and Tokenized U.S. Equities (Score: 0)
+- Summary: BitGo and Dinari launch unified API for crypto, stablecoins, and tokenized U.S. equities......
+- Source: https://www.globenewswire.com/news-release/2025/06/30/3107659/0/en/BitGo-and-Dinari-Launch-Unified-API-for-Crypto-Stablecoins-and-Tokenized-U-S-Equities.html
+- Date: 2025-06-30
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Airline Hacks, Citrix 0-Day, Outlook Malware, Banking Trojans and more (Score: 0)
+- Summary: Ever wonder what happens when attackers don’t break the rules—they just follow them better than we do? When systems work exactly as they’re built to, but that “by design” behavior quietly opens the door to risk?
+This week brings stories that make you stop and…
+- Source: https://thehackernews.com/2025/06/weekly-recap-airline-hacks-citrix-0-day.html
+- Date: 2025-06-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Deconstructing buildings: the quest for new life for old wood (Score: 0)
+- Summary: A growing number of cities have launched initiatives to reuse the wood waste from construction and demolition that now ends up in landfills. The challenge, proponents say, is to deploy new techniques for disassembling old buildings and markets for repurposing…
+- Source: https://www.nationalobserver.com/2025/06/30/news/deconstructing-buildings-quest-new-life-old-wood
+- Date: 2025-06-30
+- Vendors: None
+- Topics: None
+
+Jim Cramer Highlights CrowdStrike is “Winning Huge Deals” (Score: 0)
+- Summary: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the 13 stocks Jim Cramer recently shed light on. During the episode, Cramer showed bullish sentiment...
+- Source: https://finance.yahoo.com/news/jim-cramer-highlights-crowdstrike-winning-162742631.html
+- Date: 2025-06-28
+- Vendors: None
+- Topics: None
+
+Dave Vellante’s Breaking Analysis: The complete collection (Score: 0)
+- Summary: Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLE’s theCUBE with spending data from Enterprise Technology Research. Branded as theCUBE Insights, Powered by ETR, the program is our opportunity to share independent, unfiltere…
+- Source: https://siliconangle.com/2025/06/28/dave-vellantes-breaking-analysis-complete-collection/
+- Date: 2025-06-28
+- Vendors: None
+- Topics: None
+
+ICE Rolls Facial Recognition Tools Out to Officers' Phones (Score: 0)
+- Summary: Plus: US feds charge alleged masterminds behind infamous forum, Scattered Spider targets airlines, and hackers open a valve at a Norwegian dam.
+- Source: https://www.wired.com/story/ice-rolls-facial-recognition-tools-out-to-officers-phones/
+- Date: 2025-06-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Catio wins ‘coolest tech’ award at VB Transform 2025 (Score: 0)
+- Summary: Catio also announced the upcoming launch of Archie, a conversational, multi-agent AI system.
+- Source: https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/
+- Date: 2025-06-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
