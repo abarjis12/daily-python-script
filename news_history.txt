@@ -4543,3 +4543,187 @@ BitGo and Dinari Launch Unified API for Crypto, Stablecoins, and Tokenized U.S. 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-07-08 13:56  ---
+
+Airborne-NextGen 07.01.25: Volocopter Returns, B23 Energic, Iran Tech In UAVs? (Score: 4)
+- Summary: Also: Air Taxis May Be Close, AgEagle Sells 100th, VAI Likes Bedford, AURA AERO Cleans Up Volocopter has resumed work towards the certification of its VoloCity eVTOL, this time under the guiding hand of Diamond Aircraft. The manufacturer filed for insolvency …
+- Source: https://www.aero-news.net/index.cfm?do=main.textpost&id=A2E96AB0-61C8-42B2-9A68-161CB38F44E1
+- Date: 2025-07-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A Welcome Surprise For The U.S. Job Market (Score: 4)
+- Summary: Plus, why you should look beyond a job title, a top Tesla executive is out and Amazon welcomes over one million robots in this week's Careers newsletter.
+- Source: https://www.forbes.com/sites/mariagraciasantillanalinares/2025/07/01/a-welcome-surprise-for-the-us-job-market/
+- Date: 2025-07-01
+- Vendors: None
+- Topics: None
+
+Promising Cybersecurity Stocks To Follow Now – July 4th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are publicly traded shares of companies that develop software, hardware, and services to prote…
+- Source: https://www.etfdailynews.com/2025/07/07/promising-cybersecurity-stocks-to-follow-now-july-4th/
+- Date: 2025-07-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) EVP Sells $19,866,000.00 in Stock (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) EVP Nir Zuk sold 100,000 shares of the business’s stock in a transaction that occurred on Tuesday, July 1st. The stock was sold at an average price of $198.66, for a total value of $19,866,000.00. Follo…
+- Source: https://www.etfdailynews.com/2025/07/06/palo-alto-networks-inc-nasdaqpanw-evp-sells-19866000-00-in-stock/
+- Date: 2025-07-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Follow Today – July 3rd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, and Fortinet are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide s…
+- Source: https://www.etfdailynews.com/2025/07/06/cybersecurity-stocks-to-follow-today-july-3rd/
+- Date: 2025-07-06
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Follow Today – July 2nd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, Emerson Electric, Fortinet, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/07/05/top-cybersecurity-stocks-to-follow-today-july-2nd/
+- Date: 2025-07-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Follow Today – July 1st (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies whose core busin…
+- Source: https://www.etfdailynews.com/2025/07/03/cybersecurity-stocks-to-follow-today-july-1st/
+- Date: 2025-07-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Navigating Heightened Cyber Risks from Iranian Threats (Score: 2)
+- Summary: Recent geopolitical tensions have elevated the global cybersecurity risk landscape and the potential for increased cyber operations demands attention.
+The post Navigating Heightened Cyber Risks from Iranian Threats appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/07/navigating-heightened-cyber-risks-iranian-threats/
+- Date: 2025-07-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Research – June 29th (Score: 2)
+- Summary: Alphabet, CrowdStrike, QXO, Palo Alto Networks, and Dell Technologies are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies that develop and provide products and services …
+- Source: https://www.etfdailynews.com/2025/07/02/best-cybersecurity-stocks-to-research-june-29th/
+- Date: 2025-07-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Analyzing Check Point Software Technologies (NASDAQ:CHKP) and Palo Alto Networks (NASDAQ:PANW) (Score: 2)
+- Summary: Check Point Software Technologies (NASDAQ:CHKP – Get Free Report) and Palo Alto Networks (NASDAQ:PANW – Get Free Report) are both large-cap computer and technology companies, but which is the superior stock? We will contrast the two companies based on the str…
+- Source: https://www.etfdailynews.com/2025/07/02/analyzing-check-point-software-technologies-nasdaqchkp-and-palo-alto-networks-nasdaqpanw/
+- Date: 2025-07-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-aisecurity 0.4.1a2 (Score: 2)
+- Summary: Palo Alto Networks AI Runtime Security: API Intercept Python SDK
+- Source: https://pypi.org/project/pan-aisecurity/0.4.1a2/
+- Date: 2025-07-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Stocks Worth Watching – June 29th (Score: 2)
+- Summary: Broadcom, ServiceNow, Apollo Global Management, Palo Alto Networks, AT&T, Arista Networks, and Zscaler are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that prov…
+- Source: https://www.etfdailynews.com/2025/07/01/telecom-stocks-worth-watching-june-29th/
+- Date: 2025-07-01
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Scattered Spider crime spree takes flight as focus turns to aviation sector (Score: 2)
+- Summary: Time ticking for defenders as social engineering pros weave wider web
+Just a few weeks after warning about Scattered Spider's tactics shifting toward the insurance industry, the same experts now say the aviation industry is now on the ransomware crew's radar.…
+- Source: https://www.theregister.com/2025/06/30/scattered_spider_aviation/
+- Date: 2025-06-30
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More (Score: 0)
+- Summary: Everything feels secure—until one small thing slips through. Even strong systems can break if a simple check is missed or a trusted tool is misused. Most threats don’t start with alarms—they sneak in through the little things we overlook. A tiny bug, a reused…
+- Source: https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html
+- Date: 2025-07-07
+- Vendors: None
+- Topics: None
+
+Denodo Announces Plans to Further Support AI Innovation by Releasing Denodo DeepQuery, a Deep Research Capability (Score: 0)
+- Summary: Like Deep Research for the Enterprise, Denodo DeepQuery will Enable Citizen Analysts to Answer Complex, Multi-step “Why” Questions in Minutes PALO ALTO, Calif., July 07, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced the availability o…
+- Source: https://financialpost.com/globe-newswire/denodo-announces-plans-to-further-support-ai-innovation-by-releasing-denodo-deepquery-a-deep-research-capability
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Shining A Light On Shadow AI (Score: 0)
+- Summary: Shadow AI (like most forms of shadow technology and bring your own device activity) is viewed as a negative, an infringement and a risk.
+- Source: https://www.forbes.com/sites/adrianbridgwater/2025/07/07/shining-a-light-on-shadow-ai/
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+5 stock picks from an analyst for a new era of cybersecurity threats (Score: 0)
+- Summary: Tech expert Arnie Bellini lays out his picks for the best cybersecurity stocks to buy for a likely federal cyber defense push.
+- Source: https://www.businessinsider.com/cybersecurity-stock-picks-ai-hacking-pltr-panw-crowd-fortinet-iran-2025-7
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025) (Score: 0)
+- Summary: Whether you need a camp chair, sleeping pad, running shoes, or new pack, REI’s Independence Day sale has something for everyone.
+- Source: https://www.wired.com/story/rei-4th-of-july-sale-2025-1/
+- Date: 2025-07-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AWS Cloud WAN Service Insertion を使用したグローバルセキュリティ検査の簡素化 (Score: 0)
+- Summary: 本記事は 2024年6月11日に公開された ”Simplify global security inspect […]
+- Source: https://aws.amazon.com/jp/blogs/news/simplify-global-security-inspection-with-aws-cloud-wan-service-insertion/
+- Date: 2025-07-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Can AI Replace Copilots on Passenger Jets? (Score: 0)
+- Summary: Critics say human interactions between captain and copilot on flight decks keep airliners flying safely, and that AI-based ‘copilots’ are a risk too far.
+- Source: http://cacm.acm.org/news/can-ai-replace-copilots-on-passenger-jets/
+- Date: 2025-07-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Arista buys VeloCloud from Broadcom (Score: 0)
+- Summary: Arista fills a gap in its portfolio with VeloCloud's SD-WAN capabilities.
+- Source: https://www.techtarget.com/searchnetworking/news/366627055/Arista-buys-VeloCloud-from-Broadcom
+- Date: 2025-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyber Crisis Management Market Size to Surpass USD 7.3 Billion by 2032, Owing to Surging Cyber Threats and the Shift Toward AI-Powered Security Frameworks | SNS Insider (Score: 0)
+- Summary: The cyber crisis management market is rapidly gaining momentum as organizations worldwide confront a dramatic escalation in cyber threats. The cyber crisis management market is rapidly gaining momentum as organizations worldwide confront a dramatic escalation…
+- Source: https://www.globenewswire.com/news-release/2025/07/02/3109270/0/en/Cyber-Crisis-Management-Market-Size-to-Surpass-USD-7-3-Billion-by-2032-Owing-to-Surging-Cyber-Threats-and-the-Shift-Toward-AI-Powered-Security-Frameworks-SNS-Insider.html
+- Date: 2025-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Named a Customers’ Choice in the 2025 Gartner Peer Insights “Voice of the Customer”: Data Integration Tools (Score: 0)
+- Summary: Denodo, the data management leader, is the only vendor to receive the distinction five years in a row PALO ALTO, Calif., July 02, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced that it has been named a Customers’ Choice in the Gartner …
+- Source: https://financialpost.com/globe-newswire/denodo-named-a-customers-choice-in-the-2025-gartner-peer-insights-voice-of-the-customer-data-integration-tools
+- Date: 2025-07-02
+- Vendors: None
+- Topics: None
+
+Qantas discloses cyberattack amid Scattered Spider aviation breaches (Score: 0)
+- Summary: Australian airline Qantas disclosed that it detected a cyberattack on Monday after threat actors gained access to a third-party platform containing customer data. [...]
+- Source: https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/
+- Date: 2025-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+In the Loop: Is AI Making the Next Pandemic More Likely? (Score: 0)
+- Summary: At top AI labs, the future looks either fantastically bright—or terrifyingly dark. More in today’s TIME tech newsletter.
+- Source: https://time.com/7298731/in-the-loop-pandemic-ai-study/
+- Date: 2025-07-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
