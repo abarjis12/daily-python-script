@@ -5109,3 +5109,195 @@ The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025) (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-07-11 13:53  ---
+
+It’s time to give AI security its own playbook and the people to run it (Score: 5)
+- Summary: In this Help Net Security interview, Dr. Nicole Nichols, Distinguished Engineer in Machine Learning Security at Palo Alto Networks, discusses why existing security models need to evolve to address the risks of AI agents. She explains how organizations should …
+- Source: https://www.helpnetsecurity.com/2025/07/09/dr-nicole-nichols-palo-alto-networks-ai-agent-security/
+- Date: 2025-07-09
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What to expect at RAISE Summit: Join theCUBE July 8-9 (Score: 4)
+- Summary: Artificial intelligence is no longer an emerging disruption; it’s a production force re-architecting the enterprise in real time. From compute infrastructure to agentic intelligence, the future is being built on hybrid, high-performance systems, and that futu…
+- Source: https://siliconangle.com/2025/07/07/enterprise-scale-infrastructure-takes-focus-raise-raisesummit/
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Airborne-NextGen 07.01.25: Volocopter Returns, B23 Energic, Iran Tech In UAVs? (Score: 4)
+- Summary: Also: Air Taxis May Be Close, AgEagle Sells 100th, VAI Likes Bedford, AURA AERO Cleans Up Volocopter has resumed work towards the certification of its VoloCity eVTOL, this time under the guiding hand of Diamond Aircraft. The manufacturer filed for insolvency …
+- Source: https://www.aero-news.net/index.cfm?do=main.textpost&id=A2E96AB0-61C8-42B2-9A68-161CB38F44E1
+- Date: 2025-07-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GTT Expands Partnership with Palo Alto Networks to Offer Leading Managed Single-Vendor SASE Solution (Score: 2)
+- Summary: GTT adds Palo Alto Networks Prisma SASE to its award-winning managed SASE solution, Secure Connect, combining industry-leading technology and global expertise to connect and secure the most sensitive application workloads. ARLINGTON, Va. — GTT Communications,…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/gtt-expands-partnership-with-palo-alto-networks-to-offer-leading-managed-single-vendor-sase-solution
+- Date: 2025-07-10
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Watch Today – July 8th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell technologies and services—such a…
+- Source: https://www.etfdailynews.com/2025/07/10/cybersecurity-stocks-to-watch-today-july-8th/
+- Date: 2025-07-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Modernizing Cybersecurity for State and Local Government (Score: 2)
+- Summary: State IT must shift to integrated, efficient and smarter cybersecurity investments, leveraging public/private partnerships for innovation.
+The post Modernizing Cybersecurity for State and Local Government appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/07/modernizing-cybersecurity-state-local-government/
+- Date: 2025-07-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Research – July 5th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or support products and services de…
+- Source: https://www.etfdailynews.com/2025/07/08/cybersecurity-stocks-to-research-july-5th/
+- Date: 2025-07-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Follow Now – July 6th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Motorola Solutions, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/07/08/cybersecurity-stocks-to-follow-now-july-6th/
+- Date: 2025-07-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Follow Now – July 4th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are publicly traded shares of companies that develop software, hardware, and services to prote…
+- Source: https://www.etfdailynews.com/2025/07/07/promising-cybersecurity-stocks-to-follow-now-july-4th/
+- Date: 2025-07-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) EVP Sells $19,866,000.00 in Stock (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) EVP Nir Zuk sold 100,000 shares of the business’s stock in a transaction that occurred on Tuesday, July 1st. The stock was sold at an average price of $198.66, for a total value of $19,866,000.00. Follo…
+- Source: https://www.etfdailynews.com/2025/07/06/palo-alto-networks-inc-nasdaqpanw-evp-sells-19866000-00-in-stock/
+- Date: 2025-07-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Follow Today – July 3rd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, and Fortinet are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide s…
+- Source: https://www.etfdailynews.com/2025/07/06/cybersecurity-stocks-to-follow-today-july-3rd/
+- Date: 2025-07-06
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Follow Today – July 2nd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, Emerson Electric, Fortinet, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/07/05/top-cybersecurity-stocks-to-follow-today-july-2nd/
+- Date: 2025-07-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why CISOs are making the SASE switch: Fewer vendors, smarter security, better AI guardrails (Score: 1)
+- Summary: AI attacks are exposing gaps in multivendor stacks. CISOs are shifting to single-vendor SASE to consolidate, reduce risk and regain control.
+- Source: https://venturebeat.com/security/facing-ai-powered-threats-cisos-consolidate-around-single-vendor-sase/
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Middle East Cybersecurity Market Forecast Report 2025-2030 | Digital Transformation, State-Sponsored Threats, Regulatory Pressures, and the Rise of AI-Powered Attacks (Score: 0)
+- Summary: The Middle East cybersecurity market is predicted to grow from USD 16.75 billion in 2025 to USD 26.04 billion by 2030, at a CAGR of 9.2%, driven by Saudi Arabia's Vision 2030 and a burgeoning startup ecosystem. As the region undergoes rapid digital transforma…
+- Source: https://www.globenewswire.com/news-release/2025/07/10/3113038/28124/en/Middle-East-Cybersecurity-Market-Forecast-Report-2025-2030-Digital-Transformation-State-Sponsored-Threats-Regulatory-Pressures-and-the-Rise-of-AI-Powered-Attacks.html
+- Date: 2025-07-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Gold Melody IAB Exploits Exposed ASP.NET Machine Keys for Unauthorized Access to Targets (Score: 0)
+- Summary: The Initial Access Broker (IAB) known as Gold Melody has been attributed to a campaign that exploits leaked ASP.NET machine keys to obtain unauthorized access to organizations and peddle that access to other threat actors.
+The activity is being tracked by Pal…
+- Source: https://thehackernews.com/2025/07/gold-melody-iab-exploits-exposed-aspnet.html
+- Date: 2025-07-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obsidian Security Expands Go-to-Market Leadership Team to Scale SaaS Protection in the Age of AI (Score: 0)
+- Summary: Leading SaaS Security Platform Strengthens Executive Bench with Five Strategic Hires as Company Scales Ahead of Growth Funding PALO ALTO, Calif. — Obsidian Security, the leading SaaS security platform trusted by global enterprises including Snowflake, T-Mobil…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-security-expands-go-to-market-leadership-team-to-scale-saas-protection-in-the-age-of-ai
+- Date: 2025-07-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ingram Micro restarts orders – for some – following ransomware attack (Score: 0)
+- Summary: Customers say things are still far from perfect as lengthy support queues hamper business dealings Ingram Micro says it is gradually reactivating customer's ordering capabilities across the world, region by region, now its ransomware attack is thought to be "…
+- Source: https://www.theregister.com/2025/07/09/ingram_micro_restarts_orders_for/
+- Date: 2025-07-09
+- Vendors: None
+- Topics: None
+
+Microsoft Patches 130 Vulnerabilities, Including Critical Flaws in SPNEGO and SQL Server (Score: 0)
+- Summary: For the first time in 2025, Microsoft's Patch Tuesday updates did not bundle fixes for exploited security vulnerabilities, but acknowledged one of the addressed flaws had been publicly known.
+The patches resolve a whopping 130 vulnerabilities, along with 10 o…
+- Source: https://thehackernews.com/2025/07/microsoft-patches-130-vulnerabilities.html
+- Date: 2025-07-09
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Who is Shaun Maguire, the VC partner facing backlash over his remarks about Zohran Mamdani (Score: 0)
+- Summary: Hundreds of tech founders and executives have signed an open letter asking Sequoia to take action against the partner.
+- Source: https://www.businessinsider.com/shaun-maguire-sequoia-vc-gop-trump-supporter-backlash-zohran-mamdani-2025-7
+- Date: 2025-07-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GHO Capital to acquire FotoFinder Systems (Score: 0)
+- Summary: GHO Capital to acquire FotoFinder Systems   Acquisition aligns with GHO’s strategy of investing in high growth areas of the MedTech market to improve......
+- Source: https://www.globenewswire.com/news-release/2025/07/08/3111446/0/en/GHO-Capital-to-acquire-FotoFinder-Systems.html
+- Date: 2025-07-08
+- Vendors: None
+- Topics: None
+
+(no subject) (Score: 0)
+- Summary: Posted by RISKS List Owner on Jul 07Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+precedence: bulk
+Subject: Risks Digest 34.70
+
+RISKS-LIST: Risks-Forum Digest Monday 7 July 2025 Volume 34 : Issue 70
+
+ACM FORUM ON RISKS TO THE PUBLIC …
+- Source: https://seclists.org/risks/2025/q3/0
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Can Nvidia Stock Hit $200 By The End Of 2025? (Score: 0)
+- Summary: Will Nvidia stock hit $200 by 2025? Explore NVDA stock's growth drivers, challenges, and expert predictions for investors to learn more.
+- Source: https://www.forbes.com/sites/investor-hub/article/can-nvidia-nvda-stock-hit-200-by-end-2025/
+- Date: 2025-07-07
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More (Score: 0)
+- Summary: Everything feels secure—until one small thing slips through. Even strong systems can break if a simple check is missed or a trusted tool is misused. Most threats don’t start with alarms—they sneak in through the little things we overlook. A tiny bug, a reused…
+- Source: https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html
+- Date: 2025-07-07
+- Vendors: None
+- Topics: None
+
+Denodo Announces Plans to Further Support AI Innovation by Releasing Denodo DeepQuery, a Deep Research Capability (Score: 0)
+- Summary: Like Deep Research for the Enterprise, Denodo DeepQuery will Enable Citizen Analysts to Answer Complex, Multi-step “Why” Questions in Minutes PALO ALTO, Calif., July 07, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced the availability o…
+- Source: https://financialpost.com/globe-newswire/denodo-announces-plans-to-further-support-ai-innovation-by-releasing-denodo-deepquery-a-deep-research-capability
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Shining A Light On Shadow AI (Score: 0)
+- Summary: Shadow AI (like most forms of shadow technology and bring your own device activity) is viewed as a negative, an infringement and a risk.
+- Source: https://www.forbes.com/sites/adrianbridgwater/2025/07/07/shining-a-light-on-shadow-ai/
+- Date: 2025-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
