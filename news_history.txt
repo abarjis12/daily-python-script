@@ -6042,3 +6042,205 @@ Aptos Labs Expands Leadership with New Chief Business Officer (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-07-16 13:59  ---
+
+It’s time to give AI security its own playbook and the people to run it (Score: 5)
+- Summary: In this Help Net Security interview, Dr. Nicole Nichols, Distinguished Engineer in Machine Learning Security at Palo Alto Networks, discusses why existing security models need to evolve to address the risks of AI agents. She explains how organizations should …
+- Source: https://www.helpnetsecurity.com/2025/07/09/dr-nicole-nichols-palo-alto-networks-ai-agent-security/
+- Date: 2025-07-09
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Swarm Network Selects Walrus to Power Verifiable AI on Rollup.News (Score: 2)
+- Summary: July 15th, 2025 – Palo Alto, CA A new integration brings decentralized, programmable storage to Swarm’s AI coordination layer on Sui Swarm Network, the decentralized multi-agent protocol behind Rollup.News, has integrated Walrus, the decentralized data layer …
+- Source: https://dailyhodl.com/2025/07/15/swarm-network-selects-walrus-to-power-verifiable-ai-on-rollup-news/
+- Date: 2025-07-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Market Analysis Report 2025-2030 | Prominent Players Like Microsoft, Palo Alto Networks, and Zscaler, are Advancing their Offerings with Zero Trust, SASE, and CSPM Technologies (Score: 2)
+- Summary: Growth is driven by the increasing proliferation of IoT devices across industries like healthcare, manufacturing, and smart cities, which heightens vulnerabilities and demands advanced cybersecurity solutions. The cloud deployment mode is set to grow most rap…
+- Source: https://www.globenewswire.com/news-release/2025/07/15/3115490/28124/en/Cybersecurity-Market-Analysis-Report-2025-2030-Prominent-Players-Like-Microsoft-Palo-Alto-Networks-and-Zscaler-are-Advancing-their-Offerings-with-Zero-Trust-SASE-and-CSPM-Technolog.html
+- Date: 2025-07-15
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+State-Backed HazyBeacon Malware Uses AWS Lambda to Steal Data from SE Asian Governments (Score: 2)
+- Summary: Governmental organizations in Southeast Asia are the target of a new campaign that aims to collect sensitive information by means of a previously undocumented Windows backdoor dubbed HazyBeacon.
+The activity is being tracked by Palo Alto Networks Unit 42 unde…
+- Source: https://thehackernews.com/2025/07/state-backed-hazybeacon-malware-uses.html
+- Date: 2025-07-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Add to Your Watchlist – July 12th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Motorola Solutions, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/07/15/promising-cybersecurity-stocks-to-add-to-your-watchlist-july-12th/
+- Date: 2025-07-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Energy Stocks To Follow Now – July 12th (Score: 2)
+- Summary: Tesla, Broadcom, Intuitive Surgical, Palo Alto Networks, Exxon Mobil, Chevron, and GE Vernova are the seven Energy stocks to watch today, according to MarketBeat’s stock screener tool. Energy stocks are shares of publicly traded companies involved in the expl…
+- Source: https://www.etfdailynews.com/2025/07/15/best-energy-stocks-to-follow-now-july-12th/
+- Date: 2025-07-15
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Cybersecurity Stocks To Keep An Eye On – July 13th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Fortinet are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide p…
+- Source: https://www.etfdailynews.com/2025/07/15/promising-cybersecurity-stocks-to-keep-an-eye-on-july-13th/
+- Date: 2025-07-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Telecom Stocks To Keep An Eye On – July 13th (Score: 2)
+- Summary: Broadcom, ServiceNow, Arista Networks, Palo Alto Networks, AT&T, Zscaler, and CyberArk Software are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide tel…
+- Source: https://www.etfdailynews.com/2025/07/15/promising-telecom-stocks-to-keep-an-eye-on-july-13th/
+- Date: 2025-07-15
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Cybersecurity Stocks To Keep An Eye On – July 11th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Emerson Electric, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/07/13/promising-cybersecurity-stocks-to-keep-an-eye-on-july-11th/
+- Date: 2025-07-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Watch Now – July 9th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies whose primary business is developing, selling, or mana…
+- Source: https://www.etfdailynews.com/2025/07/12/top-cybersecurity-stocks-to-watch-now-july-9th/
+- Date: 2025-07-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Keep An Eye On – July 10th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Emerson Electric, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are equity shares of compan…
+- Source: https://www.etfdailynews.com/2025/07/12/promising-cybersecurity-stocks-to-keep-an-eye-on-july-10th/
+- Date: 2025-07-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (NASDAQ:PANW) Stock Price Down 4.6% Following Insider Selling (Score: 2)
+- Summary: Shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) were down 4.6% on Thursday after an insider sold shares in the company. The stock traded as low as $196.65 and last traded at $196.64. Approximately 2,045,235 shares were traded during mid-day…
+- Source: https://www.etfdailynews.com/2025/07/12/palo-alto-networks-nasdaqpanw-stock-price-down-4-6-following-insider-selling/
+- Date: 2025-07-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+YC-backed Apolink by 19-year-old bags $4.3M to build 24/7 connectivity for LEO satellites | TechCrunch (Score: 2)
+- Summary: Apolink, a Y Combinator-backed space-tech startup, has raised $4.3 million in an "oversubscribed" seed round at $45 million post-money valuation to build a real-time connectivity network for satellites in low Earth orbit (LEO).
+- Source: https://techcrunch.com/2025/07/11/yc-backed-apolink-by-19-year-old-bags-4-3m-to-build-24-7-connectivity-for-leo-satellites/
+- Date: 2025-07-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Setting the Standard for Zero Trust Platforms (Score: 2)
+- Summary: Palo Alto Networks is a Leader in The Forrester Wave™: Zero Trust Platforms, Q3 2025 with the highest score in the Current Offering category.
+The post Setting the Standard for Zero Trust Platforms appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/07/setting-standard-zero-trust-platforms/
+- Date: 2025-07-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Lee Klarich Sells 120,774 Shares of Palo Alto Networks, Inc. (NASDAQ:PANW) Stock (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) EVP Lee Klarich sold 120,774 shares of the firm’s stock in a transaction dated Monday, July 7th. The shares were sold at an average price of $200.86, for a total value of $24,258,665.64. Following the c…
+- Source: https://www.etfdailynews.com/2025/07/11/lee-klarich-sells-120774-shares-of-palo-alto-networks-inc-nasdaqpanw-stock/
+- Date: 2025-07-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+GTT Expands Partnership with Palo Alto Networks to Offer Leading Managed Single-Vendor SASE Solution (Score: 2)
+- Summary: GTT adds Palo Alto Networks Prisma SASE to its award-winning managed SASE solution, Secure Connect, combining industry-leading technology and global expertise to connect and secure the most sensitive application workloads. ARLINGTON, Va. — GTT Communications,…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/gtt-expands-partnership-with-palo-alto-networks-to-offer-leading-managed-single-vendor-sase-solution
+- Date: 2025-07-10
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Watch Today – July 8th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell technologies and services—such a…
+- Source: https://www.etfdailynews.com/2025/07/10/cybersecurity-stocks-to-watch-today-july-8th/
+- Date: 2025-07-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Modernizing Cybersecurity for State and Local Government (Score: 2)
+- Summary: State IT must shift to integrated, efficient and smarter cybersecurity investments, leveraging public/private partnerships for innovation.
+The post Modernizing Cybersecurity for State and Local Government appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/07/modernizing-cybersecurity-state-local-government/
+- Date: 2025-07-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Vulnerability Summary for the Week of July 7, 2025 (Score: 0)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+</tr>
+
+
+
+<tr>
+<td>Radiflow--iSAP Smart Collector</td>
+<td>The device has two web servers that expose unaut…
+- Source: https://www.cisa.gov/news-events/bulletins/sb25-195
+- Date: 2025-07-14
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Scattered Spider Arrests, Car Exploits, macOS Malware, Fortinet RCE and More (Score: 0)
+- Summary: In cybersecurity, precision matters—and there’s little room for error. A small mistake, missed setting, or quiet misconfiguration can quickly lead to much bigger problems. The signs we’re seeing this week highlight deeper issues behind what might look like ro…
+- Source: https://thehackernews.com/2025/07/weekly-recap-scattered-spider-arrests.html
+- Date: 2025-07-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Lounges? Status? Companions Certificates? $200? Know Your Major Platinum Card Differences (Score: 0)
+- Summary: I love receiving emails from readers who ask for advice, clarification, or help on certain topics. A particular theme comes up a lot, though.
+The post Lounges? Status? Companions Certificates? $200? Know Your Major Platinum Card Differences appeared first on …
+- Source: https://eyeoftheflyer.com/2025/07/14/amex-platinum-vs-delta-amex-platinum/
+- Date: 2025-07-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What’s holding back the modernization of your utility infrastructure? (Score: 0)
+- Summary: Utilities are using smart grid technologies and digitalization tools to modernize the power grid as customer expectations evolve.
+- Source: https://www.renewableenergyworld.com/power-grid/grid-modernization/whats-holding-back-the-modernization-of-your-utility-infrastructure/
+- Date: 2025-07-14
+- Vendors: None
+- Topics: None
+
+$38.28 Bn Endpoint Security Market Analysis by Solution, Service, Enforcement Point, Vertical, Region - Global Forecast to 2030 (Score: 0)
+- Summary: The global endpoint security market is set to expand from USD 27.46 billion in 2025 to USD 38.28 billion by 2030, growing at a 6.3% CAGR. With increasing remote work and hybrid IT environments, organizations face high risks of internal misuse of entitlements.…
+- Source: https://www.globenewswire.com/news-release/2025/07/14/3114612/28124/en/38-28-Bn-Endpoint-Security-Market-Analysis-by-Solution-Service-Enforcement-Point-Vertical-Region-Global-Forecast-to-2030.html
+- Date: 2025-07-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: Microsoft fixes wormable RCE bug on Windows, check for CitrixBleed 2 exploitation (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Microsoft fixes critical wormable Windows flaw (CVE-2025-47981) For July 2025 Patch Tuesday, Microsoft has released patches for 130 vulnerabilities, among them o…
+- Source: https://www.helpnetsecurity.com/2025/07/13/week-in-review-microsoft-fixes-wormable-rce-bug-on-windows-check-for-citrixbleed-2-exploitation/
+- Date: 2025-07-13
+- Vendors: Microsoft
+- Topics: None
+
+Cryptojacking Solution Market to Reach USD 74.1 Billion by 2032, Driven by AI-Powered Threat Detection and Expanding Attack Surfaces | SNS Insider (Score: 0)
+- Summary: According to Research by SNS Insider, U.S. Cryptojacking Solution Market Set to Hit USD 1.32 Billion by 2032 Amid Rising Cyber Threats and Surge in Cloud Adoption. According to Research by SNS Insider, U.S. Cryptojacking Solution Market Set to Hit USD 1.32 Bi…
+- Source: https://www.globenewswire.com/news-release/2025/07/11/3114023/0/en/Cryptojacking-Solution-Market-to-Reach-USD-74-1-Billion-by-2032-Driven-by-AI-Powered-Threat-Detection-and-Expanding-Attack-Surfaces-SNS-Insider.html
+- Date: 2025-07-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
