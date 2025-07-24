@@ -7573,3 +7573,188 @@ New zero-day bug in Microsoft SharePoint under widespread attack | TechCrunch (S
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-07-24 13:54  ---
+
+Redefining DNS Protection (Score: 5)
+- Summary: ADNS leverages Precision AI®, our proprietary AI system combining deep learning, machine learning and generative AI to deliver DNS-layer protection.
+The post Redefining DNS Protection appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/07/redefining-dns-protection/
+- Date: 2025-07-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Keep An Eye On – July 21st (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, manufacture or provide services related …
+- Source: https://www.etfdailynews.com/2025/07/23/cybersecurity-stocks-to-keep-an-eye-on-july-21st/
+- Date: 2025-07-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hackers Exploit Microsoft SharePoint Flaws in Global Breaches (Score: 2)
+- Summary: Hackers are exploiting critical SharePoint flaws (CVE-2025-53770/53771) to breach global targets, including governments and corporations. Microsoft urges immediate action. Learn about the active attacks and how to protect your network from credential theft an…
+- Source: https://hackread.com/hackers-exploit-microsoft-sharepoint-flaws-breaches/
+- Date: 2025-07-22
+- Vendors: Microsoft
+- Topics: None
+
+Sun TV board approves £100.5 million acquisition of The Hundred's Northern Superchargers (Score: 2)
+- Summary: Sun TV Network's board has approved acquiring Northern Superchargers. This franchise participates in The Hundred cricket league. The deal marks Sun TV's entry into the UK sports market. Northern Superchargers will become a wholly owned subsidiary. The company…
+- Source: https://economictimes.indiatimes.com/industry/media/entertainment/media/sun-tv-board-approves-100-5-million-acquisition-of-the-hundreds-northern-superchargers/articleshow/122813618.cms
+- Date: 2025-07-21
+- Vendors: None
+- Topics: None
+
+UPDATE: Microsoft Releases Guidance on Exploitation of SharePoint Vulnerabilities (Score: 2)
+- Summary: Update (07/22/2025): This Alert was updated to reflect newly released information from Microsoft, and to correct the actively exploited Common Vulnerabilities and Exposures (CVEs), which have been confirmed as CVE-2025-49706, a network spoofing vulnerability,…
+- Source: https://www.cisa.gov/news-events/alerts/2025/07/20/update-microsoft-releases-guidance-exploitation-sharepoint-vulnerabilities
+- Date: 2025-07-20
+- Vendors: Microsoft
+- Topics: None
+
+Cybersecurity Stocks To Research – July 17th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Emerson Electric, Dell Technologies, Fortinet, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/07/20/cybersecurity-stocks-to-research-july-17th/
+- Date: 2025-07-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – July 18th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, and Fortinet are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies whose core business is dev…
+- Source: https://www.etfdailynews.com/2025/07/20/cybersecurity-stocks-to-consider-july-18th/
+- Date: 2025-07-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Research Analysts Set Expectations for PANW Q2 Earnings (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) – Research analysts at William Blair dropped their Q2 2026 earnings estimates for Palo Alto Networks in a research report issued on Wednesday, July 16th. William Blair analyst J. Ho now expects that the net…
+- Source: https://www.etfdailynews.com/2025/07/19/research-analysts-set-expectations-for-panw-q2-earnings/
+- Date: 2025-07-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+scm-config-clone 0.3.2 (Score: 2)
+- Summary: A command-line tool to clone configuration objects between Palo Alto Networks Strata Cloud Manager (SCM) tenants.
+- Source: https://pypi.org/project/scm-config-clone/0.3.2/
+- Date: 2025-07-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.3.44 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.3.44/
+- Date: 2025-07-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Stocks To Research – July 16th (Score: 2)
+- Summary: Broadcom, ServiceNow, Huntington Bancshares, Arista Networks, Apollo Global Management, Palo Alto Networks, and AT&T are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of companies that build …
+- Source: https://www.etfdailynews.com/2025/07/18/telecom-stocks-to-research-july-16th/
+- Date: 2025-07-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Cybersecurity Stocks To Research – July 15th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Motorola Solutions, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are publicly traded shares …
+- Source: https://www.etfdailynews.com/2025/07/18/best-cybersecurity-stocks-to-research-july-15th/
+- Date: 2025-07-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chinese hackers breached National Guard to steal network configurations (Score: 2)
+- Summary: The Chinese state-sponsored hacking group known as Salt Typhoon breached and remained undetected in a U.S. Army National Guard network for nine months in 2024, stealing network configuration files and administrator credentials that could be used to compromise…
+- Source: https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/
+- Date: 2025-07-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Analysts Set Palo Alto Networks, Inc. (NASDAQ:PANW) Price Target at $208.00 (Score: 2)
+- Summary: Shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) have received a consensus recommendation of “Moderate Buy” from the forty-two analysts that are covering the company, MarketBeat reports. Two research analysts have rated the stock with a sell…
+- Source: https://www.etfdailynews.com/2025/07/17/analysts-set-palo-alto-networks-inc-nasdaqpanw-price-target-at-208-00/
+- Date: 2025-07-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Government’s giant broadband, internet security upgrade under way for 2500 schools (Score: 2)
+- Summary: 2degrees and Palo Alto Networks replace Spark and Fortinet.
+- Source: https://www.nzherald.co.nz/business/governments-giant-internet-security-upgrade-under-way-for-2500-schools/XNTJIKD5LZFFPHMG5VAHYEU2HU/
+- Date: 2025-07-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Analyst Bullish on Crowdstrike Holdings (CRWD) Says Cybersecurity Could Be ‘Biggest Subsector’ For Tech (Score: 0)
+- Summary: Crowdstrike Holdings Inc (NASDAQ:CRWD) is one of the 10 Buzzing Stocks Everyone is Talking About. Wedbush’s Dan Ives was recently asked about the...
+- Source: https://finance.yahoo.com/news/analyst-bullish-crowdstrike-holdings-crwd-120504491.html
+- Date: 2025-07-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Alexandr Wang is now leading Meta’s AI dream team. Will Mark Zuckerberg’s big bet pay off? (Score: 0)
+- Summary: Tapped by Mark Zuckerberg to lead Meta’s most ambitious AI initiative yet, Scale AI founder Alexandr Wang now oversees a powerhouse team tasked with achieving superintelligence—and outpacing rivals like OpenAI and Google. No pressure.
+- Source: https://fortune.com/article/alexandr-wang-meta-scale-ai-entrepreneur-mark-zuckerberg/
+- Date: 2025-07-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Alexandr Wang is now leading Meta’s AI dream team. Will Mark Zuckerberg’s big bet pay off? (Score: 0)
+- Summary: Tapped by Mark Zuckerberg to lead Meta’s most ambitious AI initiative yet, Scale AI founder Alexandr Wang now oversees a powerhouse team tasked with...
+- Source: https://finance.yahoo.com/news/alexandr-wang-now-leading-meta-090000712.html
+- Date: 2025-07-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What to expect at the Google Cloud Partner AI Series event: Join theCUBE July 30 (Score: 0)
+- Summary: The future of enterprise AI isn’t unfolding in silos; it’s emerging from a growing ecosystem. As adoption accelerates, cloud providers and partners face mounting pressure to deliver real-world results at production scale. Meeting that demand requires smarter …
+- Source: https://siliconangle.com/2025/07/22/google-partners-scaling-enterprise-ai-solutions-googlecloudpartneraiseries/
+- Date: 2025-07-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Surprise, surprise: Chinese spies, IP stealers, other miscreants attacking Microsoft SharePoint servers (Score: 0)
+- Summary: With more to come, no doubt
+At least three Chinese groups are attacking on-premises SharePoint servers via a couple of recently disclosed Microsoft bugs, according to Redmond.…
+- Source: https://www.theregister.com/2025/07/22/chinese_groups_attacking_microsoft_sharepoint/
+- Date: 2025-07-22
+- Vendors: Microsoft
+- Topics: None
+
+Microsoft says Chinese hackers exploiting SharePoint flaws (Score: 0)
+- Summary: Tech giant identified two groups supported by the Chinese government as leveraging flaws in SharePoint software
+- Source: https://www.irishtimes.com/business/2025/07/22/microsoft-says-chinese-hackers-exploiting-sharepoint-flaws/
+- Date: 2025-07-22
+- Vendors: Microsoft
+- Topics: None
+
+Microsoft Says Chinese Hackers Exploiting SharePoint Flaws (Score: 0)
+- Summary: Microsoft Corp. accused Chinese state-sponsored hackers of using flaws in its SharePoint document management software in a hacking campaign that has targeted businesses and government agencies around the world.
+- Source: https://financialpost.com/pmn/business-pmn/microsoft-says-chinese-hackers-exploiting-sharepoint-flaws
+- Date: 2025-07-22
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Apps and Your Phone Can Expose Your Life Without Permission (Score: 0)
+- Summary: Security challenges encompass the entire ecosystem of apps, services and IoT devices that modern consumers use without understanding the data exposure.
+The post How Apps and Your Phone Can Expose Your Life Without Permission appeared first on Palo Alto Networ…
+- Source: https://www.paloaltonetworks.com/blog/2025/07/apps-and-your-phone-expose-your-life/
+- Date: 2025-07-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Microsoft Rushes to Stop Hackers From Wreaking Global Havoc (Score: 0)
+- Summary: Hackers exploited a security flaw in common Microsoft Corp. software to breach governments, businesses and other organizations across the globe and steal sensitive information, according to officials and cybersecurity researchers. Microsoft over the weekend r…
+- Source: https://www.insurancejournal.com/news/national/2025/07/22/832725.htm
+- Date: 2025-07-22
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The metamorphosis of Sequoia's Shaun Maguire: 'Never back down.' (Score: 0)
+- Summary: Shaun Maguire's posts about Zohran Mamdani shocked many. Not the people who know him.
+- Source: https://www.businessinsider.com/shaun-maguire-silicon-valleys-most-maga-firebrand-sequoia-mamdani-2025-7
+- Date: 2025-07-22
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
