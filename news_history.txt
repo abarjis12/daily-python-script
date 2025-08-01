@@ -9054,3 +9054,188 @@ This Stock Doubled My Money – and I’m Buying More (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-08-01 13:53  ---
+
+Social Engineering on the Rise — New Unit 42 Report (Score: 4)
+- Summary: How cybercriminals and nation-state actors are leveraging sophisticated social engineering techniques to attack global organizations at scale.
+The post Social Engineering on the Rise — New Unit 42 Report appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/07/social-engineering-rise-new-unit-42-report/
+- Date: 2025-07-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Spikes in malicious activity precede new CVEs in 80% of cases (Score: 2)
+- Summary: Researchers have found that in roughly 80% of cases, spikes in malicious activity like network reconnaissance, targeted scanning, and brute-forcing attempts are a precursor to the disclosure of new security vulnerabilities (CVEs) within six weeks. [...]
+- Source: https://www.bleepingcomputer.com/news/security/spikes-in-malicious-activity-precede-new-cves-in-80-percent-of-cases/
+- Date: 2025-07-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Tesla Robotaxi is much cheaper than Uber as it launches in California with Rodeo drivers (Score: 2)
+- Summary: The Tesla Robotaxi network is continuing its rapid expansion to the Bay Area and will soon be operational in Brooklyn, Houston, Arizona, Nevada, and Florida, including Miami. Tesla has also ditched the flat fee rides and has now introduced very competitive pr…
+- Source: https://www.notebookcheck.net/Tesla-Robotaxi-is-much-cheaper-than-Uber-as-it-launches-in-California-with-Rodeo-drivers.1073551.0.html
+- Date: 2025-07-31
+- Vendors: None
+- Topics: None
+
+Best Telecom Stocks To Research – July 29th (Score: 2)
+- Summary: Broadcom, Palo Alto Networks, and CyberArk Software are the three Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide telecommunications services—such as voice, inte…
+- Source: https://www.etfdailynews.com/2025/07/31/best-telecom-stocks-to-research-july-29th/
+- Date: 2025-07-31
+- Vendors: Palo Alto Networks
+- Topics: None
+
+A Massive Network Upgrade Could Transform Dogecoin and Remove Its Meme Status. Does That Make the DOGE Crypto a Buy Here? (Score: 2)
+- Summary: 
+- Source: https://biztoc.com/x/3d1c81a3a9de6aa0
+- Date: 2025-07-30
+- Vendors: None
+- Topics: None
+
+US Hits Iran Oil-Trading Network in Sweeping Sanctions Crackdown (Score: 2)
+- Summary: 
+- Source: https://biztoc.com/x/80b7f282699b3ab2
+- Date: 2025-07-30
+- Vendors: None
+- Topics: None
+
+Palo Alto’s bold $25B CyberArk deal sparks AI-era cyber defense; but stock plunges 8% — is Wall Street missing the big picture? (Score: 2)
+- Summary: Palo Alto Networks has announced a bold $25 billion acquisition of CyberArk, the global leader in identity security. The deal, a strategic bet on the AI-driven future of cyber defense, immediately sparked investor reactions—sending Palo Alto’s stock tumbling …
+- Source: https://economictimes.indiatimes.com/news/international/us/palo-altos-bold-25b-cyberark-deal-sparks-ai-era-cyber-defense-but-stock-plunges-8-is-wall-street-missing-the-big-picture/articleshow/122999998.cms
+- Date: 2025-07-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Network-CyberArk Deal A 'Strategic Home Run,' Says Analyst — But PANW Stock Falls Nearly 7% In Pre-Market (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW) has announced its acquisition of Israeli cybersecurity firm CyberArk Software (NASDAQ:CYBR) for a whopping $25 billion, marking the largest acquisition in the company’s history.
+What Happened: The acquisition, revealed on Wedn…
+- Source: https://biztoc.com/x/8f4475c8e6586a77
+- Date: 2025-07-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Israel's Check Point Software aims to go it alone as cyber security sales rise (Score: 2)
+- Summary: JERUSALEM :The CEO of Check Point Software Technologies said the Israeli company was not looking to be bought out like some local rivals, as it reported a second-quarter profit boosted by higher sales of products to protect and prevent corporate networks from…
+- Source: https://www.channelnewsasia.com/business/israels-check-point-software-aims-go-it-alone-cyber-security-sales-rise-5266966
+- Date: 2025-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Report: Palo Alto Networks could acquire CyberArk for $20B+ (Score: 2)
+- Summary: Palo Alto Networks Inc. is reportedly close to buying fellow cybersecurity provider CyberArk Software Ltd. The Wall Street Journal today cited sources as saying that the deal could be finalized as soon as this week. CyberArk had a market capitalization of abo…
+- Source: https://siliconangle.com/2025/07/29/report-palo-alto-networks-acquire-cyberark-20b/
+- Date: 2025-07-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+In huge cybersecurity deal, Palo Alto Networks acquires CyberArk for $25B (Score: 2)
+- Summary: Updated with the announcement: Palo Alto Networks Inc. Wednesday announced it’s buying fellow cybersecurity provider CyberArk Software Ltd. The Wall Street Journal Tuesday cited sources as saying that the deal could be finalized as soon as this week, and Palo…
+- Source: https://siliconangle.com/2025/07/29/palo-alto-networks-acquires-cyberark-25b/
+- Date: 2025-07-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zero Networks Earns Platinum Rating in EMA PRISM Report for Microsegmentation (Score: 2)
+- Summary: Responsiveness to market demands combined with robust technological advancements – set to be demonstrated live at Black Hat USA – strengthens Zero Networks’ market leadership ORLANDO, Fla. — Zero Networks, a leading provider of zero trust security solutions, …
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/zero-networks-earns-platinum-rating-in-ema-prism-report-for-microsegmentation
+- Date: 2025-07-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Follow Now – July 27th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and deliver products and services designe…
+- Source: https://www.etfdailynews.com/2025/07/29/promising-cybersecurity-stocks-to-follow-now-july-27th/
+- Date: 2025-07-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aisecurity 0.5.0.5.post2 (Score: 2)
+- Summary: Palo Alto Networks AI Runtime Security: API Intercept Python SDK
+- Source: https://pypi.org/project/pan-aisecurity/0.5.0.5.post2/
+- Date: 2025-07-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Security Sandbox Market Size to Surpass USD 348.17 Billion by 2032, Owing to the Rise in Sophisticated Cyber Threats and Cloud-Driven Infrastructures | Research by SNS Insider (Score: 2)
+- Summary: The Network Security Sandbox Market is witnessing exponential growth due to an upsurge in sophisticated cyber threats, rising cloud computing dependence, and increased adoption of proactive security solutions. The Network Security Sandbox Market is witnessing…
+- Source: https://www.globenewswire.com/news-release/2025/07/28/3122587/0/en/Network-Security-Sandbox-Market-Size-to-Surpass-USD-348-17-Billion-by-2032-Owing-to-the-Rise-in-Sophisticated-Cyber-Threats-and-Cloud-Driven-Infrastructures-Research-by-SNS-Insider.html
+- Date: 2025-07-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jamie Lee Curtis cast as Jessica Fletcher in the ‘Murder She Wrote’ film reboot (Score: 2)
+- Summary: When Murder She Wrote first came on the air in 1984, Angela Lansbury was 59 years old. It was considered a big deal that an “older woman” was the lead in an hour-long network drama, but Murder She Wrote was one of the most popular shows of the 1980s and 1990s…
+- Source: https://www.celebitchy.com/932979/jamie_lee_curtis_cast_as_jessica_fletcher_in_the_murder_she_wrote_film_reboot/
+- Date: 2025-07-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (NASDAQ:PANW) Shares Up 1.9% After Analyst Upgrade (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report)’s share price traded up 1.9% during trading on Friday after Jefferies Financial Group raised their price target on the stock from $225.00 to $235.00. Jefferies Financial Group currently has a buy rating…
+- Source: https://www.etfdailynews.com/2025/07/27/palo-alto-networks-nasdaqpanw-shares-up-1-9-after-analyst-upgrade/
+- Date: 2025-07-27
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Muddled Libra: From Social Engineering to Enterprise-Scale Disruption (Score: 2)
+- Summary: Unit 42's latest research reveals how Muddled Libra (AKA Scattered Spider) has transformed into teams that pose risks to organizations worldwide.
+The post Muddled Libra: From Social Engineering to Enterprise-Scale Disruption appeared first on Palo Alto Networ…
+- Source: https://www.paloaltonetworks.com/blog/2025/07/muddled-libra-social-engineering-enterprise-scale-disruption/
+- Date: 2025-07-26
+- Vendors: None
+- Topics: None
+
+Best Telecom Stocks To Research – July 23rd (Score: 2)
+- Summary: Broadcom, AT&T, ServiceNow, Arista Networks, Huntington Bancshares, Palo Alto Networks, and Corning are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of companies that build, maintain and ope…
+- Source: https://www.etfdailynews.com/2025/07/25/best-telecom-stocks-to-research-july-23rd/
+- Date: 2025-07-25
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Meta, Microsoft upgraded: Wall Street's top analyst calls (Score: 0)
+- Summary: Meta, Microsoft upgraded: Wall Street's top analyst calls
+- Source: https://finance.yahoo.com/news/meta-microsoft-upgraded-wall-streets-134638236.html
+- Date: 2025-07-31
+- Vendors: Microsoft
+- Topics: None
+
+England and Wales Cricket Board locks in six franchise partners for The Hundred (Score: 0)
+- Summary: The England and Wales Cricket Board (ECB) has secured franchise partnerships for six teams in The Hundred, attracting significant investment from global tech and finance leaders. A consortium led by Satyan Gajwani and Nikesh Arora acquired a 49% stake in Lond…
+- Source: https://economictimes.indiatimes.com/news/sports/england-and-wales-cricket-board-locks-in-six-franchise-partners-for-the-hundred/articleshow/123004924.cms
+- Date: 2025-07-30
+- Vendors: None
+- Topics: None
+
+Cybersecurity upstart Legion emerges from stealth with $38 million from Accel, Coatue, and others (Score: 0)
+- Summary: This also marks the U.S. launch of VC firm Picture Capital, who co-led the round.
+- Source: https://finance.yahoo.com/news/cybersecurity-upstart-legion-emerges-stealth-113713345.html
+- Date: 2025-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity upstart Legion emerges from stealth with $38 million from Accel, Coatue, and others (Score: 0)
+- Summary: This also marks the U.S. launch of VC firm Picture Capital, who co-led the round.
+- Source: https://fortune.com/2025/07/30/legion-cybersecurity-stealth-38-million-seed-series-a-accel-coatue/
+- Date: 2025-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+50 Over 50: Innovation (Score: 0)
+- Summary: These 50 STEM standouts on this list are actively advancing the world’s understanding of medicine, meteorology and large language models.
+- Source: https://www.forbes.com/sites/maggiemcgrath/2025/07/30/50-over-50-innovation/
+- Date: 2025-07-30
+- Vendors: None
+- Topics: None
+
+Expanding Landscape: Set and Surplus (Score: 0)
+- Summary: I have spent the last two weeks conducting field research at a large music festival located in the interior of Portugal. Every day, I would wake up in my tiny tent and walk into a stunning landscape. Walking around the grounds of the festival every morning wa…
+- Source: https://landezine.com/expanding-landscape-set-and-surplus/
+- Date: 2025-07-30
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
