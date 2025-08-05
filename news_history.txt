@@ -9792,3 +9792,187 @@ Spikes in malicious activity precede new CVEs in 80% of cases (Score: 2)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-08-05 13:57  ---
+
+Social Engineering on the Rise — New Unit 42 Report (Score: 4)
+- Summary: How cybercriminals and nation-state actors are leveraging sophisticated social engineering techniques to attack global organizations at scale.
+The post Social Engineering on the Rise — New Unit 42 Report appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/07/social-engineering-rise-new-unit-42-report/
+- Date: 2025-07-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Nation-state group CL-STA-0969 targeted Southeast Asian telecoms in 2024 (Score: 2)
+- Summary: State-backed group CL-STA-0969 hit Southeast Asian telecoms in 2024, targeting critical infrastructure, says Palo Alto Networks’ Unit 42. Palo Alto Networks reported that a nation-state actor, tracked as CL-STA-0969, targeted telecom firms in Southeast Asia, …
+- Source: https://securityaffairs.com/180737/apt/nation-state-group-cl-sta-0969-targeted-southeast-asian-telecoms-in-2024.html
+- Date: 2025-08-04
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Financial Stocks To Keep An Eye On – July 31st (Score: 2)
+- Summary: Robinhood Markets, UnitedHealth Group, Palo Alto Networks, CyberArk Software, and SoFi Technologies are the five Financial stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (Too Ma…
+- Source: https://www.etfdailynews.com/2025/08/03/financial-stocks-to-keep-an-eye-on-july-31st/
+- Date: 2025-08-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks’ (PANW) Buy Rating Reiterated at Rosenblatt Securities (Score: 2)
+- Summary: Rosenblatt Securities restated their buy rating on shares of Palo Alto Networks (NASDAQ:PANW – Free Report) in a research report report published on Thursday,Benzinga reports. Rosenblatt Securities currently has a $235.00 price target on the network technolog…
+- Source: https://www.etfdailynews.com/2025/08/03/palo-alto-networks-panw-buy-rating-reiterated-at-rosenblatt-securities/
+- Date: 2025-08-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Cybersecurity Stocks To Keep An Eye On – July 31st (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, and CrowdStrike are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (Too Many Requests). These companies had the highest dol…
+- Source: https://www.etfdailynews.com/2025/08/03/best-cybersecurity-stocks-to-keep-an-eye-on-july-31st/
+- Date: 2025-08-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Stocks To Add to Your Watchlist – July 31st (Score: 2)
+- Summary: Broadcom, Palo Alto Networks, CyberArk Software, Arista Networks, ServiceNow, Huntington Bancshares, and AT&T are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are publicly traded shares of companies th…
+- Source: https://www.etfdailynews.com/2025/08/03/telecom-stocks-to-add-to-your-watchlist-july-31st/
+- Date: 2025-08-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks (NASDAQ:PANW) Price Target Lowered to $215.00 at DA Davidson (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Free Report) had its price target reduced by DA Davidson from $225.00 to $215.00 in a research report sent to investors on Thursday morning,Benzinga reports. DA Davidson currently has a buy rating on the network technology co…
+- Source: https://www.etfdailynews.com/2025/08/03/palo-alto-networks-nasdaqpanw-price-target-lowered-to-215-00-at-da-davidson/
+- Date: 2025-08-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Telecom Stocks To Research – August 1st (Score: 2)
+- Summary: Broadcom, Palo Alto Networks, and Arista Networks are the three Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide telecommunications services, such as wireless, br…
+- Source: https://www.etfdailynews.com/2025/08/03/telecom-stocks-to-research-august-1st/
+- Date: 2025-08-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Cybersecurity Stocks To Follow Today – August 1st (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, CrowdStrike, Dell Technologies, and Emerson Electric are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell…
+- Source: https://www.etfdailynews.com/2025/08/03/best-cybersecurity-stocks-to-follow-today-august-1st/
+- Date: 2025-08-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Breaking Down Palo Alto Networks’ $25B CyberArk Acquisition (Score: 2)
+- Summary: Palo Alto Networks acquires CyberArk for $25B, creating an $8B+ security giant. Analysis of market impact, integration challenges, and impact to enterprise security.
+- Source: https://www.forbes.com/sites/stevemcdowell/2025/08/02/breaking-down-palo-alto-networks-25b-cyberark-acquisition/
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign (Score: 2)
+- Summary: Telecommunications organizations in Southeast Asia have been targeted by a state-sponsored threat actor known as CL-STA-0969 to facilitate remote control over compromised networks.
+Palo Alto Networks Unit 42 said it observed multiple incidents in the region, …
+- Source: https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks Worth Watching – July 30th (Score: 2)
+- Summary: Palo Alto Networks, Alphabet, and CrowdStrike are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are publicly traded shares of companies that develop, sell or manage products and services des…
+- Source: https://www.etfdailynews.com/2025/08/02/promising-cybersecurity-stocks-worth-watching-july-30th/
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Financial Stocks To Keep An Eye On – July 30th (Score: 2)
+- Summary: Palo Alto Networks, CyberArk Software, and UnitedHealth Group are the three Financial stocks to watch today, according to MarketBeat’s stock screener tool. Financial stocks are shares of companies operating in the financial sector, such as banks, insurance fi…
+- Source: https://www.etfdailynews.com/2025/08/02/financial-stocks-to-keep-an-eye-on-july-30th/
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks (NASDAQ:PANW) Trading Down 5.1% After Analyst Downgrade (Score: 2)
+- Summary: Shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) were down 5.1% during trading on Thursday after DA Davidson lowered their price target on the stock from $225.00 to $215.00. DA Davidson currently has a buy rating on the stock. Palo Alto Netw…
+- Source: https://www.etfdailynews.com/2025/08/02/palo-alto-networks-nasdaqpanw-trading-down-5-1-after-analyst-downgrade/
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Energy Stocks To Research – July 31st (Score: 2)
+- Summary: Tesla, Broadcom, Palo Alto Networks, CyberArk Software, AltC Acquisition, GE Vernova, and Oklo are the seven Energy stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (Too Many Requ…
+- Source: https://www.etfdailynews.com/2025/08/02/promising-energy-stocks-to-research-july-31st/
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Healthcare Stocks To Research – July 31st (Score: 2)
+- Summary: Alphabet, UnitedHealth Group, Palo Alto Networks, Oracle, and CyberArk Software are the five Healthcare stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (Too Many Requests). These…
+- Source: https://www.etfdailynews.com/2025/08/02/promising-healthcare-stocks-to-research-july-31st/
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Manufacturing Stocks To Follow Today – July 31st (Score: 2)
+- Summary: Palo Alto Networks, Oracle, and CyberArk Software are the three Manufacturing stocks to watch today, according to MarketBeat’s stock screener tool. Error: Response status code does not indicate success: 429 (Too Many Requests). These companies had the highest…
+- Source: https://www.etfdailynews.com/2025/08/02/top-manufacturing-stocks-to-follow-today-july-31st/
+- Date: 2025-08-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+CyberArk (CYBR) Downgraded After Acquisition by Palo Alto Networks (Score: 2)
+- Summary: CyberArk Software Ltd. (NASDAQ:CYBR) is one of the 10 AI Stocks Investors Should Keep an Eye On. On July 30, William Blair analyst Jonathan Ho downgraded the...
+- Source: https://finance.yahoo.com/news/cyberark-cybr-downgraded-acquisition-palo-160239298.html
+- Date: 2025-08-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IPO pops are back, AI starts to pay off for Big Tech, and Palo Alto Networks spends big (Score: 2)
+- Summary: Palo Alto Networks is charging full speed ahead on attempting to be as much of a one-stop cyber shop as is possible in the fast-changing field, buying CyberArk for a stunning $25 billion. Investors weren’t especially happy, but properly integrated, it’s proba…
+- Source: https://siliconangle.com/2025/08/01/ipo-pops-back-ai-starts-pay-off-big-tech-palo-alto-networks-spends-big/
+- Date: 2025-08-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Software-defined Wide Area Network (SD-WAN) Market worth $21.67 billion by 2030 | MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Aug 1, 2025 /PRNewswire/ --According to MarketsandMarkets™, the Software-defined Wide Area Network Market is expected to grow to USD 21.67 billion by 2030 from USD 7.91 billion in 2025, at a CAGR of 22.3%, from 2025 to 2030. Browse in-dept…
+- Source: https://www.prnewswire.co.uk/news-releases/software-defined-wide-area-network-sd-wan-market-worth-21-67-billion-by-2030--marketsandmarkets-302519469.html
+- Date: 2025-08-01
+- Vendors: None
+- Topics: None
+
+Energy Stocks To Follow Now – July 30th (Score: 2)
+- Summary: Tesla, Palo Alto Networks, CyberArk Software, Broadcom, and Vertiv are the five Energy stocks to watch today, according to MarketBeat’s stock screener tool. Energy stocks represent shares of companies involved in the production, processing, distribution or se…
+- Source: https://www.etfdailynews.com/2025/08/01/energy-stocks-to-follow-now-july-30th/
+- Date: 2025-08-01
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Healthcare Stocks Worth Watching – July 30th (Score: 2)
+- Summary: Palo Alto Networks, CyberArk Software, and UnitedHealth Group are the three Healthcare stocks to watch today, according to MarketBeat’s stock screener tool. Healthcare stocks are shares of publicly traded companies operating in the healthcare sector, includin…
+- Source: https://www.etfdailynews.com/2025/08/01/healthcare-stocks-worth-watching-july-30th/
+- Date: 2025-08-01
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Manufacturing Stocks To Keep An Eye On – July 30th (Score: 2)
+- Summary: Palo Alto Networks, CyberArk Software, and Vertiv are the three Manufacturing stocks to watch today, according to MarketBeat’s stock screener tool. Manufacturing stocks are the inventories held by a production facility, encompassing raw materials, work-in-pro…
+- Source: https://www.etfdailynews.com/2025/08/01/manufacturing-stocks-to-keep-an-eye-on-july-30th/
+- Date: 2025-08-01
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Enters the Identity Security Market with $25B Purchase of CyberArk (Score: 2)
+- Summary: Palo Alto Networks has announced definitive plans to acquire privileged identity management vendor CyberArk for $25 billion, making it the 3rd largest cybersecurity M&A deal in history, following Google’s $32B buy of Wiz earlier this year and Cisco’s $28B acq…
+- Source: https://www.forrester.com/blogs/palo-alto-networks-enters-the-identity-security-market-with-25b-purchase-of-cyberark/
+- Date: 2025-07-31
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Analysis: Palo Alto Networks bolsters Its AI play with acquisition of CyberArk (Score: 2)
+- Summary: Palo Alto Networks Inc.‘s announcement Tuesday of its intent to acquire CyberArk for $25 billion implies a heavy price tag, as its shares fell on the news. But I believe it to be a good, long-term strategic move for Palo Alto and a logical extension of its pl…
+- Source: https://siliconangle.com/2025/07/31/analysis-palo-alto-networks-bolsters-ai-play-acquisition-cyberark/
+- Date: 2025-07-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
