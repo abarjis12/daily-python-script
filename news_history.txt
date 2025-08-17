@@ -12010,3 +12010,188 @@ Making SD-WAN Smarter with MCP: A Developer’s Guide (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-08-17 13:42  ---
+
+Palo Alto Networks adds quantum readiness and AI-driven protections in PAN-OS 12.1 Orion (Score: 6)
+- Summary: Palo Alto Networks Inc. today announced new security capabilities that are aimed at preparing enterprises for the looming quantum computing era while bolstering defenses for increasingly complex multi-cloud and artificial intelligence environments. The new of…
+- Source: https://siliconangle.com/2025/08/14/palo-alto-networks-adds-quantum-readiness-ai-driven-protections-pan-os-12-1-orion/
+- Date: 2025-08-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Financial Stocks To Add to Your Watchlist – August 13th (Score: 2)
+- Summary: BitMine Immersion Technologies, Robinhood Markets, Coinbase Global, UnitedHealth Group, Circle Internet Group, Palo Alto Networks, and Salesforce are the seven Financial stocks to watch today, according to MarketBeat’s stock screener tool. Financial stocks ar…
+- Source: https://www.etfdailynews.com/2025/08/16/top-financial-stocks-to-add-to-your-watchlist-august-13th/
+- Date: 2025-08-16
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Consider – August 14th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, and CrowdStrike are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell products and services—such as an…
+- Source: https://www.etfdailynews.com/2025/08/16/cybersecurity-stocks-to-consider-august-14th/
+- Date: 2025-08-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (PANW) Projected to Post Earnings on Monday (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report) is expected to issue its Q4 2025 quarterly earnings data after the market closes on Monday, August 18th. Analysts expect the company to announce earnings of $0.88 per share and revenue of $2.50 billion for th…
+- Source: https://www.etfdailynews.com/2025/08/16/palo-alto-networks-panw-projected-to-post-earnings-on-monday/
+- Date: 2025-08-16
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Telecom Stocks To Watch Today – August 13th (Score: 2)
+- Summary: Broadcom, Palo Alto Networks, ServiceNow, Arista Networks, Lumentum, Coherent, and Apollo Global Management are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of companies that provide telecom…
+- Source: https://www.etfdailynews.com/2025/08/15/best-telecom-stocks-to-watch-today-august-13th/
+- Date: 2025-08-15
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Delivers Enterprise Wide Quantum Security Readiness for All Customers (Score: 2)
+- Summary: Palo Alto Networks announced two new security solutions to help organizations confidently navigate the evolving quantum landscape, and to keep pace with highly dynamic cloud and AI environments.
+- Source: https://vmblog.com:443/archive/2025/08/14/palo-alto-networks-delivers-enterprise-wide-quantum-security-readiness-for-all-customers.aspx
+- Date: 2025-08-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks helps organizations accelerate their quantum readiness (Score: 2)
+- Summary: Palo Alto Networks announced two new security solutions to help organizations confidently navigate the quantum landscape, and to keep pace with highly dynamic cloud and AI environments. These innovations provide enterprises with the visibility, agility and de…
+- Source: https://www.helpnetsecurity.com/2025/08/14/palo-alto-networks-quantum-readiness/
+- Date: 2025-08-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Leads the Way with Quantum and Multicloud Security (Score: 2)
+- Summary: PAN-OS® 12.1 Orion makes network security smarter, more predictable and more resilient. 
+The post Palo Alto Networks Leads the Way with Quantum and Multicloud Security appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/08/paves-way-for-quantum-ready-security/
+- Date: 2025-08-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Securing the Quantum Age (Score: 2)
+- Summary: At Palo Alto Networks, we deliver advanced, integrated solutions for true quantum readiness with essential visibility, agility and remediation capabilities.
+The post Securing the Quantum Age appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/08/securing-the-quantum-age/
+- Date: 2025-08-14
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Follow Today – August 11th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, CrowdStrike, Fortinet, Dell Technologies, Motorola Solutions, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly trad…
+- Source: https://www.etfdailynews.com/2025/08/13/cybersecurity-stocks-to-follow-today-august-11th/
+- Date: 2025-08-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Forging a Secure Digital Future (Score: 2)
+- Summary: The South Africa cloud location signifies the Palo Alto Networks commitment to the region's digital transformation journey and its cybersecurity resilience.
+The post Forging a Secure Digital Future appeared first on Palo Alto Networks Blog.
+- Source: https://www.paloaltonetworks.com/blog/2025/08/forging-secure-digital-future/
+- Date: 2025-08-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Stocks Worth Watching – August 10th (Score: 2)
+- Summary: Broadcom, ServiceNow, Palo Alto Networks, Arista Networks, CRH, CyberArk Software, and AT&T are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are publicly traded shares of companies that build and opera…
+- Source: https://www.etfdailynews.com/2025/08/12/telecom-stocks-worth-watching-august-10th/
+- Date: 2025-08-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+GDAI 2025 Scales New Heights: 1,000+ Sessions, 70+ Global affiliate Partners, and a Powerhouse Speaker Lineup (Score: 2)
+- Summary: DataGlobal Hub offers a 3-day global virtual AI & data conference with 1,000+ sessions, top speakers, demos, workshops & networking opportunities......
+- Source: https://www.globenewswire.com/news-release/2025/08/11/3131088/0/en/GDAI-2025-Scales-New-Heights-1-000-Sessions-70-Global-affiliate-Partners-and-a-Powerhouse-Speaker-Lineup.html
+- Date: 2025-08-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) Receives $209.61 Consensus Target Price from Brokerages (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) has received an average recommendation of “Moderate Buy” from the forty-one research firms that are presently covering the company, MarketBeat reports. Two equities research analysts have rated the stoc…
+- Source: https://www.etfdailynews.com/2025/08/11/palo-alto-networks-inc-nasdaqpanw-receives-209-61-consensus-target-price-from-brokerages/
+- Date: 2025-08-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Cybersecurity Stocks To Watch Now – August 9th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, and CrowdStrike are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or support technologies and service…
+- Source: https://www.etfdailynews.com/2025/08/11/best-cybersecurity-stocks-to-watch-now-august-9th/
+- Date: 2025-08-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks Worth Watching – August 7th (Score: 2)
+- Summary: Alphabet, Fortinet, Palo Alto Networks, CrowdStrike, Dell Technologies, Emerson Electric, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are equity shares of compan…
+- Source: https://www.etfdailynews.com/2025/08/10/promising-cybersecurity-stocks-worth-watching-august-7th/
+- Date: 2025-08-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+California vs. Texas in a “Battle for Democracy” (Score: 0)
+- Summary: California Democrats today released their proposed map to redraw the state’s congressional districts, revealing the Republican seats they’re targeting in next year’s midterm elections. The map comes in response to the Texas redistricting plan to pick up more …
+- Source: https://www.kqed.org/news/12052388/california-vs-texas-in-a-battle-for-democracy
+- Date: 2025-08-16
+- Vendors: None
+- Topics: None
+
+Intel CEO’s Trump travails, Perplexity’s audacious bid for Chrome, and crypto’s IPO party (Score: 0)
+- Summary: Intel CEO Lip-Bu Tan is getting put through a ringer, isn’t he? First Trump says he should be fired, then he praises him to the skies, then he apparently wants the government to buy a stake in the company — though given it’s Trump, that’s far from certain. Bu…
+- Source: https://siliconangle.com/2025/08/15/intel-ceos-trump-travails-perplexitys-audacious-bid-chrome-cryptos-ipo-party/
+- Date: 2025-08-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+News brief: Rising OT threats put critical infrastructure at risk (Score: 0)
+- Summary: Check out the latest security news from the Informa TechTarget team.
+- Source: https://www.techtarget.com/searchsecurity/news/366629302/News-brief-Rising-OT-threats-put-critical-infrastructure-at-risk
+- Date: 2025-08-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Dave Vellante’s Breaking Analysis: The complete collection (Score: 0)
+- Summary: Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLE’s theCUBE with spending data from Enterprise Technology Research. Branded as theCUBE Insights, Powered by ETR, the program is our opportunity to share independent, unfiltere…
+- Source: https://siliconangle.com/2025/08/15/dave-vellantes-breaking-analysis-complete-collection/
+- Date: 2025-08-15
+- Vendors: None
+- Topics: None
+
+Pivotal Returns to Canadian Skies with Crewed Flights of BlackFly eVTOL (Score: 0)
+- Summary: Third-Generation Aircraft Demos at Abbotsford International Airshow PALO ALTO, Calif., Aug. 15, 2025 (GLOBE NEWSWIRE) — Pivotal, the market leader in light electric vertical takeoff and landing (eVTOL) aircraft invented and tested in Canada, has returned to C…
+- Source: https://financialpost.com/globe-newswire/pivotal-returns-to-canadian-skies-with-crewed-flights-of-blackfly-evtol
+- Date: 2025-08-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sutter Health plans to open cancer care center at former Skyview Drive-In theater, flea market (Score: 0)
+- Summary: Sutter Health is planning to open a cancer treatment center in Santa Cruz at the former Skyview Drive-In and flea market site after a local foundation said it would commit millions to bolster the e…
+- Source: https://www.santacruzsentinel.com/2025/08/14/sutter-health-plans-to-open-cancer-care-center-at-former-skyview-drive-in-theater-flea-market/
+- Date: 2025-08-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudastructure and Flex Security’s Mobile Surveillance Trailer Alpha™ Wins “Project Management Solution of the Year” at 2025 PropTech Breakthrough Awards; Recognized as Breakthrough Innovation in Construction Security (Score: 0)
+- Summary: Proptech Breakthrough Awards  PALO ALTO, CA, Aug.  14, 2025  (GLOBE NEWSWIRE) -- Cloudastructure, Inc. (Nasdaq: CSAI) (“we,” “us,” “our,”......
+- Source: https://www.globenewswire.com/news-release/2025/08/14/3133735/0/en/Cloudastructure-and-Flex-Security-s-Mobile-Surveillance-Trailer-Alpha-Wins-Project-Management-Solution-of-the-Year-at-2025-PropTech-Breakthrough-Awards-Recognized-as-Breakthrough-I.html
+- Date: 2025-08-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sutter Health Receives $30 Million Kvamme Foundation Gift to Transform Cancer Care in Santa Cruz (Score: 0)
+- Summary: New Jean and E. Floyd Kvamme Advanced Cancer Center to anchor a $50 million campaign—bringing world-class cancer services closer to home New Jean and E. Floyd Kvamme Advanced Cancer Center to anchor a $50 million campaign—bringing world-class cancer services …
+- Source: https://www.globenewswire.com/news-release/2025/08/14/3133696/0/en/Sutter-Health-Receives-30-Million-Kvamme-Foundation-Gift-to-Transform-Cancer-Care-in-Santa-Cruz.html
+- Date: 2025-08-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Making SD-WAN Smarter with MCP: A Developer’s Guide (Score: 0)
+- Summary: As SD-WAN developers, we often juggle various vendor portals, command-line interfaces, and API calls. What we need is a way to unify and streamline these communications and thus simplify integration. Here’s where Model Context Protocol (MCP) comes in, offerin…
+- Source: https://blogs.cisco.com/learning/making-sd-wan-smarter-with-mcp-a-developers-guide
+- Date: 2025-08-14
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
