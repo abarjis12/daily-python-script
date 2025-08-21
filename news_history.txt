@@ -12768,3 +12768,186 @@ Circana Reveals 2025 B2B Tech Channel Performance Award Winners at XChange (Scor
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-08-21 13:45  ---
+
+Palo Alto Networks adds quantum readiness and AI-driven protections in PAN-OS 12.1 Orion (Score: 6)
+- Summary: Palo Alto Networks Inc. today announced new security capabilities that are aimed at preparing enterprises for the looming quantum computing era while bolstering defenses for increasingly complex multi-cloud and artificial intelligence environments. The new of…
+- Source: https://siliconangle.com/2025/08/14/palo-alto-networks-adds-quantum-readiness-ai-driven-protections-pan-os-12-1-orion/
+- Date: 2025-08-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (NASDAQ:PANW) Receives “Hold” Rating from Westpark Capital (Score: 2)
+- Summary: Westpark Capital reaffirmed their hold rating on shares of Palo Alto Networks (NASDAQ:PANW – Free Report) in a research report report published on Tuesday morning,Benzinga reports. Several other brokerages have also recently weighed in on PANW. Rosenblatt Sec…
+- Source: https://www.etfdailynews.com/2025/08/20/palo-alto-networks-nasdaqpanw-receives-hold-rating-from-westpark-capital/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Add to Your Watchlist – August 17th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, and CrowdStrike are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell, or implement products and services…
+- Source: https://www.etfdailynews.com/2025/08/20/cybersecurity-stocks-to-add-to-your-watchlist-august-17th/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (NASDAQ:PANW) Upgraded by Bank of America to “Buy” Rating (Score: 2)
+- Summary: Bank of America upgraded shares of Palo Alto Networks (NASDAQ:PANW – Free Report) from a neutral rating to a buy rating in a report published on Tuesday, MarketBeat.com reports. Bank of America currently has $215.00 price target on the network technology comp…
+- Source: https://www.etfdailynews.com/2025/08/20/palo-alto-networks-nasdaqpanw-upgraded-by-bank-of-america-to-buy-rating/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks (NASDAQ:PANW) Stock Price Expected to Rise, Scotiabank Analyst Says (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Free Report) had its price objective upped by Scotiabank from $225.00 to $228.00 in a report issued on Tuesday morning,Benzinga reports. They currently have a sector outperform rating on the network technology company’s stock…
+- Source: https://www.etfdailynews.com/2025/08/20/palo-alto-networks-nasdaqpanw-stock-price-expected-to-rise-scotiabank-analyst-says/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks (NASDAQ:PANW) Stock Price Up 4.8% After Better-Than-Expected Earnings (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) shares shot up 4.8% on Tuesday following a better than expected earnings announcement. The company traded as high as $189.00 and last traded at $184.56. 13,609,344 shares changed hands during mid-day tr…
+- Source: https://www.etfdailynews.com/2025/08/20/palo-alto-networks-nasdaqpanw-stock-price-up-4-8-after-better-than-expected-earnings/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Manufacturing Stocks Worth Watching – August 18th (Score: 2)
+- Summary: Palo Alto Networks, ServiceNow, Salesforce, Taiwan Semiconductor Manufacturing, and Applied Materials are the five Manufacturing stocks to watch today, according to MarketBeat’s stock screener tool. Manufacturing stocks are the materials and goods that a prod…
+- Source: https://www.etfdailynews.com/2025/08/20/manufacturing-stocks-worth-watching-august-18th/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Healthcare Stocks Worth Watching – August 18th (Score: 2)
+- Summary: UnitedHealth Group, Alphabet, Palo Alto Networks, ServiceNow, and Salesforce are the five Healthcare stocks to watch today, according to MarketBeat’s stock screener tool. Healthcare stocks are shares of publicly traded companies operating in the medical and l…
+- Source: https://www.etfdailynews.com/2025/08/20/healthcare-stocks-worth-watching-august-18th/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Energy Stocks Worth Watching – August 18th (Score: 2)
+- Summary: Tesla, Broadcom, First Solar, Palo Alto Networks, and AltC Acquisition are the five Energy stocks to watch today, according to MarketBeat’s stock screener tool. Energy stocks are shares of companies involved in the extraction, production, distribution or serv…
+- Source: https://www.etfdailynews.com/2025/08/20/top-energy-stocks-worth-watching-august-18th/
+- Date: 2025-08-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Stock is a Favorite of Value Investors After Its Latest Results (Score: 2)
+- Summary: Palo Alto Networks generated strong free cash flow (FCF) and FCF margins for its fiscal year ending July 31. Moreover, management projects strong FCF margins...
+- Source: https://www.barchart.com/story/news/34251803/palo-alto-networks-stock-is-a-favorite-of-value-investors-after-its-latest-results
+- Date: 2025-08-19
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PANW FY2026 EPS Estimate Decreased by Cantor Fitzgerald (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) – Stock analysts at Cantor Fitzgerald lowered their FY2026 earnings estimates for shares of Palo Alto Networks in a report issued on Friday, August 15th. Cantor Fitzgerald analyst J. Ruykhaver now anticipat…
+- Source: https://www.etfdailynews.com/2025/08/19/panw-fy2026-eps-estimate-decreased-by-cantor-fitzgerald/
+- Date: 2025-08-19
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Browser wars are back, predicts Palo Alto, thanks to AI (Score: 2)
+- Summary: CEO says if you buy all your infosec stuff from him, life under assault from bots will be less painful
+Brace for a new round of browser wars, according to Palo Alto Networks CEO Nikesh Arora.…
+- Source: https://www.theregister.com/2025/08/19/palo_alto_networks_q4_fy25/
+- Date: 2025-08-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Healthcare Stocks To Watch Now – August 17th (Score: 2)
+- Summary: UnitedHealth Group, Alphabet, Salesforce, Oracle, and Palo Alto Networks are the five Healthcare stocks to watch today, according to MarketBeat’s stock screener tool. Healthcare stocks are shares of publicly traded companies operating in the healthcare sector…
+- Source: https://www.etfdailynews.com/2025/08/19/top-healthcare-stocks-to-watch-now-august-17th/
+- Date: 2025-08-19
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity jobs available right now: August 19, 2025 (Score: 2)
+- Summary: Senior Cybersecurity Analyst DOT Security | USA | On-site – View job details As a Senior Cybersecurity Analyst, you will lead the investigation of real-time alerts from SIEM platforms and other security tools, ensuring timely identification of potential threa…
+- Source: https://www.helpnetsecurity.com/2025/08/19/cybersecurity-jobs-available-right-now-august-19-2025/
+- Date: 2025-08-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks founder Nir Zuk retires following strong fourth quarter (Score: 2)
+- Summary: Palo Alto Networks Inc. today announced that founder and Chief Technology Officer Nir Zuk has retired. The executive’s departure follows two major milestones for the company. In conjunction with the leadership change, Palo Alto Networks reported fiscal fourth…
+- Source: https://siliconangle.com/2025/08/18/palo-alto-networks-founder-nir-zuk-retires-following-strong-fourth-quarter/
+- Date: 2025-08-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Earnings Preview: Cybersecurity & AI Focus (Score: 2)
+- Summary: Palo Alto Networks Earnings Preview: Cybersecurity & AI Focus. Here's a closer look at what Wall Street expects will happen.
+- Source: https://www.forbes.com/sites/adamsarhan/2025/08/18/palo-alto-networks-earnings-preview-cybersecurity--ai-focus/
+- Date: 2025-08-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks’ (PANW) Overweight Rating Reiterated at Cantor Fitzgerald (Score: 2)
+- Summary: Cantor Fitzgerald reissued their overweight rating on shares of Palo Alto Networks (NASDAQ:PANW – Free Report) in a research report sent to investors on Friday morning,Benzinga reports. They currently have a $223.00 price target on the network technology comp…
+- Source: https://www.etfdailynews.com/2025/08/18/palo-alto-networks-panw-overweight-rating-reiterated-at-cantor-fitzgerald/
+- Date: 2025-08-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Telecom Stocks To Add to Your Watchlist – August 16th (Score: 2)
+- Summary: Broadcom, Palo Alto Networks, ServiceNow, AT&T, Coherent, Arista Networks, and Globant are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks represent shares of companies that build, maintain and operate co…
+- Source: https://www.etfdailynews.com/2025/08/18/telecom-stocks-to-add-to-your-watchlist-august-16th/
+- Date: 2025-08-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Watch Now – August 16th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, CrowdStrike, Fortinet, and Bullish are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide products an…
+- Source: https://www.etfdailynews.com/2025/08/18/promising-cybersecurity-stocks-to-watch-now-august-16th/
+- Date: 2025-08-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Energy Stocks To Follow Now – August 14th (Score: 2)
+- Summary: Tesla, Broadcom, AltC Acquisition, Expion360, GE Vernova, Caterpillar, and Palo Alto Networks are the seven Energy stocks to watch today, according to MarketBeat’s stock screener tool. Energy stocks are shares of publicly traded companies engaged in the explo…
+- Source: https://www.etfdailynews.com/2025/08/17/energy-stocks-to-follow-now-august-14th/
+- Date: 2025-08-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks (NASDAQ:PANW) Price Target Cut to $215.00 by Analysts at Rosenblatt Securities (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Free Report) had its price objective cut by Rosenblatt Securities from $235.00 to $215.00 in a report published on Thursday,Benzinga reports. They currently have a buy rating on the network technology company’s stock. Several…
+- Source: https://www.etfdailynews.com/2025/08/17/palo-alto-networks-nasdaqpanw-price-target-cut-to-215-00-by-analysts-at-rosenblatt-securities/
+- Date: 2025-08-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Financial Stocks To Add to Your Watchlist – August 13th (Score: 2)
+- Summary: BitMine Immersion Technologies, Robinhood Markets, Coinbase Global, UnitedHealth Group, Circle Internet Group, Palo Alto Networks, and Salesforce are the seven Financial stocks to watch today, according to MarketBeat’s stock screener tool. Financial stocks ar…
+- Source: https://www.etfdailynews.com/2025/08/16/top-financial-stocks-to-add-to-your-watchlist-august-13th/
+- Date: 2025-08-16
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Consider – August 14th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, and CrowdStrike are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell products and services—such as an…
+- Source: https://www.etfdailynews.com/2025/08/16/cybersecurity-stocks-to-consider-august-14th/
+- Date: 2025-08-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (PANW) Projected to Post Earnings on Monday (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report) is expected to issue its Q4 2025 quarterly earnings data after the market closes on Monday, August 18th. Analysts expect the company to announce earnings of $0.88 per share and revenue of $2.50 billion for th…
+- Source: https://www.etfdailynews.com/2025/08/16/palo-alto-networks-panw-projected-to-post-earnings-on-monday/
+- Date: 2025-08-16
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Telecom Stocks To Watch Today – August 13th (Score: 2)
+- Summary: Broadcom, Palo Alto Networks, ServiceNow, Arista Networks, Lumentum, Coherent, and Apollo Global Management are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of companies that provide telecom…
+- Source: https://www.etfdailynews.com/2025/08/15/best-telecom-stocks-to-watch-today-august-13th/
+- Date: 2025-08-15
+- Vendors: Palo Alto Networks
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
