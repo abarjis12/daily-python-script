@@ -15139,3 +15139,185 @@ ViewQwest Powers Next Stage of Enterprise Growth with Appointment of Chief Growt
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-09-03 13:41  ---
+
+Uniphore buys Orby AI and Autonom8 to extend its automation capabilities (Score: 3)
+- Summary: Uniphore Technologies Inc. has bought Orby AI Inc. and Autonom8 Inc., two startups that develop software for automating repetitive business tasks. The company announced the deals today without disclosing the financial terms.  Uniphore was valued at $2.5 billi…
+- Source: https://siliconangle.com/2025/08/28/uniphore-buys-orby-ai-autonom8-extend-automation-capabilities/
+- Date: 2025-08-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+From Human to Cyborg: Cybersecurity Visionary Len Noe Unveils Explosive Documentary ‘I Am Machine’ at Hacker Halted (Score: 3)
+- Summary: Atlanta, GA, Aug. 26, 2025 (GLOBE NEWSWIRE) -- EC-Council a global leader in cybersecurity education and training, and creator of world-renowned Certified Ethical Hacker (CEH) credential, announced today that renowned ethical hacker and cybersecurity futurist…
+- Source: https://www.globenewswire.com/news-release/2025/08/26/3139409/0/en/From-Human-to-Cyborg-Cybersecurity-Visionary-Len-Noe-Unveils-Explosive-Documentary-I-Am-Machine-at-Hacker-Halted.html
+- Date: 2025-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks data breach exposes customer info, support cases (Score: 2)
+- Summary: Palo Alto Networks suffered a data breach that exposed customer data and support cases after attackers abused compromised OAuth tokens from the Salesloft Drift breach to access its Salesforce instance. [...]
+- Source: https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-cases/
+- Date: 2025-09-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Cybersecurity Stocks To Add to Your Watchlist – August 30th (Score: 2)
+- Summary: Alphabet, Dell Technologies, CrowdStrike, Palo Alto Networks, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, se…
+- Source: https://www.etfdailynews.com/2025/09/02/promising-cybersecurity-stocks-to-add-to-your-watchlist-august-30th/
+- Date: 2025-09-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Stocks To Follow Today – August 31st (Score: 2)
+- Summary: Broadcom, ServiceNow, Arista Networks, Palo Alto Networks, and AT&T are the five Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide voice, data and video communicat…
+- Source: https://www.etfdailynews.com/2025/09/02/telecom-stocks-to-follow-today-august-31st/
+- Date: 2025-09-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Consider – August 31st (Score: 2)
+- Summary: Alphabet, Dell Technologies, CrowdStrike, Palo Alto Networks, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and…
+- Source: https://www.etfdailynews.com/2025/09/02/cybersecurity-stocks-to-consider-august-31st/
+- Date: 2025-09-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Add to Your Watchlist – August 28th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell products and services designed t…
+- Source: https://www.etfdailynews.com/2025/08/31/cybersecurity-stocks-to-add-to-your-watchlist-august-28th/
+- Date: 2025-08-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Follow Now – August 29th (Score: 2)
+- Summary: Alphabet, Dell Technologies, CrowdStrike, Palo Alto Networks, and SentinelOne are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell and …
+- Source: https://www.etfdailynews.com/2025/08/31/best-cybersecurity-stocks-to-follow-now-august-29th/
+- Date: 2025-08-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U.S. And Allies Declare Salt Typhoon Hack A National Defense Crisis (Score: 2)
+- Summary: FBI and allies declare Salt Typhoon cyber campaign a national defense crisis, exposing Chinese infiltration of global telecom networks across 80 countries.
+- Source: https://www.forbes.com/sites/emilsayegh/2025/08/30/us-and-allies-declare-salt-typhoon-hack-a-national-defense-crisis/
+- Date: 2025-08-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Stocks To Follow Now – August 28th (Score: 2)
+- Summary: Broadcom, ServiceNow, Arista Networks, Palo Alto Networks, Lumentum, CyberArk Software, and AT&T are the seven Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks represent shares in companies that build, maintain and …
+- Source: https://www.etfdailynews.com/2025/08/30/telecom-stocks-to-follow-now-august-28th/
+- Date: 2025-08-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Energy Stocks To Research – August 28th (Score: 2)
+- Summary: Tesla, Broadcom, AltC Acquisition, Oklo, GE Vernova, Vertiv, and Palo Alto Networks are the seven Energy stocks to watch today, according to MarketBeat’s stock screener tool. Energy stocks are shares of companies involved in the exploration, production, proce…
+- Source: https://www.etfdailynews.com/2025/08/30/promising-energy-stocks-to-research-august-28th/
+- Date: 2025-08-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Jim Cramer on Palo Alto Networks: “It Looks Real Good” (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW) is one of the stocks that Jim Cramer shared insight on. Cramer emphasized that the general public questions him about ...
+- Source: https://finance.yahoo.com/news/jim-cramer-palo-alto-networks-190528420.html
+- Date: 2025-08-29
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Frequently Asked Questions About Chinese State-Sponsored Actors Compromising Global Networks (Score: 2)
+- Summary: An analysis of Tenable telemetry data shows that the vulnerabilities being exploited by Chinese state-sponsored actors remain unremediated on a considerable number of devices, posing major risk to the organizations that have yet to successfully address these …
+- Source: https://www.tenable.com/blog/frequently-asked-questions-about-chinese-state-sponsored-actors-compromising-global-networks
+- Date: 2025-08-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Telecom Vendors Report 2Q 2025: Telco NI Vendor Revenues Hit $54.3 Billion in 2Q25, Signaling Recovery (Score: 2)
+- Summary: Key market opportunities in Telco Network Infrastructure include growth potential driven by AI-driven digital transformation and strong performances by companies like Dixon Technologies, Wiwynn, and Broadcom. There's also potential for vendors focusing on dig…
+- Source: https://www.globenewswire.com/news-release/2025/08/29/3141383/28124/en/Telecom-Vendors-Report-2Q-2025-Telco-NI-Vendor-Revenues-Hit-54-3-Billion-in-2Q25-Signaling-Recovery.html
+- Date: 2025-08-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Contrasting Palo Alto Networks (NASDAQ:PANW) & SentinelOne (NYSE:S) (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report) and SentinelOne (NYSE:S – Get Free Report) are both computer and technology companies, but which is the superior stock? We will compare the two businesses based on the strength of their risk, institutional ow…
+- Source: https://www.etfdailynews.com/2025/08/29/contrasting-palo-alto-networks-nasdaqpanw-sentinelone-nyses/
+- Date: 2025-08-29
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-mcp-relay 0.0.4b1 (Score: 2)
+- Summary: Palo Alto Networks AI Security MCP Relay
+- Source: https://pypi.org/project/pan-mcp-relay/0.0.4b1/
+- Date: 2025-08-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-mcp-relay added to PyPI (Score: 2)
+- Summary: Palo Alto Networks AI Security MCP Relay
+- Source: https://pypi.org/project/pan-mcp-relay/
+- Date: 2025-08-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Industry Company Evaluation Report 2025 | Palo Alto Networks, Cisco, and FortinetLead with AI-Integrated Solutions and Global Enterprise Protection (Score: 2)
+- Summary: The Cybersecurity Companies Quadrant provides an in-depth analysis of the global cybersecurity market. The '360 Quadrants' identified the Top 38 Cybersecurity Companies, highlighting leaders like Palo Alto Networks, Cisco, and Fortinet. As cyber threats such …
+- Source: https://www.globenewswire.com/news-release/2025/08/28/3140967/28124/en/Cybersecurity-Industry-Company-Evaluation-Report-2025-Palo-Alto-Networks-Cisco-and-FortinetLead-with-AI-Integrated-Solutions-and-Global-Enterprise-Protection.html
+- Date: 2025-08-28
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Salt Typhoon Exploits Cisco, Ivanti, Palo Alto Flaws to Breach 600 Organizations Worldwide (Score: 2)
+- Summary: The China-linked advanced persistent threat (APT) actor known as Salt Typhoon has continued its attacks targeting networks across the world, including organizations in the telecommunications, government, transportation, lodging, and military infrastructure se…
+- Source: https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html
+- Date: 2025-08-28
+- Vendors: Cisco
+- Topics: None
+
+Is Palo Alto Networks Stock a Buy Now? (Score: 2)
+- Summary: Palo Alto Networks remains one of the most compelling names in cybersecurity.
+- Source: https://www.barchart.com/story/news/34448284/is-palo-alto-networks-stock-a-buy-now
+- Date: 2025-08-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks Worth Watching – August 25th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Fortinet, Dell Technologies, Bullish, and QXO are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develo…
+- Source: https://www.etfdailynews.com/2025/08/28/best-cybersecurity-stocks-worth-watching-august-25th/
+- Date: 2025-08-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Energy Stocks To Add to Your Watchlist – August 25th (Score: 2)
+- Summary: Tesla, Broadcom, AltC Acquisition, GE Vernova, and Palo Alto Networks are the five Energy stocks to watch today, according to MarketBeat’s stock screener tool. Energy stocks are shares of companies involved in the exploration, production, refining and distrib…
+- Source: https://www.etfdailynews.com/2025/08/28/promising-energy-stocks-to-add-to-your-watchlist-august-25th/
+- Date: 2025-08-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Telecom Stocks To Add to Your Watchlist – August 25th (Score: 2)
+- Summary: Broadcom, Palo Alto Networks, Arista Networks, ServiceNow, and Verint Systems are the five Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies whose primary business involves the…
+- Source: https://www.etfdailynews.com/2025/08/28/best-telecom-stocks-to-add-to-your-watchlist-august-25th/
+- Date: 2025-08-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Manufacturing Stocks To Consider – August 25th (Score: 2)
+- Summary: Rocket Lab, Taiwan Semiconductor Manufacturing, GE Vernova, Oracle, Palo Alto Networks, Salesforce, and Riot Platforms are the seven Manufacturing stocks to watch today, according to MarketBeat’s stock screener tool. Manufacturing stocks are the raw materials…
+- Source: https://www.etfdailynews.com/2025/08/28/manufacturing-stocks-to-consider-august-25th/
+- Date: 2025-08-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Healthcare Stocks To Watch Now – August 25th (Score: 2)
+- Summary: Alphabet, UnitedHealth Group, Oracle, Palo Alto Networks, Salesforce, Tempus AI, and Johnson & Johnson are the seven Healthcare stocks to watch today, according to MarketBeat’s stock screener tool. Healthcare stocks are shares of publicly traded companies ope…
+- Source: https://www.etfdailynews.com/2025/08/28/top-healthcare-stocks-to-watch-now-august-25th/
+- Date: 2025-08-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
