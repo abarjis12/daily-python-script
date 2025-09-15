@@ -17332,3 +17332,186 @@ Top 19 Companies Leading the Middle East Cybersecurity Market in 2025 and Beyond
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-09-15 13:39  ---
+
+Enterprise Leaders Issue Industry Manifesto to Mandate Mplify SASE Certification Amid Rising AI-Driven Cyber Threats (Score: 4)
+- Summary: Mplify’s Enterprise Leadership Council issued a manifesto urging mandatory SASE certification for all offerings under the Mplify framework.......
+- Source: https://www.globenewswire.com/news-release/2025/09/10/3147850/0/en/Enterprise-Leaders-Issue-Industry-Manifesto-to-Mandate-Mplify-SASE-Certification-Amid-Rising-AI-Driven-Cyber-Threats.html
+- Date: 2025-09-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Asia-Pacific Router and Switch Market Review 2019-2025 and Forecast to 2030 Featuring Profiles of Key Players - Cisco, Dell, Hewlett Packard Enterprise, Huawei Technologies, Broadcom and More (Score: 3)
+- Summary: Diverse regional demand, growing cloud/edge computing, and government initiatives fuel robust network infrastructure needs, highlighting opportunities in high-performance and scalable solutions Diverse regional demand, growing cloud/edge computing, and govern…
+- Source: https://www.globenewswire.com/news-release/2025/09/11/3148707/28124/en/Asia-Pacific-Router-and-Switch-Market-Review-2019-2025-and-Forecast-to-2030-Featuring-Profiles-of-Key-Players-Cisco-Dell-Hewlett-Packard-Enterprise-Huawei-Technologies-Broadcom-and.html
+- Date: 2025-09-11
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Modern Wealth Management LLC Has $984,000 Stock Holdings in Palo Alto Networks, Inc. $PANW (Score: 2)
+- Summary: Modern Wealth Management LLC lessened its holdings in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 2.9% in the first quarter, Holdings Channel.com reports. The fund owned 5,766 shares of the network technology company’s stock after sellin…
+- Source: https://www.etfdailynews.com/2025/09/14/modern-wealth-management-llc-has-984000-stock-holdings-in-palo-alto-networks-inc-panw/
+- Date: 2025-09-14
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Inc. (PANW) Targets $15B in Recurring Revenue (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best tech stocks to buy for the long term. On September 4, the company’s CEO, Nikesh Arora, reiterated...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-inc-panw-135328221.html
+- Date: 2025-09-13
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Cybersecurity Stocks To Keep An Eye On – September 11th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and deliver products and services—such as…
+- Source: https://www.etfdailynews.com/2025/09/13/top-cybersecurity-stocks-to-keep-an-eye-on-september-11th/
+- Date: 2025-09-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Keep An Eye On – September 10th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, Dell Technologies, CrowdStrike, Fortinet, Emerson Electric, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies tha…
+- Source: https://www.etfdailynews.com/2025/09/12/best-cybersecurity-stocks-to-keep-an-eye-on-september-10th/
+- Date: 2025-09-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) Short Interest Update (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) saw a large increase in short interest in the month of August. As of August 15th, there was short interest totaling 45,790,000 shares, an increase of 33.2% from the July 31st total of 34,380,000 shares.…
+- Source: https://www.etfdailynews.com/2025/09/11/palo-alto-networks-inc-nasdaqpanw-short-interest-update/
+- Date: 2025-09-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks (PANW) Unveils Browser-Based Security Solution as Recurring Revenue Grows 35% (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best cybersecurity stocks to buy right now. On September 4, the company unveiled a new security solution ...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-panw-unveils-113526446.html
+- Date: 2025-09-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Watch Now – September 8th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Fortinet, Dell Technologies, Motorola Solutions, and Bullish are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded compan…
+- Source: https://www.etfdailynews.com/2025/09/10/promising-cybersecurity-stocks-to-watch-now-september-8th/
+- Date: 2025-09-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. $PANW Stock Position Cut by State of Wyoming (Score: 2)
+- Summary: State of Wyoming decreased its holdings in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 65.6% in the 1st quarter, HoldingsChannel.com reports. The firm owned 358 shares of the network technology company’s stock after selling 684 shares du…
+- Source: https://www.etfdailynews.com/2025/09/09/palo-alto-networks-inc-panw-stock-position-cut-by-state-of-wyoming/
+- Date: 2025-09-09
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Telecom Stocks To Research – September 7th (Score: 2)
+- Summary: Broadcom, Arista Networks, ServiceNow, Palo Alto Networks, and Lumentum are the five Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are equity shares of companies that provide telecommunications services—such as f…
+- Source: https://www.etfdailynews.com/2025/09/09/top-telecom-stocks-to-research-september-7th/
+- Date: 2025-09-09
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Cybersecurity Stocks To Add to Your Watchlist – September 7th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, CrowdStrike, Fortinet, and Dell Technologies are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies whose primary business is …
+- Source: https://www.etfdailynews.com/2025/09/09/best-cybersecurity-stocks-to-add-to-your-watchlist-september-7th/
+- Date: 2025-09-09
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jim Cramer Says Palo Alto Networks “Can Keep Climbing” (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW) is one of the stocks Jim Cramer shared insights on. During the episode, Cramer discussed the company’s decision to...
+- Source: https://finance.yahoo.com/news/jim-cramer-says-palo-alto-155853244.html
+- Date: 2025-09-08
+- Vendors: Palo Alto Networks
+- Topics: None
+
+How to Watch Washburn vs Colorado School of Mines: Live Stream College Football, TV Channel (Score: 0)
+- Summary: The Washburn Ichabods will take on the Colorado School of Mines Orediggers on Saturday at Alumni Field at Mary Kay Stadium.
+- Source: https://www.newsweek.com/sports/ncaa/how-watch-washburn-vs-colorado-school-mines-live-stream-college-football-tv-channel-2129171
+- Date: 2025-09-13
+- Vendors: None
+- Topics: None
+
+How to Watch Mount Union vs Grove City: Live Stream College Football, TV Channel (Score: 0)
+- Summary: The Mount Union Raiders will take on the Grove City Wolverines on Saturday at Robert E. Thorn Field in what should be an exciting college football matchup.
+- Source: https://www.newsweek.com/sports/ncaa/how-watch-mount-union-vs-grove-city-live-stream-college-football-tv-channel-2129170
+- Date: 2025-09-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+paloalto-edl-deduplicator 0.1.0 (Score: 0)
+- Summary: A Python package for deduplicating IP addresses and URLs in External Dynamic Lists (EDLs) used with Palo Alto firewalls
+- Source: https://pypi.org/project/paloalto-edl-deduplicator/0.1.0/
+- Date: 2025-09-13
+- Vendors: None
+- Topics: None
+
+paloalto-edl-deduplicator added to PyPI (Score: 0)
+- Summary: A Python package for deduplicating IP addresses and URLs in External Dynamic Lists (EDLs) used with Palo Alto firewalls
+- Source: https://pypi.org/project/paloalto-edl-deduplicator/
+- Date: 2025-09-13
+- Vendors: None
+- Topics: None
+
+From product to platform: How CrowdStrike navigates to durable growth (Score: 0)
+- Summary: We believe CrowdStrike Holdings Inc. has re-established growth momentum while still working through the financial and reputational overhang of the July 19, 2024 global outage. The company recently delivered net new annual recurring revenue reacceleration ahea…
+- Source: https://siliconangle.com/2025/09/13/product-platform-crowdstrike-navigates-durable-growth/
+- Date: 2025-09-13
+- Vendors: None
+- Topics: None
+
+ACC Rooting Guide: Week 3 (Score: 0)
+- Summary: One big conference matchup leads Week 3’s slate.
+- Source: https://www.stateoftheu.com/football-news/77116/acc-rooting-guide-week-3
+- Date: 2025-09-12
+- Vendors: None
+- Topics: None
+
+Interest in public involvement, engagement and participation in research among patients with asthma: A secondary analysis of the EPI-ASTHMA study (Score: 0)
+- Summary: Patient and Public Involvement, Engagement and Participation (PPIEP) is essential in asthma research due to the disease’s complexity. However, information regarding the characteristics of patients with asthma interested in engaging in PPIEP initiatives is sca…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332220
+- Date: 2025-09-12
+- Vendors: None
+- Topics: None
+
+Apple Inc. $AAPL is Palo Alto Wealth Advisors LLC’s 10th Largest Position (Score: 0)
+- Summary: Palo Alto Wealth Advisors LLC reduced its position in Apple Inc. (NASDAQ:AAPL – Free Report) by 9.9% in the first quarter, Holdings Channel.com reports. The fund owned 31,003 shares of the iPhone maker’s stock after selling 3,409 shares during the period. App…
+- Source: https://www.etfdailynews.com/2025/09/12/apple-inc-aapl-is-palo-alto-wealth-advisors-llcs-10th-largest-position/
+- Date: 2025-09-12
+- Vendors: None
+- Topics: None
+
+How to Watch Colorado State-Pueblo vs Central Missouri: Live Stream College Football, TV Channel (Score: 0)
+- Summary: Colorado State-Pueblo faces Central Missouri on Thursday at Walton Stadium in a Week 3 college football matchup.
+- Source: https://www.newsweek.com/sports/ncaa/how-watch-colorado-state-pueblo-vs-central-missouri-live-stream-college-football-tv-channel-2127293
+- Date: 2025-09-11
+- Vendors: None
+- Topics: None
+
+How to Watch Fort Valley State vs Clark Atlanta: Live Stream College Football, TV Channel (Score: 0)
+- Summary: Fort Valley State will take on Clark Atlanta on Thursday at Panther Stadium in an exciting Week 3 college football matchup.
+- Source: https://www.newsweek.com/sports/ncaa/how-watch-fort-valley-state-vs-clark-atlanta-live-stream-college-football-tv-channel-2127236
+- Date: 2025-09-11
+- Vendors: None
+- Topics: None
+
+Beaches and breaches (Score: 0)
+- Summary: Thor examines why supply chain and identity attacks took center stage in this week’s headlines, rather than AI and ransomware.
+- Source: https://blog.talosintelligence.com/beaches-and-breaches/
+- Date: 2025-09-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SonicWall SSL VPN Flaw and Misconfigurations Actively Exploited by Akira Ransomware Hackers (Score: 0)
+- Summary: Threat actors affiliated with the Akira ransomware group have continued to target SonicWall devices for initial access.
+Cybersecurity firm Rapid7 said it observed a spike in intrusions involving SonicWall appliances over the past month, particularly following…
+- Source: https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html
+- Date: 2025-09-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
