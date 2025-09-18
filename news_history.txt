@@ -17897,3 +17897,202 @@ paloalto-edl-deduplicator added to PyPI (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-09-18 13:41  ---
+
+Cybersecurity startup Vega gets $65M in funding to replace SIEM with SAM (Score: 4)
+- Summary: Israeli security operations startup Vega Ltd. said today its artificial intelligence-native threat detection platform is ready to rip out and replace legacy security information and event management or SIEM tools after raising $65 million in funding. The fund…
+- Source: https://siliconangle.com/2025/09/16/cybersecurity-startup-vega-gets-65m-funding-replace-siem-sam/
+- Date: 2025-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+At CrowdStrike Fal.con, CEO George Kurtz says AI can help it become the top cybersecurity platform (Score: 4)
+- Summary: Cybersecurity is already the No. 1 challenge facing most enterprises, and now artificial intelligence is providing both potent new tools to battle attackers and making it easier for those attackers as well. CrowdStrike Holdings Inc. is aiming to leverage AI t…
+- Source: https://siliconangle.com/2025/09/16/crowdstrike-fal-con-ceo-george-kurtz-says-ai-can-help-become-top-cybersecurity-platform/
+- Date: 2025-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Asia-Pacific Router and Switch Market Review 2019-2025 and Forecast to 2030 Featuring Profiles of Key Players - Cisco, Dell, Hewlett Packard Enterprise, Huawei Technologies, Broadcom and More (Score: 3)
+- Summary: Diverse regional demand, growing cloud/edge computing, and government initiatives fuel robust network infrastructure needs, highlighting opportunities in high-performance and scalable solutions Diverse regional demand, growing cloud/edge computing, and govern…
+- Source: https://www.globenewswire.com/news-release/2025/09/11/3148707/28124/en/Asia-Pacific-Router-and-Switch-Market-Review-2019-2025-and-Forecast-to-2030-Featuring-Profiles-of-Key-Players-Cisco-Dell-Hewlett-Packard-Enterprise-Huawei-Technologies-Broadcom-and.html
+- Date: 2025-09-11
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Wedbush Reiterates Outperform Rating for Palo Alto Networks (NASDAQ:PANW) (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report)‘s stock had its “outperform” rating reaffirmed by Wedbush in a research note issued on Monday,Benzinga reports. They presently have a $225.00 price target on the network technology company’s stock. Wedbush’s …
+- Source: https://www.etfdailynews.com/2025/09/17/wedbush-reiterates-outperform-rating-for-palo-alto-networks-nasdaqpanw/
+- Date: 2025-09-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Follow Today – September 14th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, of…
+- Source: https://www.etfdailynews.com/2025/09/16/cybersecurity-stocks-to-follow-today-september-14th/
+- Date: 2025-09-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days & More (Score: 2)
+- Summary: In a world where threats are persistent, the modern CISO’s real job isn't just to secure technology—it's to preserve institutional trust and ensure business continuity.
+This week, we saw a clear pattern: adversaries are targeting the complex relationships tha…
+- Source: https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html
+- Date: 2025-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Add to Your Watchlist – September 12th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Fortinet are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide d…
+- Source: https://www.etfdailynews.com/2025/09/15/best-cybersecurity-stocks-to-add-to-your-watchlist-september-12th/
+- Date: 2025-09-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Watch Now – September 13th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Motorola Solutions, Fortinet, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks represent shares in compani…
+- Source: https://www.etfdailynews.com/2025/09/15/best-cybersecurity-stocks-to-watch-now-september-13th/
+- Date: 2025-09-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Modern Wealth Management LLC Has $984,000 Stock Holdings in Palo Alto Networks, Inc. $PANW (Score: 2)
+- Summary: Modern Wealth Management LLC lessened its holdings in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 2.9% in the first quarter, Holdings Channel.com reports. The fund owned 5,766 shares of the network technology company’s stock after sellin…
+- Source: https://www.etfdailynews.com/2025/09/14/modern-wealth-management-llc-has-984000-stock-holdings-in-palo-alto-networks-inc-panw/
+- Date: 2025-09-14
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Inc. (PANW) Targets $15B in Recurring Revenue (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best tech stocks to buy for the long term. On September 4, the company’s CEO, Nikesh Arora, reiterated...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-inc-panw-135328221.html
+- Date: 2025-09-13
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Cybersecurity Stocks To Keep An Eye On – September 11th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and deliver products and services—such as…
+- Source: https://www.etfdailynews.com/2025/09/13/top-cybersecurity-stocks-to-keep-an-eye-on-september-11th/
+- Date: 2025-09-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Keep An Eye On – September 10th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, Dell Technologies, CrowdStrike, Fortinet, Emerson Electric, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies tha…
+- Source: https://www.etfdailynews.com/2025/09/12/best-cybersecurity-stocks-to-keep-an-eye-on-september-10th/
+- Date: 2025-09-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. (NASDAQ:PANW) Short Interest Update (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) saw a large increase in short interest in the month of August. As of August 15th, there was short interest totaling 45,790,000 shares, an increase of 33.2% from the July 31st total of 34,380,000 shares.…
+- Source: https://www.etfdailynews.com/2025/09/11/palo-alto-networks-inc-nasdaqpanw-short-interest-update/
+- Date: 2025-09-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Denodo Platform 9.3 Now Available with Breakthrough Support for AI Innovation (Score: 0)
+- Summary: Platform enhancements, including the release of Denodo DeepQuery, solidify Denodo as a foundation for AI PALO ALTO, Calif., Sept. 16, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced further support for AI innovation with the availabilit…
+- Source: https://financialpost.com/globe-newswire/denodo-platform-9-3-now-available-with-breakthrough-support-for-ai-innovation
+- Date: 2025-09-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jaguar Land Rover extends shutdown after cyberattack by another week (Score: 0)
+- Summary: Jaguar Land Rover (JLR) announced today that it will extend the production shutdown for another week, following a devastating cyberattack that impacted its systems at the end of August. [...]
+- Source: https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/
+- Date: 2025-09-16
+- Vendors: None
+- Topics: None
+
+Vulnerability Summary for the Week of September 8, 2025 (Score: 0)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+</tr>
+
+
+
+<tr>
+<td>Adobe--Acrobat Reader</td>
+<td>Acrobat Reader versions 24.001.30254, 20.005.30774, 25.00…
+- Source: https://www.cisa.gov/news-events/bulletins/sb25-258
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+Salesforce platforms are being cracked open for data theft - FBI warns of UNC6040 and UNC6395 IOCs (Score: 0)
+- Summary: Two groups are going after data held in Salesforce accounts using unique methods.
+- Source: https://www.techradar.com/pro/security/salesforce-platforms-are-being-cracked-open-for-data-theft-fbi-warns-of-unc6040-and-unc6395-iocs
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+Bioethanol Market Size to Expected to Reach USD 86.5 Bn by 2034 Rising Demand for Renewable Energy and Supportive Government Policies (Score: 0)
+- Summary: The global bioethanol market size is predicted to increase from USD 89.22 billion in 2025 and is estimated to hit around USD 124.16 billion by 2034, growing at a CAGR of 3.68% from 2025 to 2034. A study published by Statifacts a sister firm of Precedence Rese…
+- Source: https://www.globenewswire.com/news-release/2025/09/15/3150151/0/en/Bioethanol-Market-Size-to-Expected-to-Reach-USD-86-5-Bn-by-2034-Rising-Demand-for-Renewable-Energy-and-Supportive-Government-Policies.html
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+Is Fortinet Stock Underperforming the Nasdaq? (Score: 0)
+- Summary: Fortinet has underperformed the Nasdaq over the past year, and analysts are cautious about the stock’s prospects.
+- Source: https://www.barchart.com/story/news/34811400/is-fortinet-stock-underperforming-the-nasdaq
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+What is mobile threat defense (MTD)? (Score: 0)
+- Summary: Mobile threat defense (MTD) software protects organizations and individuals from security threats on mobile platforms.
+- Source: https://www.techtarget.com/searchmobilecomputing/definition/Mobile-Threat-Defense-MTD
+- Date: 2025-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data (Score: 0)
+- Summary: The FBI has issued a FLASH alert warning that two threat clusters, tracked as UNC6040 and UNC6395, are compromising organizations' Salesforce environments to steal data and extort victims. [...]
+- Source: https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/
+- Date: 2025-09-14
+- Vendors: None
+- Topics: None
+
+Feds defend recommending 'nation-building projects' already far along in development (Score: 0)
+- Summary: The federal government announced this week the five major projects it intends to fast-track. Now, Energy Minister Tim Hodgson is pushing back against Conservative critiques that the list is nothing special because some projects were already well in developmen…
+- Source: https://www.cbc.ca/news/politics/hodgson-projects-development-1.7633419
+- Date: 2025-09-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How to Watch Washburn vs Colorado School of Mines: Live Stream College Football, TV Channel (Score: 0)
+- Summary: The Washburn Ichabods will take on the Colorado School of Mines Orediggers on Saturday at Alumni Field at Mary Kay Stadium.
+- Source: https://www.newsweek.com/sports/ncaa/how-watch-washburn-vs-colorado-school-mines-live-stream-college-football-tv-channel-2129171
+- Date: 2025-09-13
+- Vendors: None
+- Topics: None
+
+How to Watch Mount Union vs Grove City: Live Stream College Football, TV Channel (Score: 0)
+- Summary: The Mount Union Raiders will take on the Grove City Wolverines on Saturday at Robert E. Thorn Field in what should be an exciting college football matchup.
+- Source: https://www.newsweek.com/sports/ncaa/how-watch-mount-union-vs-grove-city-live-stream-college-football-tv-channel-2129170
+- Date: 2025-09-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+paloalto-edl-deduplicator 0.1.0 (Score: 0)
+- Summary: A Python package for deduplicating IP addresses and URLs in External Dynamic Lists (EDLs) used with Palo Alto firewalls
+- Source: https://pypi.org/project/paloalto-edl-deduplicator/0.1.0/
+- Date: 2025-09-13
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
