@@ -18096,3 +18096,202 @@ paloalto-edl-deduplicator 0.1.0 (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-09-19 13:42  ---
+
+Upscale AI gets $100M for a new kind of AI networking infrastructure built on open standards (Score: 6)
+- Summary: Artificial intelligence is putting existing networks under immense strain, and they have emerged as one of the major constraints on the development of more powerful large language models and AI algorithms. To solve this problem, what’s required is an entirely…
+- Source: https://siliconangle.com/2025/09/17/upscale-ai-gets-100m-new-kind-ai-networking-infrastructure-built-open-standards/
+- Date: 2025-09-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity startup Vega gets $65M in funding to replace SIEM with SAM (Score: 4)
+- Summary: Israeli security operations startup Vega Ltd. said today its artificial intelligence-native threat detection platform is ready to rip out and replace legacy security information and event management or SIEM tools after raising $65 million in funding. The fund…
+- Source: https://siliconangle.com/2025/09/16/cybersecurity-startup-vega-gets-65m-funding-replace-siem-sam/
+- Date: 2025-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+At CrowdStrike Fal.con, CEO George Kurtz says AI can help it become the top cybersecurity platform (Score: 4)
+- Summary: Cybersecurity is already the No. 1 challenge facing most enterprises, and now artificial intelligence is providing both potent new tools to battle attackers and making it easier for those attackers as well. CrowdStrike Holdings Inc. is aiming to leverage AI t…
+- Source: https://siliconangle.com/2025/09/16/crowdstrike-fal-con-ceo-george-kurtz-says-ai-can-help-become-top-cybersecurity-platform/
+- Date: 2025-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Asia-Pacific Router and Switch Market Review 2019-2025 and Forecast to 2030 Featuring Profiles of Key Players - Cisco, Dell, Hewlett Packard Enterprise, Huawei Technologies, Broadcom and More (Score: 3)
+- Summary: Diverse regional demand, growing cloud/edge computing, and government initiatives fuel robust network infrastructure needs, highlighting opportunities in high-performance and scalable solutions Diverse regional demand, growing cloud/edge computing, and govern…
+- Source: https://www.globenewswire.com/news-release/2025/09/11/3148707/28124/en/Asia-Pacific-Router-and-Switch-Market-Review-2019-2025-and-Forecast-to-2030-Featuring-Profiles-of-Key-Players-Cisco-Dell-Hewlett-Packard-Enterprise-Huawei-Technologies-Broadcom-and.html
+- Date: 2025-09-11
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – September 15th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Tyler Technologies, and Bullish are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded compan…
+- Source: https://www.etfdailynews.com/2025/09/18/cybersecurity-stocks-to-consider-september-15th/
+- Date: 2025-09-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Telecom Stocks To Consider – September 16th (Score: 2)
+- Summary: Broadcom, Arista Networks, CyberArk Software, ServiceNow, and Palo Alto Networks are the five Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide telecommunications …
+- Source: https://www.etfdailynews.com/2025/09/18/top-telecom-stocks-to-consider-september-16th/
+- Date: 2025-09-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Wedbush Reiterates Outperform Rating for Palo Alto Networks (NASDAQ:PANW) (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report)‘s stock had its “outperform” rating reaffirmed by Wedbush in a research note issued on Monday,Benzinga reports. They presently have a $225.00 price target on the network technology company’s stock. Wedbush’s …
+- Source: https://www.etfdailynews.com/2025/09/17/wedbush-reiterates-outperform-rating-for-palo-alto-networks-nasdaqpanw/
+- Date: 2025-09-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity Stocks To Follow Today – September 14th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Motorola Solutions are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, of…
+- Source: https://www.etfdailynews.com/2025/09/16/cybersecurity-stocks-to-follow-today-september-14th/
+- Date: 2025-09-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days & More (Score: 2)
+- Summary: In a world where threats are persistent, the modern CISO’s real job isn't just to secure technology—it's to preserve institutional trust and ensure business continuity.
+This week, we saw a clear pattern: adversaries are targeting the complex relationships tha…
+- Source: https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html
+- Date: 2025-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Add to Your Watchlist – September 12th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, and Fortinet are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide d…
+- Source: https://www.etfdailynews.com/2025/09/15/best-cybersecurity-stocks-to-add-to-your-watchlist-september-12th/
+- Date: 2025-09-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Watch Now – September 13th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Motorola Solutions, Fortinet, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks represent shares in compani…
+- Source: https://www.etfdailynews.com/2025/09/15/best-cybersecurity-stocks-to-watch-now-september-13th/
+- Date: 2025-09-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Modern Wealth Management LLC Has $984,000 Stock Holdings in Palo Alto Networks, Inc. $PANW (Score: 2)
+- Summary: Modern Wealth Management LLC lessened its holdings in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 2.9% in the first quarter, Holdings Channel.com reports. The fund owned 5,766 shares of the network technology company’s stock after sellin…
+- Source: https://www.etfdailynews.com/2025/09/14/modern-wealth-management-llc-has-984000-stock-holdings-in-palo-alto-networks-inc-panw/
+- Date: 2025-09-14
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Inc. (PANW) Targets $15B in Recurring Revenue (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best tech stocks to buy for the long term. On September 4, the company’s CEO, Nikesh Arora, reiterated...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-inc-panw-135328221.html
+- Date: 2025-09-13
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Top Cybersecurity Stocks To Keep An Eye On – September 11th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and deliver products and services—such as…
+- Source: https://www.etfdailynews.com/2025/09/13/top-cybersecurity-stocks-to-keep-an-eye-on-september-11th/
+- Date: 2025-09-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Keep An Eye On – September 10th (Score: 2)
+- Summary: Alphabet, Palo Alto Networks, Dell Technologies, CrowdStrike, Fortinet, Emerson Electric, and Motorola Solutions are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies tha…
+- Source: https://www.etfdailynews.com/2025/09/12/best-cybersecurity-stocks-to-keep-an-eye-on-september-10th/
+- Date: 2025-09-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Smart money is betting on DePIN across emerging markets (Score: 0)
+- Summary: While Silicon Valley dominates Web2, emerging markets like the UAE and Singapore lead DePIN adoption with better regulations and real infrastructure needs.
+- Source: https://cointelegraph.com/news/future-of-depin
+- Date: 2025-09-18
+- Vendors: None
+- Topics: None
+
+The next 100 days for Mark Carney: The honeymoon is over for the freshman PM (Score: 0)
+- Summary: The next four months will be more challenging for Canada's new prime minister than the first four — and the cracks are already showing.
+- Source: https://nationalpost.com/feature/next-100-days-mark-carney
+- Date: 2025-09-18
+- Vendors: None
+- Topics: None
+
+CrowdStrike’s V-shaped recovery and cybersecurity’s future: TheCUBE’s day 1 keynote analysis at Fal.Con 2025 (Score: 0)
+- Summary: In July 2024, a widespread outage rattled CrowdStrike Inc.’s customers, with nearly 96% impacted, according to an ETR survey cited by theCUBE Research. Instead of denial, CrowdStrike leaned into transparency — offering steep discounts, rolling out its Falcon …
+- Source: https://siliconangle.com/2025/09/17/crowdstrike-recovery-cybersecurity-thecube-1-keynote-crowdstrikefalcon/
+- Date: 2025-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Show HN: I did a 4 hour conversational audiobook on the history of data centers (Score: 0)
+- Summary: Hi HN!I put together a 4-hour conversational audiobook tracing their history—from IBM punch cards to the internet, the cloud, hyperscalers, and today’s AI factories.It’s part of a new long-form series on the history of infrastructure (first two episodes were …
+- Source: https://www.stepchange.show/p/data-centers-the-hidden-backbone
+- Date: 2025-09-17
+- Vendors: IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Platform 9.3 Now Available with Breakthrough Support for AI Innovation (Score: 0)
+- Summary: Platform enhancements, including the release of Denodo DeepQuery, solidify Denodo as a foundation for AI PALO ALTO, Calif., Sept. 16, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced further support for AI innovation with the availabilit…
+- Source: https://financialpost.com/globe-newswire/denodo-platform-9-3-now-available-with-breakthrough-support-for-ai-innovation
+- Date: 2025-09-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jaguar Land Rover extends shutdown after cyberattack by another week (Score: 0)
+- Summary: Jaguar Land Rover (JLR) announced today that it will extend the production shutdown for another week, following a devastating cyberattack that impacted its systems at the end of August. [...]
+- Source: https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/
+- Date: 2025-09-16
+- Vendors: None
+- Topics: None
+
+Vulnerability Summary for the Week of September 8, 2025 (Score: 0)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+</tr>
+
+
+
+<tr>
+<td>Adobe--Acrobat Reader</td>
+<td>Acrobat Reader versions 24.001.30254, 20.005.30774, 25.00…
+- Source: https://www.cisa.gov/news-events/bulletins/sb25-258
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+Salesforce platforms are being cracked open for data theft - FBI warns of UNC6040 and UNC6395 IOCs (Score: 0)
+- Summary: Two groups are going after data held in Salesforce accounts using unique methods.
+- Source: https://www.techradar.com/pro/security/salesforce-platforms-are-being-cracked-open-for-data-theft-fbi-warns-of-unc6040-and-unc6395-iocs
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+Bioethanol Market Size to Expected to Reach USD 86.5 Bn by 2034 Rising Demand for Renewable Energy and Supportive Government Policies (Score: 0)
+- Summary: The global bioethanol market size is predicted to increase from USD 89.22 billion in 2025 and is estimated to hit around USD 124.16 billion by 2034, growing at a CAGR of 3.68% from 2025 to 2034. A study published by Statifacts a sister firm of Precedence Rese…
+- Source: https://www.globenewswire.com/news-release/2025/09/15/3150151/0/en/Bioethanol-Market-Size-to-Expected-to-Reach-USD-86-5-Bn-by-2034-Rising-Demand-for-Renewable-Energy-and-Supportive-Government-Policies.html
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+Is Fortinet Stock Underperforming the Nasdaq? (Score: 0)
+- Summary: Fortinet has underperformed the Nasdaq over the past year, and analysts are cautious about the stock’s prospects.
+- Source: https://www.barchart.com/story/news/34811400/is-fortinet-stock-underperforming-the-nasdaq
+- Date: 2025-09-15
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
