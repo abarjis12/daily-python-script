@@ -19032,3 +19032,187 @@ Smart money is betting on DePIN across emerging markets (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-09-24 13:43  ---
+
+Upscale AI gets $100M for a new kind of AI networking infrastructure built on open standards (Score: 6)
+- Summary: Artificial intelligence is putting existing networks under immense strain, and they have emerged as one of the major constraints on the development of more powerful large language models and AI algorithms. To solve this problem, what’s required is an entirely…
+- Source: https://siliconangle.com/2025/09/17/upscale-ai-gets-100m-new-kind-ai-networking-infrastructure-built-open-standards/
+- Date: 2025-09-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On theCUBE Pod: Nvidia bets on Intel, CUDA’s moat widens and AI factories reshape data centers (Score: 4)
+- Summary: Powered by artificial intelligence, AI factories are fast becoming the blueprint for packaging compute, interconnects and software into production systems that churn out large-scale intelligence across data centers, PCs and the edge. What once looked like a p…
+- Source: https://siliconangle.com/2025/09/22/nvidia-bets-intel-ai-factories-reshape-data-centers-thecubepod/
+- Date: 2025-09-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Agentic security arrives: CrowdStrike leads Day 2 keynote at Fal.Con 2025 (Score: 4)
+- Summary: At this year’s Fal.Con, big-picture discussions have centered on the future of cybersecurity, with artificial intelligence rewriting the rules of the game. As adversaries now fine-tune AI to optimize attacks, security leaders are betting on a new generation o…
+- Source: https://siliconangle.com/2025/09/18/crowdstrike-ushers-agentic-security-keynote-analysis-crowdstrikefalcon/
+- Date: 2025-09-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity startup Vega gets $65M in funding to replace SIEM with SAM (Score: 4)
+- Summary: Israeli security operations startup Vega Ltd. said today its artificial intelligence-native threat detection platform is ready to rip out and replace legacy security information and event management or SIEM tools after raising $65 million in funding. The fund…
+- Source: https://siliconangle.com/2025/09/16/cybersecurity-startup-vega-gets-65m-funding-replace-siem-sam/
+- Date: 2025-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+At CrowdStrike Fal.con, CEO George Kurtz says AI can help it become the top cybersecurity platform (Score: 4)
+- Summary: Cybersecurity is already the No. 1 challenge facing most enterprises, and now artificial intelligence is providing both potent new tools to battle attackers and making it easier for those attackers as well. CrowdStrike Holdings Inc. is aiming to leverage AI t…
+- Source: https://siliconangle.com/2025/09/16/crowdstrike-fal-con-ceo-george-kurtz-says-ai-can-help-become-top-cybersecurity-platform/
+- Date: 2025-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CX Institutional Has $412,000 Stock Holdings in Palo Alto Networks, Inc. $PANW (Score: 2)
+- Summary: CX Institutional increased its stake in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 22.1% during the second quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The firm owned 2,014 s…
+- Source: https://www.etfdailynews.com/2025/09/23/cx-institutional-has-412000-stock-holdings-in-palo-alto-networks-inc-panw/
+- Date: 2025-09-23
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Cybersecurity Stocks Worth Watching – September 20th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Fortinet, Palo Alto Networks, and Dell Technologies are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell prod…
+- Source: https://www.etfdailynews.com/2025/09/23/promising-cybersecurity-stocks-worth-watching-september-20th/
+- Date: 2025-09-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Keep An Eye On – September 19th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell products and services—such as fi…
+- Source: https://www.etfdailynews.com/2025/09/22/top-cybersecurity-stocks-to-keep-an-eye-on-september-19th/
+- Date: 2025-09-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams (Score: 2)
+- Summary: Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed leveraging ClickFix-style lures to deliver a known malware called BeaverTail and InvisibleFerret.
+"The threat actor used ClickFix lures to target…
+- Source: https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html
+- Date: 2025-09-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Research – September 18th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Bullish, and Dell Technologies are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies whose core business is prot…
+- Source: https://www.etfdailynews.com/2025/09/21/top-cybersecurity-stocks-to-research-september-18th/
+- Date: 2025-09-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Keep An Eye On – September 17th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Dell Technologies, Palo Alto Networks, and Emerson Electric are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and d…
+- Source: https://www.etfdailynews.com/2025/09/20/cybersecurity-stocks-to-keep-an-eye-on-september-17th/
+- Date: 2025-09-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Watch Now – September 16th (Score: 2)
+- Summary: Alphabet, CrowdStrike, and Palo Alto Networks are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies that develop and sell products and services to protect networks, devic…
+- Source: https://www.etfdailynews.com/2025/09/19/best-cybersecurity-stocks-to-watch-now-september-16th/
+- Date: 2025-09-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – September 15th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Tyler Technologies, and Bullish are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded compan…
+- Source: https://www.etfdailynews.com/2025/09/18/cybersecurity-stocks-to-consider-september-15th/
+- Date: 2025-09-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Telecom Stocks To Consider – September 16th (Score: 2)
+- Summary: Broadcom, Arista Networks, CyberArk Software, ServiceNow, and Palo Alto Networks are the five Telecom stocks to watch today, according to MarketBeat’s stock screener tool. Telecom stocks are shares of publicly traded companies that provide telecommunications …
+- Source: https://www.etfdailynews.com/2025/09/18/top-telecom-stocks-to-consider-september-16th/
+- Date: 2025-09-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Wedbush Reiterates Outperform Rating for Palo Alto Networks (NASDAQ:PANW) (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW – Get Free Report)‘s stock had its “outperform” rating reaffirmed by Wedbush in a research note issued on Monday,Benzinga reports. They presently have a $225.00 price target on the network technology company’s stock. Wedbush’s …
+- Source: https://www.etfdailynews.com/2025/09/17/wedbush-reiterates-outperform-rating-for-palo-alto-networks-nasdaqpanw/
+- Date: 2025-09-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Obsidian Security Unveils AI Agent Defense to Secure SaaS Data Access (Score: 0)
+- Summary: New platform capabilities safeguard enterprises from the next frontier of cyber risk: autonomous AI agents inside business-critical SaaS. PALO ALTO, Calif. — Obsidian Security, leader in SaaS security, today announced the launch of SaaS AI agent defense, givi…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-security-unveils-ai-agent-defense-to-secure-saas-data-access
+- Date: 2025-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Widespread Supply Chain Compromise Impacting npm Ecosystem (Score: 0)
+- Summary: CISA is releasing this Alert to provide guidance in response to a widespread software supply chain compromise involving the world’s largest JavaScript registry, npmjs.com. A self-replicating worm—publicly known as “Shai-Hulud”—has compromised over 500 package…
+- Source: https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem
+- Date: 2025-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm & More (Score: 0)
+- Summary: The security landscape now moves at a pace no patch cycle can match. Attackers aren’t waiting for quarterly updates or monthly fixes—they adapt within hours, blending fresh techniques with old, forgotten flaws to create new openings. A vulnerability closed ye…
+- Source: https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html
+- Date: 2025-09-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2025 Notre Dame Football Schedule, TV Times, Stat Leaders, Roster, and Results (Score: 0)
+- Summary: It’s all here
+- Source: https://www.onefootdown.com/notre-dame-fighting-irish-football/77369/2025-notre-dame-football-schedule-tv-times-stat-leaders-roster-results-week-4
+- Date: 2025-09-22
+- Vendors: None
+- Topics: None
+
+Confusion and chaos: Trump's $100K H-1B visa fee rocks Silicon Valley's hiring machine (Score: 0)
+- Summary: Trump's $100,000 H-1B visa fee sparked chaos in Silicon Valley, sending shockwaves through the tech industry as companies scrambled to adjust to costly new regulations.
+- Source: https://www.businessinsider.com/trump-h-1b-visa-fee-silicon-valley-tech-hiring-2025-9
+- Date: 2025-09-21
+- Vendors: None
+- Topics: None
+
+'A lot of panic': Lawyers race to decipher Trump's H-1B visa fees (Score: 0)
+- Summary: Lawyers rush to interpret changes to the H-1B visa program. "When you issue these vague executive orders, it causes chaos and confusion," one told BI.
+- Source: https://www.businessinsider.com/trump-h-1b-visa-program-changes-lawyers-advice-for-clients-2025-9
+- Date: 2025-09-20
+- Vendors: None
+- Topics: None
+
+Notre Dame football vs Purdue live score updates, highlights, how to watch Week 4 game (Score: 0)
+- Summary: It's Notre Dame vs Purdue in Week 4 of the 2025 college football season. Follow along for live score and game updates at Notre Dame Stadium
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/09/20/notre-dame-football-purdue-score-today-live-updates-channel-for-week-4-game/86184826007/
+- Date: 2025-09-20
+- Vendors: None
+- Topics: None
+
+Top Technology Executives Recognized at the 2025 Carolina CIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ......
+- Source: https://www.globenewswire.com/news-release/2025/09/19/3153347/0/en/Top-Technology-Executives-Recognized-at-the-2025-Carolina-CIO-ORBIE-Awards.html
+- Date: 2025-09-19
+- Vendors: None
+- Topics: None
+
+5 ways to spot software supply chain attacks and stop worms - before it's too late (Score: 0)
+- Summary: A Dune-inspired worm recently hit CrowdStrike and npm, infecting hundreds of packages. Here's what happened - and how to protect your code.
+- Source: https://www.zdnet.com/article/5-ways-to-spot-software-supply-chain-attacks-and-stop-worms-before-its-too-late/
+- Date: 2025-09-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine (Score: 0)
+- Summary: Cybersecurity researchers have discerned evidence of two Russian hacking groups Gamaredon and Turla collaborating together to target and co-comprise Ukrainian entities.
+Slovak cybersecurity company ESET said it observed the Gamaredon tools PteroGraphin and Pt…
+- Source: https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html
+- Date: 2025-09-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
