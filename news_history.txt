@@ -20141,3 +20141,188 @@ Widespread Supply Chain Compromise Impacting npm Ecosystem (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-09-30 13:44  ---
+
+Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models (Score: 4)
+- Summary: Cybersecurity researchers have disclosed two security flaws in Wondershare RepairIt that exposed private user data and potentially exposed the system to artificial intelligence (AI) model tampering and supply chain risks.
+The critical-rated vulnerabilities in…
+- Source: https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html
+- Date: 2025-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On theCUBE Pod: Nvidia bets on Intel, CUDA’s moat widens and AI factories reshape data centers (Score: 4)
+- Summary: Powered by artificial intelligence, AI factories are fast becoming the blueprint for packaging compute, interconnects and software into production systems that churn out large-scale intelligence across data centers, PCs and the edge. What once looked like a p…
+- Source: https://siliconangle.com/2025/09/22/nvidia-bets-intel-ai-factories-reshape-data-centers-thecubepod/
+- Date: 2025-09-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mplify Unveils Finalists for 2025 NaaS Excellence Awards (Score: 3)
+- Summary: The NaaS Excellence Awards honor organizations and individuals advancing automation, security, and interoperability, accelerating adoption across the ecosy
+- Source: https://www.globenewswire.com/news-release/2025/09/23/3154933/0/en/Mplify-Unveils-Finalists-for-2025-NaaS-Excellence-Awards.html
+- Date: 2025-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks Worth Watching – September 26th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide products or services designed…
+- Source: https://www.etfdailynews.com/2025/09/29/cybersecurity-stocks-worth-watching-september-26th/
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – September 27th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, BlackBerry, and Globant are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or manage digit…
+- Source: https://www.etfdailynews.com/2025/09/29/cybersecurity-stocks-to-consider-september-27th/
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bridging the gap: Secure virtual and container workloads with Red Hat OpenShift and Palo Alto Networks (Score: 2)
+- Summary: While migrating virtual or containerized workloads between environments may seem straightforward, teams responsible for managing system uptime, policy enforcement, and securing east-west traffic, often find it to be a complex process. Subtle differences in hy…
+- Source: https://www.redhat.com/en/blog/bridging-gap-secure-virtual-and-container-workloads-red-hat-openshift-and-palo-alto-networks
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Watch Today – September 25th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, BlackBerry, SentinelOne, Globant, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are equity shares of companies that develop s…
+- Source: https://www.etfdailynews.com/2025/09/28/cybersecurity-stocks-to-watch-today-september-25th/
+- Date: 2025-09-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (NASDAQ:PANW) Coverage Initiated by Analysts at Tigress Financial (Score: 2)
+- Summary: Analysts at Tigress Financial started coverage on shares of Palo Alto Networks (NASDAQ:PANW – Get Free Report) in a note issued to investors on Friday, Marketbeat Ratings reports. The brokerage set a “buy” rating and a $245.00 price target on the network tech…
+- Source: https://www.etfdailynews.com/2025/09/28/palo-alto-networks-nasdaqpanw-coverage-initiated-by-analysts-at-tigress-financial/
+- Date: 2025-09-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks (Score: 2)
+- Summary: Telecommunications and manufacturing sectors in Central and South Asian countries have emerged as the target of an ongoing campaign distributing a new variant of a known malware called PlugX (aka Korplug or SOGU).
+"The new variant's features overlap with both…
+- Source: https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html
+- Date: 2025-09-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks Worth Watching – September 24th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, Globant, SentinelOne, BlackBerry, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that …
+- Source: https://www.etfdailynews.com/2025/09/27/best-cybersecurity-stocks-worth-watching-september-24th/
+- Date: 2025-09-27
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks Worth Watching – September 23rd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Bullish, and Dell Technologies are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are equity shares of companies that develop, manufacture or provide…
+- Source: https://www.etfdailynews.com/2025/09/26/top-cybersecurity-stocks-worth-watching-september-23rd/
+- Date: 2025-09-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CX Institutional Has $412,000 Stock Holdings in Palo Alto Networks, Inc. $PANW (Score: 2)
+- Summary: CX Institutional increased its stake in shares of Palo Alto Networks, Inc. (NASDAQ:PANW – Free Report) by 22.1% during the second quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The firm owned 2,014 s…
+- Source: https://www.etfdailynews.com/2025/09/23/cx-institutional-has-412000-stock-holdings-in-palo-alto-networks-inc-panw/
+- Date: 2025-09-23
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Promising Cybersecurity Stocks Worth Watching – September 20th (Score: 2)
+- Summary: Alphabet, CrowdStrike, Fortinet, Palo Alto Networks, and Dell Technologies are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell prod…
+- Source: https://www.etfdailynews.com/2025/09/23/promising-cybersecurity-stocks-worth-watching-september-20th/
+- Date: 2025-09-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Dealmakers Defy Stubborn M&A Market With Rare $1 Trillion Haul (Score: 0)
+- Summary: A rush of big, bold mergers and acquisitions is lifting dealmakers in an otherwise slower-than-expected market for getting transactions off the ground.
+- Source: https://financialpost.com/pmn/business-pmn/dealmakers-defy-stubborn-ma-market-with-rare-1-trillion-haul
+- Date: 2025-09-29
+- Vendors: None
+- Topics: None
+
+How to escape B2B ‘buying mayhem’ with vendors ‘still stuck in the 1980s’ (Score: 0)
+- Summary: Next week, Paul Ferron will be on a London stage for the 2025 edition of Forrester’s B2B Summit EMEA. Today, he gives The Drum a sneak peek of the data and trends that will dominate the event.Forrester’s tentpole business-to-business event, B2B Summit EMEA, r…
+- Source: https://www.thedrum.com/news/2025/09/29/how-escape-b2b-buying-mayhem-with-vendors-still-stuck-the-1980s
+- Date: 2025-09-29
+- Vendors: None
+- Topics: None
+
+TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal | TechCrunch (Score: 0)
+- Summary: TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal | TechCrunchtechcrunch.com
+- Source: https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/
+- Date: 2025-09-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal (Score: 0)
+- Summary: Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+- Source: https://finance.yahoo.com/news/techcrunch-mobility-self-driving-trucks-160100799.html
+- Date: 2025-09-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2025 BayAreaCIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ......
+- Source: https://www.globenewswire.com/news-release/2025/09/26/3157234/0/en/Top-Technology-Executives-Recognized-at-the-2025-BayAreaCIO-ORBIE-Awards.html
+- Date: 2025-09-26
+- Vendors: None
+- Topics: None
+
+How to develop an AWS Security Hub POC (Score: 0)
+- Summary: The enhanced AWS Security Hub (currently in public preview) prioritizes your critical security issues and helps you respond at scale to protect your environment. It detects critical issues by correlating and enriching signals into actionable insights, enablin…
+- Source: https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc/
+- Date: 2025-09-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Spartans expect to scrap for another Stanford upset (Score: 0)
+- Summary: Why this Bill Walsh Legacy game is always more than a rivalry
+- Source: https://www.mwcconnection.com/san-jose-state-spartans-football/73263/spartans-expected-to-scrap-for-another-stanford-upset
+- Date: 2025-09-26
+- Vendors: None
+- Topics: None
+
+EXPIRING SOON: New Quarterly and Monthly Statement Credits on Travel Rewards Credit Cards! (Score: 0)
+- Summary: So, we’re somehow nearing the end of September already. That means a bunch of credit cards with quarterly and monthly statement credits expire in only a few days. With the weekend here, I figured today is a great time to remind us what’s avaialble in case the…
+- Source: https://eyeoftheflyer.com/2025/09/26/quarterly-and-monthly-statement-credits-list/
+- Date: 2025-09-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Glean introduces Enterprise Graph, new personalization features for Glean Assistant (Score: 0)
+- Summary: Glean Technologies Inc. today introduced a new version of Glean Assistant that is better at automating multi-step tasks and offers more customization options. Palo Alto, California-based Glean received a $7.2 billion valuation in June. It offers three artific…
+- Source: https://siliconangle.com/2025/09/25/glean-introduces-enterprise-graph-new-personalization-features-glean-assistant/
+- Date: 2025-09-25
+- Vendors: None
+- Topics: None
+
+My Last TaxProf Blog Post (Score: 0)
+- Summary: TaxProf Blog has been a labor of love these past 21 years. I have been puzzling over when would be the right time to stop. Typepad, the platform on which TaxProf Blog is hosted, made the decision for me when it announced on August 27th that it will discontinu…
+- Source: https://taxprof.typepad.com/taxprof_blog/2025/09/my-last-taxprof-blog-post.html
+- Date: 2025-09-24
+- Vendors: None
+- Topics: None
+
+Pebl Named a Leader For the Fifth Time in NelsonHall’s 2025 NEAT Report, Highlighting AI-First Strategy and Market Momentum (Score: 0)
+- Summary: Pebl Named a Leader For the Fifth Time in NelsonHall’s 2025 NEAT Report, Highlighting AI-First Strategy and Market Momentum
+......
+- Source: https://www.globenewswire.com/news-release/2025/09/24/3155690/0/en/Pebl-Named-a-Leader-For-the-Fifth-Time-in-NelsonHall-s-2025-NEAT-Report-Highlighting-AI-First-Strategy-and-Market-Momentum.html
+- Date: 2025-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Users Gain 345% ROI, 3–4x Faster Time-to-Insight, and Other Advantages, When Deployed alongside a Data Lakehouse (Score: 0)
+- Summary: Study conducted by Veqtor8 finds delayed projects and $millions at risk when enterprises operate lakehouses without a logical data layer PALO ALTO, Calif., Sept. 24, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced the availability of a …
+- Source: https://financialpost.com/globe-newswire/denodo-users-gain-345-roi-3-4x-faster-time-to-insight-and-other-advantages-when-deployed-alongside-a-data-lakehouse
+- Date: 2025-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
