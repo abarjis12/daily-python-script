@@ -20510,3 +20510,187 @@ TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-02 13:40  ---
+
+Databricks launches Data Intelligence for Cybersecurity to unify security data and fight AI-driven threats (Score: 4)
+- Summary: Data and artificial intelligence solutions company Databricks Inc. today announced the launch of Data Intelligence for Cybersecurity, a new solution designed to help organizations defend against modern and AI-driven threats with more accuracy, stronger govern…
+- Source: https://siliconangle.com/2025/09/30/databricks-launches-data-intelligence-cybersecurity-unify-security-data-fight-ai-driven-threats/
+- Date: 2025-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Harness acquires Qwiet AI to bring vulnerability detection into DevOps workflows (Score: 4)
+- Summary: Harness Inc., a software delivery startup that provides artificial intelligence tools for developers to update and monitor applications as they go, today announced it acquired Qwiet AI, formerly known as ShiftLeft Inc., a leader in agentic AI-powered vulnerab…
+- Source: https://siliconangle.com/2025/09/29/harness-acquires-qwiet-ai-bring-vulnerability-detection-devops-workflows/
+- Date: 2025-09-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models (Score: 4)
+- Summary: Cybersecurity researchers have disclosed two security flaws in Wondershare RepairIt that exposed private user data and potentially exposed the system to artificial intelligence (AI) model tampering and supply chain risks.
+The critical-rated vulnerabilities in…
+- Source: https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html
+- Date: 2025-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+False sense of security (Score: 2)
+- Summary: Adam Williamson, UK country manager, Exclusive Networks, shares the five truths every channel partner should know
+- Source: https://www.computerweekly.com/microscope/opinion/False-sense-of-security
+- Date: 2025-10-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Follow Today – September 28th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, market or maintain hardware, software an…
+- Source: https://www.etfdailynews.com/2025/10/01/best-cybersecurity-stocks-to-follow-today-september-28th/
+- Date: 2025-10-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+American Dream, Indian Dilemma: How the H-1B visa fee hike has rattled Indian students (Score: 2)
+- Summary: When Pratham Jain graduated in May with a Master’s in Business and Science from a reputable US university, job-hunting wasn’t the main hurdle.“In the beginning, my focus was on classes, internships and making the most of the campus life. But as graduation got…
+- Source: https://freerepublic.com/focus/f-chat/4343494/posts
+- Date: 2025-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 0.0.2 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/0.0.2/
+- Date: 2025-09-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+netbox-panorama-configpump-plugin added to PyPI (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/
+- Date: 2025-09-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Analysts Set Palo Alto Networks, Inc. (NASDAQ:PANW) Price Target at $214.64 (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) has received a consensus rating of “Moderate Buy” from the forty-three brokerages that are presently covering the stock, MarketBeat Ratings reports. Two equities research analysts have rated the stock w…
+- Source: https://www.etfdailynews.com/2025/09/30/analysts-set-palo-alto-networks-inc-nasdaqpanw-price-target-at-214-64/
+- Date: 2025-09-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity jobs available right now: September 30, 2025 (Score: 2)
+- Summary: Here are the worldwide cybersecurity job openings available as of September 30, 2025, including on-site, hybrid, and remote roles.
+- Source: https://www.helpnetsecurity.com/2025/09/30/cybersecurity-jobs-available-right-now-september-30-2025/
+- Date: 2025-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks Worth Watching – September 26th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide products or services designed…
+- Source: https://www.etfdailynews.com/2025/09/29/cybersecurity-stocks-worth-watching-september-26th/
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – September 27th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, BlackBerry, and Globant are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or manage digit…
+- Source: https://www.etfdailynews.com/2025/09/29/cybersecurity-stocks-to-consider-september-27th/
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bridging the gap: Secure virtual and container workloads with Red Hat OpenShift and Palo Alto Networks (Score: 2)
+- Summary: While migrating virtual or containerized workloads between environments may seem straightforward, teams responsible for managing system uptime, policy enforcement, and securing east-west traffic, often find it to be a complex process. Subtle differences in hy…
+- Source: https://www.redhat.com/en/blog/bridging-gap-secure-virtual-and-container-workloads-red-hat-openshift-and-palo-alto-networks
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Watch Today – September 25th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, BlackBerry, SentinelOne, Globant, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are equity shares of companies that develop s…
+- Source: https://www.etfdailynews.com/2025/09/28/cybersecurity-stocks-to-watch-today-september-25th/
+- Date: 2025-09-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (NASDAQ:PANW) Coverage Initiated by Analysts at Tigress Financial (Score: 2)
+- Summary: Analysts at Tigress Financial started coverage on shares of Palo Alto Networks (NASDAQ:PANW – Get Free Report) in a note issued to investors on Friday, Marketbeat Ratings reports. The brokerage set a “buy” rating and a $245.00 price target on the network tech…
+- Source: https://www.etfdailynews.com/2025/09/28/palo-alto-networks-nasdaqpanw-coverage-initiated-by-analysts-at-tigress-financial/
+- Date: 2025-09-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks (Score: 2)
+- Summary: Telecommunications and manufacturing sectors in Central and South Asian countries have emerged as the target of an ongoing campaign distributing a new variant of a known malware called PlugX (aka Korplug or SOGU).
+"The new variant's features overlap with both…
+- Source: https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html
+- Date: 2025-09-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks Worth Watching – September 24th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, Globant, SentinelOne, BlackBerry, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that …
+- Source: https://www.etfdailynews.com/2025/09/27/best-cybersecurity-stocks-worth-watching-september-24th/
+- Date: 2025-09-27
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks Worth Watching – September 23rd (Score: 2)
+- Summary: Alphabet, CrowdStrike, Palo Alto Networks, Bullish, and Dell Technologies are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are equity shares of companies that develop, manufacture or provide…
+- Source: https://www.etfdailynews.com/2025/09/26/top-cybersecurity-stocks-worth-watching-september-23rd/
+- Date: 2025-09-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The playbook for fighting antisemism in America, Part II (Score: 0)
+- Summary: How Hamas weaponized progressive discourse to generate the highest wave of Jew-Hatred since the Holocaust and What Needs to Be Done to Fight It Effectively.
+- Source: https://www.israelnationalnews.com/news/415679
+- Date: 2025-10-01
+- Vendors: None
+- Topics: None
+
+For Global M&A, Third Quarter Was One of the Best–and Worst –in Recent History (Score: 0)
+- Summary: For dealmakers across the world, the third quarter was one of the best and one of the worst in recent history. Megadeals tallied a stunning $1.26 trillion in global mergers and acquisitions during the third quarter – up 40% year …
+- Source: https://www.insurancejournal.com/news/national/2025/10/01/841150.htm
+- Date: 2025-10-01
+- Vendors: None
+- Topics: None
+
+Integral Launches World’s First Stablecoin-based Crypto Prime Broker (Score: 0)
+- Summary: Delivers trustless credit, trading and settlement Already live with customers and liquidity providers, including Virtu Financial and Europa Partners PALO ALTO, Calif. — Integral, a global leader in FX and digital asset technology, today announced the launch o…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/integral-launches-worlds-first-stablecoin-based-crypto-prime-broker
+- Date: 2025-09-30
+- Vendors: None
+- Topics: None
+
+Dear AppLovin Stock Fans, Mark Your Calendars for October 1 (Score: 0)
+- Summary: The soon-to-be-launched tool for non-gaming advertisers has led to a significant rally in the stock.
+- Source: https://www.barchart.com/story/news/35134073/dear-applovin-stock-fans-mark-your-calendars-for-october-1
+- Date: 2025-09-30
+- Vendors: None
+- Topics: None
+
+Announcing Data Intelligence for Cybersecurity (Score: 0)
+- Summary: Explore how Databricks enables custom AI agents for real-time cyber defense, powers self-service insights, and unifies enterprise security data at scale.
+- Source: https://www.databricks.com/blog/transforming-cybersecurity-data-intelligence
+- Date: 2025-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anglo American's Strategic Moves Reshape Global Copper Landscape (Score: 0)
+- Summary: Anglo American and Codelco have merged operations at their Los Bronces and Andina copper mines, creating a top-tier global site, while Anglo American also...
+- Source: https://finance.yahoo.com/news/anglo-americans-strategic-moves-reshape-180000934.html
+- Date: 2025-09-29
+- Vendors: None
+- Topics: None
+
+Anglo American's Strategic Moves Reshape Global Copper Landscape (Score: 0)
+- Summary: Via Metal Miner The copper market recently experienced a significant development that could have big implications for global supply. Metals and mining multinational Anglo American has finalized an agreement with National Copper Corporation of Chile (Codelco) …
+- Source: https://oilprice.com/Metals/Commodities/Anglo-Americans-Strategic-Moves-Reshape-Global-Copper-Landscape.html
+- Date: 2025-09-29
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
