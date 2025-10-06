@@ -21243,3 +21243,186 @@ The playbook for fighting antisemism in America, Part II (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-06 13:43  ---
+
+Databricks launches Data Intelligence for Cybersecurity to unify security data and fight AI-driven threats (Score: 4)
+- Summary: Data and artificial intelligence solutions company Databricks Inc. today announced the launch of Data Intelligence for Cybersecurity, a new solution designed to help organizations defend against modern and AI-driven threats with more accuracy, stronger govern…
+- Source: https://siliconangle.com/2025/09/30/databricks-launches-data-intelligence-cybersecurity-unify-security-data-fight-ai-driven-threats/
+- Date: 2025-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Harness acquires Qwiet AI to bring vulnerability detection into DevOps workflows (Score: 4)
+- Summary: Harness Inc., a software delivery startup that provides artificial intelligence tools for developers to update and monitor applications as they go, today announced it acquired Qwiet AI, formerly known as ShiftLeft Inc., a leader in agentic AI-powered vulnerab…
+- Source: https://siliconangle.com/2025/09/29/harness-acquires-qwiet-ai-bring-vulnerability-detection-devops-workflows/
+- Date: 2025-09-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks Worth Watching – October 2nd (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, provide, or support products and service…
+- Source: https://www.etfdailynews.com/2025/10/05/best-cybersecurity-stocks-worth-watching-october-2nd/
+- Date: 2025-10-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Follow Now – October 3rd (Score: 2)
+- Summary: Palo Alto Networks, CrowdStrike, Fortinet, Arqit Quantum, and SentinelOne are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell softw…
+- Source: https://www.etfdailynews.com/2025/10/05/top-cybersecurity-stocks-to-follow-now-october-3rd/
+- Date: 2025-10-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Massive surge in scans targeting Palo Alto Networks login portals (Score: 2)
+- Summary: A spike in suspicious scans targeting Palo Alto Networks login portals indicates clear reconnaissance efforts from suspicious IP addresses, researchers warn.  [...]
+- Source: https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day (Score: 2)
+- Summary: Threat intelligence firm GreyNoise disclosed on Friday that it has observed a spike in scanning activity targeting Palo Alto Networks login portals.
+The company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals …
+- Source: https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Consider – October 1st (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, SentinelOne, and Globant are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or manage soft…
+- Source: https://www.etfdailynews.com/2025/10/04/promising-cybersecurity-stocks-to-consider-october-1st/
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks Worth Watching – September 30th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, SentinelOne, BlackBerry, Globant, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that …
+- Source: https://www.etfdailynews.com/2025/10/03/cybersecurity-stocks-worth-watching-september-30th/
+- Date: 2025-10-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – September 29th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, BlackBerry, SentinelOne, Globant, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are publicly traded shares of companies that …
+- Source: https://www.etfdailynews.com/2025/10/02/cybersecurity-stocks-to-consider-september-29th/
+- Date: 2025-10-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+False sense of security (Score: 2)
+- Summary: Adam Williamson, UK country manager, Exclusive Networks, shares the five truths every channel partner should know
+- Source: https://www.computerweekly.com/microscope/opinion/False-sense-of-security
+- Date: 2025-10-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Cybersecurity Stocks To Follow Today – September 28th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, market or maintain hardware, software an…
+- Source: https://www.etfdailynews.com/2025/10/01/best-cybersecurity-stocks-to-follow-today-september-28th/
+- Date: 2025-10-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+American Dream, Indian Dilemma: How the H-1B visa fee hike has rattled Indian students (Score: 2)
+- Summary: When Pratham Jain graduated in May with a Master’s in Business and Science from a reputable US university, job-hunting wasn’t the main hurdle.“In the beginning, my focus was on classes, internships and making the most of the campus life. But as graduation got…
+- Source: https://freerepublic.com/focus/f-chat/4343494/posts
+- Date: 2025-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 0.0.2 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/0.0.2/
+- Date: 2025-09-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+netbox-panorama-configpump-plugin added to PyPI (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/
+- Date: 2025-09-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Analysts Set Palo Alto Networks, Inc. (NASDAQ:PANW) Price Target at $214.64 (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW – Get Free Report) has received a consensus rating of “Moderate Buy” from the forty-three brokerages that are presently covering the stock, MarketBeat Ratings reports. Two equities research analysts have rated the stock w…
+- Source: https://www.etfdailynews.com/2025/09/30/analysts-set-palo-alto-networks-inc-nasdaqpanw-price-target-at-214-64/
+- Date: 2025-09-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity jobs available right now: September 30, 2025 (Score: 2)
+- Summary: Here are the worldwide cybersecurity job openings available as of September 30, 2025, including on-site, hybrid, and remote roles.
+- Source: https://www.helpnetsecurity.com/2025/09/30/cybersecurity-jobs-available-right-now-september-30-2025/
+- Date: 2025-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks Worth Watching – September 26th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and provide products or services designed…
+- Source: https://www.etfdailynews.com/2025/09/29/cybersecurity-stocks-worth-watching-september-26th/
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – September 27th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, BlackBerry, and Globant are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or manage digit…
+- Source: https://www.etfdailynews.com/2025/09/29/cybersecurity-stocks-to-consider-september-27th/
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bridging the gap: Secure virtual and container workloads with Red Hat OpenShift and Palo Alto Networks (Score: 2)
+- Summary: While migrating virtual or containerized workloads between environments may seem straightforward, teams responsible for managing system uptime, policy enforcement, and securing east-west traffic, often find it to be a complex process. Subtle differences in hy…
+- Source: https://www.redhat.com/en/blog/bridging-gap-secure-virtual-and-container-workloads-red-hat-openshift-and-palo-alto-networks
+- Date: 2025-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Notre Dame football vs. Boise State score updates, highlights, how to watch Week 6 game (Score: 0)
+- Summary: It's Notre Dame vs. Boise State in Week 6 of the 2025 college football season. Follow along for live score and game updates at Notre Dame Stadium.
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/10/04/notre-dame-football-vs-boise-state-score-live-updates-tv-channel/86441623007/
+- Date: 2025-10-04
+- Vendors: None
+- Topics: None
+
+Community wellbeing and lived experiences during urban redevelopment in New Zealand: Te Hotonga Hapori – Connecting communities qualitative study protocol (Score: 0)
+- Summary: Cities around the world are growing rapidly, and the demand for housing is subsequently increasing. Many governments have initiated large-scale redevelopment projects to address the problem but planning and implementation can significantly impact the wellbein…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333480
+- Date: 2025-10-03
+- Vendors: None
+- Topics: None
+
+Cybersecurity Snapshot: Cybersecurity Awareness Month Arrives To Find AI Security a Hot Mess, as New OT Security Guidelines Highlight Architecture Mapping (Score: 0)
+- Summary: As we kick off Cybersecurity Awareness Month, AI security challenges take the spotlight. Meanwhile, new marching orders say OT security teams need a comprehensive view of their systems. And get the latest on post-quantum computing standards and on a fresh bat…
+- Source: https://www.tenable.com/blog/cybersecurity-snapshot-cybersecurity-awareness-month-arrives-to-find-ai-security-a-hot-mess-as
+- Date: 2025-10-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Microcomputers – The Second Wave: Toward a Mass Market (Score: 0)
+- Summary: In 1977, three new microcomputers appeared on the scene that broke free from the industry’s hobbyist roots: the Apple II, the Commodore PET, and the Tandy/Radio Shack TRS-80. Much later, in the 199…
+- Source: https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/
+- Date: 2025-10-03
+- Vendors: None
+- Topics: None
+
+2025 Week 6 ACC Football Power Rankings (Score: 0)
+- Summary: The ACC witnessed a monumental upset on Friday. Where does Virginia now land and how far does Florida State fall?
+- Source: https://clutchpoints.com/ncaa-football/2025-week-6-acc-football-power-rankings
+- Date: 2025-10-02
+- Vendors: None
+- Topics: None
+
+HP Accelerates the Future of Work (Score: 0)
+- Summary: Company transforms future-ready workspaces and simplifies work experiences with intelligent AI-powered solutions Company transforms future-ready workspaces and simplifies work experiences with intelligent AI-powered solutions
+- Source: https://www.globenewswire.com/news-release/2025/10/02/3160200/0/en/HP-Accelerates-the-Future-of-Work.html
+- Date: 2025-10-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
