@@ -21792,3 +21792,186 @@ Microcomputers – The Second Wave: Toward a Mass Market (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-09 13:45  ---
+
+IBM expands agentic AI and infrastructure automation to bridge software, cloud and mainframe systems (Score: 7)
+- Summary: IBM Corp. is using its annual TechXchange conference in Orlando this week to announce a slate of software and infrastructure updates aimed at helping enterprises put artificial intelligence into operation across hybrid environments. Spanning agentic AI orches…
+- Source: https://siliconangle.com/2025/10/07/ibm-expands-agentic-ai-infrastructure-automation-bridge-software-cloud-mainframe-systems/
+- Date: 2025-10-07
+- Vendors: IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On theCUBE Pod: Bubble watch or boom cycle, AI hype meets political heat and big tech bets (Score: 4)
+- Summary: Artificial intelligence may be the most powerful force reshaping modern industry — but some analysts warn it’s also inflating an AI bubble that could burst as fast as it grew. Despite political turmoil and a government shutdown, tech giants continue to pour b…
+- Source: https://siliconangle.com/2025/10/06/ai-bubble-ai-native-apps-thecubepod/
+- Date: 2025-10-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks Worth Watching – October 4th (Score: 2)
+- Summary: Palo Alto Networks, CrowdStrike, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, provide, or manage digital security solu…
+- Source: https://www.etfdailynews.com/2025/10/07/top-cybersecurity-stocks-worth-watching-october-4th/
+- Date: 2025-10-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.2 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.2/
+- Date: 2025-10-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Scanning of Palo Alto Portals Surges 500% (Score: 2)
+- Summary: Experts warn that threat actors may be gearing up for compromise after large uptick in scans of Palo Alto Network portals
+- Source: https://www.infosecurity-magazine.com/news/scanning-of-palo-alto-portals/
+- Date: 2025-10-06
+- Vendors: None
+- Topics: None
+
+netbox-panorama-configpump-plugin 1.0.1 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.1/
+- Date: 2025-10-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Cybersecurity Stocks Worth Watching – October 2nd (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, provide, or support products and service…
+- Source: https://www.etfdailynews.com/2025/10/05/best-cybersecurity-stocks-worth-watching-october-2nd/
+- Date: 2025-10-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Follow Now – October 3rd (Score: 2)
+- Summary: Palo Alto Networks, CrowdStrike, Fortinet, Arqit Quantum, and SentinelOne are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell softw…
+- Source: https://www.etfdailynews.com/2025/10/05/top-cybersecurity-stocks-to-follow-now-october-3rd/
+- Date: 2025-10-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Massive surge in scans targeting Palo Alto Networks login portals (Score: 2)
+- Summary: A spike in suspicious scans targeting Palo Alto Networks login portals indicates clear reconnaissance efforts from suspicious IP addresses, researchers warn.  [...]
+- Source: https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day (Score: 2)
+- Summary: Threat intelligence firm GreyNoise disclosed on Friday that it has observed a spike in scanning activity targeting Palo Alto Networks login portals.
+The company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals …
+- Source: https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Consider – October 1st (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, SentinelOne, and Globant are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or manage soft…
+- Source: https://www.etfdailynews.com/2025/10/04/promising-cybersecurity-stocks-to-consider-october-1st/
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks Worth Watching – September 30th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, SentinelOne, BlackBerry, Globant, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that …
+- Source: https://www.etfdailynews.com/2025/10/03/cybersecurity-stocks-worth-watching-september-30th/
+- Date: 2025-10-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks To Consider – September 29th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, BlackBerry, SentinelOne, Globant, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are publicly traded shares of companies that …
+- Source: https://www.etfdailynews.com/2025/10/02/cybersecurity-stocks-to-consider-september-29th/
+- Date: 2025-10-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bad Crypto, Zombie CPUs, Y2K38,Park Mobile, Redis, Red Hat, Deloitte, Aaran Leyland.. - SWN #518 (Score: 0)
+- Summary: Bad Crypto, Blood Thirsty Zombie CPUs, Y2K38, Park Mobile, Palo Alto, Redis, Red Hat, Deloitte, Aaran Leyland, and more on the Security Weekly News. Visit https://www.securityweekly.com/swn for all the latest episodes! Show Notes: https://securityweekly.com/s…
+- Source: https://sites.libsyn.com/18678/bad-crypto-zombie-cpus-y2k38park-mobile-redis-red-hat-deloitte-aaran-leyland-swn-518
+- Date: 2025-10-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Critical Flaw Exposes 60,000 Redis Servers to Remote Exploitation (Score: 0)
+- Summary: A critical Redis flaw, dubbed “RediShell,” has exposed 60,000 unprotected servers to exploitation
+- Source: https://www.infosecurity-magazine.com/news/redis-servers-remote-exploitation/
+- Date: 2025-10-07
+- Vendors: None
+- Topics: None
+
+instrumentaipdfsplitter added to PyPI (Score: 0)
+- Summary: AI-assisted instrument part detector and PDF splitter
+- Source: https://pypi.org/project/instrumentaipdfsplitter/
+- Date: 2025-10-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+True Wind Capital Realizes Investment in Sterling Brokers (Score: 0)
+- Summary: SAN FRANCISCO — True Wind Capital (“True Wind”) today announced that it has exited its investment in Sterling Brokers (“Sterling”), a leading Canadian benefits brokerage and third-party administrator, through a sale to HGGC, a Palo Alto-based private investme…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/true-wind-capital-realizes-investment-in-sterling-brokers
+- Date: 2025-10-06
+- Vendors: Cisco
+- Topics: None
+
+Palo Alto systems warning issued among huge surge in scanning attacks - but it says everything is fine (Score: 0)
+- Summary: Has someone found a way in to Palo Alto?
+- Source: https://www.techradar.com/pro/security/palo-alto-systems-see-huge-surge-in-scanning-attacks
+- Date: 2025-10-06
+- Vendors: None
+- Topics: None
+
+HGGC Completes Investment in Sterling Brokers (Score: 0)
+- Summary: PALO ALTO, Calif. — HGGC, a values-driven, partnership-focused middle-market private equity firm with over $8 billion of AUM (as of June 30, 2025), today announced it has completed an investment in Sterling Brokers, (“Sterling”, or “the Company”) a leading Ca…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/hggc-completes-investment-in-sterling-brokers
+- Date: 2025-10-06
+- Vendors: None
+- Topics: None
+
+TCG Crossover (“TCGX”) Announces Oversubscribed $1.3B TCGX Fund III (Score: 0)
+- Summary: PALO ALTO, Calif. & NEW YORK — TCG Crossover (“TCGX”) today announced the successful closing of its third fund, TCGX Fund III, with $1.3 billion in capital commitments. Fund III attracted support from both current TCGX investors and new institutional investor…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/tcg-crossover-tcgx-announces-oversubscribed-1-3b-tcgx-fund-iii
+- Date: 2025-10-06
+- Vendors: None
+- Topics: None
+
+Notre Dame football vs. Boise State score updates, highlights, how to watch Week 6 game (Score: 0)
+- Summary: It's Notre Dame vs. Boise State in Week 6 of the 2025 college football season. Follow along for live score and game updates at Notre Dame Stadium.
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/10/04/notre-dame-football-vs-boise-state-score-live-updates-tv-channel/86441623007/
+- Date: 2025-10-04
+- Vendors: None
+- Topics: None
+
+Community wellbeing and lived experiences during urban redevelopment in New Zealand: Te Hotonga Hapori – Connecting communities qualitative study protocol (Score: 0)
+- Summary: Cities around the world are growing rapidly, and the demand for housing is subsequently increasing. Many governments have initiated large-scale redevelopment projects to address the problem but planning and implementation can significantly impact the wellbein…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333480
+- Date: 2025-10-03
+- Vendors: None
+- Topics: None
+
+Cybersecurity Snapshot: Cybersecurity Awareness Month Arrives To Find AI Security a Hot Mess, as New OT Security Guidelines Highlight Architecture Mapping (Score: 0)
+- Summary: As we kick off Cybersecurity Awareness Month, AI security challenges take the spotlight. Meanwhile, new marching orders say OT security teams need a comprehensive view of their systems. And get the latest on post-quantum computing standards and on a fresh bat…
+- Source: https://www.tenable.com/blog/cybersecurity-snapshot-cybersecurity-awareness-month-arrives-to-find-ai-security-a-hot-mess-as
+- Date: 2025-10-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Microcomputers – The Second Wave: Toward a Mass Market (Score: 0)
+- Summary: In 1977, three new microcomputers appeared on the scene that broke free from the industry’s hobbyist roots: the Apple II, the Commodore PET, and the Tandy/Radio Shack TRS-80. Much later, in the 199…
+- Source: https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/
+- Date: 2025-10-03
+- Vendors: None
+- Topics: None
+
+2025 Week 6 ACC Football Power Rankings (Score: 0)
+- Summary: The ACC witnessed a monumental upset on Friday. Where does Virginia now land and how far does Florida State fall?
+- Source: https://clutchpoints.com/ncaa-football/2025-week-6-acc-football-power-rankings
+- Date: 2025-10-02
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
