@@ -21975,3 +21975,186 @@ Microcomputers – The Second Wave: Toward a Mass Market (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-10 13:42  ---
+
+IBM expands agentic AI and infrastructure automation to bridge software, cloud and mainframe systems (Score: 7)
+- Summary: IBM Corp. is using its annual TechXchange conference in Orlando this week to announce a slate of software and infrastructure updates aimed at helping enterprises put artificial intelligence into operation across hybrid environments. Spanning agentic AI orches…
+- Source: https://siliconangle.com/2025/10/07/ibm-expands-agentic-ai-infrastructure-automation-bridge-software-cloud-mainframe-systems/
+- Date: 2025-10-07
+- Vendors: IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On theCUBE Pod: Bubble watch or boom cycle, AI hype meets political heat and big tech bets (Score: 4)
+- Summary: Artificial intelligence may be the most powerful force reshaping modern industry — but some analysts warn it’s also inflating an AI bubble that could burst as fast as it grew. Despite political turmoil and a government shutdown, tech giants continue to pour b…
+- Source: https://siliconangle.com/2025/10/06/ai-bubble-ai-native-apps-thecubepod/
+- Date: 2025-10-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global Leaders to Define Future of NaaS for the AI-Powered Digital World at Mplify’s Global NaaS Event (Score: 3)
+- Summary: Mplify’s GNE 2025 will gather global leaders and top speakers in Dallas, Nov 10–14, to explore how NaaS and automation power the AI-driven world.......
+- Source: https://www.globenewswire.com/news-release/2025/10/08/3163610/0/en/Global-Leaders-to-Define-Future-of-NaaS-for-the-AI-Powered-Digital-World-at-Mplify-s-Global-NaaS-Event.html
+- Date: 2025-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New FileFix attack uses cache smuggling to evade security software (Score: 2)
+- Summary: A new variant of the FileFix social engineering attack uses cache smuggling to secretly download a malicious ZIP archive onto a victim's system and bypassing security software. [...]
+- Source: https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/
+- Date: 2025-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks Worth Watching – October 4th (Score: 2)
+- Summary: Palo Alto Networks, CrowdStrike, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, provide, or manage digital security solu…
+- Source: https://www.etfdailynews.com/2025/10/07/top-cybersecurity-stocks-worth-watching-october-4th/
+- Date: 2025-10-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.2 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.2/
+- Date: 2025-10-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Scanning of Palo Alto Portals Surges 500% (Score: 2)
+- Summary: Experts warn that threat actors may be gearing up for compromise after large uptick in scans of Palo Alto Network portals
+- Source: https://www.infosecurity-magazine.com/news/scanning-of-palo-alto-portals/
+- Date: 2025-10-06
+- Vendors: None
+- Topics: None
+
+netbox-panorama-configpump-plugin 1.0.1 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.1/
+- Date: 2025-10-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Best Cybersecurity Stocks Worth Watching – October 2nd (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, and Fortinet are the three Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, provide, or support products and service…
+- Source: https://www.etfdailynews.com/2025/10/05/best-cybersecurity-stocks-worth-watching-october-2nd/
+- Date: 2025-10-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cybersecurity Stocks To Follow Now – October 3rd (Score: 2)
+- Summary: Palo Alto Networks, CrowdStrike, Fortinet, Arqit Quantum, and SentinelOne are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop and sell softw…
+- Source: https://www.etfdailynews.com/2025/10/05/top-cybersecurity-stocks-to-follow-now-october-3rd/
+- Date: 2025-10-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Massive surge in scans targeting Palo Alto Networks login portals (Score: 2)
+- Summary: A spike in suspicious scans targeting Palo Alto Networks login portals indicates clear reconnaissance efforts from suspicious IP addresses, researchers warn.  [...]
+- Source: https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day (Score: 2)
+- Summary: Threat intelligence firm GreyNoise disclosed on Friday that it has observed a spike in scanning activity targeting Palo Alto Networks login portals.
+The company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals …
+- Source: https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Promising Cybersecurity Stocks To Consider – October 1st (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, SentinelOne, and Globant are the five Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop, sell or manage soft…
+- Source: https://www.etfdailynews.com/2025/10/04/promising-cybersecurity-stocks-to-consider-october-1st/
+- Date: 2025-10-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks Worth Watching – September 30th (Score: 2)
+- Summary: CrowdStrike, Palo Alto Networks, Fortinet, SentinelOne, BlackBerry, Globant, and Arqit Quantum are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that …
+- Source: https://www.etfdailynews.com/2025/10/03/cybersecurity-stocks-worth-watching-september-30th/
+- Date: 2025-10-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global AI Leader Motive Plants Austin Roots to Grow Regional Talent and Support Texas Industries (Score: 0)
+- Summary: Silicon Valley-founded company expands its U.S. footprint, fueling hiring and expanding customer support across Texas and beyond AUSTIN, Texas — Motive, the AI-powered Integrated Operations Platform, today announced the opening of its new office in Austin, Te…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/global-ai-leader-motive-plants-austin-roots-to-grow-regional-talent-and-support-texas-industries
+- Date: 2025-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SquareX Shows AI Browsers Fall Prey to OAuth Attacks, Malware Downloads and Malicious Link Distribution (Score: 0)
+- Summary: Palo Alto, California, 9th October 2025, CyberNewsWire
+- Source: https://www.nextbigfuture.com/2025/10/squarex-shows-ai-browsers-fall-prey-to-oauth-attacks-malware-downloads-and-malicious-link-distribution.html
+- Date: 2025-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SquareX Shows AI Browsers Fall Prey to OAuth Attacks, Malware Downloads and Malicious Link Distribution (Score: 0)
+- Summary: Palo Alto, California, 9th October 2025, CyberNewsWire
+- Source: https://hackread.com/squarex-shows-ai-browsers-fall-prey-to-oauth-attacks-malware-downloads-and-malicious-link-distribution/
+- Date: 2025-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Warlock ransomware may be linked to Chinese state (Score: 0)
+- Summary: The operators of Warlock ransomware who exploited a set of SharePoint Server vulns earlier in 2025 likely have some kind of link to the Chinese government, researchers claim
+- Source: https://www.computerweekly.com/news/366632598/Warlock-ransomware-may-be-linked-to-Chinese-state
+- Date: 2025-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How healthy am I? My immunome knows the score. (Score: 0)
+- Summary: The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. It’s not often you get a text about the robustness of yo…
+- Source: https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/
+- Date: 2025-10-09
+- Vendors: None
+- Topics: None
+
+Companies Can Now Expand Their Workforce Globally in Minutes with Pebl’s AI Assistant, Alfie (Score: 0)
+- Summary: Pebl launched Alfie, the first AI assistant for real-time, trusted compliance in global employment.......
+- Source: https://www.globenewswire.com/news-release/2025/10/08/3163586/0/en/Companies-Can-Now-Expand-Their-Workforce-Globally-in-Minutes-with-Pebl-s-AI-Assistant-Alfie.html
+- Date: 2025-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Applied AI in Cybersecurity: Key Market Trends, Investment Opportunities and Strategies to 2029 (Score: 0)
+- Summary: The applied AI in cybersecurity market offers opportunities due to escalating cyber threats, skill shortages, and growing digital complexity. Key segments include deployment models, security types, and applications like fraud detection. The rise of generative…
+- Source: https://www.globenewswire.com/news-release/2025/10/08/3163574/28124/en/Applied-AI-in-Cybersecurity-Key-Market-Trends-Investment-Opportunities-and-Strategies-to-2029.html
+- Date: 2025-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bad Crypto, Zombie CPUs, Y2K38,Park Mobile, Redis, Red Hat, Deloitte, Aaran Leyland.. - SWN #518 (Score: 0)
+- Summary: Bad Crypto, Blood Thirsty Zombie CPUs, Y2K38, Park Mobile, Palo Alto, Redis, Red Hat, Deloitte, Aaran Leyland, and more on the Security Weekly News. Visit https://www.securityweekly.com/swn for all the latest episodes! Show Notes: https://securityweekly.com/s…
+- Source: https://sites.libsyn.com/18678/bad-crypto-zombie-cpus-y2k38park-mobile-redis-red-hat-deloitte-aaran-leyland-swn-518
+- Date: 2025-10-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Critical Flaw Exposes 60,000 Redis Servers to Remote Exploitation (Score: 0)
+- Summary: A critical Redis flaw, dubbed “RediShell,” has exposed 60,000 unprotected servers to exploitation
+- Source: https://www.infosecurity-magazine.com/news/redis-servers-remote-exploitation/
+- Date: 2025-10-07
+- Vendors: None
+- Topics: None
+
+instrumentaipdfsplitter added to PyPI (Score: 0)
+- Summary: AI-assisted instrument part detector and PDF splitter
+- Source: https://pypi.org/project/instrumentaipdfsplitter/
+- Date: 2025-10-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+True Wind Capital Realizes Investment in Sterling Brokers (Score: 0)
+- Summary: SAN FRANCISCO — True Wind Capital (“True Wind”) today announced that it has exited its investment in Sterling Brokers (“Sterling”), a leading Canadian benefits brokerage and third-party administrator, through a sale to HGGC, a Palo Alto-based private investme…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/true-wind-capital-realizes-investment-in-sterling-brokers
+- Date: 2025-10-06
+- Vendors: Cisco
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
