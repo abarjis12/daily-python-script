@@ -23069,3 +23069,187 @@ Critical Flaw Exposes 60,000 Redis Servers to Remote Exploitation (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-16 13:46  ---
+
+Cybersecurity jobs available right now: October 14, 2025 (Score: 5)
+- Summary: Cyber Security Analyst I First Citizens Bank | USA | Remote – View job details As a Cyber Security Analyst, you will be responsible for developing skills related to the use of the standard intelligence cycle (collection, analysis, and dissemination) across a …
+- Source: https://www.helpnetsecurity.com/2025/10/14/cybersecurity-jobs-available-right-now-october-14-2025/
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global Leaders to Define Future of NaaS for the AI-Powered Digital World at Mplify’s Global NaaS Event (Score: 3)
+- Summary: Mplify’s GNE 2025 will gather global leaders and top speakers in Dallas, Nov 10–14, to explore how NaaS and automation power the AI-driven world.......
+- Source: https://www.globenewswire.com/news-release/2025/10/08/3163610/0/en/Global-Leaders-to-Define-Future-of-NaaS-for-the-AI-Powered-Digital-World-at-Mplify-s-Global-NaaS-Event.html
+- Date: 2025-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+5G Networks Could Provide an Unjammable GPS Alternative (Score: 2)
+- Summary: 5G cellular networks could form the basis of a low-cost Earth-based global navigation satellite system (GNSS) back-up. GNSS options, like GPS, provide reliable positioning, timing, and navigation services but are vulnerable to jamming and spoofing attacks. Pr…
+- Source: https://spectrum.ieee.org/5g-gnss-gps-alternatives
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Network Detection and Response (NDR) Market worth $5.82 billion by 2030 | MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Oct. 14, 2025 /PRNewswire/ -- According to MarketsandMarkets™, the global Network Detection and Response (NDR) Market is projected to reach USD 5.82 billion by 2030, up from USD 3.68 billion in 2025, at a compound annual growth rate (CAGR)…
+- Source: https://www.prnewswire.co.uk/news-releases/network-detection-and-response-ndr-market-worth-5-82-billion-by-2030--marketsandmarkets-302583148.html
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Music genre classification with modified residual learning and dual neural network (Score: 2)
+- Summary: Music Genre is an abstract property of music that can identify shared traditions and conventions. In the recent past, music genre classification has shown a significant role in MIR that has attracted the research community to draw attention all around the wor…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333808
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+New FileFix attack uses cache smuggling to evade security software (Score: 2)
+- Summary: A new variant of the FileFix social engineering attack uses cache smuggling to secretly download a malicious ZIP archive onto a victim's system and bypassing security software. [...]
+- Source: https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/
+- Date: 2025-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Frankfurt’s News Conference: ‘What Literature Can Do’ (Score: 0)
+- Summary: On the eve of the 77th trade show's opening, Frankfurter Buchmesse stages its annual opening press conference.
+The post Frankfurt’s News Conference: ‘What Literature Can Do’ appeared first on Publishing Perspectives.
+- Source: https://publishingperspectives.com/2025/10/frankfurts-news-conference-what-literature-can-do/
+- Date: 2025-10-15
+- Vendors: None
+- Topics: None
+
+Frankfurt’s News Confefence: ‘What Literature Can Do’ (Score: 0)
+- Summary: On the eve of the 77th trade show's opening, Frankfurter Buchmesse stages its annual opening press conference.
+The post Frankfurt’s News Confefence: ‘What Literature Can Do’ appeared first on Publishing Perspectives.
+- Source: https://publishingperspectives.com/2025/10/frankfurts-news-confefence-what-literature-can-do/
+- Date: 2025-10-15
+- Vendors: None
+- Topics: None
+
+Four from West Jaintia Hills nabbed with Royal Enfield stolen from Guwahati (Score: 0)
+- Summary: In a case of interstate vehicle theft, four persons from West Jaintia Hills were arrested after police recovered a stolen Royal Enfield motorcycle that was taken from Guwahati. The arrests were made during late-night police checking operation at Mawryngkneng …
+- Source: https://www.syllad.com/four-from-west-jaintia-hills-nabbed-with-royal-enfield-stolen-from-guwahati/
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+O’Reilly Publishes In-Depth Book on Logical Data Management (Score: 0)
+- Summary: Examines both the technological underpinnings and the tangible business benefits PALO ALTO, Calif., Oct. 14, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced that O’Reilly has published The Rise of Logical Data Management: An Essential D…
+- Source: https://financialpost.com/globe-newswire/oreilly-publishes-in-depth-book-on-logical-data-management
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Verde AgriTech Board Approves Accelerated Plan for District Scale Rare Earths Discovery (Score: 0)
+- Summary: Two drill rigs turning, third expected end of October Ionic clay confirmation and initial drill results expected in Q4 2025 Maiden MRE and PEA targeted in H1 2026 New rare earths project formally named SINGAPORE, Oct. 14, 2025 (GLOBE NEWSWIRE) — Verde AgriTec…
+- Source: https://financialpost.com/globe-newswire/verde-agritech-board-approves-accelerated-plan-for-district-scale-rare-earths-discovery
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Birth of the World’s Most Powerful Quantum Hub (Score: 0)
+- Summary: D-Wave Joins Q-Alliance in Italy PALO ALTO, Calif. & COMO, Italy — D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave” or the “Company”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, anno…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/the-birth-of-the-worlds-most-powerful-quantum-hub
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Broadcom Introduces Industry’s First Wi-Fi 8 Silicon Ecosystem Powering the AI Era (Score: 0)
+- Summary: New license option to help scale vibrant edge of smartphones, PCs, automotives and IoT devices in support of AI-first access devices New license option to help scale vibrant edge of smartphones, PCs, automotives and IoT devices in support of AI-first access d…
+- Source: https://www.globenewswire.com/news-release/2025/10/14/3165904/19933/en/Broadcom-Introduces-Industry-s-First-Wi-Fi-8-Silicon-Ecosystem-Powering-the-AI-Era.html
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Circulating endothelial signatures correlate with worse outcomes in COVID-19, respiratory failure and ARDS (Score: 0)
+- Summary: Background Elevated circulating endothelial cells (CECs), released from monolayers after insult, have been implicated in worse outcomes in ARDS and COVID-19, however there is no consensus proteomic phenotype that define CECs. We queried whether a transcriptom…
+- Source: https://ccforum.biomedcentral.com/articles/10.1186/s13054-025-05596-0
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators (Score: 0)
+- Summary: OpenAI and Broadcom will co-develop systems that include accelerators and Ethernet solutions from Broadcom for scale-up and scale-out......
+- Source: https://www.globenewswire.com/news-release/2025/10/13/3165560/19933/en/OpenAI-and-Broadcom-announce-strategic-collaboration-to-deploy-10-gigawatts-of-OpenAI-designed-AI-accelerators.html
+- Date: 2025-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This spacecraft will self-destruct in 5, 4, 3, 2... (Score: 0)
+- Summary: During the Cold War, US reconnaissance satellites and their film return capsules did not include self-destruct devices if they reentered off-course. Dwayne Day recounts incidents where intelligence officials may have wished they had.
+- Source: https://www.thespacereview.com/article/5079/1
+- Date: 2025-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Inside The $150 Billion Bitcoin Treasury Boom Shakeout (Score: 0)
+- Summary: After a flurry of billion-dollar raises, hundreds of newly minted crypto firms are now fighting to justify their valuations and prove their treasury strategies amount to more than hype.
+- Source: https://www.forbes.com/sites/ninabambysheva/2025/10/13/inside-the-150-billion-bitcoin-treasury-boom-shakeout/
+- Date: 2025-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: Hackers extorting Salesforce, CentreStack 0-day exploited (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: How to get better results from bug bounty programs without wasting money The wrong bug bounty strategy can flood your team with low-value reports. The right one …
+- Source: https://www.helpnetsecurity.com/2025/10/12/week-in-review-hackers-extorting-salesforce-centrestack-0-day-exploited/
+- Date: 2025-10-12
+- Vendors: None
+- Topics: None
+
+Notre Dame football vs. N.C. State live score updates, highlights, how to watch Week 7 game (Score: 0)
+- Summary: It's Notre Dame vs. N.C. State in Week 7 of 2025 college football season. Follow along for live score and game updates at Notre Dame Stadium.
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/10/11/notre-dame-football-n-c-state-score-today-live-updates-how-to-watch/86570199007/
+- Date: 2025-10-11
+- Vendors: None
+- Topics: None
+
+Nuggets Journal: Spencer Jones spends spare time teaching students who’ve been through criminal justice system (Score: 0)
+- Summary: "I needed something where I could have an impact," Spencer Jones said of his community work, "rather than just show up and say hi."
+- Source: https://www.denverpost.com/2025/10/11/spencer-jones-nuggets-player-nonprofit-school/
+- Date: 2025-10-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ra-mcp added to PyPI (Score: 0)
+- Summary: Riksarkivet first MCPs to expose APIs in dataplattformen and htrflow
+- Source: https://pypi.org/project/ra-mcp/
+- Date: 2025-10-10
+- Vendors: None
+- Topics: None
+
+Why We Need Transparency in Health Care Costs (Score: 0)
+- Summary: Ten years ago, my daughter asked me “Why do we have health insurance if we aren’t allowed to see the doctor?” I had a three-day rule where my premise -- most non-serious conditions resolve in 72 hours -- so no need to waste my time ...
+- Source: https://www.americanthinker.com/articles/2025/10/why_we_need_transparency_in_health_care_costs.html
+- Date: 2025-10-10
+- Vendors: None
+- Topics: None
+
+NEC X Unveils Seven New Startups Driving Breakthroughs in Healthcare, Construction, Agritech and More (Score: 0)
+- Summary: NEC X announces seven startups for Batch 14 of Elev X! Ignite, focused on AI innovation in healthcare, agriculture, retail and more.......
+- Source: https://www.globenewswire.com/news-release/2025/10/09/3164419/0/en/NEC-X-Unveils-Seven-New-Startups-Driving-Breakthroughs-in-Healthcare-Construction-Agritech-and-More.html
+- Date: 2025-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global AI Leader Motive Plants Austin Roots to Grow Regional Talent and Support Texas Industries (Score: 0)
+- Summary: Silicon Valley-founded company expands its U.S. footprint, fueling hiring and expanding customer support across Texas and beyond AUSTIN, Texas — Motive, the AI-powered Integrated Operations Platform, today announced the opening of its new office in Austin, Te…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/global-ai-leader-motive-plants-austin-roots-to-grow-regional-talent-and-support-texas-industries
+- Date: 2025-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SquareX Shows AI Browsers Fall Prey to OAuth Attacks, Malware Downloads and Malicious Link Distribution (Score: 0)
+- Summary: Palo Alto, California, 9th October 2025, CyberNewsWire
+- Source: https://www.nextbigfuture.com/2025/10/squarex-shows-ai-browsers-fall-prey-to-oauth-attacks-malware-downloads-and-malicious-link-distribution.html
+- Date: 2025-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
