@@ -23253,3 +23253,189 @@ SquareX Shows AI Browsers Fall Prey to OAuth Attacks, Malware Downloads and Mali
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-17 13:42  ---
+
+Cybersecurity jobs available right now: October 14, 2025 (Score: 5)
+- Summary: Cyber Security Analyst I First Citizens Bank | USA | Remote – View job details As a Cyber Security Analyst, you will be responsible for developing skills related to the use of the standard intelligence cycle (collection, analysis, and dissemination) across a …
+- Source: https://www.helpnetsecurity.com/2025/10/14/cybersecurity-jobs-available-right-now-october-14-2025/
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+$4.1 Bn Zero Trust Network Access (ZTNA) Markets, 2025-2030: Convergence of Ztna with AI/ML for Adaptive Trust Evaluation and Aging VPN Infrastructure Fuel Opportunities (Score: 2)
+- Summary: The global Zero Trust Network Access (ZTNA) market is forecasted to grow from USD 1.34 billion in 2025 to USD 4.18 billion by 2030, at a CAGR of 25.5%. Firms adopting remote work and cloud-based services prioritize ZTNA solutions for secure access to sensitiv…
+- Source: https://www.globenewswire.com/news-release/2025/10/16/3167823/28124/en/4-1-Bn-Zero-Trust-Network-Access-ZTNA-Markets-2025-2030-Convergence-of-Ztna-with-AI-ML-for-Adaptive-Trust-Evaluation-and-Aging-VPN-Infrastructure-Fuel-Opportunities.html
+- Date: 2025-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Latin America Data Center Colocation Market Industry Outlook & Forecast Report 2025-2030 | AI, 5G, and Edge Computing Drive 25.7% CAGR in Latin America Data Center Colocation Market to 2030 (Score: 2)
+- Summary: The Latin America data center colocation market is set to expand significantly, with an anticipated CAGR of 25.69% from 2024 to 2030. Key factors driving this growth include the rollout of 5G networks across the region, promoting demand for edge computing fac…
+- Source: https://www.globenewswire.com/news-release/2025/10/16/3167741/28124/en/Latin-America-Data-Center-Colocation-Market-Industry-Outlook-Forecast-Report-2025-2030-AI-5G-and-Edge-Computing-Drive-25-7-CAGR-in-Latin-America-Data-Center-Colocation-Market-to-20.html
+- Date: 2025-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months (Score: 2)
+- Summary: A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.
+The activity, which took place from Jan…
+- Source: https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html
+- Date: 2025-10-15
+- Vendors: None
+- Topics: None
+
+5G Networks Could Provide an Unjammable GPS Alternative (Score: 2)
+- Summary: 5G cellular networks could form the basis of a low-cost Earth-based global navigation satellite system (GNSS) back-up. GNSS options, like GPS, provide reliable positioning, timing, and navigation services but are vulnerable to jamming and spoofing attacks. Pr…
+- Source: https://spectrum.ieee.org/5g-gnss-gps-alternatives
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Network Detection and Response (NDR) Market worth $5.82 billion by 2030 | MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Oct. 14, 2025 /PRNewswire/ -- According to MarketsandMarkets™, the global Network Detection and Response (NDR) Market is projected to reach USD 5.82 billion by 2030, up from USD 3.68 billion in 2025, at a compound annual growth rate (CAGR)…
+- Source: https://www.prnewswire.co.uk/news-releases/network-detection-and-response-ndr-market-worth-5-82-billion-by-2030--marketsandmarkets-302583148.html
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Music genre classification with modified residual learning and dual neural network (Score: 2)
+- Summary: Music Genre is an abstract property of music that can identify shared traditions and conventions. In the recent past, music genre classification has shown a significant role in MIR that has attracted the research community to draw attention all around the wor…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333808
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Harnessing AI Without Undermining Democracy (Score: 0)
+- Summary: From deepfakes and data manipulation to black-box algorithms, AI is already testing the resilience of democratic institutions. To meet this challenge, governments must establish clear rules, defend user privacy, and invest in civic tools that maximize AI’s be…
+- Source: https://www.project-syndicate.org/commentary/ai-promises-and-perils-for-democracy-by-kelly-born-2025-10
+- Date: 2025-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay Bulletin: $15B Crypto Bust, Satellite Spying, Billion-Dollar Smishing, Android RATs & More (Score: 0)
+- Summary: The online world is changing fast. Every week, new scams, hacks, and tricks show how easy it’s become to turn everyday technology into a weapon. Tools made to help us work, connect, and stay safe are now being used to steal, spy, and deceive.
+Hackers don’t al…
+- Source: https://thehackernews.com/2025/10/threatsday-bulletin-15b-crypto-bust.html
+- Date: 2025-10-16
+- Vendors: None
+- Topics: None
+
+Dave Vellante’s Breaking Analysis: The complete collection (Score: 0)
+- Summary: Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLE’s theCUBE with spending data from Enterprise Technology Research. Branded as theCUBE Insights, Powered by ETR, the program is our opportunity to share independent, unfiltere…
+- Source: https://siliconangle.com/2025/10/16/dave-vellantes-breaking-analysis-complete-collection/
+- Date: 2025-10-16
+- Vendors: None
+- Topics: None
+
+The Hidden Tax A Company Pays To Hackers —And How Some Are Opting Out (Score: 0)
+- Summary: Cyberattacks cost companies billions, a hidden tax passed to consumers. Learn how businesses are fighting back—and what it means for your wallet.
+- Source: https://www.forbes.com/sites/jaimecatmull/2025/10/15/the-hidden-tax-a-company-pays-to-hackers--and-how-some-are-opting-out/
+- Date: 2025-10-15
+- Vendors: None
+- Topics: None
+
+Frankfurt’s News Conference: ‘What Literature Can Do’ (Score: 0)
+- Summary: On the eve of the 77th trade show's opening, Frankfurter Buchmesse stages its annual opening press conference.
+The post Frankfurt’s News Conference: ‘What Literature Can Do’ appeared first on Publishing Perspectives.
+- Source: https://publishingperspectives.com/2025/10/frankfurts-news-conference-what-literature-can-do/
+- Date: 2025-10-15
+- Vendors: None
+- Topics: None
+
+Frankfurt’s News Confefence: ‘What Literature Can Do’ (Score: 0)
+- Summary: On the eve of the 77th trade show's opening, Frankfurter Buchmesse stages its annual opening press conference.
+The post Frankfurt’s News Confefence: ‘What Literature Can Do’ appeared first on Publishing Perspectives.
+- Source: https://publishingperspectives.com/2025/10/frankfurts-news-confefence-what-literature-can-do/
+- Date: 2025-10-15
+- Vendors: None
+- Topics: None
+
+Four from West Jaintia Hills nabbed with Royal Enfield stolen from Guwahati (Score: 0)
+- Summary: In a case of interstate vehicle theft, four persons from West Jaintia Hills were arrested after police recovered a stolen Royal Enfield motorcycle that was taken from Guwahati. The arrests were made during late-night police checking operation at Mawryngkneng …
+- Source: https://www.syllad.com/four-from-west-jaintia-hills-nabbed-with-royal-enfield-stolen-from-guwahati/
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+O’Reilly Publishes In-Depth Book on Logical Data Management (Score: 0)
+- Summary: Examines both the technological underpinnings and the tangible business benefits PALO ALTO, Calif., Oct. 14, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced that O’Reilly has published The Rise of Logical Data Management: An Essential D…
+- Source: https://financialpost.com/globe-newswire/oreilly-publishes-in-depth-book-on-logical-data-management
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Verde AgriTech Board Approves Accelerated Plan for District Scale Rare Earths Discovery (Score: 0)
+- Summary: Two drill rigs turning, third expected end of October Ionic clay confirmation and initial drill results expected in Q4 2025 Maiden MRE and PEA targeted in H1 2026 New rare earths project formally named SINGAPORE, Oct. 14, 2025 (GLOBE NEWSWIRE) — Verde AgriTec…
+- Source: https://financialpost.com/globe-newswire/verde-agritech-board-approves-accelerated-plan-for-district-scale-rare-earths-discovery
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Birth of the World’s Most Powerful Quantum Hub (Score: 0)
+- Summary: D-Wave Joins Q-Alliance in Italy PALO ALTO, Calif. & COMO, Italy — D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave” or the “Company”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, anno…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/the-birth-of-the-worlds-most-powerful-quantum-hub
+- Date: 2025-10-14
+- Vendors: None
+- Topics: None
+
+Broadcom Introduces Industry’s First Wi-Fi 8 Silicon Ecosystem Powering the AI Era (Score: 0)
+- Summary: New license option to help scale vibrant edge of smartphones, PCs, automotives and IoT devices in support of AI-first access devices New license option to help scale vibrant edge of smartphones, PCs, automotives and IoT devices in support of AI-first access d…
+- Source: https://www.globenewswire.com/news-release/2025/10/14/3165904/19933/en/Broadcom-Introduces-Industry-s-First-Wi-Fi-8-Silicon-Ecosystem-Powering-the-AI-Era.html
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Circulating endothelial signatures correlate with worse outcomes in COVID-19, respiratory failure and ARDS (Score: 0)
+- Summary: Background Elevated circulating endothelial cells (CECs), released from monolayers after insult, have been implicated in worse outcomes in ARDS and COVID-19, however there is no consensus proteomic phenotype that define CECs. We queried whether a transcriptom…
+- Source: https://ccforum.biomedcentral.com/articles/10.1186/s13054-025-05596-0
+- Date: 2025-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators (Score: 0)
+- Summary: OpenAI and Broadcom will co-develop systems that include accelerators and Ethernet solutions from Broadcom for scale-up and scale-out......
+- Source: https://www.globenewswire.com/news-release/2025/10/13/3165560/19933/en/OpenAI-and-Broadcom-announce-strategic-collaboration-to-deploy-10-gigawatts-of-OpenAI-designed-AI-accelerators.html
+- Date: 2025-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This spacecraft will self-destruct in 5, 4, 3, 2... (Score: 0)
+- Summary: During the Cold War, US reconnaissance satellites and their film return capsules did not include self-destruct devices if they reentered off-course. Dwayne Day recounts incidents where intelligence officials may have wished they had.
+- Source: https://www.thespacereview.com/article/5079/1
+- Date: 2025-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Inside The $150 Billion Bitcoin Treasury Boom Shakeout (Score: 0)
+- Summary: After a flurry of billion-dollar raises, hundreds of newly minted crypto firms are now fighting to justify their valuations and prove their treasury strategies amount to more than hype.
+- Source: https://www.forbes.com/sites/ninabambysheva/2025/10/13/inside-the-150-billion-bitcoin-treasury-boom-shakeout/
+- Date: 2025-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: Hackers extorting Salesforce, CentreStack 0-day exploited (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: How to get better results from bug bounty programs without wasting money The wrong bug bounty strategy can flood your team with low-value reports. The right one …
+- Source: https://www.helpnetsecurity.com/2025/10/12/week-in-review-hackers-extorting-salesforce-centrestack-0-day-exploited/
+- Date: 2025-10-12
+- Vendors: None
+- Topics: None
+
+Notre Dame football vs. N.C. State live score updates, highlights, how to watch Week 7 game (Score: 0)
+- Summary: It's Notre Dame vs. N.C. State in Week 7 of 2025 college football season. Follow along for live score and game updates at Notre Dame Stadium.
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/10/11/notre-dame-football-n-c-state-score-today-live-updates-how-to-watch/86570199007/
+- Date: 2025-10-11
+- Vendors: None
+- Topics: None
+
+Nuggets Journal: Spencer Jones spends spare time teaching students who’ve been through criminal justice system (Score: 0)
+- Summary: "I needed something where I could have an impact," Spencer Jones said of his community work, "rather than just show up and say hi."
+- Source: https://www.denverpost.com/2025/10/11/spencer-jones-nuggets-player-nonprofit-school/
+- Date: 2025-10-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
