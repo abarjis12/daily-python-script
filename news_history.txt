@@ -24377,3 +24377,189 @@ Home fleet home: An EV charging Q&A with Voltera Power (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-23 13:47  ---
+
+Scattered Lapsus$ Hunters Signal Shift in Tactics (Score: 2)
+- Summary: Scattered Lapsus$ Hunters may be preparing to launch an extortion-as-a-service model, according to Palo Alto Networks
+- Source: https://www.infosecurity-magazine.com/news/scattered-lapsus-hunters-shift/
+- Date: 2025-10-22
+- Vendors: Palo Alto Networks
+- Topics: None
+
+netbox-panorama-configpump-plugin 1.0.3 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.3/
+- Date: 2025-10-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cyber defenders sound the alarm as F5 hack exposes broad risks (Score: 2)
+- Summary: WASHINGTON :A more than year-long digital intrusion into cybersecurity company F5, publicized last week and blamed on Chinese spies, has defenders across the industry hunting for signs of compromise among the many corporate networks that use its products.Seve…
+- Source: https://www.channelnewsasia.com/business/cyber-defenders-sound-alarm-f5-hack-exposes-broad-risks-5412956
+- Date: 2025-10-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+UAE Cyber Security Industry Report 2025: Market Strengthened by Collaboration Between Local Leaders Like DarkMatter, Help AG, and CPX and Global Vendors Including IBM, Cisco, and Palo Alto Networks (Score: 2)
+- Summary: The UAE's cybersecurity market is rapidly expanding, driven by increased digitalization, cyber threats, and robust government initiatives. Key opportunities include investments in advanced security tools like AI security analytics, zero trust architecture, an…
+- Source: https://www.globenewswire.com/news-release/2025/10/17/3168464/28124/en/UAE-Cyber-Security-Industry-Report-2025-Market-Strengthened-by-Collaboration-Between-Local-Leaders-Like-DarkMatter-Help-AG-and-CPX-and-Global-Vendors-Including-IBM-Cisco-and-Palo-A.html
+- Date: 2025-10-17
+- Vendors: Cisco, Palo Alto Networks, IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+$4.1 Bn Zero Trust Network Access (ZTNA) Markets, 2025-2030: Convergence of Ztna with AI/ML for Adaptive Trust Evaluation and Aging VPN Infrastructure Fuel Opportunities (Score: 2)
+- Summary: The global Zero Trust Network Access (ZTNA) market is forecasted to grow from USD 1.34 billion in 2025 to USD 4.18 billion by 2030, at a CAGR of 25.5%. Firms adopting remote work and cloud-based services prioritize ZTNA solutions for secure access to sensitiv…
+- Source: https://www.globenewswire.com/news-release/2025/10/16/3167823/28124/en/4-1-Bn-Zero-Trust-Network-Access-ZTNA-Markets-2025-2030-Convergence-of-Ztna-with-AI-ML-for-Adaptive-Trust-Evaluation-and-Aging-VPN-Infrastructure-Fuel-Opportunities.html
+- Date: 2025-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Latin America Data Center Colocation Market Industry Outlook & Forecast Report 2025-2030 | AI, 5G, and Edge Computing Drive 25.7% CAGR in Latin America Data Center Colocation Market to 2030 (Score: 2)
+- Summary: The Latin America data center colocation market is set to expand significantly, with an anticipated CAGR of 25.69% from 2024 to 2030. Key factors driving this growth include the rollout of 5G networks across the region, promoting demand for edge computing fac…
+- Source: https://www.globenewswire.com/news-release/2025/10/16/3167741/28124/en/Latin-America-Data-Center-Colocation-Market-Industry-Outlook-Forecast-Report-2025-2030-AI-5G-and-Edge-Computing-Drive-25-7-CAGR-in-Latin-America-Data-Center-Colocation-Market-to-20.html
+- Date: 2025-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months (Score: 2)
+- Summary: A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.
+The activity, which took place from Jan…
+- Source: https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html
+- Date: 2025-10-15
+- Vendors: None
+- Topics: None
+
+AI and Data Leaders NVIDIA, AMD, Snowflake, and Databricks Invest in Uniphore’s Series F to Accelerate Its Leadership in Business AI (Score: 0)
+- Summary: PALO ALTO, Calif. — Uniphore, the Business AI company, today announced the close of its $260 million Series F round. NVIDIA, AMD, Snowflake, and Databricks invested in the round and were joined by financial and sovereign investors including NEA, March Capital…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/ai-and-data-leaders-nvidia-amd-snowflake-and-databricks-invest-in-uniphores-series-f-to-accelerate-its-leadership-in-business-ai
+- Date: 2025-10-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Eightfold AI Appoints Navneet Singh as Chief Marketing Officer to Accelerate Global AI Adoption in Talent (Score: 0)
+- Summary: Eightfold AI named Navneet Singh as CMO. He will build and lead an AI-first marketing function that amplifies Eightfold’s leadership in AI.......
+- Source: https://www.globenewswire.com/news-release/2025/10/21/3170064/0/en/Eightfold-AI-Appoints-Navneet-Singh-as-Chief-Marketing-Officer-to-Accelerate-Global-AI-Adoption-in-Talent.html
+- Date: 2025-10-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+UN Tourism Announces Best Tourism Villages 2025: 52 Communities Leading Tourism for Rural Development (Score: 0)
+- Summary: From Koyasan in Japan to Chamarel in Mauritius, Bled in Slovenia, Carlos Pellegrini in Argentina, and Masfout in the United Arab Emirates, 52 newly recognized Best Tourism Villages from 29 countries showcase the power of tourism. The latest list of ...
+- Source: https://www.hospitalitynet.org/news/4129411.html
+- Date: 2025-10-21
+- Vendors: None
+- Topics: None
+
+Year-long F5 hack exposes broad risks (Score: 0)
+- Summary: Triggers widespread unease among corporate customers.
+- Source: https://www.itnews.com.au/news/year-long-f5-hack-exposes-broad-risks-621164?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed
+- Date: 2025-10-20
+- Vendors: None
+- Topics: None
+
+Year-long F5 hack exposes broad risks (Score: 0)
+- Summary: Triggers widespread unease among corporate customers.
+- Source: https://www.itnews.com.au/news/year-long-f5-hack-exposes-broad-risks-621164?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed
+- Date: 2025-10-20
+- Vendors: None
+- Topics: None
+
+Year-long F5 hack exposes broad risks (Score: 0)
+- Summary: Triggers widespread unease among corporate customers.
+- Source: https://www.itnews.com.au/news/year-long-f5-hack-exposes-broad-risks-621164?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+
+- Date: 2025-10-20
+- Vendors: None
+- Topics: None
+
+Year-long F5 hack exposes broad risks (Score: 0)
+- Summary: Triggers widespread unease among corporate customers.
+- Source: https://www.itnews.com.au/news/year-long-f5-hack-exposes-broad-risks-621164?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed
+- Date: 2025-10-20
+- Vendors: None
+- Topics: None
+
+Stockrich Enters the Global Fintech Elite, Officially Launches the Global Asset Link Initiative (Score: 0)
+- Summary: New York, USA , Oct. 20, 2025 (GLOBE NEWSWIRE) -- As global fintech enters a critical phase of parallel development in intelligence and institutionalization, the American fintech company Stockrich is accelerating its rise as a provider of underlying infrastru…
+- Source: https://www.globenewswire.com/news-release/2025/10/20/3169680/0/en/Stockrich-Enters-the-Global-Fintech-Elite-Officially-Launches-the-Global-Asset-Link-Initiative.html
+- Date: 2025-10-20
+- Vendors: None
+- Topics: None
+
+AI Agents: The CIO’s Definitive Guide From 50+ Leading SaaS & Security Titans (Score: 0)
+- Summary: A comprehensive list of AI agents for CIOs from major tech and security firms exceeding $500M in ARR. It highlights the importance of differentiating between agentic AI and standard chatbots, while offering recommendations for CIOs on effectively integrating …
+- Source: https://drive.starcio.com/2025/10/ai-agents-definitive-guide-saas-security-titans/
+- Date: 2025-10-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyber defenders sound the alarm as F5 hack exposes broad risks (Score: 0)
+- Summary: A cybersecurity company, F5, suffered a year-long hack blamed on Chinese spies, raising concern among users of its products. F5 said its source code and details of software weaknesses were stolen. The company supports over 80% of Fortune 500 firms, and US off…
+- Source: https://economictimes.indiatimes.com/tech/technology/cyber-defenders-sound-the-alarm-as-f5-hack-exposes-broad-risks/articleshow/124703577.cms
+- Date: 2025-10-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+An Interview with Asana Founder Dustin Moskovitz about AI, SaaS, and Safety (Score: 0)
+- Summary: An interview with Asana founder and Chariman Dustin Moskovitz about Asana, AI's impact on SaaS, and the debate about AI Safety
+- Source: https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/
+- Date: 2025-10-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Tailscale is improving NAT traversal (Part 1) (Score: 0)
+- Summary: This is the first in a series of posts about how Tailscale makes secure connections between devices, and the challenges on the path between them. Read on to learn how we've made connections easier for both Tailscale and the global web—and look for future post…
+- Source: https://tailscale.com/blog/nat-traversal-improvements-pt-1
+- Date: 2025-10-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Notre Dame football vs. USC live score updates, highlights, how to watch Week 8 game (Score: 0)
+- Summary: It's Notre Dame vs. USC in Week 8 of the 2025 college football season. Follow along for live scoring and game updates for Notre Dame Stadium.
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/10/18/notre-dame-vs-usc-score-today-live-updates-channel-for-week-8-game/86676604007/
+- Date: 2025-10-18
+- Vendors: None
+- Topics: None
+
+Andrej Karpathy – AGI is still a decade away (Score: 0)
+- Summary: Article URL: https://www.dwarkesh.com/p/andrej-karpathy
+Comments URL: https://news.ycombinator.com/item?id=45619329
+Points: 13
+# Comments: 11
+- Source: https://www.dwarkesh.com/p/andrej-karpathy
+- Date: 2025-10-17
+- Vendors: None
+- Topics: None
+
+News brief: National cyberdefenses under mounting pressure (Score: 0)
+- Summary: Check out the latest security news from the Informa TechTarget team.
+- Source: https://www.techtarget.com/searchsecurity/news/366633052/News-brief-National-cyberdefenses-under-mounting-pressure
+- Date: 2025-10-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SoundThinking Unveils CrimeTracer Gen3: Expanding from Investigations to Agency-Wide Crime Data Solution (Score: 0)
+- Summary: Summary: SoundThinking today announced CrimeTracer Gen3, the third generation and most significant upgrade in the product’s history. This release introduces more than a dozen new capabilities and delivers greater value to more units across agencies Summary: S…
+- Source: https://www.globenewswire.com/news-release/2025/10/17/3168607/0/en/SoundThinking-Unveils-CrimeTracer-Gen3-Expanding-from-Investigations-to-Agency-Wide-Crime-Data-Solution.html
+- Date: 2025-10-17
+- Vendors: None
+- Topics: None
+
+Home fleet home: An EV charging Q&A with Voltera Power (Score: 0)
+- Summary: Voltera Power, a growing EV fleet charging developer and operator, discusses technological developments and navigating utilities.
+- Source: https://www.renewableenergyworld.com/electric-vehicle/ev-charging/home-fleet-home-an-ev-charging-qa-with-voltera-power/
+- Date: 2025-10-16
+- Vendors: None
+- Topics: None
+
+Auto sector faces historic cyber threats to business continuity (Score: 0)
+- Summary: A catastrophic cyberattack at Jaguar Land Rover is forcing governments and industrial leaders to address urgent demands for business resilience and...
+- Source: https://www.cybersecuritydive.com/news/auto-sector-cyber-threats-business-continuity/802974/
+- Date: 2025-10-16
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
