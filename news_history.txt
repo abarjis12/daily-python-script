@@ -25658,3 +25658,190 @@ AI and Data Leaders NVIDIA, AMD, Snowflake, and Databricks Invest in Uniphore’
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-10-30 13:46  ---
+
+Palo Alto Networks introduces Prisma AIRS 2.0, Cortex Cloud 2.0 and AgentiX to secure the agentic enterprise (Score: 6)
+- Summary: Palo Alto Networks Inc. today announced upgrades to its cybersecurity lineup with three major releases, Prisma AIRS 2.0, Cortex Cloud 2.0 and Cortex AgentiX, that aim to secure the fast-growing world of agentic artificial intelligence and autonomous cloud ope…
+- Source: https://siliconangle.com/2025/10/28/palo-alto-networks-introduces-prisma-airs-2-0-cortex-cloud-2-0-agentix-secure-agentic-enterprise/
+- Date: 2025-10-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nvidia GTC DC: The rise of AI factories and a push for US leadership (Score: 4)
+- Summary: As artificial intelligence continues to steamroll its way into every part of our lives, Nvidia Corp.’s GPU Technology Conference events have grown in importance, and this week’s fall installment in Washington, D.C. provided the customary showcase of how and w…
+- Source: https://siliconangle.com/2025/10/29/nvidia-gtc-dc-rise-ai-factories-push-us-leadership/
+- Date: 2025-10-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+$29.5 Billion Healthcare Cybersecurity Market Analysis Report 2025: Global, Regional and Country-Level Forecasts to 2032 (Score: 3)
+- Summary: Healthcare cybersecurity offers growth opportunities as IoMT adoption and cyber threats rise. Key areas include advanced security solutions, AI-driven automation, and integration of managed services. Healthcare cybersecurity offers growth opportunities as IoM…
+- Source: https://www.globenewswire.com/news-release/2025/10/23/3171772/28124/en/29-5-Billion-Healthcare-Cybersecurity-Market-Analysis-Report-2025-Global-Regional-and-Country-Level-Forecasts-to-2032.html
+- Date: 2025-10-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nearly half of network connections come from high-risk IoT and IT devices - so make sure you're protected (Score: 2)
+- Summary: Most enterprises are running "flat" networks, putting their entire infrastructure at risk.
+- Source: https://www.techradar.com/pro/security/nearly-half-of-network-connections-come-from-high-risk-iot-and-it-devices-so-make-sure-youre-protected
+- Date: 2025-10-29
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks launches Prisma AIRS 2.0 to deliver end-to-end security across the AI lifecycle (Score: 2)
+- Summary: Palo Alto Networks announced Prisma AIRS 2.0, a major platform upgrade that completes the native integration of recently acquired Protect AI to deliver a comprehensive AI security platform. This release directly confronts a critical enterprise challenge: 78% …
+- Source: https://www.helpnetsecurity.com/2025/10/29/palo-alto-networks-launches-prisma-airs-2-0-to-deliver-end-to-end-security-across-the-ai-lifecycle/
+- Date: 2025-10-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A Bouncy Ska Cover of the ‘Ghostbusters’ Theme Song (Score: 2)
+- Summary: JER of the Ska Tune Network performed a bouncy ska cover of the classic Ghostbusters theme song.
+subscribe to the Laughing Squid Newsletter
+The post A Bouncy Ska Cover of the ‘Ghostbusters’ Theme Song was originally published on Laughing Squid.
+- Source: https://laughingsquid.com/ghostbusters-ska-cover/
+- Date: 2025-10-28
+- Vendors: None
+- Topics: None
+
+Palo Alto networks create automated anti-cyber attack agents that totally won't go rogue and create other network problems [Murica] (Score: 2)
+- Summary: Palo Alto networks create automated anti-cyber attack agents that totally won't go rogue and create other network problems
+- Source: https://www.fark.com/comments/13859466/Palo-Alto-networks-create-automated-anti-cyber-attack-agents-that-totally-wont-go-rogue-create-other-network-problems
+- Date: 2025-10-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Secure Access Service Edge (SASE) Market Report 2025 - Security Industry Transformed as Cloud-First Strategies Make Traditional Security Obsolete (Score: 2)
+- Summary: The SASE market presents key opportunities as businesses adopt cloud-first strategies and hybrid work models, necessitating unified, cloud-delivered networking and security. Growth is propelled by demand for zero trust access, regulatory compliance, and AI-dr…
+- Source: https://www.globenewswire.com/news-release/2025/10/28/3175761/28124/en/Secure-Access-Service-Edge-SASE-Market-Report-2025-Security-Industry-Transformed-as-Cloud-First-Strategies-Make-Traditional-Security-Obsolete.html
+- Date: 2025-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens (Score: 2)
+- Summary: Security, trust, and stability — once the pillars of our digital world — are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior.
+Each new breac…
+- Source: https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html
+- Date: 2025-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+North Korea Has Stolen Billions in Crypto, But the Ability to 'Fight Back Is Growing': Chainalysis (Score: 2)
+- Summary: The sanctioning of the DPRK IT worker network and recovery of Bybit funds are signs of the growing pushback, experts told Decrypt.
+- Source: https://decrypt.co/346010/north-korea-stolen-billions-crypto-ability-fight-back-growing-chainalysis
+- Date: 2025-10-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Are Network Security Devices Endangering Orgs With 1990s-Era Flaws? (Score: 2)
+- Summary: Critics question why basic flaws like buffer overflows, command injections, and SQL injections are "being exploited remain prevalent in mission-critical codebases maintained by companies whose core business is cybersecurity," writes CSO Online. Benjamin Harri…
+- Source: https://it.slashdot.org/story/25/10/26/0345238/are-network-security-devices-endangering-orgs-with-1990s-era-flaws
+- Date: 2025-10-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IGEL Teams with Palo Alto Networks to Elevate Enterprise Cybersecurity (Score: 2)
+- Summary: Together, IGEL OS and Palo Alto Networks’ Prisma® Browser deliver consistent, frictionless Zero Trust access to SaaS, web, and private applications on any device Together, IGEL OS and Palo Alto Networks’ Prisma® Browser deliver consistent, frictionless Zero T…
+- Source: https://www.globenewswire.com/news-release/2025/10/24/3173073/0/en/IGEL-Teams-with-Palo-Alto-Networks-to-Elevate-Enterprise-Cybersecurity.html
+- Date: 2025-10-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PyPANRestV2 2.1.2 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.2/
+- Date: 2025-10-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+What’s up with… Samsung & SoftBank, Singtel, T-Mobile US (Score: 2)
+- Summary: Asian giants join forces on 6G and Al-RAN R&DSingtel launches hybrid quantum-safe networkT-Mobile’s Mike Sievert ends his CEO run on a high
+- Source: https://www.telecomtv.com/content/6g/what-s-up-with-samsung-softbank-singtel-t-mobile-us-54157/
+- Date: 2025-10-24
+- Vendors: None
+- Topics: None
+
+Next-Gen Cybersecurity Market Forecast to 2030 with Historical Analysis Since 2020 - Palo Alto Networks, CrowdStrike, and Fortinet Lead the $21+ Billion Industry (Score: 2)
+- Summary: Key drivers include increased IoT and cloud adoption, regulatory pressures, and advanced AI tools. Opportunities lie in zero-trust architectures, endpoint protection, and securing remote work environments. Key drivers include increased IoT and cloud adoption,…
+- Source: https://www.globenewswire.com/news-release/2025/10/23/3171800/28124/en/Next-Gen-Cybersecurity-Market-Forecast-to-2030-with-Historical-Analysis-Since-2020-Palo-Alto-Networks-CrowdStrike-and-Fortinet-Lead-the-21-Billion-Industry.html
+- Date: 2025-10-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BofA Lifts PT on Palo Alto Networks (PANW) to $240 From $215 (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW) is one of the best long term low volatility stocks to buy right now. BofA lifted price target on Palo Alto Networks...
+- Source: https://finance.yahoo.com/news/bofa-lifts-pt-palo-alto-023535248.html
+- Date: 2025-10-23
+- Vendors: Palo Alto Networks
+- Topics: None
+
+CAFC Gives Centripetal Another Shot at PTAB in Case Tied to APJ’s Alleged Bias (Score: 2)
+- Summary: The U.S. Court of Appeals for the Federal Circuit (CAFC) on Wednesday vacated and remanded a decision of the Patent Trial and Appeal Board (PTAB) that--despite rejecting arguments about an APJ's alleged bias--could result in Centripetal Networks getting its r…
+- Source: https://ipwatchdog.com/2025/10/22/cafc-gives-centripetal-another-shot-ptab-case-tied-apjs-alleged-bias/
+- Date: 2025-10-22
+- Vendors: None
+- Topics: None
+
+375ai Launches Data Layer for the Physical World on Solana (Score: 0)
+- Summary: LOS ANGELES — 375ai, an edge data intelligence company transforming the physical world into structured, machine-readable insights, today announced the launch of its mainnet on Solana. Instead of streaming terabytes of unstructured data to the cloud, these dev…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/375ai-launches-data-layer-for-the-physical-world-on-solana
+- Date: 2025-10-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Xage Security Integrates NVIDIA BlueField to Deliver Unified Zero Trust for AI (Score: 0)
+- Summary: Integration Unites NVIDIA BlueField Acceleration With Xage Zero Trust to Secure AI Deployments PALO ALTO, Calif., Oct. 28, 2025 (GLOBE NEWSWIRE) — Xage Security, a global leader in Zero Trust access and protection, today announced the integration of its Xage …
+- Source: https://financialpost.com/globe-newswire/xage-security-integrates-nvidia-bluefield-to-deliver-unified-zero-trust-for-ai
+- Date: 2025-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+(PR) NVIDIA Launches BlueField-4 DPUs with 800 Gb/s Throughput for AI Data Centers (Score: 0)
+- Summary: AI factories continue to grow at unprecedented scale, processing structured, unstructured and emerging AI-native data. With demand for trillion-token workloads exploding, a new class of infrastructure is required to keep pace. At NVIDIA GTC Washington, D.C, N…
+- Source: https://www.techpowerup.com/342340/nvidia-launches-bluefield-4-dpus-with-800-gb-s-throughput-for-ai-data-centers
+- Date: 2025-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Launches BlueField-4: The Processor Powering the Operating System of AI Factories (Score: 0)
+- Summary: AI factories continue to grow at unprecedented scale, processing structured, unstructured and emerging AI-native data. With demand for trillion-token workloads exploding, a new class of infrastructure is required to keep pace. At NVIDIA GTC Washington, D.C, N…
+- Source: https://blogs.nvidia.com/blog/bluefield-4-ai-factory/
+- Date: 2025-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PayPal & OpenAI Partner for ChatGPT Checkout Integration (Score: 0)
+- Summary: PayPal adopts Agentic Commerce Protocol to enable direct purchasing within ChatGPT conversations, connecting millions of merchants to AI-powered shopping.
+Continue reading...
+- Source: https://www.vktr.com/ai-news/paypal-openai-partner-for-chatgpt-checkout-integration/
+- Date: 2025-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cork Jazz Festival review: Dig deep and you’ll find this festival thriving at the fringes (Score: 0)
+- Summary: One of the most joyous events was the Cork School of Music Jazz Big Band concert enthusiastically directed by Cormac McCarthy
+- Source: https://www.irishtimes.com/culture/music/review/2025/10/28/cork-jazz-festival-review-dig-deep-and-youll-find-this-festival-thriving-at-the-fringes/
+- Date: 2025-10-28
+- Vendors: None
+- Topics: None
+
+WSUS attacks hit 'multiple' orgs as Google and other infosec sleuths ring Redmond’s alarm bell (Score: 0)
+- Summary: If at first you don’t succeed, patch and patch again
+More threat intel teams are sounding the alarm about a critical Windows Server Update Services (WSUS) remote code execution vulnerability, tracked as CVE-2025-59287 and now under active exploitation, just d…
+- Source: https://www.theregister.com/2025/10/27/microsoft_wsus_attacks_multiple_orgs/
+- Date: 2025-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Domain Name System (DNS) Firewall Market to Reach USD 5.51 billion by 2032, Growing At An 15% CAGR - Credence Research (Score: 0)
+- Summary: PUNE, India, Oct. 27, 2025 /PRNewswire/ -- Market Overview The Domain Name System (DNS) Firewall market was valued at USD 1.8 billion in 2024 and is projected to reach USD 5.51 billion by 2032, growing at a CAGR of 15% during the forecast period. The DNS fire…
+- Source: https://www.prnewswire.co.uk/news-releases/domain-name-system-dns-firewall-market-to-reach-usd-5-51-billion-by-2032--growing-at-an-15-cagr--credence-research-302595709.html
+- Date: 2025-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
