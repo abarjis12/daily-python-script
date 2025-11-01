@@ -26031,3 +26031,188 @@ Continue reading...
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-01 13:38  ---
+
+Palo Alto Networks introduces Prisma AIRS 2.0, Cortex Cloud 2.0 and AgentiX to secure the agentic enterprise (Score: 6)
+- Summary: Palo Alto Networks Inc. today announced upgrades to its cybersecurity lineup with three major releases, Prisma AIRS 2.0, Cortex Cloud 2.0 and Cortex AgentiX, that aim to secure the fast-growing world of agentic artificial intelligence and autonomous cloud ope…
+- Source: https://siliconangle.com/2025/10/28/palo-alto-networks-introduces-prisma-airs-2-0-cortex-cloud-2-0-agentix-secure-agentic-enterprise/
+- Date: 2025-10-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nvidia GTC DC: The rise of AI factories and a push for US leadership (Score: 4)
+- Summary: As artificial intelligence continues to steamroll its way into every part of our lives, Nvidia Corp.’s GPU Technology Conference events have grown in importance, and this week’s fall installment in Washington, D.C. provided the customary showcase of how and w…
+- Source: https://siliconangle.com/2025/10/29/nvidia-gtc-dc-rise-ai-factories-push-us-leadership/
+- Date: 2025-10-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Infosec products of the month: October 2025 (Score: 2)
+- Summary: Here’s a look at the most interesting products from the past month, featuring releases from: Acronis, Akeyless, Axoflow, Blumira, Cayosoft, Confluent, Corelight, Elastic, Illumio, Legit Security, Netscout, NowSecure, Nozomi Networks, Palo Alto Networks, Picus…
+- Source: https://www.helpnetsecurity.com/2025/10/31/infosec-products-of-the-month-october-2025/
+- Date: 2025-10-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Access Control (NAC) Hardware Global Market Overview 2022-2025 and Forecast to 2032 - AI-Driven Innovations Boost NAC Hardware Demand Across Various Sectors (Score: 2)
+- Summary: Key NAC hardware market opportunities include rising demand due to increased connected devices and regulatory compliance. Rapid Asia-Pacific growth, cloud-managed solutions for SMBs, and AI-driven innovations like SDP and ZTNA frameworks offer significant pot…
+- Source: https://www.globenewswire.com/news-release/2025/10/30/3177734/28124/en/Network-Access-Control-NAC-Hardware-Global-Market-Overview-2022-2025-and-Forecast-to-2032-AI-Driven-Innovations-Boost-NAC-Hardware-Demand-Across-Various-Sectors.html
+- Date: 2025-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.4 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.4/
+- Date: 2025-10-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+In-home Helper Robot ‘NEO’ Uses Remote VR Operators to Help with Chores (Score: 2)
+- Summary: NEO is a humanoid robot from Palo Alto-based robotics startup 1X that could one day autonomously help out around your home. For now though, it’s using human operators wearing Quest 3 headsets to pick up the slack and teach Neo’s neural network the ropes in th…
+- Source: https://www.roadtovr.com/helper-robot-neo-vr-telepresence/
+- Date: 2025-10-30
+- Vendors: None
+- Topics: None
+
+US company with access to biggest telecom firms uncovers breach by nation-state hackers (Score: 2)
+- Summary: (Reuters) -Hackers working for an unnamed nation-state breached networks at Ribbon Communications, a key U.S. telecommunications services company, and...
+- Source: https://www.yahoo.com/news/articles/us-company-access-biggest-telecom-180926860.html
+- Date: 2025-10-29
+- Vendors: None
+- Topics: None
+
+Nearly half of network connections come from high-risk IoT and IT devices - so make sure you're protected (Score: 2)
+- Summary: Most enterprises are running "flat" networks, putting their entire infrastructure at risk.
+- Source: https://www.techradar.com/pro/security/nearly-half-of-network-connections-come-from-high-risk-iot-and-it-devices-so-make-sure-youre-protected
+- Date: 2025-10-29
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks launches Prisma AIRS 2.0 to deliver end-to-end security across the AI lifecycle (Score: 2)
+- Summary: Palo Alto Networks announced Prisma AIRS 2.0, a major platform upgrade that completes the native integration of recently acquired Protect AI to deliver a comprehensive AI security platform. This release directly confronts a critical enterprise challenge: 78% …
+- Source: https://www.helpnetsecurity.com/2025/10/29/palo-alto-networks-launches-prisma-airs-2-0-to-deliver-end-to-end-security-across-the-ai-lifecycle/
+- Date: 2025-10-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A Bouncy Ska Cover of the ‘Ghostbusters’ Theme Song (Score: 2)
+- Summary: JER of the Ska Tune Network performed a bouncy ska cover of the classic Ghostbusters theme song.
+subscribe to the Laughing Squid Newsletter
+The post A Bouncy Ska Cover of the ‘Ghostbusters’ Theme Song was originally published on Laughing Squid.
+- Source: https://laughingsquid.com/ghostbusters-ska-cover/
+- Date: 2025-10-28
+- Vendors: None
+- Topics: None
+
+Palo Alto networks create automated anti-cyber attack agents that totally won't go rogue and create other network problems [Murica] (Score: 2)
+- Summary: Palo Alto networks create automated anti-cyber attack agents that totally won't go rogue and create other network problems
+- Source: https://www.fark.com/comments/13859466/Palo-Alto-networks-create-automated-anti-cyber-attack-agents-that-totally-wont-go-rogue-create-other-network-problems
+- Date: 2025-10-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Secure Access Service Edge (SASE) Market Report 2025 - Security Industry Transformed as Cloud-First Strategies Make Traditional Security Obsolete (Score: 2)
+- Summary: The SASE market presents key opportunities as businesses adopt cloud-first strategies and hybrid work models, necessitating unified, cloud-delivered networking and security. Growth is propelled by demand for zero trust access, regulatory compliance, and AI-dr…
+- Source: https://www.globenewswire.com/news-release/2025/10/28/3175761/28124/en/Secure-Access-Service-Edge-SASE-Market-Report-2025-Security-Industry-Transformed-as-Cloud-First-Strategies-Make-Traditional-Security-Obsolete.html
+- Date: 2025-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens (Score: 2)
+- Summary: Security, trust, and stability — once the pillars of our digital world — are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior.
+Each new breac…
+- Source: https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html
+- Date: 2025-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+North Korea Has Stolen Billions in Crypto, But the Ability to 'Fight Back Is Growing': Chainalysis (Score: 2)
+- Summary: The sanctioning of the DPRK IT worker network and recovery of Bybit funds are signs of the growing pushback, experts told Decrypt.
+- Source: https://decrypt.co/346010/north-korea-stolen-billions-crypto-ability-fight-back-growing-chainalysis
+- Date: 2025-10-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Are Network Security Devices Endangering Orgs With 1990s-Era Flaws? (Score: 2)
+- Summary: Critics question why basic flaws like buffer overflows, command injections, and SQL injections are "being exploited remain prevalent in mission-critical codebases maintained by companies whose core business is cybersecurity," writes CSO Online. Benjamin Harri…
+- Source: https://it.slashdot.org/story/25/10/26/0345238/are-network-security-devices-endangering-orgs-with-1990s-era-flaws
+- Date: 2025-10-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IGEL Teams with Palo Alto Networks to Elevate Enterprise Cybersecurity (Score: 2)
+- Summary: Together, IGEL OS and Palo Alto Networks’ Prisma® Browser deliver consistent, frictionless Zero Trust access to SaaS, web, and private applications on any device Together, IGEL OS and Palo Alto Networks’ Prisma® Browser deliver consistent, frictionless Zero T…
+- Source: https://www.globenewswire.com/news-release/2025/10/24/3173073/0/en/IGEL-Teams-with-Palo-Alto-Networks-to-Elevate-Enterprise-Cybersecurity.html
+- Date: 2025-10-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Optical vendor Ribbon suffers ‘cybersecurity incident’ (Score: 0)
+- Summary: Telcos around the world are suffering cyberbreachesBut vendors, like any other major enterprise outfit, are also being targetedOptical system vendor Ribbon Com…
+- Source: https://www.telecomtv.com/content/security/optical-vendor-ribbon-suffers-cybersecurity-incident-54197/
+- Date: 2025-10-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Britain’s Young Founders Have Unlimited Ambition – Now They Need Policies To Match It (Score: 0)
+- Summary: Britain’s young founders are ambitious and globally minded. The Ambition Unlimited report reveals how smarter policy can unlock UK innovation and competitiveness.
+- Source: https://www.forbes.com/sites/philipsalter/2025/10/31/britains-young-founders-have-unlimited-ambition--now-they-need-policies-to-match-it/
+- Date: 2025-10-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Post-Quantum Cryptography Market Surges to $2.84 billion by 2030 - Dominated by NXP Semiconductor (Netherlands), Patero (US), Thales (France) (Score: 0)
+- Summary: Delray Beach, FL, Oct. 30, 2025 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global Post-Quantum Cryptography Market size is projected to grow from USD 0.42 billion in 2025 to USD 2.84 billion by 2030, at a Compound Annual Growth Rate (CAGR) of 46…
+- Source: https://www.globenewswire.com/news-release/2025/10/30/3178045/0/en/Post-Quantum-Cryptography-Market-Surges-to-2-84-billion-by-2030-Dominated-by-NXP-Semiconductor-Netherlands-Patero-US-Thales-France.html
+- Date: 2025-10-30
+- Vendors: None
+- Topics: None
+
+Top Technology Executives Recognized at the 2025 Arizona ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ......
+- Source: https://www.globenewswire.com/news-release/2025/10/30/3177996/0/en/Top-Technology-Executives-Recognized-at-the-2025-Arizona-ORBIE-Awards.html
+- Date: 2025-10-30
+- Vendors: None
+- Topics: None
+
+Saudi Arabia Intrusion Detection and Prevention Systems Market Analysis Report 2025 Featuring Cisco, Palo Alto, IBM, Check Point, Fortinet, McAfee, Symantec, Trend Micro, SonicWall, Sophos (Score: 0)
+- Summary: The Saudi Arabia IDPS market is driven by regulatory compliance and a need to combat evolving cyber threats. Opportunities exist in integrating IDPS systems with SOAR for streamlined security operations. Demand is high among regulated sectors like banking and…
+- Source: https://www.globenewswire.com/news-release/2025/10/30/3177629/28124/en/Saudi-Arabia-Intrusion-Detection-and-Prevention-Systems-Market-Analysis-Report-2025-Featuring-Cisco-Palo-Alto-IBM-Check-Point-Fortinet-McAfee-Symantec-Trend-Micro-SonicWall-Sophos.html
+- Date: 2025-10-30
+- Vendors: Cisco, IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Top 50 Film Schools of 2025 (Score: 0)
+- Summary: This year marks the 10th time TheWrap has ranked the top 50 U.S. film schools and the second year we’ve partnered with the data research company Screen Engine/ASI to implement a data-driven ranking system. Kevin Goetz’s company created a detailed survey and u…
+- Source: https://www.thewrap.com/top-50-film-schools-united-states-2025/
+- Date: 2025-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Attackers exploiting WSUS vulnerability drop Skuld infostealer (CVE-2025-59287) (Score: 0)
+- Summary: Attackers have been spotted exploiting the recently patched WSUS vulnerability (CVE-2025-59287) to deploy infostealer malware on unpatched Windows servers. An out-of-band update Last week’s release of an emergency fix for CVE-2025-59287, a Windows Server Upda…
+- Source: https://www.helpnetsecurity.com/2025/10/30/wsus-vulnerability-infostealer-cve-2025-59287/
+- Date: 2025-10-30
+- Vendors: None
+- Topics: None
+
+Navan IPO lands rare one-person venture capital firm its biggest win ever, a $1 billion payday (Score: 0)
+- Summary: Angel investor Oren Zeev created the blueprint for the solo general partner firm, a new, rare category of venture capital. The Navan IPO is his biggest win yet.
+- Source: https://www.cnbc.com/2025/10/30/navan-ipo-shares-investors.html
+- Date: 2025-10-30
+- Vendors: None
+- Topics: None
+
+Sequoia Capital’s Silence On ‘Islamophobia’ Exposes A Moral Crisis In Venture Capital (Score: 0)
+- Summary: Shaun Maguire’s anti-Muslim tweets and Sequoia’s silence have ignited a moral crisis in venture capital — exposing bias, power, and who gets protected.
+- Source: https://www.forbes.com/sites/sindhyavalloppillil/2025/10/29/sequoia-capitals-silence-on-islamophobia-exposesa-moral-crisis-in-venture-capital/
+- Date: 2025-10-29
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
