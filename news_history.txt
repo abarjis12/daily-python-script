@@ -26776,3 +26776,189 @@ NexQloud Technologies Appoints Robert Barbieri as Chief Executive Officer to Acc
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-05 13:47  ---
+
+Palo Alto Networks introduces Prisma AIRS 2.0, Cortex Cloud 2.0 and AgentiX to secure the agentic enterprise (Score: 6)
+- Summary: Palo Alto Networks Inc. today announced upgrades to its cybersecurity lineup with three major releases, Prisma AIRS 2.0, Cortex Cloud 2.0 and Cortex AgentiX, that aim to secure the fast-growing world of agentic artificial intelligence and autonomous cloud ope…
+- Source: https://siliconangle.com/2025/10/28/palo-alto-networks-introduces-prisma-airs-2-0-cortex-cloud-2-0-agentix-secure-agentic-enterprise/
+- Date: 2025-10-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mark Zuckerberg drops in billionaire ranks after losing $29B in single day as Meta stock tanks (Score: 4)
+- Summary: Investors recoiled from Meta’s plan to issue $30 billion in new debt to fund artificial intelligence spending.
+- Source: https://nypost.com/2025/10/31/business/mark-zuckerberg-drops-in-billionaire-ranks-after-losing-29b-in-single-day-as-meta-stock-tanks/
+- Date: 2025-10-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nvidia GTC DC: The rise of AI factories and a push for US leadership (Score: 4)
+- Summary: As artificial intelligence continues to steamroll its way into every part of our lives, Nvidia Corp.’s GPU Technology Conference events have grown in importance, and this week’s fall installment in Washington, D.C. provided the customary showcase of how and w…
+- Source: https://siliconangle.com/2025/10/29/nvidia-gtc-dc-rise-ai-factories-push-us-leadership/
+- Date: 2025-10-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+China-Linked Hackers Target Cisco Firewalls in Global Campaign (Score: 2)
+- Summary: New reports show China-based hackers are targeting US federal, state, and global government networks via unpatched Cisco firewalls. Get the full details and necessary steps to secure devices.
+- Source: https://hackread.com/china-hackers-target-cisco-firewalls/
+- Date: 2025-11-04
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.6 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.6/
+- Date: 2025-11-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Charter’s Spectrum Expands Fiber Network in Cherokee County, Texas (Score: 2)
+- Summary: Charter’s Spectrum Expands Fiber Network in Cherokee County, Texas
+CHEROKEE COUNTY, Texas — Spectrum, the #1 rural internet provider in the nation*, today announced the expansion of its fiber broadband network to bring Spectrum Internet, Mobile, TV and Voice …
+- Source: https://www.telecompetitor.com/charters-spectrum-expands-fiber-network-in-cherokee-county-texas/
+- Date: 2025-10-31
+- Vendors: None
+- Topics: None
+
+Infosec products of the month: October 2025 (Score: 2)
+- Summary: Here’s a look at the most interesting products from the past month, featuring releases from: Acronis, Akeyless, Axoflow, Blumira, Cayosoft, Confluent, Corelight, Elastic, Illumio, Legit Security, Netscout, NowSecure, Nozomi Networks, Palo Alto Networks, Picus…
+- Source: https://www.helpnetsecurity.com/2025/10/31/infosec-products-of-the-month-october-2025/
+- Date: 2025-10-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Access Control (NAC) Hardware Global Market Overview 2022-2025 and Forecast to 2032 - AI-Driven Innovations Boost NAC Hardware Demand Across Various Sectors (Score: 2)
+- Summary: Key NAC hardware market opportunities include rising demand due to increased connected devices and regulatory compliance. Rapid Asia-Pacific growth, cloud-managed solutions for SMBs, and AI-driven innovations like SDP and ZTNA frameworks offer significant pot…
+- Source: https://www.globenewswire.com/news-release/2025/10/30/3177734/28124/en/Network-Access-Control-NAC-Hardware-Global-Market-Overview-2022-2025-and-Forecast-to-2032-AI-Driven-Innovations-Boost-NAC-Hardware-Demand-Across-Various-Sectors.html
+- Date: 2025-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.4 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.4/
+- Date: 2025-10-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+In-home Helper Robot ‘NEO’ Uses Remote VR Operators to Help with Chores (Score: 2)
+- Summary: NEO is a humanoid robot from Palo Alto-based robotics startup 1X that could one day autonomously help out around your home. For now though, it’s using human operators wearing Quest 3 headsets to pick up the slack and teach Neo’s neural network the ropes in th…
+- Source: https://www.roadtovr.com/helper-robot-neo-vr-telepresence/
+- Date: 2025-10-30
+- Vendors: None
+- Topics: None
+
+US company with access to biggest telecom firms uncovers breach by nation-state hackers (Score: 2)
+- Summary: (Reuters) -Hackers working for an unnamed nation-state breached networks at Ribbon Communications, a key U.S. telecommunications services company, and...
+- Source: https://www.yahoo.com/news/articles/us-company-access-biggest-telecom-180926860.html
+- Date: 2025-10-29
+- Vendors: None
+- Topics: None
+
+Nearly half of network connections come from high-risk IoT and IT devices - so make sure you're protected (Score: 2)
+- Summary: Most enterprises are running "flat" networks, putting their entire infrastructure at risk.
+- Source: https://www.techradar.com/pro/security/nearly-half-of-network-connections-come-from-high-risk-iot-and-it-devices-so-make-sure-youre-protected
+- Date: 2025-10-29
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks launches Prisma AIRS 2.0 to deliver end-to-end security across the AI lifecycle (Score: 2)
+- Summary: Palo Alto Networks announced Prisma AIRS 2.0, a major platform upgrade that completes the native integration of recently acquired Protect AI to deliver a comprehensive AI security platform. This release directly confronts a critical enterprise challenge: 78% …
+- Source: https://www.helpnetsecurity.com/2025/10/29/palo-alto-networks-launches-prisma-airs-2-0-to-deliver-end-to-end-security-across-the-ai-lifecycle/
+- Date: 2025-10-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A Bouncy Ska Cover of the ‘Ghostbusters’ Theme Song (Score: 2)
+- Summary: JER of the Ska Tune Network performed a bouncy ska cover of the classic Ghostbusters theme song.
+subscribe to the Laughing Squid Newsletter
+The post A Bouncy Ska Cover of the ‘Ghostbusters’ Theme Song was originally published on Laughing Squid.
+- Source: https://laughingsquid.com/ghostbusters-ska-cover/
+- Date: 2025-10-28
+- Vendors: None
+- Topics: None
+
+Palo Alto networks create automated anti-cyber attack agents that totally won't go rogue and create other network problems [Murica] (Score: 2)
+- Summary: Palo Alto networks create automated anti-cyber attack agents that totally won't go rogue and create other network problems
+- Source: https://www.fark.com/comments/13859466/Palo-Alto-networks-create-automated-anti-cyber-attack-agents-that-totally-wont-go-rogue-create-other-network-problems
+- Date: 2025-10-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Secure Access Service Edge (SASE) Market Report 2025 - Security Industry Transformed as Cloud-First Strategies Make Traditional Security Obsolete (Score: 2)
+- Summary: The SASE market presents key opportunities as businesses adopt cloud-first strategies and hybrid work models, necessitating unified, cloud-delivered networking and security. Growth is propelled by demand for zero trust access, regulatory compliance, and AI-dr…
+- Source: https://www.globenewswire.com/news-release/2025/10/28/3175761/28124/en/Secure-Access-Service-Edge-SASE-Market-Report-2025-Security-Industry-Transformed-as-Cloud-First-Strategies-Make-Traditional-Security-Obsolete.html
+- Date: 2025-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scilex Holding Company Announces Worldwide Exclusive License for Tokenization and Monetization of Real-World Asset (RWA) in Genomic, DNA Data, Diagnosis, Therapeutics Products, Genetic and Drug information from Datavault AI (Score: 0)
+- Summary: PALO ALTO, Calif., Nov. 04, 2025 (GLOBE NEWSWIRE) -- Scilex Holding Company (“Scilex” or the “Company”) (Nasdaq: SCLX), an innovative revenue-generating company focused on acquiring, developing and commercializing non-opioid pain management products for the t…
+- Source: https://www.globenewswire.com/news-release/2025/11/04/3180059/0/en/Scilex-Holding-Company-Announces-Worldwide-Exclusive-License-for-Tokenization-and-Monetization-of-Real-World-Asset-RWA-in-Genomic-DNA-Data-Diagnosis-Therapeutics-Products-Genetic-a.html
+- Date: 2025-11-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mining and malaria in the Brazilian Amazon and in the Yanomami indigenous land (Score: 0)
+- Summary: Author summary The expansion of illegal mining in the Brazilian Amazon, and particularly in indigenous lands, has produced severely negative environmental and health externalities. One major health concern is a rising malaria burden among indigenous populatio…
+- Source: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013677
+- Date: 2025-11-03
+- Vendors: None
+- Topics: None
+
+Threat Intelligence Research Report 2025: A Global $22.97 Billion Market by 2030, Driven by Rising Cybercrime, Proactive Security Adoption, Strategic Alliances, and Increased Cybersecurity Funding (Score: 0)
+- Summary: The threat intelligence market is forecasted to expand from USD 11.55 billion in 2025 to USD 22.97 billion by 2030, at a CAGR of 14.7%. Key drivers include a shift to proactive security strategies and innovations in threat detection technologies, with cloud d…
+- Source: https://www.globenewswire.com/news-release/2025/11/03/3179011/28124/en/Threat-Intelligence-Research-Report-2025-A-Global-22-97-Billion-Market-by-2030-Driven-by-Rising-Cybercrime-Proactive-Security-Adoption-Strategic-Alliances-and-Increased-Cybersecuri.html
+- Date: 2025-11-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The race to shore up Europe’s power grids against cyberattacks and sabotage (Score: 0)
+- Summary: Ukraine first to deploy open source security platform to isolate incidents, stop lateral movement Feature  It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens…
+- Source: https://www.theregister.com/2025/11/03/europe_power_grid_security/
+- Date: 2025-11-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SARS-CoV-2 NSP14 inhibitor exhibits potent antiviral activity and reverses NSP14-driven host modulation (Score: 0)
+- Summary: C10, a potent non-nucleoside inhibitor targeting NSP14’s SAM-binding pocket, suppresses viral translation, exhibits immunostimulatory effects, and reverses NSP14-induced transcriptome alterations, offering promise for broader coronavirus treatment.
+- Source: https://www.nature.com/articles/s41467-025-64674-7
+- Date: 2025-11-03
+- Vendors: None
+- Topics: None
+
+Week in review: WSUS vulnerability exploited to drop Skuld infostealer, PoC for BIND 9 DNS flaw published (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Can your earbuds recognize you? Researchers are working on it Biometric authentication has moved from fingerprints to voices to facial scans, but a team of resea…
+- Source: https://www.helpnetsecurity.com/2025/11/02/week-in-review-wsus-vulnerability-exploited-to-drop-skuld-infostealer-poc-for-bind-9-dns-flaw-published/
+- Date: 2025-11-02
+- Vendors: None
+- Topics: None
+
+Notre Dame football vs. Boston College live score updates, highlights, how to watch (Score: 0)
+- Summary: It's Notre Dame vs. Boston College in Week 10 of the 2025 college football season. Follow along for live scoring and game updates from Alumni Stadium
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/11/01/notre-dame-football-vs-boston-college-score-today-channel-for-week-10-game/86936029007/
+- Date: 2025-11-01
+- Vendors: None
+- Topics: None
+
+What Are the Top 50 Film Schools in 2025 (Score: 0)
+- Summary: Just this morning, The Wrap released its list of the top 50 film schools in the United States. Now, we're obviously a website built to help people who have never been to or can't afford to go to film school. But I think we should also keep track of which scho…
+- Source: https://nofilmschool.com/top-50-film-schools-2025
+- Date: 2025-10-31
+- Vendors: None
+- Topics: None
+
+Everything New on Streaming Services in October: Netflix, HBO Max, Prime Video and More (Score: 0)
+- Summary: From Netflix to Tubi and more, here's what you'll be able to stream this month
+The post Everything New on Streaming Services in October: Netflix, HBO Max, Prime Video and More appeared first on TheWrap.
+- Source: https://www.thewrap.com/new-on-streaming-services-november-2025/
+- Date: 2025-10-31
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
