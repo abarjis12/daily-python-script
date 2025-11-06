@@ -26962,3 +26962,186 @@ The post Everything New on Streaming Services in October: Netflix, HBO Max, Prim
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-06 13:46  ---
+
+Mark Zuckerberg drops in billionaire ranks after losing $29B in single day as Meta stock tanks (Score: 4)
+- Summary: Investors recoiled from Meta’s plan to issue $30 billion in new debt to fund artificial intelligence spending.
+- Source: https://nypost.com/2025/10/31/business/mark-zuckerberg-drops-in-billionaire-ranks-after-losing-29b-in-single-day-as-meta-stock-tanks/
+- Date: 2025-10-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scattered Spider, ShinyHunters and LAPSUS$ Form Unified Collective (Score: 2)
+- Summary: Scattered Spider, ShinyHunters and LAPSUS$ have formed an enhanced coordinated threat network for extortion efforts
+- Source: https://www.infosecurity-magazine.com/news/scattered-spider-shinyhunters/
+- Date: 2025-11-04
+- Vendors: None
+- Topics: None
+
+China-Linked Hackers Target Cisco Firewalls in Global Campaign (Score: 2)
+- Summary: New reports show China-based hackers are targeting US federal, state, and global government networks via unpatched Cisco firewalls. Get the full details and necessary steps to secure devices.
+- Source: https://hackread.com/china-hackers-target-cisco-firewalls/
+- Date: 2025-11-04
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.6 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.6/
+- Date: 2025-11-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Charter’s Spectrum Expands Fiber Network in Cherokee County, Texas (Score: 2)
+- Summary: Charter’s Spectrum Expands Fiber Network in Cherokee County, Texas
+CHEROKEE COUNTY, Texas — Spectrum, the #1 rural internet provider in the nation*, today announced the expansion of its fiber broadband network to bring Spectrum Internet, Mobile, TV and Voice …
+- Source: https://www.telecompetitor.com/charters-spectrum-expands-fiber-network-in-cherokee-county-texas/
+- Date: 2025-10-31
+- Vendors: None
+- Topics: None
+
+Infosec products of the month: October 2025 (Score: 2)
+- Summary: Here’s a look at the most interesting products from the past month, featuring releases from: Acronis, Akeyless, Axoflow, Blumira, Cayosoft, Confluent, Corelight, Elastic, Illumio, Legit Security, Netscout, NowSecure, Nozomi Networks, Palo Alto Networks, Picus…
+- Source: https://www.helpnetsecurity.com/2025/10/31/infosec-products-of-the-month-october-2025/
+- Date: 2025-10-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Access Control (NAC) Hardware Global Market Overview 2022-2025 and Forecast to 2032 - AI-Driven Innovations Boost NAC Hardware Demand Across Various Sectors (Score: 2)
+- Summary: Key NAC hardware market opportunities include rising demand due to increased connected devices and regulatory compliance. Rapid Asia-Pacific growth, cloud-managed solutions for SMBs, and AI-driven innovations like SDP and ZTNA frameworks offer significant pot…
+- Source: https://www.globenewswire.com/news-release/2025/10/30/3177734/28124/en/Network-Access-Control-NAC-Hardware-Global-Market-Overview-2022-2025-and-Forecast-to-2032-AI-Driven-Innovations-Boost-NAC-Hardware-Demand-Across-Various-Sectors.html
+- Date: 2025-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.4 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.4/
+- Date: 2025-10-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+In-home Helper Robot ‘NEO’ Uses Remote VR Operators to Help with Chores (Score: 2)
+- Summary: NEO is a humanoid robot from Palo Alto-based robotics startup 1X that could one day autonomously help out around your home. For now though, it’s using human operators wearing Quest 3 headsets to pick up the slack and teach Neo’s neural network the ropes in th…
+- Source: https://www.roadtovr.com/helper-robot-neo-vr-telepresence/
+- Date: 2025-10-30
+- Vendors: None
+- Topics: None
+
+US company with access to biggest telecom firms uncovers breach by nation-state hackers (Score: 2)
+- Summary: (Reuters) -Hackers working for an unnamed nation-state breached networks at Ribbon Communications, a key U.S. telecommunications services company, and...
+- Source: https://www.yahoo.com/news/articles/us-company-access-biggest-telecom-180926860.html
+- Date: 2025-10-29
+- Vendors: None
+- Topics: None
+
+Palantir's Defence AI Surge: Expect $4.4B in Sales as Company Dominates Military Tech Race (Score: 0)
+- Summary: Palantir expects $4.4 billion in 2025 sales, boosting its position as a leader in defence AI with major contracts and partnerships.
+- Source: https://www.ibtimes.com/palantirs-defence-ai-surge-expect-44b-sales-company-dominates-military-tech-race-3789644
+- Date: 2025-11-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+23andMe Research Institute Appoints Kael Reicin as Chief Financial Officer (Score: 0)
+- Summary: Reicin Brings Financial and Operational Nonprofit Expertise to the Newly Formed Nonprofit Organization PALO ALTO, Calif., Nov. 05, 2025 (GLOBE NEWSWIRE) — 23andMe Research Institute, a nonprofit medical research organization, today announced the appointment o…
+- Source: https://financialpost.com/globe-newswire/23andme-research-institute-appoints-kael-reicin-as-chief-financial-officer
+- Date: 2025-11-05
+- Vendors: None
+- Topics: None
+
+Malanta debuts with $10M to help enterprises neutralize threats before they strike (Score: 0)
+- Summary: Pre-attack prevention platform startup Malanta launched today with an announcement that it has raised $10 million in funding. It plans to use the money to add new Indicators of Pre-Attack types and data sources and deepen integrations so customers can automat…
+- Source: https://siliconangle.com/2025/11/05/malanta-debuts-10m-help-enterprises-neutralize-threats-strike/
+- Date: 2025-11-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Credentials and Misconfigurations Behind Most Cloud Breaches, Says AWS (Score: 0)
+- Summary: New AWS report data reveals the top four security failure points in the cloud, including vulnerability exploitation (24%)…
+- Source: https://hackread.com/aws-credentials-misconfigurations-cloud-breaches/
+- Date: 2025-11-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Datavault AI Inc. Announces a $10M Worldwide Exclusive License Agreement with Scilex Holding Company for Tokenization and Monetization of Real-World Assets (RWA) in Genomic, DNA Data, Diagnostics, Therapeutics, Genetic, and Drug Information (Score: 0)
+- Summary: PHILADELPHIA, Nov. 04, 2025 (GLOBE NEWSWIRE) -- via IBN -- Datavault AI Inc. (“Datavault AI” or the “Company”) (Nasdaq: DVLT), a leader in AI-driven blockchain solutions focusing on data monetization, asset tokenization, and secure digital marketplaces, today…
+- Source: https://www.globenewswire.com/news-release/2025/11/04/3180735/0/en/Datavault-AI-Inc-Announces-a-10M-Worldwide-Exclusive-License-Agreement-with-Scilex-Holding-Company-for-Tokenization-and-Monetization-of-Real-World-Assets-RWA-in-Genomic-DNA-Data-Di.html
+- Date: 2025-11-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Datavault AI Inc. Announces a $10M Worldwide Exclusive License Agreement with Scilex Holding Company for Tokenization and Monetization of Real-World Assets (RWA) in Genomic, DNA Data, Diagnostics, Therapeutics, Genetic, and Drug Information (Score: 0)
+- Summary: PHILADELPHIA, Nov. 04, 2025 (GLOBE NEWSWIRE) -- via IBN -- Datavault AI Inc. (“Datavault AI” or the “Company”) (Nasdaq: DVLT), a leader in AI-driven blockchain solutions focusing on data monetization, asset tokenization, and secure digital marketplaces, today…
+- Source: https://www.globenewswire.com/news-release/2025/11/04/3180717/0/en/Datavault-AI-Inc-Announces-a-10M-Worldwide-Exclusive-License-Agreement-with-Scilex-Holding-Company-for-Tokenization-and-Monetization-of-Real-World-Assets-RWA-in-Genomic-DNA-Data-Di.html
+- Date: 2025-11-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obsidian Closes the SaaS Security Coverage and Intelligence Gap Amid Expanding Attack Surface (Score: 0)
+- Summary: Introducing the Community SDK, Unified Knowledge Graph and AI Assistant, giving enterprises the coverage, context, and intelligence to secure every SaaS app and AI system at scale. PALO ALTO, Calif. — Obsidian Security, leader in SaaS security, today announce…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-closes-the-saas-security-coverage-and-intelligence-gap-amid-expanding-attack-surface
+- Date: 2025-11-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scilex Holding Company Announces Worldwide Exclusive License for Tokenization and Monetization of Real-World Asset (RWA) in Genomic, DNA Data, Diagnosis, Therapeutics Products, Genetic and Drug information from Datavault AI (Score: 0)
+- Summary: PALO ALTO, Calif., Nov. 04, 2025 (GLOBE NEWSWIRE) -- Scilex Holding Company (“Scilex” or the “Company”) (Nasdaq: SCLX), an innovative revenue-generating company focused on acquiring, developing and commercializing non-opioid pain management products for the t…
+- Source: https://www.globenewswire.com/news-release/2025/11/04/3180059/0/en/Scilex-Holding-Company-Announces-Worldwide-Exclusive-License-for-Tokenization-and-Monetization-of-Real-World-Asset-RWA-in-Genomic-DNA-Data-Diagnosis-Therapeutics-Products-Genetic-a.html
+- Date: 2025-11-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mining and malaria in the Brazilian Amazon and in the Yanomami indigenous land (Score: 0)
+- Summary: Author summary The expansion of illegal mining in the Brazilian Amazon, and particularly in indigenous lands, has produced severely negative environmental and health externalities. One major health concern is a rising malaria burden among indigenous populatio…
+- Source: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013677
+- Date: 2025-11-03
+- Vendors: None
+- Topics: None
+
+Threat Intelligence Research Report 2025: A Global $22.97 Billion Market by 2030, Driven by Rising Cybercrime, Proactive Security Adoption, Strategic Alliances, and Increased Cybersecurity Funding (Score: 0)
+- Summary: The threat intelligence market is forecasted to expand from USD 11.55 billion in 2025 to USD 22.97 billion by 2030, at a CAGR of 14.7%. Key drivers include a shift to proactive security strategies and innovations in threat detection technologies, with cloud d…
+- Source: https://www.globenewswire.com/news-release/2025/11/03/3179011/28124/en/Threat-Intelligence-Research-Report-2025-A-Global-22-97-Billion-Market-by-2030-Driven-by-Rising-Cybercrime-Proactive-Security-Adoption-Strategic-Alliances-and-Increased-Cybersecuri.html
+- Date: 2025-11-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The race to shore up Europe’s power grids against cyberattacks and sabotage (Score: 0)
+- Summary: Ukraine first to deploy open source security platform to isolate incidents, stop lateral movement Feature  It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens…
+- Source: https://www.theregister.com/2025/11/03/europe_power_grid_security/
+- Date: 2025-11-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SARS-CoV-2 NSP14 inhibitor exhibits potent antiviral activity and reverses NSP14-driven host modulation (Score: 0)
+- Summary: C10, a potent non-nucleoside inhibitor targeting NSP14’s SAM-binding pocket, suppresses viral translation, exhibits immunostimulatory effects, and reverses NSP14-induced transcriptome alterations, offering promise for broader coronavirus treatment.
+- Source: https://www.nature.com/articles/s41467-025-64674-7
+- Date: 2025-11-03
+- Vendors: None
+- Topics: None
+
+Week in review: WSUS vulnerability exploited to drop Skuld infostealer, PoC for BIND 9 DNS flaw published (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Can your earbuds recognize you? Researchers are working on it Biometric authentication has moved from fingerprints to voices to facial scans, but a team of resea…
+- Source: https://www.helpnetsecurity.com/2025/11/02/week-in-review-wsus-vulnerability-exploited-to-drop-skuld-infostealer-poc-for-bind-9-dns-flaw-published/
+- Date: 2025-11-02
+- Vendors: None
+- Topics: None
+
+Notre Dame football vs. Boston College live score updates, highlights, how to watch (Score: 0)
+- Summary: It's Notre Dame vs. Boston College in Week 10 of the 2025 college football season. Follow along for live scoring and game updates from Alumni Stadium
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/11/01/notre-dame-football-vs-boston-college-score-today-channel-for-week-10-game/86936029007/
+- Date: 2025-11-01
+- Vendors: None
+- Topics: None
+
+What Are the Top 50 Film Schools in 2025 (Score: 0)
+- Summary: Just this morning, The Wrap released its list of the top 50 film schools in the United States. Now, we're obviously a website built to help people who have never been to or can't afford to go to film school. But I think we should also keep track of which scho…
+- Source: https://nofilmschool.com/top-50-film-schools-2025
+- Date: 2025-10-31
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
