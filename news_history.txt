@@ -27513,3 +27513,187 @@ Datavault AI Inc. Announces a $10M Worldwide Exclusive License Agreement with Sc
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-09 13:38  ---
+
+Tufin Orchestration Suite R25-2 strengthens network, cloud, and SASE policy automation (Score: 5)
+- Summary: Tufin announced Tufin Orchestration Suite (TOS) R25-2. The R25-2 release delivers expanded visibility, automation, and stronger security controls, enabling organizations to strengthen their security posture while simplifying operations across their hybrid env…
+- Source: https://www.helpnetsecurity.com/2025/11/07/tufin-orchestration-suite-r25-2/
+- Date: 2025-11-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+City of London deploys SASE to future-proof public infrastructure (Score: 2)
+- Summary: Managed services provider to deliver an end-to-end networking connectivity offering, encompassing what is said to be a UK-first enterprise secure access service edge roll-out for public services
+- Source: https://www.computerweekly.com/news/366634186/City-of-London-deploys-SASE-to-future-proof-public-infrastructure
+- Date: 2025-11-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IGEL Catalyses a New Era of EUC Transformation and Trusted Endpoint Security (Score: 2)
+- Summary: Europe’s premier EUC and endpoint security event brings together Microsoft, Omnissa, HP, Lenovo, Zscaler, Palo Alto Networks, and more to accelerate the future of Zero Trust, continuity, and resilient EUC FRANKFURT, Germany, Nov. 06, 2025 (GLOBE NEWSWIRE) — I…
+- Source: https://financialpost.com/globe-newswire/igel-catalyses-a-new-era-of-euc-transformation-and-trusted-endpoint-security
+- Date: 2025-11-06
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What Are Wall Street Analysts' Target Price for Palo Alto Networks Stock? (Score: 2)
+- Summary: California-based Palo Alto Networks, Inc. (PANW) provides cybersecurity solutions worldwide. With a market cap of $143.5 billion, Palo Alto Networks offers firewall appliances and software, and Panorama, a security management solution for the global control o…
+- Source: https://biztoc.com/x/e1157cb733125d53
+- Date: 2025-11-06
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What Are Wall Street Analysts' Target Price for Palo Alto Networks Stock? (Score: 2)
+- Summary: Palo Alto Networks has outpaced the broader cybersecurity space in 2025, and analysts remain optimistic about the stock’s prospects. However, its price...
+- Source: https://www.barchart.com/story/news/35942020/what-are-wall-street-analysts-target-price-for-palo-alto-networks-stock
+- Date: 2025-11-06
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Versa Delivers Proven Firewall Performance and Security Effectiveness Validated by Independent Testing (Score: 2)
+- Summary: Versa One of Only Three Recommended Products, Maintaining Position as Performance Leader by Delivering Fastest Throughput While Achieving a 99.43% Security Effectiveness Score SANTA CLARA, Calif. — Versa, the global leader in unified networking and security, …
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/versa-delivers-proven-firewall-performance-and-security-effectiveness-validated-by-independent-testing
+- Date: 2025-11-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Scattered Spider, ShinyHunters and LAPSUS$ Form Unified Collective (Score: 2)
+- Summary: Scattered Spider, ShinyHunters and LAPSUS$ have formed an enhanced coordinated threat network for extortion efforts
+- Source: https://www.infosecurity-magazine.com/news/scattered-spider-shinyhunters/
+- Date: 2025-11-04
+- Vendors: None
+- Topics: None
+
+China-Linked Hackers Target Cisco Firewalls in Global Campaign (Score: 2)
+- Summary: New reports show China-based hackers are targeting US federal, state, and global government networks via unpatched Cisco firewalls. Get the full details and necessary steps to secure devices.
+- Source: https://hackread.com/china-hackers-target-cisco-firewalls/
+- Date: 2025-11-04
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.0.6 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.0.6/
+- Date: 2025-11-03
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Chan Zuckerberg Initiative Shifts Focus to A.I. and Science (Score: 0)
+- Summary: The philanthropic arm of Mark Zuckerberg and Priscilla Chan is shifting from social reform to A.I. and biomedical research.
+- Source: https://observer.com/2025/11/mark-zuckerberg-priscilla-chan-overhaul-philanthropic-approach/
+- Date: 2025-11-07
+- Vendors: None
+- Topics: None
+
+New Shows & Movies To Watch This Weekend: Netflix’s ‘Frankenstein’ + More (Score: 0)
+- Summary: This week's new drops include Pluribus on Apple TV, All Her Fault on Peacock, and more!
+- Source: https://decider.com/2025/11/07/best-new-movies-shows-weekend-netflix-hulu-amazon-prime-hbo-november-7-2025/
+- Date: 2025-11-07
+- Vendors: None
+- Topics: None
+
+Everything Coming to Netflix & Other Major Streaming Services This Weekend (November 7th) (Score: 0)
+- Summary: Image Courtesy of Netflix.
+Almost a week has gone by since November arrived and streaming services added a horde of new arrival movies and TV shows to their lineups. Now that subscribers have had some time to sort through all of the new additions, there’s alr…
+- Source: http://comicbook.com/tv-shows/news/everything-coming-to-netflix-other-major-streaming-services-this-weekend-november-7th/
+- Date: 2025-11-06
+- Vendors: None
+- Topics: None
+
+Creatorverse: As Creators Leave Hollywood, States Could Soon Flash Tax Breaks to Woo Them (Score: 0)
+- Summary: Hollywood's entertainment hubs are proving to be slow to adapt to digital content
+The post Creatorverse: As Creators Leave Hollywood, States Could Soon Flash Tax Breaks to Woo Them appeared first on TheWrap.
+- Source: https://www.thewrap.com/production-tax-breaks-for-creators/
+- Date: 2025-11-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How a ransomware gang encrypted Nevada government's systems (Score: 0)
+- Summary: The State of Nevada has completed its recovery from a ransomware attack it suffered on August 24, 2025, which impacted 60 state agencies, disrupting critical services related to health and public safety. [...]
+- Source: https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/
+- Date: 2025-11-06
+- Vendors: None
+- Topics: None
+
+TXSelect: A multi-task learning model to identify secretory effectors (Score: 0)
+- Summary: Author summary Secretory effectors are specialized proteins produced by pathogenic bacteria that allow them to infect host organisms by disrupting normal cellular functions. Accurately identifying and classifying these effectors is crucial for understanding i…
+- Source: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013677
+- Date: 2025-11-06
+- Vendors: None
+- Topics: None
+
+Founders are getting huge paydays before their startups are close to an exit—and that’s fine with many VCs (Score: 0)
+- Summary: Venture firms don’t like to talk about early stage secondary sales but the practice is common in bull markets.
+- Source: https://fortune.com/2025/11/06/startup-founders-early-paydays-vcs-taking-some-off-the-table/
+- Date: 2025-11-06
+- Vendors: None
+- Topics: None
+
+EUmies Awards 2026 Unveil 410 Nominated Works and the Jury Led by Smiljan Radić (Score: 0)
+- Summary: The EUmies Awards are organized annually by the Fundació Mies van der Rohe and the European Commission, with the support of the European Union's Creative Europe Programme. Based on the principle that "architecture is not merely a technical or aesthetic matter…
+- Source: https://www.archdaily.com/1035751/eumies-awards-2026-unveil-410-nominated-works-and-the-jury-led-by-smiljan-radic
+- Date: 2025-11-06
+- Vendors: None
+- Topics: None
+
+Fortinet (FTNT) Surpasses Q3 Earnings and Revenue Estimates (Score: 0)
+- Summary: Fortinet (FTNT) delivered earnings and revenue surprises of +17.46% and +1.34%, respectively, for the quarter ended September 2025. Do the numbers hold clues...
+- Source: https://finance.yahoo.com/news/fortinet-ftnt-surpasses-q3-earnings-222003334.html
+- Date: 2025-11-05
+- Vendors: None
+- Topics: None
+
+Denodo Recognized as Top Vendor in the Dresner Advisory Active Data Architecture™ Report, for Second Time in a Row (Score: 0)
+- Summary: In 2024 and 2025, Denodo Ranked as a Leading Technology Provider for Active Data Architecture, Leveraging Logical Data Management Capabilities PALO ALTO, Calif., Nov. 05, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced that it has been …
+- Source: https://financialpost.com/globe-newswire/denodo-recognized-as-top-vendor-in-the-dresner-advisory-active-data-architecture-report-for-second-time-in-a-row
+- Date: 2025-11-05
+- Vendors: None
+- Topics: None
+
+Palantir's Defence AI Surge: Expect $4.4B in Sales as Company Dominates Military Tech Race (Score: 0)
+- Summary: Palantir expects $4.4 billion in 2025 sales, boosting its position as a leader in defence AI with major contracts and partnerships.
+- Source: https://www.ibtimes.com/palantirs-defence-ai-surge-expect-44b-sales-company-dominates-military-tech-race-3789644
+- Date: 2025-11-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+23andMe Research Institute Appoints Kael Reicin as Chief Financial Officer (Score: 0)
+- Summary: Reicin Brings Financial and Operational Nonprofit Expertise to the Newly Formed Nonprofit Organization PALO ALTO, Calif., Nov. 05, 2025 (GLOBE NEWSWIRE) — 23andMe Research Institute, a nonprofit medical research organization, today announced the appointment o…
+- Source: https://financialpost.com/globe-newswire/23andme-research-institute-appoints-kael-reicin-as-chief-financial-officer
+- Date: 2025-11-05
+- Vendors: None
+- Topics: None
+
+Malanta debuts with $10M to help enterprises neutralize threats before they strike (Score: 0)
+- Summary: Pre-attack prevention platform startup Malanta launched today with an announcement that it has raised $10 million in funding. It plans to use the money to add new Indicators of Pre-Attack types and data sources and deepen integrations so customers can automat…
+- Source: https://siliconangle.com/2025/11/05/malanta-debuts-10m-help-enterprises-neutralize-threats-strike/
+- Date: 2025-11-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Credentials and Misconfigurations Behind Most Cloud Breaches, Says AWS (Score: 0)
+- Summary: New AWS report data reveals the top four security failure points in the cloud, including vulnerability exploitation (24%)…
+- Source: https://hackread.com/aws-credentials-misconfigurations-cloud-breaches/
+- Date: 2025-11-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Datavault AI Inc. Announces a $10M Worldwide Exclusive License Agreement with Scilex Holding Company for Tokenization and Monetization of Real-World Assets (RWA) in Genomic, DNA Data, Diagnostics, Therapeutics, Genetic, and Drug Information (Score: 0)
+- Summary: PHILADELPHIA, Nov. 04, 2025 (GLOBE NEWSWIRE) -- via IBN -- Datavault AI Inc. (“Datavault AI” or the “Company”) (Nasdaq: DVLT), a leader in AI-driven blockchain solutions focusing on data monetization, asset tokenization, and secure digital marketplaces, today…
+- Source: https://www.globenewswire.com/news-release/2025/11/04/3180735/0/en/Datavault-AI-Inc-Announces-a-10M-Worldwide-Exclusive-License-Agreement-with-Scilex-Holding-Company-for-Tokenization-and-Monetization-of-Real-World-Assets-RWA-in-Genomic-DNA-Data-Di.html
+- Date: 2025-11-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Datavault AI Inc. Announces a $10M Worldwide Exclusive License Agreement with Scilex Holding Company for Tokenization and Monetization of Real-World Assets (RWA) in Genomic, DNA Data, Diagnostics, Therapeutics, Genetic, and Drug Information (Score: 0)
+- Summary: PHILADELPHIA, Nov. 04, 2025 (GLOBE NEWSWIRE) -- via IBN -- Datavault AI Inc. (“Datavault AI” or the “Company”) (Nasdaq: DVLT), a leader in AI-driven blockchain solutions focusing on data monetization, asset tokenization, and secure digital marketplaces, today…
+- Source: https://www.globenewswire.com/news-release/2025/11/04/3180717/0/en/Datavault-AI-Inc-Announces-a-10M-Worldwide-Exclusive-License-Agreement-with-Scilex-Holding-Company-for-Tokenization-and-Monetization-of-Real-World-Assets-RWA-in-Genomic-DNA-Data-Di.html
+- Date: 2025-11-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
