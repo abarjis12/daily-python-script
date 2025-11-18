@@ -28066,3 +28066,6 @@ EUmies Awards 2026 Unveil 410 Nominated Works and the Jury Led by Smiljan Radić
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-18 13:47  ---
+No news available for today or the last 7 days.
