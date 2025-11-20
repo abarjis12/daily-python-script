@@ -28270,3 +28270,204 @@ To Truly Understand Tequila, You Have to Know These 5 Mexican States (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-20 13:44  ---
+
+Networking startup Meter takes a page from the Steve Jobs playbook (Score: 4)
+- Summary: Vertical integration meets subscriptions "We love moving packets," declared Anil Varanasi, CEO and co-founder of Meter, on a stage overlooking San Francisco Bay at the networking startup's annual networking event. He continued, "This crowd probably knows this…
+- Source: https://www.theregister.com/2025/11/19/meter_steve_jobs_playbook/
+- Date: 2025-11-19
+- Vendors: Cisco
+- Topics: None
+
+Secure.com introduces Digital Security Teammates after $4.5M investment (Score: 4)
+- Summary: Dubai-based cybersecurity company Secure.com today announced that it had secured a $4.5 million investment from the Disrupt.com AI fund and announced the launch of Digital Security Teammates, artificial intelligence-naive agents that help security teams take …
+- Source: https://siliconangle.com/2025/11/18/secure-com-introduces-digital-security-teammates-4-5m-investment/
+- Date: 2025-11-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mplify Names Winners of the 2025 NaaS Excellence Awards (Score: 3)
+- Summary: Mplify announces winners of the 2025 NaaS Excellence Awards, recognizing standout achievements in automation, performance, and AI-powered innovation.......
+- Source: https://www.globenewswire.com/news-release/2025/11/12/3186934/0/en/Mplify-Names-Winners-of-the-2025-NaaS-Excellence-Awards.html
+- Date: 2025-11-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Exclusive: Doppel raises $70 million Series C at more than $600 million valuation to fight AI-powered social engineering attacks (Score: 2)
+- Summary: Bessemer-backed Doppel has raised its $70 million Series C, valuing the company at $600 million, Fortune has exclusively learned.
+- Source: https://fortune.com/2025/11/19/exclusive-doppel-raises-70-million-series-c-at-more-than-600-million-valuation-to-fight-ai-powered-social-engineering-attacks/
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obsidian Security Ranked Among the Fastest-Growing Companies in North America on the 2025 Deloitte Technology Fast 500™ (Score: 0)
+- Summary: Palo Alto-Based Security Company Grows 1000% in Last Three Years with Innovations in SaaS and AI Agent Security PALO ALTO, Calif. — Obsidian Security, leader in SaaS security, today announced it ranked No. 95 on the 2025 Deloitte Technology Fast 500™, a ranki…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-security-ranked-among-the-fastest-growing-companies-in-north-america-on-the-2025-deloitte-technology-fast-500
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Stocks Retreat on Tech Weakness (Score: 0)
+- Summary: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down by -0.83%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -1.07%, and the Nasdaq 100 ...
+- Source: https://www.barchart.com/story/news/36193478/stocks-retreat-on-tech-weakness
+- Date: 2025-11-18
+- Vendors: None
+- Topics: None
+
+Denodo Named “One to Watch” in Snowflake’s 2026 Modern Marketing Data Stack Report: How Marketers Become Agents of Change in an AI-Driven World (Score: 0)
+- Summary: PALO ALTO, Calif., Nov. 18, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced it has been recognized as “One to Watch” in Snowflake’s report entitled The Modern Marketing Data Stack 2026: How Marketers Become Agents of Change in an AI-Dri…
+- Source: https://financialpost.com/globe-newswire/denodo-named-one-to-watch-in-snowflakes-2026-modern-marketing-data-stack-report-how-marketers-become-agents-of-change-in-an-ai-driven-world
+- Date: 2025-11-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+HP Becomes Sisvel Wi-Fi 6 Pool Licensee, Ending Disputes with Wilus, Huawei and Philips (Score: 0)
+- Summary: LUXEMBOURG — HP Inc and Sisvel have concluded an agreement for the Palo Alto-based global technology leader to become a licensee of the Sisvel Wi-Fi 6 patent pool. The deal follows a mediation process ordered by Judge Rodney Gilstrap, of the US District Court…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/hp-becomes-sisvel-wi-fi-6-pool-licensee-ending-disputes-with-wilus-huawei-and-philips
+- Date: 2025-11-18
+- Vendors: None
+- Topics: None
+
+ClutchPoints 2025 Week 13 ACC Football Power Rankings (Score: 0)
+- Summary: The ACC continues to see the top rearranged. Time to see who takes No. 1 between Georgia Tech, SMU, or Virginia.
+- Source: https://clutchpoints.com/ncaa-football/clutchpoints-2025-week-13-acc-football-power-rankings
+- Date: 2025-11-18
+- Vendors: None
+- Topics: None
+
+Sutter Health Announces Plans for New Destination Medical Center in Santa Clara to Expand Access to Care in Silicon Valley (Score: 0)
+- Summary: Investment marks the largest in the organization’s history, encompassing two new campuses totaling 1 million square feet Investment marks the largest in the organization’s history, encompassing two new campuses totaling 1 million square feet
+- Source: https://www.globenewswire.com/news-release/2025/11/17/3189526/0/en/Sutter-Health-Announces-Plans-for-New-Destination-Medical-Center-in-Santa-Clara-to-Expand-Access-to-Care-in-Silicon-Valley.html
+- Date: 2025-11-17
+- Vendors: None
+- Topics: None
+
+Vulnerability Summary for the Week of November 10, 2025 (Score: 0)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+<th>Patch Info</th>
+</tr>
+
+
+
+<tr>
+<td>leopardhost--TNC Toolbox: Web Performance</td>
+<td>The TNC Toolbox: …
+- Source: https://www.cisa.gov/news-events/bulletins/sb25-321
+- Date: 2025-11-17
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More (Score: 0)
+- Summary: This week showed just how fast things can go wrong when no one’s watching. Some attacks were silent and sneaky. Others used tools we trust every day — like AI, VPNs, or app stores — to cause damage without setting off alarms.
+It’s not just about hacking anymo…
+- Source: https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html
+- Date: 2025-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This city has the Bay Area's worst streets. It's not S.F. or Oakland (Score: 0)
+- Summary: A new report from the Metropolitan Transportation Commission ranked every Bay Area city based on the conditions of its roads. Here's what it showed.
+- Source: https://www.sfchronicle.com/bayarea/article/road-conditions-data-vallejo-21171246.php
+- Date: 2025-11-17
+- Vendors: None
+- Topics: None
+
+Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT (Score: 0)
+- Summary: The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.
+The campaign, which is primarily aimed at Chinese-speaking users, emp…
+- Source: https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html
+- Date: 2025-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Former Fed governor’s stock trades violated the central bank’s ethics rules (Score: 0)
+- Summary: A former Federal Reserve governor who retired in August listed several stock trades in her financial disclosure documents for 2024 that violated the central bank’s ethics rules. The transactions are outlined in a report released Saturday by the U.S. Office of…
+- Source: https://financialpost.com/pmn/former-fed-governors-stock-trades-violated-the-central-banks-ethics-rules
+- Date: 2025-11-15
+- Vendors: None
+- Topics: None
+
+Jimmy Kimmel Live! band leader Cleto Escobedo III’s cause of death revealed (Score: 0)
+- Summary: The musician work on ‘Jimmy Kimmel Live’ for almost 23 years
+- Source: https://www.the-independent.com/arts-entertainment/tv/news/jimmy-kimmel-live-cleto-escobedo-death-b2865931.html
+- Date: 2025-11-15
+- Vendors: None
+- Topics: None
+
+Notre Dame football vs. Pittsburgh live score updates, highlights, how to watch Week 12 game (Score: 0)
+- Summary: It's Notre Dame vs. Pittsburgh in Week 12 of the college football season. Follow along for live score updates from Acrisure Stadium in Pittsburgh, Pa.
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/11/15/notre-dame-football-pittsburgh-score-today-live-updates-tv-channel/87206269007/
+- Date: 2025-11-15
+- Vendors: None
+- Topics: None
+
+Top Technology Executives Recognized at the 2025 NewYorkCIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ......
+- Source: https://www.globenewswire.com/news-release/2025/11/14/3188536/0/en/Top-Technology-Executives-Recognized-at-the-2025-NewYorkCIO-ORBIE-Awards.html
+- Date: 2025-11-14
+- Vendors: None
+- Topics: None
+
+Telus Prepares for the Quantum Hacking Era With New VPN (Score: 0)
+- Summary: Telus has launched a new “Quantum-Safe VPN” service that’s meant to protect businesses from hacking methods that don’t technically exist yet—but likely will. The idea is simple: as quantum computers get more powerful, they could break today’s encryption and m…
+- Source: https://www.iphoneincanada.ca/2025/11/14/telus-prepares-for-the-quantum-hacking-era-with-new-vpn/
+- Date: 2025-11-14
+- Vendors: None
+- Topics: None
+
+Classic Aero-TV: Improved Alto NG Available for U.S. Sale (Score: 0)
+- Summary: From 2023 (YouTube Edition): Czech List Items Designed and produced by Czech ultralight and Light-Sport Aircraft (LSA) concern Direct Fly Alto, the Alto NG (Next Generation) is a two-place, full-cantilever low-wing monoplane perched atop a fixed tricycle unde…
+- Source: https://www.aero-news.net/index.cfm?do=main.textpost&id=B76C74DE-6635-4EDB-B0CD-288D7B055FEC
+- Date: 2025-11-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Amazingly, AI companies are still short of data centers — but not money to build them (Score: 0)
+- Summary: Data centers must be the most boring buildings in the world to look at, but it’s hard to keep our eyes off them these days. Anthropic said this week it’s going to spend $50 billion on data centers just in the U.S. Meta just did a $3 billion deal with Nebius —…
+- Source: https://siliconangle.com/2025/11/14/amazingly-ai-companies-still-short-data-centers-not-money-build/
+- Date: 2025-11-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Term Sheet Next: Erica Wenger on elephants, branding in VC, and her first fund (Score: 0)
+- Summary: In our latest Term Sheet Next, Erica Wenger’s Park Rangers Capital has raised its debut $4.3 million fund.
+- Source: https://fortune.com/2025/11/14/term-sheet-next-erica-wenger-on-elephants-branding-in-vc-and-her-first-fund/
+- Date: 2025-11-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ransomware Preparedness Assessment Market - Global Forecast 2025-2030 (Score: 0)
+- Summary: Key opportunities in the ransomware defense market include adopting integrated, continuous cybersecurity strategies that combine governance, technology, and collaboration. Organizations seek detection technologies, managed services, and hybrid solutions to co…
+- Source: https://www.globenewswire.com/news-release/2025/11/14/3188091/28124/en/Ransomware-Preparedness-Assessment-Market-Global-Forecast-2025-2030.html
+- Date: 2025-11-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On Holding lifts FY25 outlook as Q3 2025 sales surge (Score: 0)
+- Summary: The Swiss sportswear brand's growth was broad-based across direct-to-consumer and wholesale, and all regions.
+- Source: https://www.retail-insight-network.com/news/on-holding-lifts-fy25-outlook/
+- Date: 2025-11-13
+- Vendors: None
+- Topics: None
+
+The Final Numbers Are Staggering: Pelosi Made a Return of 16,930% on Her Stocks (Score: 0)
+- Summary: Nancy Pelosi's stock trading haul has led to profits of $130 million since she entered Congress, a new report says.
+- Source: https://www.westernjournal.com/final-numbers-staggering-pelosi-made-return-16930-stocks/
+- Date: 2025-11-13
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
