@@ -28673,3 +28673,187 @@ It’s not just about hacking anymo…
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-22 13:38  ---
+
+Networking startup Meter takes a page from the Steve Jobs playbook (Score: 4)
+- Summary: Vertical integration meets subscriptions "We love moving packets," declared Anil Varanasi, CEO and co-founder of Meter, on a stage overlooking San Francisco Bay at the networking startup's annual networking event. He continued, "This crowd probably knows this…
+- Source: https://www.theregister.com/2025/11/19/meter_steve_jobs_playbook/
+- Date: 2025-11-19
+- Vendors: Cisco
+- Topics: None
+
+Secure.com introduces Digital Security Teammates after $4.5M investment (Score: 4)
+- Summary: Dubai-based cybersecurity company Secure.com today announced that it had secured a $4.5 million investment from the Disrupt.com AI fund and announced the launch of Digital Security Teammates, artificial intelligence-naive agents that help security teams take …
+- Source: https://siliconangle.com/2025/11/18/secure-com-introduces-digital-security-teammates-4-5m-investment/
+- Date: 2025-11-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Breaking down Palo Alto Networks' $3.35B Chronosphere deal (Score: 2)
+- Summary: Palo Alto Networks acquired observability platform Chronosphere for $3.35 billion. The deal aims to enable AI-driven autonomous operations and create self-healing infrastructure.
+- Source: https://www.techtarget.com/searchnetworking/opinion/Breaking-down-Palo-Alto-Networks-335B-Chronosphere-deal
+- Date: 2025-11-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Detection and Response Market Forecast 2025-2030: Opportunities Driven by Integration with Xdr Platforms, and AI-Driven Autonomous Response (Score: 2)
+- Summary: The global Network Detection and Response (NDR) market is poised for a robust expansion, projected to grow from USD 3.68 billion in 2025 to USD 5.82 billion by 2030 at a CAGR of 9.6%. The surge is fueled by the growing need to detect threats within encrypted …
+- Source: https://www.globenewswire.com/news-release/2025/11/21/3192584/28124/en/Network-Detection-and-Response-Market-Forecast-2025-2030-Opportunities-Driven-by-Integration-with-Xdr-Platforms-and-AI-Driven-Autonomous-Response.html
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What’s up with… Verizon, Nvidia, European sovereignty (Score: 2)
+- Summary: Verizon is cutting 13,000 jobsNvidia reports 62% sales hike in Q3European digital sovereignty is gathering momentum
+- Source: https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-verizon-nvidia-european-sovereignty-54339/
+- Date: 2025-11-20
+- Vendors: None
+- Topics: None
+
+Palo Alto kit sees massive surge in malicious activity amid mystery traffic flood (Score: 2)
+- Summary: GlobalProtect login endpoints targeted, sparking concern that something bigger may be brewing Malicious traffic targeting Palo Alto Networks' GlobalProtect portals surged almost 40-fold in the space of 24 hours, hitting a 90-day high and putting defenders on …
+- Source: https://www.theregister.com/2025/11/20/palo_alto_traffic_flood/
+- Date: 2025-11-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks beats Q1 estimates and announces $3.35B Chronosphere acquisition (Score: 2)
+- Summary: Shares in Palo Alto Networks Inc. declined more than 2% in late trading today after the company reported earnings and revenue beats in its fiscal 2026 first quarter and announced that it had entered an agreement to acquire cloud-native observability company C…
+- Source: https://siliconangle.com/2025/11/19/palo-alto-networks-beats-q1-estimates-announces-3-35b-chronosphere-acquisition/
+- Date: 2025-11-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks announces $3.35B Chronosphere acquisition after beating earnings forecast (Score: 2)
+- Summary: Shares in Palo Alto Networks Inc. declined more than 2% in late trading today after the company reported earnings and revenue beats in its fiscal 2026 first quarter and announced that it will acquire cloud-native observability company Chronosphere Inc. For th…
+- Source: https://siliconangle.com/2025/11/19/palo-alto-networks-announces-3-35b-chronosphere-acquisition-beating-earnings-forecast/
+- Date: 2025-11-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+US FCC reviewing TV network-affiliate relationship, chairman says (Score: 2)
+- Summary: 
+- Source: https://biztoc.com/x/42171b3f06eb73f5
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Exclusive: Doppel raises $70 million Series C at more than $600 million valuation to fight AI-powered social engineering attacks (Score: 2)
+- Summary: Bessemer-backed Doppel has raised its $70 million Series C, valuing the company at $600 million, Fortune has exclusively learned.
+- Source: https://fortune.com/2025/11/19/exclusive-doppel-raises-70-million-series-c-at-more-than-600-million-valuation-to-fight-ai-powered-social-engineering-attacks/
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On the Death of Tech Idealism (and Rise of the Homeless) in Northern California (Score: 0)
+- Summary: Fuckers. I couldn’t get the word out of my head, because he wouldn’t stop saying it. I was sitting in the tiled courtyard of the Mediterranean-style home of an old acquaintance, a venture capitalist and serial tech entrepreneur, who lived
+- Source: https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Liberals propose bill to streamline, pre-approve Toronto-Quebec City high-speed rail line (Score: 0)
+- Summary: Carney government is proposing to grant the Crown corporation behind high-speed railway between Toronto and Quebec City sweeping new powers.
+- Source: https://nationalpost.com/news/politics/liberals-propose-bill-to-streamline-pre-approve-toronto-quebec-city-high-speed-rail-line
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Veeam Data Platform V13 Focuses on Cyber Reslilience, Protection, and Management (Score: 0)
+- Summary: Veeam Software has launched Veeam Data Platform v13, emphasizing cyber resilience, data protection, and data management for organizations that are modernizing their infrastructure and investing in AI. This version is an evolutionary release that introduces ne…
+- Source: https://www.storagereview.com/news/veeam-data-platform-v13-focuses-on-cyber-reslilience-protection-and-management
+- Date: 2025-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NEC X Opens Batch 15 Applications for Elev X! Ignite, Offering Hands-On AI Trials and Support to Help Founders Become Seed-Ready (Score: 0)
+- Summary: NEC X opens Elev X! Batch 15 to support early-stage AI founders with funding, tech trials and expert mentorship.......
+- Source: https://www.globenewswire.com/news-release/2025/11/20/3192177/0/en/NEC-X-Opens-Batch-15-Applications-for-Elev-X-Ignite-Offering-Hands-On-AI-Trials-and-Support-to-Help-Founders-Become-Seed-Ready.html
+- Date: 2025-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+(PR) NVIDIA Delivers Record Third Quarter Fiscal 2026 Results (Score: 0)
+- Summary: NVIDIA (NASDAQ: NVDA) today reported record revenue for the third quarter ended October 26, 2025, of $57.0 billion, up 22% from the previous quarter and up 62% from a year ago.
+
+For the quarter, GAAP and non-GAAP gross margins were 73.4% and 73.6%, respective…
+- Source: https://www.techpowerup.com/343091/nvidia-delivers-record-third-quarter-fiscal-2026-results
+- Date: 2025-11-19
+- Vendors: None
+- Topics: None
+
+NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 (Score: 0)
+- Summary: SANTA CLARA, Calif., Nov. 19, 2025 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the third quarter ended October 26, 2025, of $57.0 billion, up 22% from the previous quarter and up 62% from a year ago.
+- Source: https://www.globenewswire.com/news-release/2025/11/19/3191444/0/en/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026.html
+- Date: 2025-11-19
+- Vendors: None
+- Topics: None
+
+NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 (Score: 0)
+- Summary: Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year ago Record Data Center revenue of $51.2 billion, up 25% from Q2 and up 66% from a year ago NVIDIA (NASDAQ: NVDA) today ...
+- Source: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026
+- Date: 2025-11-19
+- Vendors: None
+- Topics: None
+
+To Launch Something New, You Need "Social Dandelions" (Score: 0)
+- Summary: The 4-Step Playbook That Launched Pinterest, Harry Potter, and the GameStop Squeeze
+- Source: https://www.actiondigest.com/p/to-launch-something-new-you-need-social-dandelions
+- Date: 2025-11-19
+- Vendors: None
+- Topics: None
+
+Luma AI Raises $900 Million Series C Led by HUMAIN And Partners on 2 Gigawatt AI Supercluster in Saudi Arabia (Score: 0)
+- Summary: New capital and compute infrastructure will accelerate Luma AI’s path towards Multimodal AGI – AI that can simulate reality and help humans in the physical world. HUMAIN to build Project Halo, one of the world’s largest AI compute clusters that will include t…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Veeam Data Platform v13 strengthens AI-driven analysis (Score: 0)
+- Summary: Veeam Software launches Veeam Data Platform v13, delivering the resilience, flexibility, and intelligence needed for an AI-powered future. With a modern platform architecture, AI-powered intelligence, an expansive hypervisor integration model, and new securit…
+- Source: https://www.helpnetsecurity.com/2025/11/19/veeam-data-platform-v13/
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Strata introduces AI Identity Gateway to secure and govern agentic systems (Score: 0)
+- Summary: Strata Identity announced the availability of the AI Identity Gateway, an enterprise-grade runtime identity and policy-enforcement control point for agentic behavior. As part of Maverics for Agentic Identity, the AI Identity Gateway provides organizations wit…
+- Source: https://www.helpnetsecurity.com/2025/11/19/strata-ai-identity-gateway/
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obscure MCP API in Comet Browser Breaches User Trust, Enabling Full Device Control via AI Browsers (Score: 0)
+- Summary: Follow us on Bluesky, Twitter (X), Mastodon and Facebook at @Hackread
+- Source: https://hackread.com/obscure-mcp-api-in-comet-browser-breaches-user-trust-enabling-full-device-control-via-ai-browsers/
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obscure MCP API in Comet Browser Breaches User Trust, Enabling Full Device Control via AI Browsers (Score: 0)
+- Summary: Palo Alto, California, 19th November 2025, CyberNewsWire
+- Source: https://www.nextbigfuture.com/2025/11/obscure-mcp-api-in-comet-browser-breaches-user-trust-enabling-full-device-control-via-ai-browsers.html
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obsidian Security Ranked Among the Fastest-Growing Companies in North America on the 2025 Deloitte Technology Fast 500™ (Score: 0)
+- Summary: Palo Alto-Based Security Company Grows 1000% in Last Three Years with Innovations in SaaS and AI Agent Security PALO ALTO, Calif. — Obsidian Security, leader in SaaS security, today announced it ranked No. 95 on the 2025 Deloitte Technology Fast 500™, a ranki…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-security-ranked-among-the-fastest-growing-companies-in-north-america-on-the-2025-deloitte-technology-fast-500
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nasdaq Futures Gain With All Eyes on Nvidia Earnings (Score: 0)
+- Summary: December Nasdaq 100 E-Mini futures (NQZ25) are trending up +0.44% this morning, signaling a modest rebound from a bruising stretch of losses, while investors...
+- Source: https://www.barchart.com/story/news/36202104/nasdaq-futures-gain-with-all-eyes-on-nvidia-earnings
+- Date: 2025-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
