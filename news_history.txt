@@ -29776,3 +29776,187 @@ NEC X Opens Batch 15 Applications for Elev X! Ignite, Offering Hands-On AI Trial
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-28 13:45  ---
+
+Archetype raises $35M to automate sensor data analysis with AI (Score: 4)
+- Summary: Archetype AI Inc., a startup that provides artificial intelligence agents optimized to process sensor data, has raised $35 million in funding. IAG Capital Partners and Hitachi Ventures led the Series A investment. Archetype stated on Thursday that the funds w…
+- Source: https://siliconangle.com/2025/11/21/archetype-raises-35m-automate-sensor-data-analysis-ai/
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Northland Raises PT on Palo Alto Networks (PANW) to $190 From $177, Keeps a Market Perform Rating (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW) is one of the best large cap stocks to invest in for the long term. Northland lifted the price target on Palo Alto...
+- Source: https://finance.yahoo.com/news/northland-raises-pt-palo-alto-194950757.html
+- Date: 2025-11-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Streamlining property expropriations for high-speed rail eliminates key safeguards, critics say (Score: 2)
+- Summary: In an effort to halve the approval time for Canada’s new high-speed rail network, the Liberal government is streamlining how it expropriates land in a way that some say could compromise property rights and lead to costly mistakes.
+- Source: https://www.cbc.ca/news/politics/high-speed-rail-property-expropriations-9.6993241
+- Date: 2025-11-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Breaking down Palo Alto Networks' $3.35B Chronosphere deal (Score: 2)
+- Summary: Palo Alto Networks acquired observability platform Chronosphere for $3.35 billion. The deal aims to enable AI-driven autonomous operations and create self-healing infrastructure.
+- Source: https://www.techtarget.com/searchnetworking/opinion/Breaking-down-Palo-Alto-Networks-335B-Chronosphere-deal
+- Date: 2025-11-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Detection and Response Market Forecast 2025-2030: Opportunities Driven by Integration with Xdr Platforms, and AI-Driven Autonomous Response (Score: 2)
+- Summary: The global Network Detection and Response (NDR) market is poised for a robust expansion, projected to grow from USD 3.68 billion in 2025 to USD 5.82 billion by 2030 at a CAGR of 9.6%. The surge is fueled by the growing need to detect threats within encrypted …
+- Source: https://www.globenewswire.com/news-release/2025/11/21/3192584/28124/en/Network-Detection-and-Response-Market-Forecast-2025-2030-Opportunities-Driven-by-Integration-with-Xdr-Platforms-and-AI-Driven-Autonomous-Response.html
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What’s up with… Verizon, Nvidia, European sovereignty (Score: 2)
+- Summary: Verizon is cutting 13,000 jobsNvidia reports 62% sales hike in Q3European digital sovereignty is gathering momentum
+- Source: https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-verizon-nvidia-european-sovereignty-54339/
+- Date: 2025-11-20
+- Vendors: None
+- Topics: None
+
+The Silicon Valley primary care doctor shortage (Score: 1)
+- Summary: Not long ago, a friend told me, “I switched insurance and can’t find a doctor who will take me.” Another said, “I left Kaiser after going on Medicare and now no one will see me.” These aren’t isolated complaints. They’ve become the new reality in Silicon Vall…
+- Source: https://kevinmd.com/2025/11/the-silicon-valley-primary-care-doctor-shortage.html
+- Date: 2025-11-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Gainsight Expands Impacted Customer List Following Salesforce Security Alert (Score: 0)
+- Summary: Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.
+The company said Salesforce initially provided a list of 3 impacted customers and that it has "expanded to a larger lis…
+- Source: https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html
+- Date: 2025-11-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The future will be explained to you in Palo Alto | TechCrunch (Score: 0)
+- Summary: On Wednesday evening at PlayGround Global in Palo Alto, some very smart people who are building things you don't understand yet will explain what's
+- Source: https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/
+- Date: 2025-11-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Gainsight breach: Salesforce details attack window, issues investigation guidance (Score: 0)
+- Summary: The number of Salesforce customers affected by the recent compromise of Gainsight-published applications is yet to be publicly confirmed, but Salesforce released indicators of compromise (IoCs) and simultaneously shed some light on when the attack likely star…
+- Source: https://www.helpnetsecurity.com/2025/11/26/gainsight-breach-salesforce-details-attack-window/
+- Date: 2025-11-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security Money: The Index is Back Near Highs as AI Leads the Discussion - BSW #423 (Score: 0)
+- Summary: The Security Weekly 25 index is back near all time highs as the NASDAQ hits another record high. Funding and acquisitions have shifted to AI as the security industry continues to evolve. We also had a new IPO, Netskope. They will replace CyberArk once the Pal…
+- Source: https://sites.libsyn.com/18678/security-money-the-index-is-back-near-highs-as-ai-leads-the-discussion-bsw-423
+- Date: 2025-11-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+HP Inc. Reports Fiscal 2025 Full Year and Fourth Quarter Results (Score: 0)
+- Summary: PALO ALTO, Calif., Nov.  25, 2025  (GLOBE NEWSWIRE) -- HP (NYSE: HPQ)  Fiscal 2025 GAAP diluted net earnings per share ("EPS") of $2.65, down 5.7% from...
+- Source: https://www.globenewswire.com/news-release/2025/11/25/3194753/0/en/HP-Inc-Reports-Fiscal-2025-Full-Year-and-Fourth-Quarter-Results.html
+- Date: 2025-11-25
+- Vendors: None
+- Topics: None
+
+Insider Incidents Can Happen To Anyone (Score: 0)
+- Summary: Cybersecurity vendor, Crowdstrike, recently acknowledged reports that it was the victim of an insider incident. When contacted for more information about the incident, a Crowdstrike spokesperson said: We identified and terminated a suspicious insider last mon…
+- Source: https://www.forrester.com/blogs/insider-incidents-can-happen-to-anyone/
+- Date: 2025-11-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Named as a Leader in IDC MarketScape for Data Integration Software Platforms (Score: 0)
+- Summary: PALO ALTO, Calif., Nov. 25, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced that it has been recognized as a Leader in the IDC MarketScape: Worldwide Data Integration Software Platforms 2025 Vendor Assessment (doc # US53001625, October …
+- Source: https://financialpost.com/globe-newswire/denodo-named-as-a-leader-in-idc-marketscape-for-data-integration-software-platforms
+- Date: 2025-11-25
+- Vendors: None
+- Topics: None
+
+Meet the 21-year-old former MrBeast staffer building an AI startup to help creators make viral videos (Score: 0)
+- Summary: Palo, an AI startup helping creators make viral content, is launching out of stealth with $3.8 million raised.
+- Source: https://www.businessinsider.com/mrbeast-former-employee-startup-cofounder-palo-creators-ai-2025-11
+- Date: 2025-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+300km/h train through Ontario will happen years earlier than expected (Score: 0)
+- Summary: Construction on one of the most ambitious and expensive transportation infrastructure projects to ever be undertaken in Canadian history is now targeted to begin before the end of this decade.Embedded within Prime Minister Mark Carney's 2025 budget for the Go…
+- Source: https://dailyhive.com/toronto/alto-high-speed-rail-planning-construction-expedited
+- Date: 2025-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More (Score: 0)
+- Summary: This week saw a lot of new cyber trouble. Hackers hit Fortinet and Chrome with new 0-day bugs. They also broke into supply chains and SaaS tools. Many hid inside trusted apps, browser alerts, and software updates.
+Big firms like Microsoft, Salesforce, and Goo…
+- Source: https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html
+- Date: 2025-11-24
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Notre Dame football vs. Syracuse live score updates, highlights, how to watch Week 13 game (Score: 0)
+- Summary: It's Notre Dame vs. Syracuse in Week 13 of the 2025 college football season. Follow along for live score and game updates at Notre Dame Stadium.
+- Source: https://www.southbendtribune.com/story/sports/college/football/2025/11/22/notre-dame-football-syracuse-score-today-predictions-channel/87329210007/
+- Date: 2025-11-22
+- Vendors: None
+- Topics: None
+
+Top Technology Executives Recognized at the 2025 GeorgiaCIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ......
+- Source: https://www.globenewswire.com/news-release/2025/11/21/3192950/0/en/Top-Technology-Executives-Recognized-at-the-2025-GeorgiaCIO-ORBIE-Awards.html
+- Date: 2025-11-21
+- Vendors: None
+- Topics: None
+
+AI wars: Microsoft pitches the agent superstore, Google models ace tests and OpenAI looks over its shoulder (Score: 0)
+- Summary: Those were sighs of relief you heard from investors after Nvidia reported better-than-expected earnings, putting off for awhile longer worries about an AI bubble. But they quickly turned into sighs of resignation. Nvidia’s stock ended up declining 3% on Thurs…
+- Source: https://siliconangle.com/2025/11/21/ai-wars-microsoft-pitches-agent-superstore-google-models-ace-tests-openai-looks-shoulder/
+- Date: 2025-11-21
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Application Security Solutions Market Outlook Report 2025-2032: Analysis of Key Trends, Investment Opportunities and the Competitive Landscape (Score: 0)
+- Summary: Key market opportunities include growing demand for integrated application security solutions driven by complex cyber threats, cloud-native architectures, and regulatory pressures. SMEs, mobile app security, and cloud deployments offer rapid growth potential.…
+- Source: https://www.globenewswire.com/news-release/2025/11/21/3192877/28124/en/Application-Security-Solutions-Market-Outlook-Report-2025-2032-Analysis-of-Key-Trends-Investment-Opportunities-and-the-Competitive-Landscape.html
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Snapshot: Global Agencies Target Criminal “Bulletproof” Hosts, as CSA Unveils Agentic AI Risk Framework (Score: 0)
+- Summary: Cyber agencies call on ISPs to help combat "bulletproof" internet hosts that shield cybercriminals. Meanwhile, the CSA introduced a new methodology to assess the risks of autonomous AI. Plus, get the latest on the CIS Benchmarks, drone-detection systems, and …
+- Source: https://www.tenable.com/blog/cybersecurity-snapshot-agentic-ai-risk-framework-bulletproof-hosting-providers-cis-benchmarks-malware-report-11-20-2025
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On the Death of Tech Idealism (and Rise of the Homeless) in Northern California (Score: 0)
+- Summary: Fuckers. I couldn’t get the word out of my head, because he wouldn’t stop saying it. I was sitting in the tiled courtyard of the Mediterranean-style home of an old acquaintance, a venture capitalist and serial tech entrepreneur, who lived
+- Source: https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Liberals propose bill to streamline, pre-approve Toronto-Quebec City high-speed rail line (Score: 0)
+- Summary: Carney government is proposing to grant the Crown corporation behind high-speed railway between Toronto and Quebec City sweeping new powers.
+- Source: https://nationalpost.com/news/politics/liberals-propose-bill-to-streamline-pre-approve-toronto-quebec-city-high-speed-rail-line
+- Date: 2025-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Veeam Data Platform V13 Focuses on Cyber Reslilience, Protection, and Management (Score: 0)
+- Summary: Veeam Software has launched Veeam Data Platform v13, emphasizing cyber resilience, data protection, and data management for organizations that are modernizing their infrastructure and investing in AI. This version is an evolutionary release that introduces ne…
+- Source: https://www.storagereview.com/news/veeam-data-platform-v13-focuses-on-cyber-reslilience-protection-and-management
+- Date: 2025-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
