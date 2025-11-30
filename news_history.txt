@@ -30144,3 +30144,186 @@ Notre Dame football vs. Syracuse live score updates, highlights, how to watch We
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-11-30 13:40  ---
+
+AI is reportedly 'democratising' cybercrime by making it easier than ever for bad guys with limited tech skills to have a crack ransomware and other malicious code (Score: 3)
+- Summary: "Ah, I see you're interested in crafting a ransom note for your ransomware campaign."
+- Source: https://www.pcgamer.com/software/ai/ai-is-reportedly-democratising-cybercrime-by-making-it-easier-than-ever-for-bad-guys-with-limited-tech-skills-to-have-a-crack-ransomware-and-other-malicious-code/
+- Date: 2025-11-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PyPANRestV2 2.1.11 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.11/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.10 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.10/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.9 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.9/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.8 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.8/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.7 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.7/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.6 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.6/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.5 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.5/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.4 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.4/
+- Date: 2025-11-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.3 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.3/
+- Date: 2025-11-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Northland Raises PT on Palo Alto Networks (PANW) to $190 From $177, Keeps a Market Perform Rating (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW) is one of the best large cap stocks to invest in for the long term. Northland lifted the price target on Palo Alto...
+- Source: https://finance.yahoo.com/news/northland-raises-pt-palo-alto-194950757.html
+- Date: 2025-11-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Streamlining property expropriations for high-speed rail eliminates key safeguards, critics say (Score: 2)
+- Summary: In an effort to halve the approval time for Canada’s new high-speed rail network, the Liberal government is streamlining how it expropriates land in a way that some say could compromise property rights and lead to costly mistakes.
+- Source: https://www.cbc.ca/news/politics/high-speed-rail-property-expropriations-9.6993241
+- Date: 2025-11-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Silicon Valley primary care doctor shortage (Score: 1)
+- Summary: Not long ago, a friend told me, “I switched insurance and can’t find a doctor who will take me.” Another said, “I left Kaiser after going on Medicare and now no one will see me.” These aren’t isolated complaints. They’ve become the new reality in Silicon Vall…
+- Source: https://kevinmd.com/2025/11/the-silicon-valley-primary-care-doctor-shortage.html
+- Date: 2025-11-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This TSX stock may rise highest among TD’s initial top picks for 2026 (Score: 0)
+- Summary: The Week in Stocks: Why Dollarama is a 'cornerstone holding,' how investors can play AI's cybersecurity risks and top bank picks. Read on.
+- Source: https://financialpost.com/investing/tsx-stocks-top-pick-2026-td
+- Date: 2025-11-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Endpoint Security Platforms Industry Outlook, 2030 - AI-Powered Threat Detection Drives Market Growth Amidst Rising Cyber Threats (Score: 0)
+- Summary: The endpoint security market is poised for growth due to rising cyber threats and regulatory demands. Opportunities emerge from cloud-native, AI-driven architectures, and integrated security ecosystems. Mobile and POS terminals are key areas, while North Amer…
+- Source: https://www.globenewswire.com/news-release/2025/11/27/3195752/28124/en/Endpoint-Security-Platforms-Industry-Outlook-2030-AI-Powered-Threat-Detection-Drives-Market-Growth-Amidst-Rising-Cyber-Threats.html
+- Date: 2025-11-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Managed Security Services (MSS) Market Review and Opportunities Assessment 2021-2030 - Cyber Threats Fuel Double-Digit Growth (Score: 0)
+- Summary: Key market opportunities for MSS include addressing the shortage of cybersecurity professionals, leveraging rapid growth in Asia-Pacific due to digitization, and expanding cloud-native security services. SMEs show high demand for turnkey MSS solutions for com…
+- Source: https://www.globenewswire.com/news-release/2025/11/27/3195750/28124/en/Managed-Security-Services-MSS-Market-Review-and-Opportunities-Assessment-2021-2030-Cyber-Threats-Fuel-Double-Digit-Growth.html
+- Date: 2025-11-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Gainsight Expands Impacted Customer List Following Salesforce Security Alert (Score: 0)
+- Summary: Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.
+The company said Salesforce initially provided a list of 3 impacted customers and that it has "expanded to a larger lis…
+- Source: https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html
+- Date: 2025-11-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The future will be explained to you in Palo Alto | TechCrunch (Score: 0)
+- Summary: On Wednesday evening at PlayGround Global in Palo Alto, some very smart people who are building things you don't understand yet will explain what's
+- Source: https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/
+- Date: 2025-11-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Gainsight breach: Salesforce details attack window, issues investigation guidance (Score: 0)
+- Summary: The number of Salesforce customers affected by the recent compromise of Gainsight-published applications is yet to be publicly confirmed, but Salesforce released indicators of compromise (IoCs) and simultaneously shed some light on when the attack likely star…
+- Source: https://www.helpnetsecurity.com/2025/11/26/gainsight-breach-salesforce-details-attack-window/
+- Date: 2025-11-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security Money: The Index is Back Near Highs as AI Leads the Discussion - BSW #423 (Score: 0)
+- Summary: The Security Weekly 25 index is back near all time highs as the NASDAQ hits another record high. Funding and acquisitions have shifted to AI as the security industry continues to evolve. We also had a new IPO, Netskope. They will replace CyberArk once the Pal…
+- Source: https://sites.libsyn.com/18678/security-money-the-index-is-back-near-highs-as-ai-leads-the-discussion-bsw-423
+- Date: 2025-11-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+HP Inc. Reports Fiscal 2025 Full Year and Fourth Quarter Results (Score: 0)
+- Summary: PALO ALTO, Calif., Nov.  25, 2025  (GLOBE NEWSWIRE) -- HP (NYSE: HPQ)  Fiscal 2025 GAAP diluted net earnings per share ("EPS") of $2.65, down 5.7% from...
+- Source: https://www.globenewswire.com/news-release/2025/11/25/3194753/0/en/HP-Inc-Reports-Fiscal-2025-Full-Year-and-Fourth-Quarter-Results.html
+- Date: 2025-11-25
+- Vendors: None
+- Topics: None
+
+Insider Incidents Can Happen To Anyone (Score: 0)
+- Summary: Cybersecurity vendor, Crowdstrike, recently acknowledged reports that it was the victim of an insider incident. When contacted for more information about the incident, a Crowdstrike spokesperson said: We identified and terminated a suspicious insider last mon…
+- Source: https://www.forrester.com/blogs/insider-incidents-can-happen-to-anyone/
+- Date: 2025-11-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Named as a Leader in IDC MarketScape for Data Integration Software Platforms (Score: 0)
+- Summary: PALO ALTO, Calif., Nov. 25, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced that it has been recognized as a Leader in the IDC MarketScape: Worldwide Data Integration Software Platforms 2025 Vendor Assessment (doc # US53001625, October …
+- Source: https://financialpost.com/globe-newswire/denodo-named-as-a-leader-in-idc-marketscape-for-data-integration-software-platforms
+- Date: 2025-11-25
+- Vendors: None
+- Topics: None
+
+Meet the 21-year-old former MrBeast staffer building an AI startup to help creators make viral videos (Score: 0)
+- Summary: Palo, an AI startup helping creators make viral content, is launching out of stealth with $3.8 million raised.
+- Source: https://www.businessinsider.com/mrbeast-former-employee-startup-cofounder-palo-creators-ai-2025-11
+- Date: 2025-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+300km/h train through Ontario will happen years earlier than expected (Score: 0)
+- Summary: Construction on one of the most ambitious and expensive transportation infrastructure projects to ever be undertaken in Canadian history is now targeted to begin before the end of this decade.Embedded within Prime Minister Mark Carney's 2025 budget for the Go…
+- Source: https://dailyhive.com/toronto/alto-high-speed-rail-planning-construction-expedited
+- Date: 2025-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
