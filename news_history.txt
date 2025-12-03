@@ -30711,3 +30711,204 @@ Endpoint Security Platforms Industry Outlook, 2030 - AI-Powered Threat Detection
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-12-03 13:52  ---
+
+I struggled to find a job after working at Microsoft, Meta, and Apple — until I embraced AI and looked beyond Big Tech (Score: 4)
+- Summary: Lee Givens, Jr. struggled to find a job after a career at Microsoft, Meta, and Apple. He decided to embrace AI and looked outside Big Tech.
+- Source: https://www.businessinsider.com/microsoft-meta-apple-employee-struggled-find-tech-job-2025-12
+- Date: 2025-12-01
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI is reportedly 'democratising' cybercrime by making it easier than ever for bad guys with limited tech skills to have a crack ransomware and other malicious code (Score: 3)
+- Summary: "Ah, I see you're interested in crafting a ransom note for your ransomware campaign."
+- Source: https://www.pcgamer.com/software/ai/ai-is-reportedly-democratising-cybercrime-by-making-it-easier-than-ever-for-bad-guys-with-limited-tech-skills-to-have-a-crack-ransomware-and-other-malicious-code/
+- Date: 2025-11-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks (Score: 2)
+- Summary: Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertaken by Iranian nation-state actors that have delivered a previously u…
+- Source: https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html
+- Date: 2025-12-02
+- Vendors: None
+- Topics: None
+
+SASE, SD-WAN evolve as enterprises prioritise unified network security (Score: 2)
+- Summary: Research confirms trend that software-defined wide-area network implementations are increasingly tied to security, with the continual rise of cyber security incidents worldwide only accelerating this dynamic
+- Source: https://www.computerweekly.com/news/366635495/SASE-SD-WAN-evolve-as-enterprises-prioritise-unified-network-security
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PyPANRestV2 2.1.11 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.11/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.10 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.10/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.9 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.9/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.8 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.8/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.7 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.7/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.6 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.6/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.5 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.5/
+- Date: 2025-11-28
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.4 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.4/
+- Date: 2025-11-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PyPANRestV2 2.1.3 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.3/
+- Date: 2025-11-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Northland Raises PT on Palo Alto Networks (PANW) to $190 From $177, Keeps a Market Perform Rating (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW) is one of the best large cap stocks to invest in for the long term. Northland lifted the price target on Palo Alto...
+- Source: https://finance.yahoo.com/news/northland-raises-pt-palo-alto-194950757.html
+- Date: 2025-11-26
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Streamlining property expropriations for high-speed rail eliminates key safeguards, critics say (Score: 2)
+- Summary: In an effort to halve the approval time for Canada’s new high-speed rail network, the Liberal government is streamlining how it expropriates land in a way that some say could compromise property rights and lead to costly mistakes.
+- Source: https://www.cbc.ca/news/politics/high-speed-rail-property-expropriations-9.6993241
+- Date: 2025-11-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+These 2 Data-Infrastructure Stocks Merit a Closer Look, Says Oppenheimer (Score: 0)
+- Summary: Enterprises are in the middle of a massive infrastructure overhaul as they rethink how data is stored, managed, and accessed across on-premises environments ...
+- Source: https://finance.yahoo.com/news/2-data-infrastructure-stocks-merit-111140120.html
+- Date: 2025-12-02
+- Vendors: None
+- Topics: None
+
+The newest farmhands are tiny and pink and love devouring a potent pollutant (Score: 0)
+- Summary: Microbes at a California dairy farm cut effluent storage pond methane by more than 85%.
+- Source: https://www.washingtonpost.com/climate-solutions/interactive/2025/methane-emissions-microbes/?itid=sr_0_94837cc9-13cf-44c3-80c5-6bff44b586e3
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Automakers Report Brisk Sales In November As Demand Remains Robust (Score: 0)
+- Summary: With demand continuing to be strong post the festive season, leading automakers, Maruti Suzuki, Tata Motors and Mahindra & Mahindra, saw robust growth in sales in November as compared to the same month last year. Maruti Suzuki India reported the best-ever tot…
+- Source: https://www.ndtvprofit.com/auto/automakers-report-brisk-sales-in-november-as-demand-remains-robust
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloud Access Security Broker Market to Reach USD 43.45 Billion by 2032, Owing to Rising Cloud Adoption and Data Security Demands | Research by SNS Insider (Score: 0)
+- Summary: The Cloud Access Security Broker Market is accelerating as organizations expand cloud usage, strengthen security amid rising cyber threats, adopt hybrid work models, and rely on CASB solutions for compliance, access control, real-time monitoring, and protecti…
+- Source: https://www.globenewswire.com/news-release/2025/12/01/3197126/0/en/Cloud-Access-Security-Broker-Market-to-Reach-USD-43-45-Billion-by-2032-Owing-to-Rising-Cloud-Adoption-and-Data-Security-Demands-Research-by-SNS-Insider.html
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+APT and financial attacks on industrial organizations in Q3 2025 (Score: 0)
+- Summary: Using of AI, trusted relationships and historical security problems of traditional OS – there are some interesting details of attacks on industrial enterprises.
+- Source: https://ics-cert.kaspersky.com/publications/reports/2025/12/01/apt-and-financial-attacks-on-industrial-organizations-in-q3-2025/
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Vulnerability Summary for the Week of November 24, 2025 (Score: 0)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+<th>Patch Info</th>
+</tr>
+
+
+
+<tr>
+<td>0x4m4--HexStrike AI</td>
+<td>By providing a command-line argument st…
+- Source: https://www.cisa.gov/news-events/bulletins/sb25-335
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More (Score: 0)
+- Summary: Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and “trusted” partners — and turn them against us.
+One bad download can leak your keys. One weak vendor can expos…
+- Source: https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control (Score: 0)
+- Summary: A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a "full spectrum" of features to facilitate on-device fraud (ODF), screen manipulation, and real-time interaction with infected devices.
+The malware em…
+- Source: https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html
+- Date: 2025-12-01
+- Vendors: None
+- Topics: None
+
+AWS Transform adds new agentic AI capabilities for enterprise VMware migrations (Score: 0)
+- Summary: AWS Transform adds powerful new agentic AI capabilities to automate VMware migrations to AWS. The migration agent collaborates with migration teams to understand business priorities and intelligently plan and migrate hundreds of applications spanning thousand…
+- Source: https://aws.amazon.com/about-aws/whats-new/2025/12/transform-vmware-agentic-ai-enterprise-migration/
+- Date: 2025-12-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2025 Notre Dame Football Schedule, TV Times, Stat Leaders, Roster, and Results (Score: 0)
+- Summary: All of the stats, results, and more for Notre Dame Football and its 2025 CFB season.
+- Source: https://www.onefootdown.com/notre-dame-fighting-irish-football/79437/2025-notre-dame-football-schedule-tv-times-stat-leaders-roster-and-results-cfb-news
+- Date: 2025-12-01
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
