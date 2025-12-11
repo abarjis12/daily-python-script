@@ -32195,3 +32195,152 @@ OnePiece Labs, Solana, and SosoValue Launched Expanded AI & Web3 University Tour
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-12-11 13:54  ---
+
+pan-aisecurity 0.8.0.5.post2 (Score: 2)
+- Summary: Palo Alto Networks AI Runtime Security: API Intercept Python SDK
+- Source: https://pypi.org/project/pan-aisecurity/0.8.0.5.post2/
+- Date: 2025-12-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Presentation: Hybrid Cloud-Native Networking in Enterprise - Some Assembly Required (Score: 2)
+- Summary: Louis Ryan shares a compelling vision for modern cloud native hybrid networking. He critiques primitive network abstractions (the "Big IP" problem) and rigid security policies that rot and cause SPOFs. Discover how architects can elevate network functionality…
+- Source: https://www.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/
+- Date: 2025-12-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PRC spies Brickstormed their way into critical US networks and remained hidden for years (Score: 2)
+- Summary: 'Dozens' of US orgs infected
+Chinese cyberspies maintained long-term access to critical networks – sometimes for years – and used this access to infect computers with malware and steal data, according to Thursday warnings from government agencies and private …
+- Source: https://www.theregister.com/2025/12/04/prc_spies_brickstorm_cisa/
+- Date: 2025-12-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PRC spies Brickstromed their way into critical US networks and remained hidden for years (Score: 2)
+- Summary: 'Dozens' of US orgs infected Chinese cyberspies maintained long-term access to critical networks – sometimes for years – and used this access to infect computers with malware and steal data, according to Thursday warnings from government agencies and private …
+- Source: https://www.theregister.com/2025/12/04/prc_spies_brickstrom_cisa/
+- Date: 2025-12-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks offers discounted cybersecurity solutions to agencies through OneGov deal (Score: 2)
+- Summary: Federal agencies can access discounts of as much as 60% for select security offerings as part of the agreement.
+- Source: https://www.nextgov.com/acquisition/2025/12/palo-alto-networks-offers-discounted-cybersecurity-solutions-agencies-through-onegov-deal/409923/
+- Date: 2025-12-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Loyalty Juggernaut Ushers in a New Era of Modern Loyalty Tech: Recognized as a Strong Performer in The Forrester Wave™ for Loyalty Platforms, Q4 2025 (Score: 0)
+- Summary: Loyalty Juggernaut Ushers in a New Era of Modern Loyalty Tech: Recognized as a Strong Performer in The Forrester Wave™ for Loyalty Platforms, Q4 2025
+- Source: https://www.thehindubusinessline.com/brandhub/pr-release/loyalty-juggernaut-ushers-in-a-new-era-of-modern-loyalty-tech-recognized-as-a-strong-performer-in-the-forrester-wavetm-for-loyalty-platforms-q4-2025/article70380248.ece
+- Date: 2025-12-10
+- Vendors: None
+- Topics: None
+
+Mapping the genetic landscape across 14 psychiatric disorders (Score: 0)
+- Summary: Genomic analyses applied to 14 childhood- and adult-onset psychiatric disorders identifies five underlying genomic factors that explain the majority of the genetic variance of the individual disorders.
+- Source: https://www.nature.com/articles/s41586-025-09820-3
+- Date: 2025-12-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+LinkedIn cofounder Reid Hoffman says he learned a lesson from a visit to Epstein's island: 'Note to self, Google before going' (Score: 0)
+- Summary: Hoffman, the billionaire LinkedIn cofounder, said he visited Epstein's island as part of his work fundraising for MIT.
+- Source: https://www.businessinsider.com/linkedin-reid-hoffman-jeffrey-epstein-island-visit-2025-12
+- Date: 2025-12-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Abeona Therapeutics® Announces First Patient Treatment with ZEVASKYN® Gene Therapy (Score: 0)
+- Summary: CLEVELAND, Dec. 08, 2025 (GLOBE NEWSWIRE) -- Abeona Therapeutics Inc. (Nasdaq: ABEO) today announced the first commercial patient treatment with FDA-approved ZEVASKYN (prademagene zamikeracel), a first-of-its-kind, autologous gene therapy for treating wounds …
+- Source: https://www.globenewswire.com/news-release/2025/12/08/3201426/0/en/Abeona-Therapeutics-Announces-First-Patient-Treatment-with-ZEVASKYN-Gene-Therapy.html
+- Date: 2025-12-08
+- Vendors: None
+- Topics: None
+
+The accelerator is on the floor for autonomous vehicles | TechCrunch (Score: 0)
+- Summary: Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+- Source: https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/
+- Date: 2025-12-07
+- Vendors: None
+- Topics: None
+
+The 50 best films of 2025 – a full list in reverse order (Score: 0)
+- Summary: There were hopeful signs that Hollywood could make money out of good films that did not spring from established franchises
+- Source: https://www.irishtimes.com/culture/film/2025/12/07/the-50-best-films-of-2025-a-full-list-in-reverse-order/
+- Date: 2025-12-07
+- Vendors: None
+- Topics: None
+
+React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable (Score: 0)
+- Summary: Over 77,000 Internet-exposed IP addresses are vulnerable to the critical React2Shell remote code execution flaw (CVE-2025-55182), with researchers now confirming that attackers have already compromised over 30 organizations across multiple sectors. [...]
+- Source: https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/
+- Date: 2025-12-06
+- Vendors: None
+- Topics: None
+
+Attackers launch dual campaign on GlobalProtect portals and SonicWall APIs (Score: 0)
+- Summary: A hacking campaign is targeting GlobalProtect logins and scannig SonicWall APIs since December 2, 2025. A campaign began on December 2 targeting Palo Alto GlobalProtect portals with login attempts and scanning SonicWall SonicOS API endpoints. The activity cam…
+- Source: https://securityaffairs.com/185382/hacking/attackers-launch-dual-campaign-on-globalprotect-portals-and-sonicwall-apis.html
+- Date: 2025-12-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New wave of VPN login attempts targets Palo Alto GlobalProtect portals (Score: 0)
+- Summary: A campaign has been observed targeting Palo Alto GlobalProtect portals with login attempts and launching scanning activity against SonicWall SonicOS API endpoints. [...]
+- Source: https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/
+- Date: 2025-12-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare blames Friday outage on borked fix for React2shell vuln (Score: 0)
+- Summary: Security community needs to rally and share more info faster, one researcher says
+Amid new reports of attackers pummeling a maximum security hole (CVE-2025-55182) in the React JavaScript library, Cloudflare's technology chief said his company took down its ow…
+- Source: https://www.theregister.com/2025/12/05/react2shell_pocs_exploitation/
+- Date: 2025-12-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A Deep Dive Into The Library Netflix Will Acquire With Warner Bros. & HBO (Score: 0)
+- Summary: Here's a deep dive into the library that Netflix will acquire from Warner Bros.
+- Source: https://www.whats-on-netflix.com/news/a-deep-dive-into-the-library-netflix-will-acquire-with-warner-bros-hbo/
+- Date: 2025-12-05
+- Vendors: None
+- Topics: None
+
+Conexus Venture Capital fund hits $30 million investment goal (Score: 0)
+- Summary: Oversubscribed fund well positioned to back Saskatchewan’s most ambitious builders Regina, Dec. 04, 2025 (GLOBE NEWSWIRE) — A venture capital fund hyper focused on backing Saskatchewan’s top high-growth tech companies has hit its $30 million investment goal. …
+- Source: https://financialpost.com/globe-newswire/conexus-venture-capital-fund-hits-30-million-investment-goal
+- Date: 2025-12-04
+- Vendors: None
+- Topics: None
+
+Top Technology Executives Recognized at the 2025 Michigan ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ......
+- Source: https://www.globenewswire.com/news-release/2025/12/04/3200215/0/en/Top-Technology-Executives-Recognized-at-the-2025-Michigan-ORBIE-Awards.html
+- Date: 2025-12-04
+- Vendors: None
+- Topics: None
+
+Vinci nabs $46M to speed up chip simulations with AI (Score: 0)
+- Summary: Vinci4D Inc., a provider of simulation software for chip designers, has secured $46 million in funding to enhance its technology. The startup raised the capital over two rounds that it announced on Tuesday. The financing came from Xora Innovation, Eclipse and…
+- Source: https://siliconangle.com/2025/12/03/vinci-nabs-46m-speed-chip-simulations-ai/
+- Date: 2025-12-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI-native observability is becoming the new enterprise compass, says Honeycomb.io CMO (Score: 0)
+- Summary: Cloud-native practices have matured into stable foundations, and the industry is accelerating toward an AI-native observability future. Observability is becoming essential for ensuring direction and measurable outcomes in this fast-paced environment. Cloud-na…
+- Source: https://siliconangle.com/2025/12/03/ai-native-observability-sets-pace-enterprise-systems-awsreninvent/
+- Date: 2025-12-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
