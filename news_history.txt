@@ -32711,3 +32711,186 @@ New wave of VPN login attempts targets Palo Alto GlobalProtect portals (Score: 0
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-12-14 13:42  ---
+
+Report: Intel could acquire inference chip startup SambaNova for $1.6B (Score: 4)
+- Summary: Intel Corp. is reportedly in talks to acquire SambaNova Systems Inc., a venture-backed developer of artificial intelligence chips. Bloomberg today cited sources as saying that the discussions are in an advanced stage. It’s believed that an acquisition could v…
+- Source: https://siliconangle.com/2025/12/12/report-intel-acquire-inference-chip-startup-sambanova-1-6b/
+- Date: 2025-12-13
+- Vendors: None
+- Topics: None
+
+Montreal-Ottawa chosen as first leg of high-speed rail project (Score: 2)
+- Summary: The first segment of Canada's proposed high-speed rail network would connect Montreal and Ottawa, according to Radio-Canada.
+Federal Transport Minister Steven MacKinnon is expected to make the announcement this morning alongside Martin Imbleau, the CEO of Alt…
+- Source: https://www.cbc.ca/news/canada/montreal/high-speed-rail-ottawa-montreal-9.7013138
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Planned Maintenance] Network Tunnels – Palo Alto, Rio de Janeiro and Vancouver between 09:00 UTC and 12:00 UTC on December 16th (Score: 2)
+- Summary: Cloud Security Service Status's Status Page - Planned Maintenance] Network Tunnels – Palo Alto, Rio de Janeiro and Vancouver between 09:00 UTC and 12:00 UTC on December 16th.
+- Source: https://status.umbrella.cisco.com/incidents/mjhtsw9rhjxp
+- Date: 2025-12-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (PANW) Plays a Role in Safeguarding the Modern Digital Economy. Here’s How (Score: 2)
+- Summary: Mairs & Power, an investment advisor, released the third-quarter 2025 investor letter for the “Mairs & Power Growth Fund.” A copy of the letter can be...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-panw-plays-132615372.html
+- Date: 2025-12-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The diversity of sandflies (Psychodidae: Phlebotominae) and the presence of Leishmania spp. DNA in potential vectors of the Mbaracayú Forest Biosphere Reserve, Canindeyú, Paraguay: New records and findings (Score: 2)
+- Summary: Author’s summary The interaction between natural ecosystems and human activities in the Mbaracayú Forest Biosphere Reserve reveals a complex leishmaniasis transmission network that challenges traditional control strategies. This study uncovers a remarkable di…
+- Source: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013806
+- Date: 2025-12-10
+- Vendors: None
+- Topics: None
+
+pan-aisecurity 0.8.0.5.post2 (Score: 2)
+- Summary: Palo Alto Networks AI Runtime Security: API Intercept Python SDK
+- Source: https://pypi.org/project/pan-aisecurity/0.8.0.5.post2/
+- Date: 2025-12-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada announces Ottawa-Montreal as first segment of high-speed rail (Score: 0)
+- Summary: OTTAWA, Dec. 12 (Xinhua) -- The Canadian government announced Friday that the first segment of the Alto High-Speed Rail project will link Ottawa and Montreal. Read full story
+- Source: https://www.thestar.com.my/news/world/2025/12/13/canada-announces-ottawa-montreal-as-first-segment-of-high-speed-rail
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why the high-speed rail will first connect Ottawa and Montreal (Score: 0)
+- Summary: It is a decision that is not only symbolic but practical, said Transport Minister Steven MacKinnon on Friday.
+- Source: https://nationalpost.com/news/why-the-high-speed-rail-will-first-connect-ottawa-and-montreal
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+First phase of high-speed 300km/h train line won't serve Toronto (Score: 0)
+- Summary: Plans to build Canada's first high-speed rail line took a major step forward Friday, with the federal government announcing that the first segment of Alto will run between Ottawa and Montreal.The roughly 200-km-long Ottawa–Montreal corridor will serve as the …
+- Source: https://dailyhive.com/toronto/alto-high-speed-rail-hsr-ottawa-montreal-construction
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada to Start Building Multi-Billion Dollar High-Speed Rail System By 2030 (Score: 0)
+- Summary: A consortium including Caisse de Depot et Placement du Quebec and AtkinsRealis Group Inc. is set to start building a high-speed rail project between Toronto and Quebec City in about four to five years.
+- Source: https://financialpost.com/pmn/business-pmn/canada-to-start-building-multi-billion-dollar-high-speed-rail-system-by-2030
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada to start building multi-dillion dollar high-speed rail system by 2030 (Score: 0)
+- Summary: A consortium is set to start building a high-speed rail project between Toronto and Quebec City in about four to five years. Read more.
+- Source: https://financialpost.com/transportation/rail/canada-building-multi-billion-dollar-high-speed-rail-system-2030
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+MITRE shares 2025's top 25 most dangerous software weaknesses (Score: 0)
+- Summary: MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June 2024 and June 2025. [...]
+- Source: https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+firelens-monitor added to PyPI (Score: 0)
+- Summary: Multi-vendor firewall monitoring solution with real-time metrics collection
+- Source: https://pypi.org/project/firelens-monitor/
+- Date: 2025-12-12
+- Vendors: None
+- Topics: None
+
+Top Technology Executives Recognized at the 2025 St. Louis ORBIE Awards (Score: 0)
+- Summary: Top Technology Executives Recognized at the 2025 St. Louis ORBIE Awards...
+- Source: https://www.globenewswire.com/news-release/2025/12/11/3204328/0/en/Top-Technology-Executives-Recognized-at-the-2025-St-Louis-ORBIE-Awards.html
+- Date: 2025-12-11
+- Vendors: None
+- Topics: None
+
+Denodo Named a Leader in the 2025 Gartner® Magic Quadrant™ for Data Integration Tools for Six Consecutive Years (Score: 0)
+- Summary: Denodo believes this recognition is due to the strength of its AI capabilities and the loyalty of its diverse customer base PALO ALTO, Calif., Dec. 11, 2025 (GLOBE NEWSWIRE) — Denodo, a leader in data management, today announced that Gartner® has positioned t…
+- Source: https://financialpost.com/globe-newswire/denodo-named-a-leader-in-the-2025-gartner-magic-quadrant-for-data-integration-tools-for-six-consecutive-years
+- Date: 2025-12-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+California Provider Organizations Earn Recognition from IHA for Healthcare Performance (Score: 0)
+- Summary: The Integrated Healthcare Association (IHA) announced the 2024 top-performing and most-improved California provider organizations through its Align. Measur
+- Source: https://www.globenewswire.com/news-release/2025/12/11/3204134/24118/en/California-Provider-Organizations-Earn-Recognition-from-IHA-for-Healthcare-Performance.html
+- Date: 2025-12-11
+- Vendors: None
+- Topics: None
+
+ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories (Score: 0)
+- Summary: This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over pr…
+- Source: https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html
+- Date: 2025-12-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SLC Digital and Monogoto Partner to Deliver Secure, Deterministic Identity-Anchored Connectivity (Score: 0)
+- Summary: SLC and Monogoto bring deterministic identity and secure connectivity under one platform, empowering enterprises to prevent fraud, meet compliance requirements, and scale trusted interactions globally. SLC and Monogoto bring deterministic identity and secure …
+- Source: https://www.globenewswire.com/news-release/2025/12/11/3203730/0/en/SLC-Digital-and-Monogoto-Partner-to-Deliver-Secure-Deterministic-Identity-Anchored-Connectivity.html
+- Date: 2025-12-11
+- Vendors: None
+- Topics: None
+
+MITRE ATT&CK Evaluations Return: More Coverage, More Nuance (Score: 0)
+- Summary: MITRE released a new round of MITRE ATT&CK enterprise evaluations today. This round had a lot of big changes – first off, only 11 vendors participated, which is a drop off from the 19 that participated in 2024. Some of the most notable missing vendors include…
+- Source: https://www.forrester.com/blogs/mitre-attck-evaluations-return-more-coverage-more-nuance/
+- Date: 2025-12-10
+- Vendors: None
+- Topics: None
+
+Pebl Introduces New AI Agents to Redefine Speed, Intelligence, and Compliance in Global Hiring (Score: 0)
+- Summary: Pebl, the AI-first leader in global employment and a trusted EOR platform, today announced a major expansion of its AI-powered infrastructure....
+- Source: https://www.globenewswire.com/news-release/2025/12/10/3203321/0/en/Pebl-Introduces-New-AI-Agents-to-Redefine-Speed-Intelligence-and-Compliance-in-Global-Hiring.html
+- Date: 2025-12-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Samsara Expands Aviation Industry Success as Swissport Achieves Strong Safety and Efficiency Results (Score: 0)
+- Summary: Swissport North America rapidly reduced incidents by 60% and vehicle damage by 23%; results enhanced on-time performance and further validate Samsara as an innovation partner for the industry SAN FRANCISCO — Samsara Inc. (“Samsara”) (NYSE: IOT), the pioneer o…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/samsara-expands-aviation-industry-success-as-swissport-achieves-strong-safety-and-efficiency-results
+- Date: 2025-12-10
+- Vendors: Cisco
+- Topics: None
+
+Adaptations of the axon initial segment in fast-spiking interneurons of the human neocortex support low action potential thresholds (Score: 0)
+- Summary: Across species, homologous neurons exhibit a range of distinct properties, while often filling a similar role in circuit dynamics. This cross-species study shows how specialized geometry and potassium channel expression in the axon initial segment can support…
+- Source: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003549
+- Date: 2025-12-10
+- Vendors: None
+- Topics: None
+
+Loyalty Juggernaut Ushers in a New Era of Modern Loyalty Tech: Recognized as a Strong Performer in The Forrester Wave™ for Loyalty Platforms, Q4 2025 (Score: 0)
+- Summary: Loyalty Juggernaut Ushers in a New Era of Modern Loyalty Tech: Recognized as a Strong Performer in The Forrester Wave™ for Loyalty Platforms, Q4 2025
+- Source: https://www.thehindubusinessline.com/brandhub/pr-release/loyalty-juggernaut-ushers-in-a-new-era-of-modern-loyalty-tech-recognized-as-a-strong-performer-in-the-forrester-wavetm-for-loyalty-platforms-q4-2025/article70380248.ece
+- Date: 2025-12-10
+- Vendors: None
+- Topics: None
+
+Mapping the genetic landscape across 14 psychiatric disorders (Score: 0)
+- Summary: Genomic analyses applied to 14 childhood- and adult-onset psychiatric disorders identifies five underlying genomic factors that explain the majority of the genetic variance of the individual disorders.
+- Source: https://www.nature.com/articles/s41586-025-09820-3
+- Date: 2025-12-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+LinkedIn cofounder Reid Hoffman says he learned a lesson from a visit to Epstein's island: 'Note to self, Google before going' (Score: 0)
+- Summary: Hoffman, the billionaire LinkedIn cofounder, said he visited Epstein's island as part of his work fundraising for MIT.
+- Source: https://www.businessinsider.com/linkedin-reid-hoffman-jeffrey-epstein-island-visit-2025-12
+- Date: 2025-12-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
