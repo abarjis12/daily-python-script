@@ -33445,3 +33445,189 @@ California Provider Organizations Earn Recognition from IHA for Healthcare Perfo
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-12-18 13:53  ---
+
+Palo Alto Networks warns that AI is driving a surge in cloud security risks (Score: 6)
+- Summary: Artificial intelligence dominated tech news through 2025 and not surprisingly, it also became extremely prominent when it comes to increasing security risks, according to a new report out today from Palo Alto Networks Inc. The Palo Alto Networks’ State of Clo…
+- Source: https://siliconangle.com/2025/12/16/palo-alto-networks-warns-ai-driving-surge-cloud-security-risk/
+- Date: 2025-12-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Rivian Unveils Custom AI Chip, Reduces Dependence on Nvidia (Score: 4)
+- Summary: Rivian Automotive unveiled a custom artificial intelligence (AI) chip and a comprehensive autonomy platform designed and engineered in-house. The announcement, made at the company’s first “Autonomy & AI Day” in Palo Alto, California, marks a departure from re…
+- Source: https://www.pymnts.com/artificial-intelligence-2/2025/rivian-unveils-custom-ai-chip-reduces-dependence-on-nvidia/
+- Date: 2025-12-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Is AI dragging security back to the 1990s? (Score: 4)
+- Summary: The introduction of artificial intelligence promises much, but the industry must prevent it from becoming a hacker’s paradise
+- Source: https://www.computerweekly.com/microscope/feature/Is-AI-dragging-security-back-to-the-1990s
+- Date: 2025-12-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Report: Intel could acquire inference chip startup SambaNova for $1.6B (Score: 4)
+- Summary: Intel Corp. is reportedly in talks to acquire SambaNova Systems Inc., a venture-backed developer of artificial intelligence chips. Bloomberg today cited sources as saying that the discussions are in an advanced stage. It’s believed that an acquisition could v…
+- Source: https://siliconangle.com/2025/12/12/report-intel-acquire-inference-chip-startup-sambanova-1-6b/
+- Date: 2025-12-13
+- Vendors: None
+- Topics: None
+
+Unveiling the Future: Smart Firewall Market Set to Reach USD 17.14 Billion by 2030 (Score: 3)
+- Summary: The Global Smart Firewall Market is set to grow due to rising cyber threats, demanding robust real-time security solutions. Challenges include integrating with legacy systems and skills gaps in cybersecurity. Trends like Zero Trust Architecture are reshaping …
+- Source: https://www.globenewswire.com/news-release/2025/12/17/3206770/28124/en/Unveiling-the-Future-Smart-Firewall-Market-Set-to-Reach-USD-17-14-Billion-by-2030.html
+- Date: 2025-12-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zero Trust Network Access Market to Hit USD 14.74 Billion by 2033, Driven by Rising Cybersecurity Threats and Remote Work Adoption | Research by SNS Insider (Score: 2)
+- Summary: Zero Trust Network Access (ZTNA) Market Size & Segmentation By Component, Deployment Type, Organization Size, End-User Industry & Global Forecast 2026-2033
+- Source: https://www.globenewswire.com/news-release/2025/12/17/3206791/0/en/Zero-Trust-Network-Access-Market-to-Hit-USD-14-74-Billion-by-2033-Driven-by-Rising-Cybersecurity-Threats-and-Remote-Work-Adoption-Research-by-SNS-Insider.html
+- Date: 2025-12-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors (Score: 2)
+- Summary: The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security.
+"KSwapDoor is a professionally engineered remote…
+- Source: https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html
+- Date: 2025-12-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+5 network security predictions for 2026 (Score: 2)
+- Summary: What does 2026 have in store for network security? Omdia analyst John Grady shares his top five predictions for the upcoming year.
+- Source: https://www.techtarget.com/searchsecurity/opinion/NetworkSecurity-predictions
+- Date: 2025-12-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Montreal-Ottawa chosen as first leg of high-speed rail project (Score: 2)
+- Summary: The first segment of Canada's proposed high-speed rail network would connect Montreal and Ottawa, according to Radio-Canada.
+Federal Transport Minister Steven MacKinnon is expected to make the announcement this morning alongside Martin Imbleau, the CEO of Alt…
+- Source: https://www.cbc.ca/news/canada/montreal/high-speed-rail-ottawa-montreal-9.7013138
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Planned Maintenance] Network Tunnels – Palo Alto, Rio de Janeiro and Vancouver between 09:00 UTC and 12:00 UTC on December 16th (Score: 2)
+- Summary: Cloud Security Service Status's Status Page - Planned Maintenance] Network Tunnels – Palo Alto, Rio de Janeiro and Vancouver between 09:00 UTC and 12:00 UTC on December 16th.
+- Source: https://status.umbrella.cisco.com/incidents/mjhtsw9rhjxp
+- Date: 2025-12-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (PANW) Plays a Role in Safeguarding the Modern Digital Economy. Here’s How (Score: 2)
+- Summary: Mairs & Power, an investment advisor, released the third-quarter 2025 investor letter for the “Mairs & Power Growth Fund.” A copy of the letter can be...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-panw-plays-132615372.html
+- Date: 2025-12-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The diversity of sandflies (Psychodidae: Phlebotominae) and the presence of Leishmania spp. DNA in potential vectors of the Mbaracayú Forest Biosphere Reserve, Canindeyú, Paraguay: New records and findings (Score: 2)
+- Summary: Author’s summary The interaction between natural ecosystems and human activities in the Mbaracayú Forest Biosphere Reserve reveals a complex leishmaniasis transmission network that challenges traditional control strategies. This study uncovers a remarkable di…
+- Source: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013806
+- Date: 2025-12-10
+- Vendors: None
+- Topics: None
+
+China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware (Score: 0)
+- Summary: The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.
+Check Point Research is tracking the cluster under the name…
+- Source: https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html
+- Date: 2025-12-17
+- Vendors: None
+- Topics: None
+
+Rivian CEO says the EV maker’s new large driving model will one day allow for fully autonomous driving—and maybe a spot in the robotaxi race (Score: 0)
+- Summary: “Our initial focus will be on personally owned vehicles," RJ Scaringe said. But "this also enables us to pursue opportunities in the rideshare space."
+- Source: https://fortune.com/2025/12/15/rivian-ceo-ev-maker-new-chips-autonomous-driving-robotaxi/
+- Date: 2025-12-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Microsoft named an overall leader in KuppingerCole Leadership Compass for Generative AI Defense (Score: 0)
+- Summary: Today, we are proud to share that Microsoft has been recognized as an overall leader in the KuppingerCole Leadership Compass for Generative AI Defense (GAD), an independent report from a leading European analyst firm. This recognition reinforces the work we’v…
+- Source: https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-named-an-overall-leader-in-kuppingercole-leadership-compass-for-genera/4478093
+- Date: 2025-12-15
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+China, Iran are having a field day with React2Shell, Google warns (Score: 0)
+- Summary: Who hasn't exploited this max-severity flaw?
+At least five more Chinese spy crews, Iran-linked goons, and financially motivated criminals are now attacking the React2Shell, a maximum-severity flaw in the widely used React JavaScript library, according to Goog…
+- Source: https://www.theregister.com/2025/12/15/react2shell_flaw_china_iran/
+- Date: 2025-12-15
+- Vendors: None
+- Topics: None
+
+What’s up with… Orange, ZTE, SASE sales (Score: 0)
+- Summary: Orange seals binding deal to take over MásOrangeZTE faces massive anti-corruption payoutThe SASE sector is on fire, says Dell’Oro
+- Source: https://www.telecomtv.com/content/access-evolution/what-s-up-with-orange-zte-sase-sales-54524/
+- Date: 2025-12-15
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More (Score: 0)
+- Summary: If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even…
+- Source: https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html
+- Date: 2025-12-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Grading our 2025 enterprise technology predictions (Score: 0)
+- Summary: Welcome to this special Breaking Analysis, where we look back and grade ourselves on our 2025 enterprise technology predictions. This is the time of year when we get a flood of predictions from public relations and other thought leaders. As you know, we publi…
+- Source: https://siliconangle.com/2025/12/14/grading-2025-enterprise-technology-predictions/
+- Date: 2025-12-14
+- Vendors: None
+- Topics: None
+
+Canada announces Ottawa-Montreal as first segment of high-speed rail (Score: 0)
+- Summary: OTTAWA, Dec. 12 (Xinhua) -- The Canadian government announced Friday that the first segment of the Alto High-Speed Rail project will link Ottawa and Montreal. Read full story
+- Source: https://www.thestar.com.my/news/world/2025/12/13/canada-announces-ottawa-montreal-as-first-segment-of-high-speed-rail
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why the high-speed rail will first connect Ottawa and Montreal (Score: 0)
+- Summary: It is a decision that is not only symbolic but practical, said Transport Minister Steven MacKinnon on Friday.
+- Source: https://nationalpost.com/news/why-the-high-speed-rail-will-first-connect-ottawa-and-montreal
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+First phase of high-speed 300km/h train line won't serve Toronto (Score: 0)
+- Summary: Plans to build Canada's first high-speed rail line took a major step forward Friday, with the federal government announcing that the first segment of Alto will run between Ottawa and Montreal.The roughly 200-km-long Ottawa–Montreal corridor will serve as the …
+- Source: https://dailyhive.com/toronto/alto-high-speed-rail-hsr-ottawa-montreal-construction
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada to Start Building Multi-Billion Dollar High-Speed Rail System By 2030 (Score: 0)
+- Summary: A consortium including Caisse de Depot et Placement du Quebec and AtkinsRealis Group Inc. is set to start building a high-speed rail project between Toronto and Quebec City in about four to five years.
+- Source: https://financialpost.com/pmn/business-pmn/canada-to-start-building-multi-billion-dollar-high-speed-rail-system-by-2030
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada to start building multi-dillion dollar high-speed rail system by 2030 (Score: 0)
+- Summary: A consortium is set to start building a high-speed rail project between Toronto and Quebec City in about four to five years. Read more.
+- Source: https://financialpost.com/transportation/rail/canada-building-multi-billion-dollar-high-speed-rail-system-2030
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+MITRE shares 2025's top 25 most dangerous software weaknesses (Score: 0)
+- Summary: MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June 2024 and June 2025. [...]
+- Source: https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/
+- Date: 2025-12-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
