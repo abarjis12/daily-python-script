@@ -34006,3 +34006,189 @@ Grading our 2025 enterprise technology predictions (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-12-21 13:42  ---
+
+Palo Alto Networks warns that AI is driving a surge in cloud security risks (Score: 6)
+- Summary: Artificial intelligence dominated tech news through 2025 and not surprisingly, it also became extremely prominent when it comes to increasing security risks, according to a new report out today from Palo Alto Networks Inc. The Palo Alto Networks’ State of Clo…
+- Source: https://siliconangle.com/2025/12/16/palo-alto-networks-warns-ai-driving-surge-cloud-security-risk/
+- Date: 2025-12-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Investors can’t get enough of OpenAI and Databricks — Oracle, not so much (Score: 4)
+- Summary: The artificial intelligence money scramble continues all the way into the end of the year, as OpenAI may raise $10 billion from Amazon, perhaps part of as much as $100 billion from a range of investors, at a valuation of $750 billion. And Databricks is doing …
+- Source: https://siliconangle.com/2025/12/19/investors-cant-get-enough-openai-databricks-oracle-not-much/
+- Date: 2025-12-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Rivian Unveils Custom AI Chip, Reduces Dependence on Nvidia (Score: 4)
+- Summary: Rivian Automotive unveiled a custom artificial intelligence (AI) chip and a comprehensive autonomy platform designed and engineered in-house. The announcement, made at the company’s first “Autonomy & AI Day” in Palo Alto, California, marks a departure from re…
+- Source: https://www.pymnts.com/artificial-intelligence-2/2025/rivian-unveils-custom-ai-chip-reduces-dependence-on-nvidia/
+- Date: 2025-12-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Is AI dragging security back to the 1990s? (Score: 4)
+- Summary: The introduction of artificial intelligence promises much, but the industry must prevent it from becoming a hacker’s paradise
+- Source: https://www.computerweekly.com/microscope/feature/Is-AI-dragging-security-back-to-the-1990s
+- Date: 2025-12-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Coupling geometric morphometrics and machine learning for mandibular sex estimation in Late Pleistocene and Late Modern populations (Score: 3)
+- Summary: Scientific Reports - Coupling geometric morphometrics and machine learning for mandibular sex estimation in Late Pleistocene and Late Modern populations
+- Source: https://www.nature.com/articles/s41598-025-31365-8
+- Date: 2025-12-19
+- Vendors: None
+- Topics: None
+
+Unveiling the Future: Smart Firewall Market Set to Reach USD 17.14 Billion by 2030 (Score: 3)
+- Summary: The Global Smart Firewall Market is set to grow due to rising cyber threats, demanding robust real-time security solutions. Challenges include integrating with legacy systems and skills gaps in cybersecurity. Trends like Zero Trust Architecture are reshaping …
+- Source: https://www.globenewswire.com/news-release/2025/12/17/3206770/28124/en/Unveiling-the-Future-Smart-Firewall-Market-Set-to-Reach-USD-17-14-Billion-by-2030.html
+- Date: 2025-12-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks inks multibillion-dollar AI deal with Google Cloud (Score: 2)
+- Summary: Palo Alto Networks Inc. will move some of its most important internal workloads to Google LLC’s cloud platform as part of a partnership announced today. The cybersecurity provider described the project as a multibillion-dollar deal in a press release. Accordi…
+- Source: https://siliconangle.com/2025/12/19/palo-alto-networks-inks-multibillion-dollar-ai-deal-google-cloud/
+- Date: 2025-12-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+6 Cybersecurity Predictions for the AI Economy in 2026 - SPONSOR CONTENT FROM PALO ALTO NETWORKS (Score: 2)
+- Summary: Sponsor Content from Palo Alto Networks.
+- Source: https://hbr.org/sponsored/2025/12/6-cybersecurity-predictions-for-the-ai-economy-in-2026
+- Date: 2025-12-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New password spraying attacks target Cisco, PAN VPN gateways (Score: 2)
+- Summary: An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]
+- Source: https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/
+- Date: 2025-12-18
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zero Trust Network Access Market to Hit USD 14.74 Billion by 2033, Driven by Rising Cybersecurity Threats and Remote Work Adoption | Research by SNS Insider (Score: 2)
+- Summary: Zero Trust Network Access (ZTNA) Market Size & Segmentation By Component, Deployment Type, Organization Size, End-User Industry & Global Forecast 2026-2033
+- Source: https://www.globenewswire.com/news-release/2025/12/17/3206791/0/en/Zero-Trust-Network-Access-Market-to-Hit-USD-14-74-Billion-by-2033-Driven-by-Rising-Cybersecurity-Threats-and-Remote-Work-Adoption-Research-by-SNS-Insider.html
+- Date: 2025-12-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors (Score: 2)
+- Summary: The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security.
+"KSwapDoor is a professionally engineered remote…
+- Source: https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html
+- Date: 2025-12-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+5 network security predictions for 2026 (Score: 2)
+- Summary: What does 2026 have in store for network security? Omdia analyst John Grady shares his top five predictions for the upcoming year.
+- Source: https://www.techtarget.com/searchsecurity/opinion/NetworkSecurity-predictions
+- Date: 2025-12-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Inside enterprise AI’s turning point: 31 interviews on theCUBE that defined 2025 (Score: 0)
+- Summary: TheCUBE spent 2025 talking directly with top tech executives as they worked through how computing is being rebuilt inside their organizations, driven by real-world constraints rather than abstract roadmaps. Across those conversations, a consistent shift emerg…
+- Source: https://siliconangle.com/2025/12/19/top-tech-executives-share-ai-insights-thecube/
+- Date: 2025-12-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Former Israeli spies now overseeing US government cybersecurity (Score: 0)
+- Summary: The Pentagon, Treasury Department, DHS, and a variety of other US government agencies have begun relying on a firm launched by former Israeli military intelligence operatives to consolidate and protect their data. This article was originally published by ¡Do …
+- Source: https://www.activistpost.com/former-israeli-spies-now-overseeing-us-government-cybersecurity/
+- Date: 2025-12-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+5 predictions for tech and AI in 2026 from mega-bull Dan Ives (Score: 0)
+- Summary: Wedbush analyst Dan Ives reveals his top tech and AI predictions for the coming year, laying out his most bullish calls for companies and sectors.
+- Source: https://www.businessinsider.com/ai-outlook-2026-tech-stocks-telsa-robotaxis-google-apple-nebius-2025-12
+- Date: 2025-12-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Malware Analysis Market Set to Surpass US$ 113.8 Billion by 2035 as Exploding Daily Threat Volumes Force Rapid Adoption of High-Speed Automated Security Systems Says Astute Analytica (Score: 0)
+- Summary: Global entities are aggressively adopting automated defense mechanisms to counter USD multi-billion ransomware campaigns. The sector currently prioritizes sovereign, air-gapped environments and hybrid detection models to neutralize high-velocity polymorphic t…
+- Source: https://www.globenewswire.com/news-release/2025/12/18/3207956/0/en/Malware-Analysis-Market-Set-to-Surpass-US-113-8-Billion-by-2035-as-Exploding-Daily-Threat-Volumes-Force-Rapid-Adoption-of-High-Speed-Automated-Security-Systems-Says-Astute-Analytic.html
+- Date: 2025-12-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories (Score: 0)
+- Summary: This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from.
+From shifting infrastruct…
+- Source: https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html
+- Date: 2025-12-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2025 in Review: Strengthening Cybersecurity in EMEA with AI (Score: 0)
+- Summary: Reflecting on a transformative year for cybersecurity in EMEA. Discover how AI, regulation, and talent development shaped our digital future in 2025.
+- Source: https://blogs.cisco.com/innovation/2025-in-review-strengthening-cybersecurity-in-emea-with-ai
+- Date: 2025-12-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+React2Shell exploitation spreads as Microsoft counts hundreds of hacked machines (Score: 0)
+- Summary: Security boffins say bug is already being used to deploy ransomware, as exploitation continues to surge across exposed servers
+Microsoft says attackers have already compromised "several hundred machines across a diverse set of organizations" via the React2She…
+- Source: https://www.theregister.com/2025/12/18/react2shell_exploitation_spreads_as_microsoft/
+- Date: 2025-12-18
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+JLR cyberattack pushes TCS to standardize security for top clients (Score: 0)
+- Summary: The pilots mark a structured approach by TCS to incident response for marquee accounts, including JLR, as client exposure from cyber breaches rises.
+- Source: https://www.livemint.com/companies/news/tcs-cybersecurity-pilots-jlr-breach-client-risk-11766023664527.html
+- Date: 2025-12-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances (Score: 0)
+- Summary: Cisco has alerted users of a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure …
+- Source: https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html
+- Date: 2025-12-18
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+5 best Aidan Chiles transfer portal destinations after leaving Michigan State (Score: 0)
+- Summary: Michigan State football will have a new QB1 after the departure of Aidan Chiles. But potential portal spots include some Big Ten rivals.
+- Source: https://clutchpoints.com/ncaa-football/5-best-aidan-chiles-transfer-portal-destinations-after-leaving-michigan-state
+- Date: 2025-12-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudastructure Awarded Patent Covering Cloud-Based Computer Vision AI for Video Surveillance (Score: 0)
+- Summary: Patent Protects Foundational Cloud-Based Architecture Enabling Scalable AI Video Intelligence, Remote Monitoring, and Security Analytics Patent Protects Foundational Cloud-Based Architecture Enabling Scalable AI Video Intelligence, Remote Monitoring, and Secu…
+- Source: https://www.globenewswire.com/news-release/2025/12/17/3206999/0/en/Cloudastructure-Awarded-Patent-Covering-Cloud-Based-Computer-Vision-AI-for-Video-Surveillance.html
+- Date: 2025-12-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware (Score: 0)
+- Summary: The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.
+Check Point Research is tracking the cluster under the name…
+- Source: https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html
+- Date: 2025-12-17
+- Vendors: None
+- Topics: None
+
+Rivian CEO says the EV maker’s new large driving model will one day allow for fully autonomous driving—and maybe a spot in the robotaxi race (Score: 0)
+- Summary: “Our initial focus will be on personally owned vehicles," RJ Scaringe said. But "this also enables us to pursue opportunities in the rideshare space."
+- Source: https://fortune.com/2025/12/15/rivian-ceo-ev-maker-new-chips-autonomous-driving-robotaxi/
+- Date: 2025-12-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
