@@ -35195,3 +35195,88 @@ Former Israeli spies now overseeing US government cybersecurity (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-12-28 13:44  ---
+
+pan-scm-sdk 0.4.1 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.4.1/
+- Date: 2025-12-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+4 Cybersecurity Stocks With Strong Demand and Durable Moats for 2026 (Score: 0)
+- Summary: Cybersecurity demand is set to grow through 2026, and QLYS, FTNT, CRWD & PANW are the four stocks with strong demand signals and competitive moats.
+- Source: https://finance.yahoo.com/news/4-cybersecurity-stocks-strong-demand-133700766.html
+- Date: 2025-12-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bolivia lifts restrictions on satellite companies like Starlink to upgrade its internet connectivity (Score: 0)
+- Summary: LA PAZ, Bolivia (AP) — Bolivia’s new government on Tuesday issued a decree that will allow global satellite internet companies such as Starlink or Kuiper to provide internet access across the Andean nation as it tries to upgrade its technology and speed up it…
+- Source: https://financialpost.com/pmn/bolivia-lifts-restrictions-on-satellite-companies-like-starlink-to-upgrade-its-internet-connectivity
+- Date: 2025-12-24
+- Vendors: None
+- Topics: None
+
+Marissa Mayer’s New Startup Dazzle AI Raises $8 Million Seed Round (Score: 0)
+- Summary: Kirsten Green of Forerunner Ventures leads with participation from Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, and Bling Capital PALO ALTO, Calif. — Dazzle AI, a new company founded by entrepreneur, executive, and technologist Marissa Mayer, …
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/marissa-mayers-new-startup-dazzle-ai-raises-8-million-seed-round
+- Date: 2025-12-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Black Sun Rising: How a Nazi terror plot led to an American being held in Brazil (Score: 0)
+- Summary: “Terrorism for accelerationism, then we get the military supplies to everyone and start war,” a group chat leader wrote on the encrypted platform Signal in October 2024, to almost 150 members spread across Europe, the United States and Australia. “People need…
+- Source: https://www.rawstory.com/raw-investigates/black-sun-rising-an-american-nazi-lands-in-jail-in-brazil-on-terror-charges/
+- Date: 2025-12-23
+- Vendors: None
+- Topics: None
+
+Executive shuffle: Fiserv, DailyPay and MoneyGram (Score: 0)
+- Summary: Major payments services providers made new C-suite hires this month as they geared up for 2026.
+- Source: https://www.paymentsdive.com/news/executive-shuffle-fiserv-dailypay-and-moneygram/808606/
+- Date: 2025-12-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Workers organized by a key union rally in Bolivia against scrapping fuel subsidies (Score: 0)
+- Summary: LA PAZ, Bolivia (AP) — Bolivian miners marched in downtown La Paz, the country’s capital, and union-organized protesters took to the streets elsewhere on Monday, the first day of a strike over the government’s scrapping of fuel subsidies that have been blamed…
+- Source: https://financialpost.com/pmn/workers-organized-by-a-key-union-rally-in-bolivia-against-scrapping-fuel-subsidies
+- Date: 2025-12-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Bay Area’s Year in Photos: Protests, Political Upheaval and Joyous Resistance (Score: 0)
+- Summary: KQED photographers spent the year capturing the biggest stories affecting the Bay Area and California. Here’s a collection of some of the highlights.
+- Source: https://www.kqed.org/news/12067662/the-bay-areas-year-in-photos-protests-political-upheaval-and-joyous-resistance
+- Date: 2025-12-22
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More (Score: 0)
+- Summary: Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.
+The real danger now …
+- Source: https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html
+- Date: 2025-12-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Full transcript of "Face the Nation with Margaret Brennan," Dec. 21, 2025 (Score: 0)
+- Summary: On this "Face the Nation with Margaret Brennan" broadcast, Reps. Thomas Massie and Ro Khanna join Margaret Brennan.
+- Source: https://www.cbsnews.com/news/face-the-nation-full-transcript-12-21-2025/
+- Date: 2025-12-21
+- Vendors: None
+- Topics: None
+
+Transcript: Reps. Thomas Massie and Ro Khanna on "Face the Nation with Margaret Brennan," Dec. 21, 2025 (Score: 0)
+- Summary: The following is the transcript of the interview with Reps. Thomas Massie, a Kentucky Republican, and Ro Khanna, a California Democrat, that aired on "Face the Nation with Margaret Brennan" on Dec. 21, 2025.
+- Source: https://www.cbsnews.com/news/thomas-massie-ro-khanna-face-the-nation-transcript-12-21-2025/
+- Date: 2025-12-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
