@@ -35379,3 +35379,102 @@ Transcript: Reps. Thomas Massie and Ro Khanna on "Face the Nation with Margaret 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2025-12-30 13:51  ---
+
+What are the different types of network cables? (Score: 2)
+- Summary: The main types of network cables are coax, fiber optics, and shielded and unshielded twisted pair. As enterprises deploy new technologies, it's critical to select the right cables.
+- Source: https://www.techtarget.com/searchnetworking/tutorial/Network-cable-history-and-fundamentals-Cabling-tips-for-network-professionals-lesson-1
+- Date: 2025-12-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More (Score: 0)
+- Summary: Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.
+A common theme ran thr…
+- Source: https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html
+- Date: 2025-12-29
+- Vendors: None
+- Topics: None
+
+Traini Raises $7.5 Million to Build Pet Emotional Intelligence (Score: 0)
+- Summary: PALO ALTO, Calif. — Palo Alto–based pet emotional intelligence startup Traini has announced the completion of a $7.5 million funding round, aiming to bridge the communication gap between humans and pets by developing intelligent systems capable of understandi…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/traini-raises-7-5-million-to-build-pet-emotional-intelligence
+- Date: 2025-12-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Alexis Madrigal: "To Know A Place" - Social Science Matrix (Score: 0)
+- Summary: Recorded on December 4, 2025, this video features a Social Science Matrix Distinguished Lecture, “To Know a Place,” presented by journalist and author Alexis Madrigal.Madrigal has long explored how technology, culture, and environment shape our lives; from hi…
+- Source: https://live-ssmatrix.pantheon.berkeley.edu/research-article/alexis-madrigal/
+- Date: 2025-12-29
+- Vendors: None
+- Topics: None
+
+10 Biggest Stories Of 2025 (Score: 0)
+- Summary: The industry faced a myriad of changes in 2025 that speak to where film and television is heading, marking a key turning point for Hollywood.
+- Source: https://screenrant.com/biggest-stories-movies-television-2025/
+- Date: 2025-12-27
+- Vendors: None
+- Topics: None
+
+Private groups funding Swiss junkets and Vegas jaunts for Jeffries aides, NY lawmakers (Score: 0)
+- Summary: Would-be Speaker Hakeem Jeffries wants Democratic lawmakers to watch their travel as the elections approach – but he’s been dispatching top aides to Ireland, San Francisco, and Las Vegas, documents filed with the House Clerk reveal.
+- Source: https://nypost.com/2025/12/27/us-news/private-groups-funding-swiss-junkets-and-vegas-jaunts-for-jeffries-aides-ny-lawmakers/
+- Date: 2025-12-27
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+4 Cybersecurity Stocks With Strong Demand and Durable Moats for 2026 (Score: 0)
+- Summary: Cybersecurity demand is set to grow through 2026, and QLYS, FTNT, CRWD & PANW are the four stocks with strong demand signals and competitive moats.
+- Source: https://finance.yahoo.com/news/4-cybersecurity-stocks-strong-demand-133700766.html
+- Date: 2025-12-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bolivia lifts restrictions on satellite companies like Starlink to upgrade its internet connectivity (Score: 0)
+- Summary: LA PAZ, Bolivia (AP) — Bolivia’s new government on Tuesday issued a decree that will allow global satellite internet companies such as Starlink or Kuiper to provide internet access across the Andean nation as it tries to upgrade its technology and speed up it…
+- Source: https://financialpost.com/pmn/bolivia-lifts-restrictions-on-satellite-companies-like-starlink-to-upgrade-its-internet-connectivity
+- Date: 2025-12-24
+- Vendors: None
+- Topics: None
+
+Marissa Mayer’s New Startup Dazzle AI Raises $8 Million Seed Round (Score: 0)
+- Summary: Kirsten Green of Forerunner Ventures leads with participation from Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, and Bling Capital PALO ALTO, Calif. — Dazzle AI, a new company founded by entrepreneur, executive, and technologist Marissa Mayer, …
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/marissa-mayers-new-startup-dazzle-ai-raises-8-million-seed-round
+- Date: 2025-12-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Black Sun Rising: How a Nazi terror plot led to an American being held in Brazil (Score: 0)
+- Summary: “Terrorism for accelerationism, then we get the military supplies to everyone and start war,” a group chat leader wrote on the encrypted platform Signal in October 2024, to almost 150 members spread across Europe, the United States and Australia. “People need…
+- Source: https://www.rawstory.com/raw-investigates/black-sun-rising-an-american-nazi-lands-in-jail-in-brazil-on-terror-charges/
+- Date: 2025-12-23
+- Vendors: None
+- Topics: None
+
+Executive shuffle: Fiserv, DailyPay and MoneyGram (Score: 0)
+- Summary: Major payments services providers made new C-suite hires this month as they geared up for 2026.
+- Source: https://www.paymentsdive.com/news/executive-shuffle-fiserv-dailypay-and-moneygram/808606/
+- Date: 2025-12-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Workers organized by a key union rally in Bolivia against scrapping fuel subsidies (Score: 0)
+- Summary: LA PAZ, Bolivia (AP) — Bolivian miners marched in downtown La Paz, the country’s capital, and union-organized protesters took to the streets elsewhere on Monday, the first day of a strike over the government’s scrapping of fuel subsidies that have been blamed…
+- Source: https://financialpost.com/pmn/workers-organized-by-a-key-union-rally-in-bolivia-against-scrapping-fuel-subsidies
+- Date: 2025-12-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Bay Area’s Year in Photos: Protests, Political Upheaval and Joyous Resistance (Score: 0)
+- Summary: KQED photographers spent the year capturing the biggest stories affecting the Bay Area and California. Here’s a collection of some of the highlights.
+- Source: https://www.kqed.org/news/12067662/the-bay-areas-year-in-photos-protests-political-upheaval-and-joyous-resistance
+- Date: 2025-12-22
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
