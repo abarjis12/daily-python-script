@@ -36078,3 +36078,144 @@ Private groups funding Swiss junkets and Vegas jaunts for Jeffries aides, NY law
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-01-05 13:55  ---
+
+Scalable photonic reservoir computing for parallel machine learning tasks (Score: 3)
+- Summary: Neuromorphic computing processes data faster and with less energy than electronics. Here, authors demonstrate a reconfigurable photonic reservoir computer that performs multiple machine learning tasks in parallel at ultrafast rates while using extremely low e…
+- Source: https://www.nature.com/articles/s41467-025-67983-z
+- Date: 2025-12-31
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat (Score: 2)
+- Summary: Lock 'em down interview  AI agents represent the new insider threat to companies in 2026, according to Palo Alto Networks Chief Security Intel Officer Wendi Whitmore, and this poses several challenges to executives tasked with securing the expected surge in a…
+- Source: https://www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/
+- Date: 2026-01-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Louisville at Stanford preview (Score: 2)
+- Summary: Louisville Cardinals (11-2, 1-0) at Stanford Cardinal (11-3, 0-1) Game Time: 8 p.m. Location: Maples Pavilion: Stanford, Calif. Television: ACC Network Announcers: Chris Sylvester (play-by-play) and Ben Braun (analysis) Favorite: Louisville by 9.5 Series: Lou…
+- Source: https://www.cardchronicle.com/basketball/100206/louisville-at-stanford-preview
+- Date: 2026-01-02
+- Vendors: None
+- Topics: None
+
+What are the different types of network cables? (Score: 2)
+- Summary: The main types of network cables are coax, fiber optics, and shielded and unshielded twisted pair. As enterprises deploy new technologies, it's critical to select the right cables.
+- Source: https://www.techtarget.com/searchnetworking/tutorial/Network-cable-history-and-fundamentals-Cabling-tips-for-network-professionals-lesson-1
+- Date: 2025-12-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Who Is Mubi For? (Score: 0)
+- Summary: Who is Mubi for? The art-house movie streamer had a cultlike following, writes Will Tavlin. Then it started to expand.
+- Source: http://www.vulture.com/article/mubi-art-house-movies-streamer-distributor.html
+- Date: 2026-01-02
+- Vendors: None
+- Topics: None
+
+The biggest cybersecurity and cyberattack stories of 2025 (Score: 0)
+- Summary: 2025 was a big year for cybersecurity, with cyberattacks, data breaches, threat groups reaching new notoriety levels, and, of course, zero-day flaws exploited in breaches. Some stories, though, were more impactful or popular with our readers than others. This…
+- Source: https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/
+- Date: 2026-01-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Infosecurity's Top 10 Cybersecurity Stories of 2025 (Score: 0)
+- Summary: Explore Infosecurity Magazine’s most-read cybersecurity stories of 2025, from major vendor shake-ups and zero-day exploits to AI-driven threats and supply chain attacks
+- Source: https://www.infosecurity-magazine.com/news/infosecurity-top-10-stories-2025/
+- Date: 2026-01-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+cpau added to PyPI (Score: 0)
+- Summary: Python library and CLI tools for City of Palo Alto Utilities meter data
+- Source: https://pypi.org/project/cpau/
+- Date: 2025-12-31
+- Vendors: None
+- Topics: None
+
+cpau 1.0.0 (Score: 0)
+- Summary: Python library and CLI tools for City of Palo Alto Utilities meter data
+- Source: https://pypi.org/project/cpau/1.0.0/
+- Date: 2025-12-31
+- Vendors: None
+- Topics: None
+
+Global X Cybersecurity’s ETF May Be 2026’s Best Investment As Cybercrime Explodes | BUG (Score: 0)
+- Summary: The Global X Cybersecurity ETF (NASDAQ:BUG) has had a rough year. For a thematic ETF built around an exploding threat, that’s disappointing. But here’s the...
+- Source: https://247wallst.com/investing/2025/12/31/global-x-cybersecuritys-etf-may-be-2026s-best-investment-as-cybercrime-explodes-bug/
+- Date: 2025-12-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Bay Area Stroller Hikes to Bring Family This New Years (Score: 0)
+- Summary: Volunteers are still needed to help with food and clothing distribution.
+- Source: https://www.kqed.org/news/12068396/best-bay-area-stroller-hikes-to-bring-family-this-new-years
+- Date: 2025-12-31
+- Vendors: None
+- Topics: None
+
+Tecnotree Included as a Representative Provider in Gartner® Innovation Insight: AI SOC Agents Accelerate CSP SecOps Transformation (Score: 0)
+- Summary: ESPOO, Finland — Tecnotree, a global digital platform and services provider for communications service providers (CSPs), today announced that it has been referenced as a Representative Provider alongside Google, Anthropic, Dropzone AI, DRUID, Palo Alto Networ…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/tecnotree-included-as-a-representative-provider-in-gartner-innovation-insight-ai-soc-agents-accelerate-csp-secops-transformation
+- Date: 2025-12-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+cellSTAAR: incorporating single-cell-sequencing-based functional data to boost power in rare variant association testing of noncoding regions (Score: 0)
+- Summary: cellSTAAR advances noncoding rare variant association analysis by integrating single-cell genomics data.
+- Source: https://www.nature.com/articles/s41592-025-02919-5
+- Date: 2025-12-31
+- Vendors: None
+- Topics: None
+
+New Year 2026 Honours: Waikato leaders, farmers, volunteers recognised (Score: 0)
+- Summary: Dame Coral Shaw is honoured for years of public service and abuse inquiry work.
+- Source: https://www.nzherald.co.nz/waikato-news/news/new-year-2026-honours-waikato-leaders-farmers-volunteers-recognised/NQJ4EUB6VZBPVORBH6NB5VFNOI/
+- Date: 2025-12-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2025: The Year in Review : With a Complete Accounting of Our Efforts (Score: 0)
+- Summary: Congratulations on surviving 2025 and welcome to our year in review report! What did we accomplish this year? Let's review!
+- Source: https://crimethinc.com/2025/12/30/2025-the-year-in-review-with-a-complete-accounting-of-our-efforts
+- Date: 2025-12-30
+- Vendors: None
+- Topics: None
+
+TipRanks’ Perfect 10s: Unveiling 3 High-Scoring Stocks for 2026 (Score: 0)
+- Summary: 2026 is just a few days away, and that makes today a good time to start sorting out the best stocks for the new year. And one good way to make sure you’ve...
+- Source: https://finance.yahoo.com/news/tipranks-perfect-10s-unveiling-3-080000767.html
+- Date: 2025-12-30
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More (Score: 0)
+- Summary: Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.
+A common theme ran thr…
+- Source: https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html
+- Date: 2025-12-29
+- Vendors: None
+- Topics: None
+
+Traini Raises $7.5 Million to Build Pet Emotional Intelligence (Score: 0)
+- Summary: PALO ALTO, Calif. — Palo Alto–based pet emotional intelligence startup Traini has announced the completion of a $7.5 million funding round, aiming to bridge the communication gap between humans and pets by developing intelligent systems capable of understandi…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/traini-raises-7-5-million-to-build-pet-emotional-intelligence
+- Date: 2025-12-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Alexis Madrigal: "To Know A Place" - Social Science Matrix (Score: 0)
+- Summary: Recorded on December 4, 2025, this video features a Social Science Matrix Distinguished Lecture, “To Know a Place,” presented by journalist and author Alexis Madrigal.Madrigal has long explored how technology, culture, and environment shape our lives; from hi…
+- Source: https://live-ssmatrix.pantheon.berkeley.edu/research-article/alexis-madrigal/
+- Date: 2025-12-29
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
