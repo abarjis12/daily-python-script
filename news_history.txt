@@ -37404,3 +37404,184 @@ The stealer is said to have been on sale on Telegram as far…
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-01-13 13:55  ---
+
+Machine learning-based prediction of the axial load capacity of UHPC strengthened reinforced concrete columns: A comparative analysis (Score: 3)
+- Summary: This study develops and evaluates machine learning (ML) models to predict the axial load capacity (Pu) of reinforced concrete (RC) columns strengthened with ultra-high-performance concrete (UHPC) jackets. A comprehensive experimental database containing 105 t…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338120
+- Date: 2026-01-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What to expect from Palo Alto Networks’ Ignite London 2026 event (Score: 2)
+- Summary: Closer to home than Las Vegas (or indeed Barcelona, or any of the other usual suspect venues), the Computer Weekly Developer Network is headed to Old Billingsgate, London on Thursday, 5 February ...
+- Source: https://www.computerweekly.com/blog/CW-Developer-Network/What-to-expect-from-Palo-Alto-Networks-Ignite-London-2026-event
+- Date: 2026-01-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+$29.93 Bn Internet Protocol (IP) Virtual Private Network (VPN) Web Hosting Service Global Market Trends, Opportunities and Strategies, 2019-2024, 2025-2029F, 2034F (Score: 2)
+- Summary: Key market opportunities in the IP VPN web hosting services include the integration of cloud-based solutions, AI-driven network monitoring, robust cybersecurity measures, and scalable infrastructure to address rising cyber threats, compliance requirements, an…
+- Source: https://www.globenewswire.com/news-release/2026/01/08/3215092/28124/en/29-93-Bn-Internet-Protocol-IP-Virtual-Private-Network-VPN-Web-Hosting-Service-Global-Market-Trends-Opportunities-and-Strategies-2019-2024-2025-2029F-2034F.html
+- Date: 2026-01-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+After A Very Hard Year, Is Los Angeles Losing Its People – And, Worse, Its Vibe? (Score: 2)
+- Summary: “Beyond the loss of tangibles (job, income), I think what we’re collectively grieving most is a sense of hope. Los Angeles runs on hope the way Boston runs on Dunkin.” – Vulture
+- Source: http://www.vulture.com/article/leaving-los-angeles-2025-bad-year-ice-raids-fires-hollywood.html
+- Date: 2026-01-05
+- Vendors: None
+- Topics: None
+
+Good Old Grateful Dead (Score: 0)
+- Summary: They are their own greatest influence, making music of their own creation: fast and slow, driving and serene, loud and soft
+- Source: http://www.rollingstone.com/music/music-news/grateful-dead-jerry-garcia-1969-cover-story-103056/
+- Date: 2026-01-11
+- Vendors: None
+- Topics: None
+
+AI, robotics and Nvidia’s CEO dominate the conversation at CES (Score: 0)
+- Summary: Not surprisingly, AI dominated the announcements and conversation at CES, as Nvidia announced new AI models and Nvidia, Intel, AMD, Qualcomm and others debuted new chips focused on AI. In particular, robotics took center stage, especially in the always much-a…
+- Source: https://siliconangle.com/2026/01/09/ai-robotics-nvidias-ceo-dominate-conversation-ces/
+- Date: 2026-01-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+KLAS highlights top healthcare IoT security vendors in 2026 (Score: 0)
+- Summary: Healthcare organizations are seeking IoT security solutions that offer asset visibility, as well as robust segmentation and monitoring capabilities.
+- Source: https://www.techtarget.com/healthtechsecurity/news/366637047/KLAS-highlights-top-healthcare-IoT-security-vendors-in-2026
+- Date: 2026-01-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Who Benefited from the Aisuru and Kimwolf Botnets? (Score: 0)
+- Summary: Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind b…
+- Source: https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/
+- Date: 2026-01-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike acquires just-in-time access startup SGNL for $740M (Score: 0)
+- Summary: CrowdStrike Holdings Inc. today announced plans to acquire startup SGNL Inc., which helps companies block unauthorized access to their systems. The transaction is worth $740 million. CrowdStrike, which intends to finance the deal with a combination of cash an…
+- Source: https://siliconangle.com/2026/01/08/crowdstrike-acquires-just-time-access-startup-sgnl-740m/
+- Date: 2026-01-08
+- Vendors: None
+- Topics: None
+
+China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes (Score: 0)
+- Summary: A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe.
+The activity cluster, which has been active since at least 2022, primarily focuses on extensive technical …
+- Source: https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html
+- Date: 2026-01-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Snowflake storms into IT monitoring with Observe acquisition (Score: 0)
+- Summary: Historically focused on data management and AI development, the vendor is adding infrastructure observability capabilities in a move that could differentiate it from competitors.
+- Source: https://www.techtarget.com/searchdatamanagement/news/366637059/Snowflake-storms-into-IT-monitoring-with-Observe-acquisition
+- Date: 2026-01-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+TikTok’s Incomplete Story (Score: 0)
+- Summary: Erin Schwartz
+
+
+
+The company has transformed the very nature of social media, and in the process it has mutated as well—from tech unicorn to geopolitical chesspiece. 
+
+
+
+
+The post TikTok’s Incomplete Story appeared first on The Nation.
+- Source: https://www.thenation.com/?post_type=article&p=582414
+- Date: 2026-01-08
+- Vendors: None
+- Topics: None
+
+2026 Predictions Scorecard (Score: 0)
+- Summary: Article URL: https://rodneybrooks.com/predictions-scorecard-2026-january-01/
+Comments URL: https://news.ycombinator.com/item?id=46533343
+Points: 3
+# Comments: 1
+- Source: https://rodneybrooks.com/predictions-scorecard-2026-january-01/
+- Date: 2026-01-07
+- Vendors: None
+- Topics: None
+
+The 3 Best Cybersecurity Stocks to Buy for 2026 (Score: 0)
+- Summary: Investing in blue-chip cybersecurity stocks such as AVGO and PANW can help you generate outsized returns in 2026.
+- Source: https://www.barchart.com/story/news/36934097/the-3-best-cybersecurity-stocks-to-buy-for-2026
+- Date: 2026-01-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+FreshBooks and Kick Bring Self-Driving Bookkeeping to U.S. Small Businesses (Score: 0)
+- Summary: Kick partnership expands FreshBooks’ offering, giving small business owners a path to automated bookkeeping and proactive compliance support. TORONTO & PALO ALTO, Jan. 07, 2026 (GLOBE NEWSWIRE) — FreshBooks, a platform designed to simplify the financial compl…
+- Source: https://financialpost.com/globe-newswire/freshbooks-and-kick-bring-self-driving-bookkeeping-to-u-s-small-businesses
+- Date: 2026-01-07
+- Vendors: None
+- Topics: None
+
+UK announces plan to strengthen public sector cyber defenses (Score: 0)
+- Summary: The United Kingdom has announced a new cybersecurity strategy, backed by more than £210 million ($283 million), to boost cyber defenses across government departments and the wider public sector. [...]
+- Source: https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/
+- Date: 2026-01-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bebe Stockwell’s Deep Alto Cover Of Ella Langley Smash Hit ‘Choosin’ Texas’ Will Scratch Your Brain Itch (Score: 0)
+- Summary: Ella Langley has been on a meteoric rise since the beginning of 2024, which has inspired numerous artists like Bebe Stockwell to put their own twist on some of the biggest songs in country music. The Los Angeles-based vocalist stopped me dead in my tracks wit…
+- Source: https://brobible.com/culture/article/bebe-stockwell-music-ella-langley-choosin-texas-cover-tiktok-deep-voice/
+- Date: 2026-01-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How AI and the browser will change end-user IT in 2026 (Score: 0)
+- Summary: Looking ahead to 2026, the end-user IT landscape will shift in subtle but critical ways. Here's what to expect, from prompt security to browsers, productivity and autonomous IT.
+- Source: https://www.techtarget.com/searchenterprisedesktop/opinion/How-AI-and-the-browser-will-change-end-user-IT-in-2026
+- Date: 2026-01-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Turning plain language into firewall rules (Score: 0)
+- Summary: Firewall rules often begin as a sentence in someone’s head. A team needs access to an application. A service needs to be blocked after hours. Translating those ideas into vendor specific firewall syntax usually involves detailed knowledge of zones, objects, p…
+- Source: https://www.helpnetsecurity.com/2026/01/06/research-natural-language-firewall-configuration/
+- Date: 2026-01-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Launches Vera Rubin Architecture at CES 2026: The VR NVL72 Rack (Score: 0)
+- Summary: At CES 2026, NVIDIA unveiled the Rubin platform, anchored by the Vera Rubin NVL72 rack-scale system. This is NVIDIA’s third-generation rack-scale architecture, combining six co-designed chips into a single unified system. The platform will be available from p…
+- Source: https://www.storagereview.com/news/nvidia-launches-vera-rubin-architecture-at-ces-2026-the-vr-nvl72-rack
+- Date: 2026-01-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+(PR) NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design (Score: 0)
+- Summary: AI is powering breakthroughs across industries, helping enterprises operate with greater intelligence and speed. As AI factories scale, the next generation of enterprise AI depends on infrastructure that can efficiently manage data, secure every stage of the …
+- Source: https://www.techpowerup.com/344760/nvidia-bluefield-powered-cybersecurity-and-acceleration-arrive-on-nvidia-enterprise-ai-factory-validated-design
+- Date: 2026-01-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design (Score: 0)
+- Summary: AI is powering breakthroughs across industries, helping enterprises operate with greater intelligence and speed. As AI factories scale, the next generation of enterprise AI depends on infrastructure that can efficiently manage data, secure every stage of the …
+- Source: https://blogs.nvidia.com/blog/bluefield-cybersecurity-acceleration-enterprise-ai-factory-validated-design/
+- Date: 2026-01-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+UK government to spend £210m on public sector cyber resilience (Score: 0)
+- Summary: The UK government unveils a £120m Cyber Action Plan to help reinforce and promote IT security resilience across the country's public services
+- Source: https://www.computerweekly.com/news/366636896/UK-government-to-spend-210m-on-public-sector-cyber-resilience
+- Date: 2026-01-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
