@@ -38440,3 +38440,172 @@ Good Old Grateful Dead (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-01-19 13:58  ---
+
+Crowdstrike’s Planned Acquisition of Seraphic Highlights Need to Address Endpoint Risks (Score: 2)
+- Summary: CrowdStrike’s move to acquire Seraphic spotlights a growing blind spot in cybersecurity: the browser has quietly become one of the riskiest—and least protected—endpoints in the enterprise. This blog reveals why legacy EDR, XDR, and network tools can’t see wha…
+- Source: https://www.forrester.com/blogs/crowdstrikes-planned-acquisition-of-seraphic-highlights-need-to-address-endpoint-risks/
+- Date: 2026-01-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock (Score: 2)
+- Summary: Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to these emerging problems. They partnered with the AWS Generative AI Innovation Center (GenAIIC) to develop an …
+- Source: https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/
+- Date: 2026-01-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Quote of the Day by Mark Zuckerberg: 'Ideas don’t come out fully formed…'—Inspiring quotes by the Meta CEO (Score: 2)
+- Summary: Mark Zuckerberg's quote, "Ideas don’t come out fully formed, they only become clearer as you work on them. You just have to get started," highlights that clarity emerges through action, not pre-planning. His career, from Facebook's inception to Meta's evolvin…
+- Source: https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-today-january-15-quote-of-the-day-by-mark-zuckerberg-ideas-dont-come-out-fully-formed-inspiring-quotes-by-the-meta-ceo/articleshow/126552259.cms
+- Date: 2026-01-15
+- Vendors: None
+- Topics: None
+
+Navigating Firewall Migrations: Best Practices and Palo Alto to Cisco Next-Gen Firewall Specifics (Score: 2)
+- Summary: Walk through the complex undertaking of migrating firewalls from Palo Alto Networks to Cisco Next-Generation Firewalls.
+- Source: https://blogs.cisco.com/customerexperience/navigating-firewall-migrations-best-practices-and-palo-alto-to-cisco-next-gen-firewall-specifics
+- Date: 2026-01-15
+- Vendors: Cisco, Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks addressed a GlobalProtect flaw, PoC exists (Score: 2)
+- Summary: Palo Alto Networks addressed a flaw impacting GlobalProtect Gateway and Portal, for which a proof-of-concept (PoC) exploit exists. Palo Alto Networks addressed a high-severity vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), affecting GlobalProtect …
+- Source: https://securityaffairs.com/186948/hacking/palo-alto-networks-addressed-a-globalprotect-flaw-poc-exists.html
+- Date: 2026-01-15
+- Vendors: Palo Alto Networks
+- Topics: None
+
+[Planned Maintenance] Network Tunnels – Palo Alto, Rio de Janeiro and Vancouver between 09:00 UTC and 13:00 UTC on January 21st (Score: 2)
+- Summary: Cloud Security Service Status's Status Page - [Planned Maintenance] Network Tunnels – Palo Alto, Rio de Janeiro and Vancouver between 09:00 UTC and 13:00 UTC on January 21st.
+- Source: https://status.umbrella.cisco.com/incidents/683rx42ypfl3
+- Date: 2026-01-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+$3.44 Bn Quantum-Safe Software-Defined Wide Area Network (SD-WAN) Solution Markets, 2019-2024, 2024-2029F, 2034F - Innovations in AI, Quantum Cryptography, and Zero-trust Architectures (Score: 2)
+- Summary: Key market opportunities in the quantum-safe SD-WAN sector include the rising adoption of secure networking solutions, increased demand for data privacy, and the expansion of cloud services. Innovations in AI, quantum cryptography, and zero-trust architecture…
+- Source: https://www.globenewswire.com/news-release/2026/01/12/3217149/28124/en/3-44-Bn-Quantum-Safe-Software-Defined-Wide-Area-Network-SD-WAN-Solution-Markets-2019-2024-2024-2029F-2034F-Innovations-in-AI-Quantum-Cryptography-and-Zero-trust-Architectures.html
+- Date: 2026-01-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What to expect from Palo Alto Networks’ Ignite London 2026 event (Score: 2)
+- Summary: Closer to home than Las Vegas (or indeed Barcelona, or any of the other usual suspect venues), the Computer Weekly Developer Network is headed to Old Billingsgate, London on Thursday, 5 February ...
+- Source: https://www.computerweekly.com/blog/CW-Developer-Network/What-to-expect-from-Palo-Alto-Networks-Ignite-London-2026-event
+- Date: 2026-01-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories (Score: 1)
+- Summary: The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.
+This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to…
+- Source: https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html
+- Date: 2026-01-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NEXT Insurance in California Rebrands as ERGO NEXT Insurance (Score: 0)
+- Summary: Palo Alto, California-based NEXT Insurance will now be operating as ERGO NEXT Insurance, a new brand identity that the company says reflects its next phase of growth as a small businesses insurance provider. The updated brand follows NEXT’s integration with …
+- Source: https://www.insurancejournal.com/news/west/2026/01/16/854513.htm
+- Date: 2026-01-16
+- Vendors: None
+- Topics: None
+
+ezpanos 0.1.4 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.1.4/
+- Date: 2026-01-15
+- Vendors: None
+- Topics: None
+
+NexQloud Technologies Emerges as the Industry Leader in Data-Center-Free Cloud Infrastructure (Score: 0)
+- Summary: Racing toward a projected valuation of hundreds of billions of dollars by the mid-2020s, the cloud computing sector has incurred a mounting cost: spiraling energy consumption, rising security breaches, and an infrastructure model that strains under its own we…
+- Source: https://zycrypto.com/nexqloud-technologies-emerges-as-the-industry-leader-in-data-center-free-cloud-infrastructure/
+- Date: 2026-01-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Tino Cuéllar to Step Down as Carnegie Endowment President in July 2026 (Score: 0)
+- Summary: Carnegie Board of Trustees to Appoint New President Carnegie Board of Trustees to Appoint New President
+- Source: https://www.globenewswire.com/news-release/2026/01/15/3219670/0/en/Tino-Cu%C3%A9llar-to-Step-Down-as-Carnegie-Endowment-President-in-July-2026.html
+- Date: 2026-01-15
+- Vendors: None
+- Topics: None
+
+Can Saks Global Be Fixed? (Score: 0)
+- Summary: For starters, experts said the luxury retailer needs to get the fashion industry back on its side after more than a year of broken promises.
+- Source: http://wwd.com/business-news/retail/in-its-bankrupt-state-what-saks-global-must-do-to-recover-1238453824/
+- Date: 2026-01-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+500 Global Announces Promotion of Mei Chel Tan to Global Managing Partner (Score: 0)
+- Summary: Appointment reflects expanding demand for entrepreneurial ecosystem development and AI readiness across emerging markets. PALO ALTO, Calif. — 500 Global, one of the world’s most active venture capital firms1, today announced the promotion of Mei Chel Tan to G…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/500-global-announces-promotion-of-mei-chel-tan-to-global-managing-partner
+- Date: 2026-01-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ezpanos 0.1.2 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.1.2/
+- Date: 2026-01-14
+- Vendors: None
+- Topics: None
+
+ezpanos 0.1.1 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.1.1/
+- Date: 2026-01-14
+- Vendors: None
+- Topics: None
+
+ezpanos 0.1.0 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.1.0/
+- Date: 2026-01-14
+- Vendors: None
+- Topics: None
+
+CrowdStrike acquires browser security startup Seraphic Security for $400M (Score: 0)
+- Summary: CrowdStrike Holdings Inc. is acquiring Seraphic Security Ltd., a startup that helps enterprises protect employees’ browsers from online threats. The companies announced the deal today without disclosing its financial terms, though Calcalist pegged the amount …
+- Source: https://siliconangle.com/2026/01/13/crowdstrike-acquires-browser-security-startup-seraphic-security/
+- Date: 2026-01-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Strava ran toward a comeback and set its sights on an IPO (Score: 0)
+- Summary: In 2024, Mike Martin stepped into the CEO role at Strava—and quickly began steering a turnaround driven by Gen Z runners, acquisitions, and global expansion.
+- Source: https://fortune.com/2026/01/13/how-strava-ran-toward-a-comeback-ipo/
+- Date: 2026-01-13
+- Vendors: None
+- Topics: None
+
+Custodial wallet provider BitGo files for $201M public offering (Score: 0)
+- Summary: BitGo Holdings Inc., a startup that stores digital assets on behalf of other organizations, today filed for an initial public offering. The company and several of its investors plan to sell 11.8 million shares for $15 to $17 apiece. At the top end of the rang…
+- Source: https://siliconangle.com/2026/01/12/custodial-wallet-provider-bitgo-files-201m-public-offering/
+- Date: 2026-01-12
+- Vendors: None
+- Topics: None
+
+Endpoint Security Market Projected to Reach US$ 65.04 Billion by 2035 Amid Rising Cyber Threat Activity | Astute Analytica (Score: 0)
+- Summary: The market anticipates rapid expansion as enterprises transition toward AI-driven autonomous platforms. This strategic shift addresses critical workforce shortages and escalating cyber liabilities, driving demand for unified detection solutions that replace f…
+- Source: https://www.globenewswire.com/news-release/2026/01/12/3217156/0/en/Endpoint-Security-Market-Projected-to-Reach-US-65-04-Billion-by-2035-Amid-Rising-Cyber-Threat-Activity-Astute-Analytica.html
+- Date: 2026-01-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zero Trust Security Global Market Intelligence Report 2025-2035: Increasing Need for Cloud and Data Security Driving Revenues to Over $190 Billion by 2035 (Score: 0)
+- Summary: Dublin, Jan. 12, 2026 (GLOBE NEWSWIRE) -- The "Zero Trust Security Market, Till 2035: Distribution by Type of Authentication, Type of Solution, Type of Deployment, Type of Offering, Type of Service, Type of Security Feature, Type of End User, Company Size, an…
+- Source: https://www.globenewswire.com/news-release/2026/01/12/3217054/28124/en/Zero-Trust-Security-Global-Market-Intelligence-Report-2025-2035-Increasing-Need-for-Cloud-and-Data-Security-Driving-Revenues-to-Over-190-Billion-by-2035.html
+- Date: 2026-01-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
