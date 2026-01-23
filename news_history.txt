@@ -39192,3 +39192,202 @@ Can Saks Global Be Fixed? (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-01-23 13:56  ---
+
+Endace pushes packet capture into real-time security workflows (Score: 5)
+- Summary: Endace has announced the release of OSm 7.3, a major software update that makes network packet data faster, more affordable, and more user-friendly. Faster search, API-driven automation, and instant forensics With threats evolving at unprecedented speed and r…
+- Source: https://www.helpnetsecurity.com/2026/01/20/endace-pushes-packet-capture-into-real-time-security-workflows/
+- Date: 2026-01-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Wealth Quote of the Day by Stanley Tang, “Success comes down to hard work plus passion, over time.” Why the DoorDash co-founder believes relentless effort and long-term focus turn challenges into lasting wealth (Score: 3)
+- Summary: Wealth Quote of the Day by Stanley Tang, “Success comes down to hard work plus passion, over time.” Stanley Tang, DoorDash cofounder and billionaire, turned early coding skills into scalable tech wealth. He built DoorDash from a college startup into a $75 bil…
+- Source: https://economictimes.indiatimes.com/news/international/us/wealth-quote-of-the-day-by-stanley-tang-success-comes-down-to-hard-work-plus-passion-over-time-why-the-doordash-co-founder-believes-relentless-effort-and-long-term-focus-turn-challenges-into-lasting-wealth/articleshow/126690077.cms
+- Date: 2026-01-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Public weighs in on plans for high-speed rail network (Score: 2)
+- Summary: Attendees of the first Ottawa open house on the federal government's plan for a multi-stage high-speed rail network weighed in on everything from where the Ottawa station should be located to how the Crown corporation overseeing the project should proceed nex…
+- Source: https://www.cbc.ca/news/canada/ottawa/public-weighs-in-on-plans-for-high-speed-rail-network-9.7054885
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Public weighs in on high-speed rail plans (Score: 2)
+- Summary: Attendees of the first Ottawa open house on the federal government's plan for a multi-stage high-speed rail network weighed in on everything from where the Ottawa station should be located to how the Crown corporation overseeing the project should proceed nex…
+- Source: https://www.cbc.ca/news/canada/ottawa/public-weighs-in-on-high-speed-rail-plans-9.7054885
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+High-speed 300km/h rail line from Toronto could include huge tunnels (Score: 2)
+- Summary: Toronto could become the site of even more major rail tunnels as part of a proposed high-speed rail network between Toronto and Quebec City, according to new details from Alto, the federal Crown corporation leading the project.In an update on its website, Alt…
+- Source: https://www.blogto.com/travel/2026/01/high-speed-rail-tunnels-toronto/
+- Date: 2026-01-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Vulnerability Summary for the Week of January 12, 2026 (Score: 2)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+<th>Patch Info</th>
+</tr>
+
+
+
+<tr>
+<td>10-Strike--Strike Network Inventory Explorer Pro</td>
+<td>10-Strike …
+- Source: https://www.cisa.gov/news-events/bulletins/sb26-020
+- Date: 2026-01-20
+- Vendors: None
+- Topics: None
+
+When the Olympics connect everything, attackers pay attention (Score: 2)
+- Summary: Global sporting events bring a surge of network traffic, new systems, and short term partnerships. That mix draws attention from cyber threat actors who see opportunity in scale and distraction. A new Palo Alto Networks threat study on the Milan Cortina 2026 …
+- Source: https://www.helpnetsecurity.com/2026/01/19/palo-alto-networks-olympic-cybersecurity-risks-report/
+- Date: 2026-01-19
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Crowdstrike’s Planned Acquisition of Seraphic Highlights Need to Address Endpoint Risks (Score: 2)
+- Summary: CrowdStrike’s move to acquire Seraphic spotlights a growing blind spot in cybersecurity: the browser has quietly become one of the riskiest—and least protected—endpoints in the enterprise. This blog reveals why legacy EDR, XDR, and network tools can’t see wha…
+- Source: https://www.forrester.com/blogs/crowdstrikes-planned-acquisition-of-seraphic-highlights-need-to-address-endpoint-risks/
+- Date: 2026-01-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock (Score: 2)
+- Summary: Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to these emerging problems. They partnered with the AWS Generative AI Innovation Center (GenAIIC) to develop an …
+- Source: https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/
+- Date: 2026-01-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Quote of the Day by Mark Zuckerberg: 'Ideas don’t come out fully formed…'—Inspiring quotes by the Meta CEO (Score: 2)
+- Summary: Mark Zuckerberg's quote, "Ideas don’t come out fully formed, they only become clearer as you work on them. You just have to get started," highlights that clarity emerges through action, not pre-planning. His career, from Facebook's inception to Meta's evolvin…
+- Source: https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-today-january-15-quote-of-the-day-by-mark-zuckerberg-ideas-dont-come-out-fully-formed-inspiring-quotes-by-the-meta-ceo/articleshow/126552259.cms
+- Date: 2026-01-15
+- Vendors: None
+- Topics: None
+
+Navigating Firewall Migrations: Best Practices and Palo Alto to Cisco Next-Gen Firewall Specifics (Score: 2)
+- Summary: Walk through the complex undertaking of migrating firewalls from Palo Alto Networks to Cisco Next-Generation Firewalls.
+- Source: https://blogs.cisco.com/customerexperience/navigating-firewall-migrations-best-practices-and-palo-alto-to-cisco-next-gen-firewall-specifics
+- Date: 2026-01-15
+- Vendors: Cisco, Palo Alto Networks
+- Topics: None
+
+Obsidian Security Announces End-to-End SaaS Supply Chain Protection as Agentic AI Adoption Accelerates (Score: 0)
+- Summary: New Capabilities Include Complete Visibility into SaaS-to-SaaS Integrations, Proactive Prevention and Early Breach Detection in One Unified Platform PALO ALTO, Calif. — Obsidian Security, leader in SaaS security, today announced the industry’s first end-to-en…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-security-announces-end-to-end-saas-supply-chain-protection-as-agentic-ai-adoption-accelerates
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Critical Infrastructure Protection (CIP) Market 2026-2031 - State-Backed Cyber Threats Target OT Systems, Escalating Demand for Advanced Security Solutions (Score: 0)
+- Summary: The Asia-Pacific region shows rapid growth fueled by 5G and smart grid deployments. Service-based solutions, particularly managed security services, are expanding faster than traditional hardware as organizations outsource to manage complexity. The Asia-Pacif…
+- Source: https://www.globenewswire.com/news-release/2026/01/22/3223448/28124/en/Critical-Infrastructure-Protection-CIP-Market-2026-2031-State-Backed-Cyber-Threats-Target-OT-Systems-Escalating-Demand-for-Advanced-Security-Solutions.html
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BitGo to price its IPO ahead of stock market debut, seeking $1.96B valuation (Score: 0)
+- Summary: The cryptocurrency exchange platform BitGo Holdings Inc. is making its initial public offering today as it prepares to debut Thursday morning on the New York Stock Exchange, where it’s seeking a valuation of up to $1.96 billion. The Palo Alto-based company is…
+- Source: https://siliconangle.com/2026/01/21/bitgo-price-ipo-ahead-stock-market-debut-seeking-1-96b-valuation/
+- Date: 2026-01-21
+- Vendors: None
+- Topics: None
+
+BitGo prices its IPO above range ahead of stock market debut, seeking $2B+ valuation (Score: 0)
+- Summary: The cryptocurrency exchange platform BitGo Holdings Inc. raised $198.5 million late today from its initial public offering of stock, pricing shares at $18 apiece, above its previously anticipated range of $15 to $17. Shares will debut Thursday morning on the …
+- Source: https://siliconangle.com/2026/01/21/bitgo-prices-ipo-above-range-ahead-stock-market-debut-seeking-2b-valuation/
+- Date: 2026-01-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+More Free Things to Do in the Bay Area (If You’re Feeling the January Strain) (Score: 0)
+- Summary: Wallet still hurting after the holidays? We have free things to do around the San Francisco Bay Area — beyond the usual suspects.
+- Source: https://www.kqed.org/news/12070561/free-things-to-do-san-francisco-bay-area-kids-hikes-museums
+- Date: 2026-01-21
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Market Intelligence Report Illuminates Growth Opportunities in the Global Healthcare Cybersecurity Market | Astute Analytica (Score: 0)
+- Summary: The global healthcare cybersecurity market is undergoing robust expansion as healthcare organizations worldwide grapple with an escalating wave of sophisticated cyberattacks. Threat actors are continuously refining their tactics, targeting sensitive patient d…
+- Source: https://www.globenewswire.com/news-release/2026/01/21/3223002/0/en/New-Market-Intelligence-Report-Illuminates-Growth-Opportunities-in-the-Global-Healthcare-Cybersecurity-Market-Astute-Analytica.html
+- Date: 2026-01-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+5 key questions on high-speed rail as public consultations launch (Score: 0)
+- Summary: Public consultations on the proposed high-speed rail line begin Wednesday in Ottawa and Montreal.
+- Source: https://www.cbc.ca/news/canada/ottawa/5-key-questions-on-high-speed-rail-as-public-consultations-launch-9.7052807
+- Date: 2026-01-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+EXCLUSIVE: OnePlus Is Being Dismantled (Score: 0)
+- Summary: An investigation into the business collapse of a smartphone pioneer OnePlus, as you know it, is over. The brand is being dismantled—wound down and put on
+- Source: https://www.androidheadlines.com/exclusive-oneplus-collapse
+- Date: 2026-01-20
+- Vendors: None
+- Topics: None
+
+ezpanos 0.2.3 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.2.3/
+- Date: 2026-01-20
+- Vendors: None
+- Topics: None
+
+ezpanos 0.2.2 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.2.2/
+- Date: 2026-01-20
+- Vendors: None
+- Topics: None
+
+Industrial Control System (ICS) Security Market to Reach USD 41.82 Billion by 2033 Amid Rising Cyber Threats to Critical Infrastructure | SNS Insider (Score: 0)
+- Summary: Industrial Control System (ICS) Security Market Segmentation By Component, Solutions, Services, Type, End Use, and Region | Global Forecast 2026-2033...
+- Source: https://www.globenewswire.com/news-release/2026/01/20/3221289/0/en/Industrial-Control-System-ICS-Security-Market-to-Reach-USD-41-82-Billion-by-2033-Amid-Rising-Cyber-Threats-to-Critical-Infrastructure-SNS-Insider.html
+- Date: 2026-01-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ezpanos 0.2.1 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.2.1/
+- Date: 2026-01-20
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More (Score: 0)
+- Summary: In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, o…
+- Source: https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html
+- Date: 2026-01-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Article: Preventing Data Exfiltration: A Practical Implementation of VPC Service Controls at Enterprise Scale in Google Cloud Platform (Score: 0)
+- Summary: Implementing VPC Service Controls is more about people and process than technology. Organizations must conduct extensive upfront discovery, use phased rollouts to avoid breaking production systems, and design VPC Service Controls that enable rather than block…
+- Source: https://www.infoq.com/articles/preventing-data-exfiltration-google-cloud/
+- Date: 2026-01-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
