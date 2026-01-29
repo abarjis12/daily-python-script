@@ -40371,3 +40371,186 @@ More Free Things to Do in the Bay Area (If You’re Feeling the January Strain) 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-01-29 14:09  ---
+
+7 Top Endpoint Security Platforms for 2026 (Score: 3)
+- Summary: Endpoints remain primary entry for attacks. In 2026, endpoint platforms must deliver behavior context, automation, investigations, and integrations.
+- Source: https://hackread.com/7-top-endpoint-security-platforms-2026/
+- Date: 2026-01-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why Your Post-Quantum Cryptography Strategy Must Start Now - SPONSOR CONTENT FROM PALO ALTO NETWORKS (Score: 2)
+- Summary: Sponsor Content from Palo Alto Networks.
+- Source: https://hbr.org/sponsored/2026/01/why-your-post-quantum-cryptography-strategy-must-start-now
+- Date: 2026-01-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Explore the business benefits of content-centric networking (Score: 2)
+- Summary: Content-centric networking gives enterprises an alternative to traditional IP networking, introducing new ways to enhance performance and improve overall efficiency.
+- Source: https://www.techtarget.com/searchnetworking/tip/Explore-the-business-benefits-of-content-centric-networking
+- Date: 2026-01-26
+- Vendors: None
+- Topics: None
+
+Saudi Arabia ICT Market Report 2026 Share Analysis, Industry Trends & Statistics, and Growth Forecast to 2031 (Score: 2)
+- Summary: Major opportunities in the Saudi Arabia ICT market include leveraging Vision 2030's digitization efforts, capitalizing on 5G network rollout & monetization, and addressing talent gaps through upskilling Major opportunities in the Saudi Arabia ICT market inclu…
+- Source: https://www.globenewswire.com/news-release/2026/01/23/3224493/28124/en/Saudi-Arabia-ICT-Market-Report-2026-Share-Analysis-Industry-Trends-Statistics-and-Growth-Forecast-to-2031.html
+- Date: 2026-01-23
+- Vendors: None
+- Topics: None
+
+Firewall as a Service Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031 (Score: 2)
+- Summary: Key market opportunities in the Global Firewall as a Service Market include the urgent need for scalable cloud security due to increased cyber threats, decentralized network protection, and enterprise cloud migration. The demand for integrated security framew…
+- Source: https://www.globenewswire.com/news-release/2026/01/22/3224089/28124/en/Firewall-as-a-Service-Market-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Public weighs in on plans for high-speed rail network (Score: 2)
+- Summary: Attendees of the first Ottawa open house on the federal government's plan for a multi-stage high-speed rail network weighed in on everything from where the Ottawa station should be located to how the Crown corporation overseeing the project should proceed nex…
+- Source: https://www.cbc.ca/news/canada/ottawa/public-weighs-in-on-plans-for-high-speed-rail-network-9.7054885
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Public weighs in on high-speed rail plans (Score: 2)
+- Summary: Attendees of the first Ottawa open house on the federal government's plan for a multi-stage high-speed rail network weighed in on everything from where the Ottawa station should be located to how the Crown corporation overseeing the project should proceed nex…
+- Source: https://www.cbc.ca/news/canada/ottawa/public-weighs-in-on-high-speed-rail-plans-9.7054885
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+High-speed 300km/h rail line from Toronto could include huge tunnels (Score: 2)
+- Summary: Toronto could become the site of even more major rail tunnels as part of a proposed high-speed rail network between Toronto and Quebec City, according to new details from Alto, the federal Crown corporation leading the project.In an update on its website, Alt…
+- Source: https://www.blogto.com/travel/2026/01/high-speed-rail-tunnels-toronto/
+- Date: 2026-01-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Construction Cybersecurity Research Report 2026: $18.41 Bn Market Opportunities, Trends, Competitive Analysis, Strategies, Forecasts, 2020-2025, 2025-2030F, 2035F (Score: 0)
+- Summary: Key opportunities in construction cybersecurity include harnessing AI-driven tools, enhancing IoT protection, boosting local cybersecurity hardware production, and advancing integrated cyber-physical security. Rising ransomware threats and tariffs prompt inno…
+- Source: https://www.globenewswire.com/news-release/2026/01/28/3227402/28124/en/Construction-Cybersecurity-Research-Report-2026-18-41-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html
+- Date: 2026-01-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Evidence contradicts Trump immigration officials’ accounts of violent encounters (Score: 0)
+- Summary: By Renee Hickman, Ted Hesson, Brad Heath and Kristina CookeWASHINGTON, Jan 27 (Reuters) - U.S. President Donald Trump’s top immigration officials have repeatedly made sta… Leggi
+- Source: https://www.internazionale.it/ultime-notizie-reuters/2026/01/27/evidence-contradicts-trump-immigration-officials-accounts-of-violent-encounters
+- Date: 2026-01-27
+- Vendors: None
+- Topics: None
+
+Global Routers Market Surges Towards $36.64 Billion by 2032, Driven by Next-Gen Connectivity (Score: 0)
+- Summary: Adaptable, secure, and modular router solutions are key opportunities driven by evolving connectivity needs, edge computing demand, and shifting procurement strategies due to global trade impacts. Adaptable, secure, and modular router solutions are key opport…
+- Source: https://www.globenewswire.com/news-release/2026/01/26/3225848/28124/en/Global-Routers-Market-Surges-Towards-36-64-Billion-by-2032-Driven-by-Next-Gen-Connectivity.html
+- Date: 2026-01-26
+- Vendors: None
+- Topics: None
+
+Hackers are using LLMs to build the next generation of phishing attacks - here's what to look out for (Score: 0)
+- Summary: What if a phishing page was generated on the spot, with no visible malicious code or payload?
+- Source: https://www.techradar.com/pro/security/hackers-are-using-llms-to-build-the-next-generation-of-phishing-attacks-heres-what-to-look-out-for
+- Date: 2026-01-26
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More (Score: 0)
+- Summary: Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly.
+Attackers are moving faster than defenses, mixing old tricks with new paths. “Pa…
+- Source: https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html
+- Date: 2026-01-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Enterprise technology predictions: What’s coming in 2026 (Score: 0)
+- Summary: At the beginning of each year, as is our tradition, we team up with Enterprise Technology Research to dig through the latest data and craft 10 predictions for the coming year. This year’s prognostication follows the publication where we grade our 2025 predict…
+- Source: https://siliconangle.com/2026/01/25/enterprise-technology-predictions-whats-coming-2026/
+- Date: 2026-01-25
+- Vendors: None
+- Topics: None
+
+The most exciting restaurants opening across the US (Score: 0)
+- Summary: Get ready to step up to the counter for some of this year’s anticipated cooking.
+- Source: https://www.bostonherald.com/2026/01/25/exciting-restaurant-openings/
+- Date: 2026-01-25
+- Vendors: None
+- Topics: None
+
+Week in review: Fully patched FortiGate firewalls are getting compromised, attackers probe Cisco RCE flaw (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Review: AI Strategy and Security AI Strategy and Security is a guide for organizations planning enterprise AI programs. The book targets technology leaders, secu…
+- Source: https://www.helpnetsecurity.com/2026/01/25/week-in-review-fully-patched-fortigate-firewalls-are-getting-compromised-attackers-probe-cisco-rce-flaw/
+- Date: 2026-01-25
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Evaluating the Best Value Cybersecurity Platforms for Enterprises (Score: 0)
+- Summary: Beyond the checklist: Finding cybersecurity solutions that balance robust protection with smart spending.
+- Source: https://www.smartdatacollective.com/evaluating-best-value-cybersecurity-platforms-for-enterprises/
+- Date: 2026-01-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+When is Super Bowl 2026? Date, location, odds, halftime show for Super Bowl 60 (Score: 0)
+- Summary: Super Bowl 60 is nearly upon us. Here are the details on the game.
+- Source: https://www.sportingnews.com/us/nfl/news/when-super-bowl-2026-date-location-halftime-show/14473b883ad565b03770baec
+- Date: 2026-01-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BitGo Stock Plunges Below IPO Price on Second Day of Trading (Score: 0)
+- Summary: BitGo's stock fell nearly 22% on day two of trading after the crypto custody firm's IPO, diving below the offering price.
+- Source: https://decrypt.co/355738/bitgo-stock-plunges-below-ipo-price-second-day-trading
+- Date: 2026-01-23
+- Vendors: None
+- Topics: None
+
+Saudi Arabia Cybersecurity Market Report 2026-2031 - Mandatory Compliance with Updated ECC-2-2024 Framework Fuels Cybersecurity Investments (Score: 0)
+- Summary: Dublin, Jan. 23, 2026 (GLOBE NEWSWIRE) -- The "Saudi Arabia Cybersecurity - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026-2031)" has been added to ResearchAndMarkets.com's offering. The report categorizes the market by offering t…
+- Source: https://www.globenewswire.com/news-release/2026/01/23/3224668/28124/en/Saudi-Arabia-Cybersecurity-Market-Report-2026-2031-Mandatory-Compliance-with-Updated-ECC-2-2024-Framework-Fuels-Cybersecurity-Investments.html
+- Date: 2026-01-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+One-time SMS links that never expire can expose personal data for years (Score: 0)
+- Summary: Online services often treat one-time links sent by text message as low-risk conveniences. A new study shows that these links can expose large amounts of personal data for years. Malicious URLs continue to shift from email to SMS According to to Proofpoint, cy…
+- Source: https://www.helpnetsecurity.com/2026/01/23/sms-private-urls-data-exposure-study/
+- Date: 2026-01-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+China’s DeepSeek V4: The AI Tool That Could Make ChatGPT Obsolete (Score: 0)
+- Summary: Introduction: The AI Arms Race Heats Up The global technology landscape is on the verge of a seismic shift. According to analysis of a recent code leak from the GitHub repository of the Chinese AI firm DeepSeek, the company is preparing to release a revolutio…
+- Source: https://www.naturalnews.com/2026-01-23-chinas-deepseek-v4-could-make-chatgpt-obsolete.html
+- Date: 2026-01-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obsidian Security Announces End-to-End SaaS Supply Chain Protection as Agentic AI Adoption Accelerates (Score: 0)
+- Summary: New Capabilities Include Complete Visibility into SaaS-to-SaaS Integrations, Proactive Prevention and Early Breach Detection in One Unified Platform PALO ALTO, Calif. — Obsidian Security, leader in SaaS security, today announced the industry’s first end-to-en…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-security-announces-end-to-end-saas-supply-chain-protection-as-agentic-ai-adoption-accelerates
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Introducing Intent-Based Policy Management for Cisco Hybrid Mesh Firewall (Score: 0)
+- Summary: Hybrid Mesh Firewall introduces intent-based policy management across multi-vendor firewalls through Cisco Security Cloud Control with Mesh Policy Engine.
+- Source: https://blogs.cisco.com/security/introducing-intent-based-policy-management-for-cisco-hybrid-mesh-firewall
+- Date: 2026-01-22
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Critical Infrastructure Protection (CIP) Market 2026-2031 - State-Backed Cyber Threats Target OT Systems, Escalating Demand for Advanced Security Solutions (Score: 0)
+- Summary: The Asia-Pacific region shows rapid growth fueled by 5G and smart grid deployments. Service-based solutions, particularly managed security services, are expanding faster than traditional hardware as organizations outsource to manage complexity. The Asia-Pacif…
+- Source: https://www.globenewswire.com/news-release/2026/01/22/3223448/28124/en/Critical-Infrastructure-Protection-CIP-Market-2026-2031-State-Backed-Cyber-Threats-Target-OT-Systems-Escalating-Demand-for-Advanced-Security-Solutions.html
+- Date: 2026-01-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
