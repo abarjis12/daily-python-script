@@ -41360,3 +41360,165 @@ Hackers are using LLMs to build the next generation of phishing attacks - here's
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-02-04 14:11  ---
+
+Palo Alto Networks, Inc. (PANW) Strengthens AI-Driven Cybersecurity Platform with Chronosphere Acquisition (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best Nancy Pelosi stocks to buy in 2026. On January 29, Palo Alto Networks Inc. (NASDAQ:PANW) announced...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-inc-panw-133012245.html
+- Date: 2026-02-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agent Moltbot is a breakthrough and security nightmare with its own social network that’s ‘the most interesting place on the internet right now’ (Score: 2)
+- Summary: "Moltbot feels like a glimpse into the science fiction AI characters we grew up watching at the movies."
+- Source: https://fortune.com/2026/01/31/ai-agent-moltbot-clawdbot-openclaw-data-privacy-security-nightmare-moltbook-social-network/
+- Date: 2026-01-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+mcp-network-jcd 0.2.0 (Score: 2)
+- Summary: MCP server for network device queries via SSH (Palo Alto firewalls, Cisco IOS)
+- Source: https://pypi.org/project/mcp-network-jcd/0.2.0/
+- Date: 2026-01-30
+- Vendors: Cisco
+- Topics: None
+
+mcp-network-jcd 0.1.0 (Score: 2)
+- Summary: MCP server for network device management (Palo Alto firewalls via SSH)
+- Source: https://pypi.org/project/mcp-network-jcd/0.1.0/
+- Date: 2026-01-30
+- Vendors: None
+- Topics: None
+
+mcp-network-jcd added to PyPI (Score: 2)
+- Summary: MCP server for network device management (Palo Alto firewalls via SSH)
+- Source: https://pypi.org/project/mcp-network-jcd/
+- Date: 2026-01-30
+- Vendors: None
+- Topics: None
+
+U Mobile aims to be a catalyst in Malaysia’s digitalisation journey (Score: 2)
+- Summary: KUALA LUMPUR: U Mobile, Malaysia's newest 5G network provider, aims to play a catalytic role in Malaysia's digitalisation journey with its neutral Enterprise Innovation Platform (EIP). Read full story
+- Source: https://www.thestar.com.my/news/nation/2026/01/30/u-mobile-aims-to-be-a-catalyst-in-malaysias-digitalisation-journey
+- Date: 2026-01-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why Your Post-Quantum Cryptography Strategy Must Start Now - SPONSOR CONTENT FROM PALO ALTO NETWORKS (Score: 2)
+- Summary: Sponsor Content from Palo Alto Networks.
+- Source: https://hbr.org/sponsored/2026/01/why-your-post-quantum-cryptography-strategy-must-start-now
+- Date: 2026-01-27
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Mark Zuckerberg and Priscilla Chan’s Philanthropy Shuffles Staff Amid A.I. Pivot (Score: 0)
+- Summary: Zuckerberg and Chan’s philanthropy is restructuring to prioritize A.I.-powered biomedical research over social programs.
+- Source: https://observer.com/2026/02/chan-zuckerberg-initiative-cut-jobs-ai-pivot/
+- Date: 2026-02-02
+- Vendors: None
+- Topics: None
+
+US cuts tariffs on India to 18%, India agrees to end Russian oil purchases (Score: 0)
+- Summary: By David Lawder and Aftab AhmedWASHINGTON/NEW DELHI, Feb 2 (Reuters) - U.S. President Donald Trump on Monday said he had agreed on a trade deal with India that slashes U.… Leggi
+- Source: https://www.internazionale.it/ultime-notizie-reuters/2026/02/02/us-cuts-tariffs-on-india-to-18-india-agrees-to-end-russian-oil-purchases
+- Date: 2026-02-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security Service Edge Market to Reach US$ 24.6 Billion by 2033 Driven by Cloud-Native Security Adoption, Hybrid Work, and Zero-Trust Frameworks Says Astute Analytica (Score: 0)
+- Summary: The security service edge (SSE) market is experiencing rapid expansion, driven by the urgent need for cloud-native security, hybrid work support, and zero-trust implementation. The security service edge (SSE) market is experiencing rapid expansion, driven by …
+- Source: https://www.globenewswire.com/news-release/2026/02/02/3230358/0/en/Security-Service-Edge-Market-to-Reach-US-24-6-Billion-by-2033-Driven-by-Cloud-Native-Security-Adoption-Hybrid-Work-and-Zero-Trust-Frameworks-Says-Astute-Analytica.html
+- Date: 2026-02-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Dynamic metabolic modeling of Streptomyces clavuligerus in complex medium highlights nutrient-dependent metabolic transitions associated with clavulanic acid biosynthesis (Score: 0)
+- Summary: Background Streptomyces clavuligerus is the main industrial producer of clavulanic acid (CA), a potent β-lactamase inhibitor. However, the metabolic interplay linking amino acid utilization, nitrogen regulation, and CA biosynthesis remains poorly understood, …
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342057
+- Date: 2026-02-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+From Clawdbot to Moltbot to OpenClaw: Meet the AI agent driving buzz and fear globally (Score: 0)
+- Summary: OpenClaw, formerly known as Clawdbot and Moltbot, has generated massive buzz from Silicon Valley to Beijing due to its impressive capabilities, but also its quirks and risks.
+- Source: https://www.cnbc.com/2026/02/02/openclaw-open-source-ai-agent-rise-controversy-clawdbot-moltbot-moltbook.html
+- Date: 2026-02-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ezpanos 0.2.5 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.2.5/
+- Date: 2026-02-02
+- Vendors: None
+- Topics: None
+
+ezpanos 0.2.4 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.2.4/
+- Date: 2026-02-01
+- Vendors: None
+- Topics: None
+
+14 Summer Marketing Internships for High School Students (Score: 0)
+- Summary: Summer marketing internships for high school students offering hands-on experience in branding, content, and digital strategy.
+- Source: https://horizoninspires.com/blog/summer-marketing-internships-for-high-school-students/
+- Date: 2026-01-31
+- Vendors: None
+- Topics: None
+
+OnePiece Labs Launches Solana Bootcamp – APAC, Reinforcing Long-Term Commitment to the APAC Builder Ecosystem (Score: 0)
+- Summary: PALO ALTO, Calif., Jan. 30, 2026 (GLOBE NEWSWIRE) -- OnePiece Labs, in collaboration with the Solana Foundation, today announced the launch of Solana Bootcamp – APAC
+. It is a builder-first program designed to help developers across the Asia-Pacific region c…
+- Source: https://www.globenewswire.com/news-release/2026/01/30/3229260/0/en/OnePiece-Labs-Launches-Solana-Bootcamp-APAC-Reinforcing-Long-Term-Commitment-to-the-APAC-Builder-Ecosystem.html
+- Date: 2026-01-30
+- Vendors: None
+- Topics: None
+
+Uniphore Named a Leader in the 2026 Gartner® Magic Quadrant™ for Customer Data Platforms (Score: 0)
+- Summary: Recognized for Completeness of Vision and Ability to Execute PALO ALTO, Calif. — Uniphore, the Business AI company, has been recognized as a Leader in the 2026 Gartner Magic Quadrant for Customer Data platforms. A complimentary copy of the full report is avai…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/uniphore-named-a-leader-in-the-2026-gartner-magic-quadrant-for-customer-data-platforms
+- Date: 2026-01-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloud Security Posture Management Research Report 2026 - Global Market Size, Trends, Opportunities, and Forecasts, 2021-2025 & 2026-2031 (Score: 0)
+- Summary: The Cloud Security Posture Management Market offers growth through automated security tools for cloud infrastructures, driven by multi-cloud complexity and data privacy laws. Opportunities lie in integrating CSPM into unified platforms, leveraging generative …
+- Source: https://www.globenewswire.com/news-release/2026/01/29/3228791/28124/en/Cloud-Security-Posture-Management-Research-Report-2026-Global-Market-Size-Trends-Opportunities-and-Forecasts-2021-2025-2026-2031.html
+- Date: 2026-01-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Customer service is emerging as the proving ground for enterprise AI, says Zendesk CEO (Score: 0)
+- Summary: Across large enterprises, AI adoption is shifting from experimentation to operational pressure, with customer service often emerging as the first system that must work at scale. The difference between pilots and production is no longer theoretical — it shows …
+- Source: https://siliconangle.com/2026/01/28/zendesk-customer-service-enterprise-ai-cubeconversations/
+- Date: 2026-01-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sutter Health and Pro Football Hall of Famer Steve Young Partner to Champion Youth Health and Wellness (Score: 0)
+- Summary: Collaboration Kicks Off with a Girls Youth Flag Football Clinic at Palo Alto High School, 50 Embarcadero Road, on Saturday, Jan. 31, from 10:00 a.m. –12:00 p.m. Collaboration Kicks Off with a Girls Youth Flag Football Clinic at Palo Alto High School, 50 Embar…
+- Source: https://www.globenewswire.com/news-release/2026/01/28/3227965/0/en/Sutter-Health-and-Pro-Football-Hall-of-Famer-Steve-Young-Partner-to-Champion-Youth-Health-and-Wellness.html
+- Date: 2026-01-28
+- Vendors: None
+- Topics: None
+
+Construction Cybersecurity Research Report 2026: $18.41 Bn Market Opportunities, Trends, Competitive Analysis, Strategies, Forecasts, 2020-2025, 2025-2030F, 2035F (Score: 0)
+- Summary: Key opportunities in construction cybersecurity include harnessing AI-driven tools, enhancing IoT protection, boosting local cybersecurity hardware production, and advancing integrated cyber-physical security. Rising ransomware threats and tariffs prompt inno…
+- Source: https://www.globenewswire.com/news-release/2026/01/28/3227402/28124/en/Construction-Cybersecurity-Research-Report-2026-18-41-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html
+- Date: 2026-01-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Evidence contradicts Trump immigration officials’ accounts of violent encounters (Score: 0)
+- Summary: By Renee Hickman, Ted Hesson, Brad Heath and Kristina CookeWASHINGTON, Jan 27 (Reuters) - U.S. President Donald Trump’s top immigration officials have repeatedly made sta… Leggi
+- Source: https://www.internazionale.it/ultime-notizie-reuters/2026/01/27/evidence-contradicts-trump-immigration-officials-accounts-of-violent-encounters
+- Date: 2026-01-27
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
