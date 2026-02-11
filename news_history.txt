@@ -42632,3 +42632,194 @@ What to think about before using Moltbook or OpenClaw (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-02-11 14:34  ---
+
+Continuous Improvement at Black Hat Europe: Listen to Your Analysts! (They Know What They Need) (Score: 5)
+- Summary: When security analysts lack endpoint context, identifying the root cause of a network connection is difficult. Discover how a simple automation workflow enriched XDR incidents with DNS data in minutes.
+- Source: https://blogs.cisco.com/?p=485274
+- Date: 2026-02-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Black Hat Europe 2025: A Decade of Cisco Security Cloud Innovation (Score: 4)
+- Summary: Building a secure network for thousands of cybersecurity experts in just three days requires intense collaboration. Discover the hardware, software, and engineering behind the Black Hat Europe NOC.
+- Source: https://blogs.cisco.com/?p=485102
+- Date: 2026-02-09
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Carahsoft and Partners to Showcase Cybersecurity, DevSecOps and AI and Machine Learning Solutions at WEST in San Diego, California, Feb. 10-12, 2026 (Score: 3)
+- Summary: RESTON, Va., Feb. 06, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, will be joined by more than 200 of its technology and reseller partners at WEST 2026, the premier naval conference and exposition on the …
+- Source: https://www.globenewswire.com/news-release/2026/02/06/3233844/0/en/Carahsoft-and-Partners-to-Showcase-Cybersecurity-DevSecOps-and-AI-and-Machine-Learning-Solutions-at-WEST-in-San-Diego-California-Feb-10-12-2026.html
+- Date: 2026-02-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Arctiq and Verinext Unite to Create a Global Intelligence-Driven Technology Services Organization (Score: 3)
+- Summary: Arctiq and Verinext together deliver expanded managed IT services, cybersecurity, cloud infrastructure, data and AI, and automation capabilities....
+- Source: https://www.globenewswire.com/news-release/2026/02/04/3232216/0/en/Arctiq-and-Verinext-Unite-to-Create-a-Global-Intelligence-Driven-Technology-Services-Organization.html
+- Date: 2026-02-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IIFL Finance Receives ‘Changemakers 2026’ Award at Palo Alto Networks Cybersecurity Leadership Summit (Score: 2)
+- Summary: IIFL Finance Receives ‘Changemakers 2026’ Award at Palo Alto Networks Cybersecurity Leadership Summit
+- Source: https://www.thehindubusinessline.com/brandhub/pr-release/iifl-finance-receives-changemakers-2026-award-at-palo-alto-networks-cybersecurity-leadership-summit/article70614576.ece
+- Date: 2026-02-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Channel catch-up: News in brief (Score: 2)
+- Summary: Developments this week at Insight, Westcon-Comstor, Infinigate UKI, Assured Data Protection and TP-Link, and Palo Alto Networks
+- Source: https://www.computerweekly.com/microscope/news/366638766/Channel-catch-up-News-in-brief
+- Date: 2026-02-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Hackers Hit Sensitive Targets in 37 Nations in Vast Spying Plot (Score: 2)
+- Summary: An Asian cyber-espionage group has spent the past year breaking into computer systems belonging to governments and critical infrastructure organizations in more than 37 countries, according to the cybersecurity firm Palo Alto Networks, Inc.
+- Source: https://financialpost.com/pmn/business-pmn/hackers-hit-sensitive-targets-in-37-nations-in-vast-spying-plot
+- Date: 2026-02-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Five ways of thinking about Moltbook (Score: 2)
+- Summary: What a social network for AI agents tells us about the future. PLUS: Elon consolidates the X empire
+- Source: https://www.platformer.news/moltbook-ai-agents-security-content-moderation/
+- Date: 2026-02-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Show HN: Runtime Fence – Kill switch for AI agents (Score: 1)
+- Summary: Article URL: https://github.com/RunTimeAdmin/ai-agent-killswitch
+Comments URL: https://news.ycombinator.com/item?id=46928612
+Points: 1
+# Comments: 1
+- Source: https://github.com/RunTimeAdmin/ai-agent-killswitch
+- Date: 2026-02-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Integrating With Cisco XDR at Black Hat Europe (Score: 0)
+- Summary: Investigating indicators of compromise (IOCs) requires a unified view of security data. See how we integrated Cisco XDR with third-party tools and open-source models at Black Hat Europe.
+- Source: https://blogs.cisco.com/?p=485454
+- Date: 2026-02-09
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Black Hat Europe 2025: Firepower IDS Flags Unwanted P2P on Rented Gear (Score: 0)
+- Summary: Rented hardware often carries digital baggage from previous users. Discover how our NOC team used JA3 fingerprints and Cisco XDR to track down unauthorized P2P syncing in London.
+- Source: https://blogs.cisco.com/?p=485146
+- Date: 2026-02-09
+- Vendors: Cisco
+- Topics: None
+
+State actor targets 155 countries in 'Shadow Campaigns' espionage op (Score: 0)
+- Summary: A new state-aligned cyberespionage threat group tracked as TGR-STA-1030/UNC6619, has conducted a global-scale operation dubbed the "Shadow Campaigns," where it targeted government infrastructure in 155 countries. [...]
+- Source: https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/
+- Date: 2026-02-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenClaw Explained: The Good, The Bad, and The Ugly of AI’s Most Viral New Software (Score: 0)
+- Summary: Deep dive into OpenClaw, the viral AI agent formerly known as Moltbot/Clawdbot: It can automate your life, but with critical security risks.
+- Source: https://www.androidheadlines.com/2026/02/openclaw-explained-ai-agent-security-risks-moltbot-clawdbot-features.html
+- Date: 2026-02-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2026 Florida ORBIE Awards (Score: 0)
+- Summary: Top Technology Executives Recognized at the 2026 Florida ORBIE Awards...
+- Source: https://www.globenewswire.com/news-release/2026/02/06/3234064/0/en/Top-Technology-Executives-Recognized-at-the-2026-Florida-ORBIE-Awards.html
+- Date: 2026-02-06
+- Vendors: None
+- Topics: None
+
+ZenO Launches Public Beta Integrated with Story for Real-World Data Collection Powering Physical AI (Score: 0)
+- Summary: Palo Alto, CA, 6th February 2026, Chainwire
+The post ZenO Launches Public Beta Integrated with Story for Real-World Data Collection Powering Physical AI appeared first on The Daily Hodl.
+- Source: https://dailyhodl.com/2026/02/06/zeno-launches-public-beta-integrated-with-story-for-real-world-data-collection-powering-physical-ai/
+- Date: 2026-02-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Toro: A tale of resilience, evolution and commitment (Score: 0)
+- Summary: The Duero River has a
+key role to play in this
+important wine region.
+This region’s past offers important clues on how to face present challenges...
+The post Toro: A tale of resilience, evolution and commitment appeared first on Decanter.
+- Source: https://www.decanter.com/sponsored/toro-a-tale-of-resilience-evolution-and-commitment-573954/
+- Date: 2026-02-06
+- Vendors: None
+- Topics: None
+
+How exposed are software stocks to AI tools? We put vibe-coding to the test (Score: 0)
+- Summary: How real is the AI threat to software companies? CNBC put it to the test by vibe-coding a Monday.com replacement.
+- Source: https://www.cnbc.com/2026/02/05/how-exposed-are-software-stocks-to-ai-tools-we-tested-vibe-coding.html
+- Date: 2026-02-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Reduce Mean Time to Resolution with an observability agent (Score: 0)
+- Summary: In this post, we present an observability agent using OpenSearch Service and Amazon Bedrock AgentCore that can help surface root cause and get insights faster, handle multiple query-correlation cycles, and ultimately reduce MTTR even further.
+- Source: https://aws.amazon.com/blogs/big-data/reduce-mean-time-to-resolution-with-an-observability-agent/
+- Date: 2026-02-05
+- Vendors: None
+- Topics: None
+
+AI Producer Secures Another U.S. Patent for AI-Assisted Live Event Production (Score: 0)
+- Summary: AI Producer Inc. today announced that the company’s patent portfolio now also includes a U.S. granted patent for one of the core methods for AI-Assisted Live Event Production.“Deliberate Delay” (U.S. Patent No. 12494230) PALO ALTO, Calif., Feb. 05, 2026 (GLOB…
+- Source: https://financialpost.com/globe-newswire/ai-producer-secures-another-u-s-patent-for-ai-assisted-live-event-production
+- Date: 2026-02-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI Producer Secures Another U.S. Patent for AI-Assisted Live Event Production (Score: 0)
+- Summary: AI Producer secures another U.S. patent for AI-assisted live event production, reaching key milestones with Microsoft and HP partnerships....
+- Source: https://www.globenewswire.com/news-release/2026/02/05/3233360/0/en/AI-Producer-Secures-Another-U-S-Patent-for-AI-Assisted-Live-Event-Production.html
+- Date: 2026-02-05
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloud-native observability enters a new phase as the market pivots from volume to value (Score: 0)
+- Summary: Observability is entering a new phase. As cloud-native architectures scale and AI workloads intensify, enterprises are being forced to rethink how they collect, manage and pay for telemetry data — a shift that came into sharp focus during last year’s Open Sou…
+- Source: https://siliconangle.com/2026/02/05/observability-cost-ai-scale-chronosphere-opensourcesummit/
+- Date: 2026-02-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories (Score: 0)
+- Summary: This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.
+Researchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity p…
+- Source: https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html
+- Date: 2026-02-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Coffee Break: Elon Musk Headed for Supernova with OpenAI Suit, SpaceX-xAI Merger? (Score: 0)
+- Summary: Elon Musk, on paper the world's wealthiest human, threatens to go supernova under the pressure of his appearances in the Epstein Files, his suit against OpenAI and Microsoft, the merger of SpaceX and xAI (formerly Twitter), and Tesla's ever-changing business …
+- Source: https://www.nakedcapitalism.com/2026/02/elon-musk-supernova-openai-suit-spacex-xai-merger-tesla-epstein.html
+- Date: 2026-02-04
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Peter Attia’s podcast before Epstein dump included creepy questions about sex, rape and young women (Score: 0)
+- Summary: During a recent episode of Peter Attia's podcast "The Drive," he fixated on young women’s sex lives while – at one point musing aloud about how rape might affect a girl’s sex life.
+- Source: https://nypost.com/2026/02/03/us-news/peter-attias-podcast-before-epstein-dump-included-creepy-questions-about-sex-rape/
+- Date: 2026-02-03
+- Vendors: None
+- Topics: None
+
+HP and Karamba Security Sign Multi-Year Licensing Agreement to Protect HP’s Printers (Score: 0)
+- Summary: HP Inc. and Karamba Security extend their XGuard licensing agreement by 3 more years, to harden HP's "the world most secure printers" against cyberattacks...
+- Source: https://www.globenewswire.com/news-release/2026/02/03/3231493/0/en/HP-and-Karamba-Security-Sign-Multi-Year-Licensing-Agreement-to-Protect-HP-s-Printers.html
+- Date: 2026-02-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
