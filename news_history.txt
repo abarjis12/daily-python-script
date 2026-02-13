@@ -43015,3 +43015,190 @@ Coffee Break: Elon Musk Headed for Supernova with OpenAI Suit, SpaceX-xAI Merger
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-02-13 14:11  ---
+
+Check Point Software expects boost from AI cyber protection as Q4 profit jumps (Score: 6)
+- Summary: JERUSALEM, Feb 12 : Check Point Software Technologies beat expectations for fourth-quarter profit on Thursday, and said a fast-growing need to protect computer networks from artificial intelligence-led cyber threats would help drive growth in 2026.Companies a…
+- Source: https://www.channelnewsasia.com/business/check-point-software-expects-boost-ai-cyber-protection-q4-profit-jumps-5926261
+- Date: 2026-02-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Continuous Improvement at Black Hat Europe: Listen to Your Analysts! (They Know What They Need) (Score: 5)
+- Summary: When security analysts lack endpoint context, identifying the root cause of a network connection is difficult. Discover how a simple automation workflow enriched XDR incidents with DNS data in minutes.
+- Source: https://blogs.cisco.com/?p=485274
+- Date: 2026-02-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Black Hat Europe 2025: A Decade of Cisco Security Cloud Innovation (Score: 4)
+- Summary: Building a secure network for thousands of cybersecurity experts in just three days requires intense collaboration. Discover the hardware, software, and engineering behind the Black Hat Europe NOC.
+- Source: https://blogs.cisco.com/?p=485102
+- Date: 2026-02-09
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Carahsoft and Partners to Showcase Cybersecurity, DevSecOps and AI and Machine Learning Solutions at WEST in San Diego, California, Feb. 10-12, 2026 (Score: 3)
+- Summary: RESTON, Va., Feb. 06, 2026 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, will be joined by more than 200 of its technology and reseller partners at WEST 2026, the premier naval conference and exposition on the …
+- Source: https://www.globenewswire.com/news-release/2026/02/06/3233844/0/en/Carahsoft-and-Partners-to-Showcase-Cybersecurity-DevSecOps-and-AI-and-Machine-Learning-Solutions-at-WEST-in-San-Diego-California-Feb-10-12-2026.html
+- Date: 2026-02-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks closes $25bn acquisition of CyberArk (Score: 2)
+- Summary: Palo Alto Networks has finalised its $25bn acquisition of CyberArk to incorporate identity security into its core platform strategy.
+- Source: https://www.verdict.co.uk/palo-alto-networks-cyberark-deal/
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Inc. (PANW) Balances Analyst Cuts With Growth Deals (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best high-growth cybersecurity stocks to buy. On February 10, Stifel trimmed its price target on Palo...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-inc-panw-171750325.html
+- Date: 2026-02-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+mcp-network-jcd 0.3.3 (Score: 2)
+- Summary: MCP server for network device queries (Palo Alto, Cisco IOS via SSH; F5 BIG-IP via iControl REST)
+- Source: https://pypi.org/project/mcp-network-jcd/0.3.3/
+- Date: 2026-02-11
+- Vendors: Cisco
+- Topics: None
+
+mcp-network-jcd 0.3.0 (Score: 2)
+- Summary: MCP server for network device queries (Palo Alto, Cisco IOS via SSH; F5 BIG-IP via iControl REST)
+- Source: https://pypi.org/project/mcp-network-jcd/0.3.0/
+- Date: 2026-02-11
+- Vendors: Cisco
+- Topics: None
+
+IIFL Finance Receives ‘Changemakers 2026’ Award at Palo Alto Networks Cybersecurity Leadership Summit (Score: 2)
+- Summary: IIFL Finance Receives ‘Changemakers 2026’ Award at Palo Alto Networks Cybersecurity Leadership Summit
+- Source: https://www.thehindubusinessline.com/brandhub/pr-release/iifl-finance-receives-changemakers-2026-award-at-palo-alto-networks-cybersecurity-leadership-summit/article70614576.ece
+- Date: 2026-02-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Channel catch-up: News in brief (Score: 2)
+- Summary: Developments this week at Insight, Westcon-Comstor, Infinigate UKI, Assured Data Protection and TP-Link, and Palo Alto Networks
+- Source: https://www.computerweekly.com/microscope/news/366638766/Channel-catch-up-News-in-brief
+- Date: 2026-02-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Show HN: Runtime Fence – Kill switch for AI agents (Score: 1)
+- Summary: Article URL: https://github.com/RunTimeAdmin/ai-agent-killswitch
+Comments URL: https://news.ycombinator.com/item?id=46928612
+Points: 1
+# Comments: 1
+- Source: https://github.com/RunTimeAdmin/ai-agent-killswitch
+- Date: 2026-02-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2026 Winter Olympics TV schedule, Milan Cortina events on today – February 12 (Score: 0)
+- Summary: The 2026 Winter Olympics continue on Thursday, February 12, with another full day of action across the ice and on the slopes. We will get to see the men's hockey tournament kick into full swing with the United States and Canada both hitting the ice for their …
+- Source: https://www.thebiglead.com/2026-winter-olympics-tv-schedule-milan-cortina-events-today-february-12/
+- Date: 2026-02-12
+- Vendors: None
+- Topics: None
+
+Check Point Software Reports Fourth Quarter and 2025 Full Year Results (Score: 0)
+- Summary: TEL AVIV, Israel, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Check Point® Software Technologies Ltd. (NASDAQ: CHKP), today announced its financial results for the fourth quarter and full year ended December 31, 2025.
+- Source: https://www.globenewswire.com/news-release/2026/02/12/3236967/0/en/Check-Point-Software-Reports-Fourth-Quarter-and-2025-Full-Year-Results.html
+- Date: 2026-02-12
+- Vendors: None
+- Topics: None
+
+Show HN: Carapace – A security-hardened Rust alternative to OpenClaw (Score: 0)
+- Summary: Carapace is an open-source personal AI assistant gateway written in Rust. It connects to Anthropic, OpenAI, Ollama, Gemini, and Bedrock, and works through Discord, Telegram, Signal, Slack, and webhooks. Apache-2.0 licensed.I started building it after the Janu…
+- Source: https://github.com/puremachinery/carapace
+- Date: 2026-02-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PAN-SA-2026-0002 Chromium: Monthly Vulnerability Update (February 2026) (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0228 PAN-OS: Improper Validation of Terminal Server Agent Certificate (Severity: LOW) CVE-2025-4235 User-ID Credential Agent: Cleartext Exposure of Service Account password (Severity: MEDIUM) CVE-2025-0140 GlobalProtect App: Non Admi…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0002
+- Date: 2026-02-11
+- Vendors: None
+- Topics: None
+
+Historic move: Palo Alto completes CyberArk acquisition, to list on TASE (Score: 0)
+- Summary: The cybersecurity giant, founded by Israeli Nir Zuk and led by Nikesh Arora, is positioning identity security as a central pillar of its platform strategy.
+- Source: https://www.israelnationalnews.com/news/422280
+- Date: 2026-02-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AlphaTON Capital Corp Announces Election of former Chairman of the Council of Federal Home Loan Banks and Stanford University Fellow, F. Daniel Siciliano, to the Board of Directors (Score: 0)
+- Summary: AlphaTON Capital Corp Announces Election of former Chairman of the Council of Federal Home Loan Banks and Stanford University Fellow, F. Daniel Siciliano....
+- Source: https://www.globenewswire.com/news-release/2026/02/10/3235700/0/en/AlphaTON-Capital-Corp-Announces-Election-of-former-Chairman-of-the-Council-of-Federal-Home-Loan-Banks-and-Stanford-University-Fellow-F-Daniel-Siciliano-to-the-Board-of-Directors.html
+- Date: 2026-02-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Synaptive Medical Announces Formation of Clinical Advisory Board Comprised of Global Surgical and Imaging Leaders (Score: 0)
+- Summary: Distinguished clinician-scientists provide real-world operating-room and imaging insight guiding the next generation of Synaptive’s surgical visualization, navigation, and MRI platforms TORONTO — Synaptive Medical today announced the formation of its Clinical…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/synaptive-medical-announces-formation-of-clinical-advisory-board-comprised-of-global-surgical-and-imaging-leaders
+- Date: 2026-02-10
+- Vendors: None
+- Topics: None
+
+Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools (Score: 0)
+- Summary: Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own vulnerable driver (BYOVD) component for defense evasion purposes within the ransomware payload itself.
+BYOVD r…
+- Source: https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html
+- Date: 2026-02-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Integrating With Cisco XDR at Black Hat Europe (Score: 0)
+- Summary: Investigating indicators of compromise (IOCs) requires a unified view of security data. See how we integrated Cisco XDR with third-party tools and open-source models at Black Hat Europe.
+- Source: https://blogs.cisco.com/?p=485454
+- Date: 2026-02-09
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Black Hat Europe 2025: Firepower IDS Flags Unwanted P2P on Rented Gear (Score: 0)
+- Summary: Rented hardware often carries digital baggage from previous users. Discover how our NOC team used JA3 fingerprints and Cisco XDR to track down unauthorized P2P syncing in London.
+- Source: https://blogs.cisco.com/?p=485146
+- Date: 2026-02-09
+- Vendors: Cisco
+- Topics: None
+
+State actor targets 155 countries in 'Shadow Campaigns' espionage op (Score: 0)
+- Summary: A new state-aligned cyberespionage threat group tracked as TGR-STA-1030/UNC6619, has conducted a global-scale operation dubbed the "Shadow Campaigns," where it targeted government infrastructure in 155 countries. [...]
+- Source: https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/
+- Date: 2026-02-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenClaw Explained: The Good, The Bad, and The Ugly of AI’s Most Viral New Software (Score: 0)
+- Summary: Deep dive into OpenClaw, the viral AI agent formerly known as Moltbot/Clawdbot: It can automate your life, but with critical security risks.
+- Source: https://www.androidheadlines.com/2026/02/openclaw-explained-ai-agent-security-risks-moltbot-clawdbot-features.html
+- Date: 2026-02-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2026 Florida ORBIE Awards (Score: 0)
+- Summary: Top Technology Executives Recognized at the 2026 Florida ORBIE Awards...
+- Source: https://www.globenewswire.com/news-release/2026/02/06/3234064/0/en/Top-Technology-Executives-Recognized-at-the-2026-Florida-ORBIE-Awards.html
+- Date: 2026-02-06
+- Vendors: None
+- Topics: None
+
+ZenO Launches Public Beta Integrated with Story for Real-World Data Collection Powering Physical AI (Score: 0)
+- Summary: Palo Alto, CA, 6th February 2026, Chainwire
+The post ZenO Launches Public Beta Integrated with Story for Real-World Data Collection Powering Physical AI appeared first on The Daily Hodl.
+- Source: https://dailyhodl.com/2026/02/06/zeno-launches-public-beta-integrated-with-story-for-real-world-data-collection-powering-physical-ai/
+- Date: 2026-02-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
