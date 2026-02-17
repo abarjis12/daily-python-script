@@ -43778,3 +43778,194 @@ Integrating With Cisco XDR at Black Hat Europe (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-02-17 14:26  ---
+
+Check Point Software expects boost from AI cyber protection as Q4 profit jumps (Score: 6)
+- Summary: JERUSALEM, Feb 12 : Check Point Software Technologies beat expectations for fourth-quarter profit on Thursday, and said a fast-growing need to protect computer networks from artificial intelligence-led cyber threats would help drive growth in 2026.Companies a…
+- Source: https://www.channelnewsasia.com/business/check-point-software-expects-boost-ai-cyber-protection-q4-profit-jumps-5926261
+- Date: 2026-02-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0229 PAN-OS: Denial of Service in Advanced DNS Security Feature (palo alto networks, 2026.02.12) (Score: 2)
+- Summary: PAN-OS 11.2.0 / 12.1.2 ャ
+Advanced DNS Security (ADNS) 罘ャャ宴窿激ケ⒢若障Cloud NGFW Prisma Access 罨
+CVE-2026-0229
+
+
+
+Required Configuration for Exposure
+The firewall must have Advanced DNS Security (ADNS) enabled and a spyware profile with actions configured to block…
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213_panos
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+iflow-mcp_cdot65-palo-alto-mcp 0.1.0 (Score: 2)
+- Summary: MCP server for Palo Alto Networks NGFW integration
+- Source: https://pypi.org/project/iflow-mcp-cdot65-palo-alto-mcp/0.1.0/
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+iflow-mcp_cdot65-palo-alto-mcp added to PyPI (Score: 2)
+- Summary: MCP server for Palo Alto Networks NGFW integration
+- Source: https://pypi.org/project/iflow-mcp-cdot65-palo-alto-mcp/
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks closes $25bn acquisition of CyberArk (Score: 2)
+- Summary: Palo Alto Networks has finalised its $25bn acquisition of CyberArk to incorporate identity security into its core platform strategy.
+- Source: https://www.verdict.co.uk/palo-alto-networks-cyberark-deal/
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Inc. (PANW) Balances Analyst Cuts With Growth Deals (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best high-growth cybersecurity stocks to buy. On February 10, Stifel trimmed its price target on Palo...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-inc-panw-171750325.html
+- Date: 2026-02-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+mcp-network-jcd 0.3.3 (Score: 2)
+- Summary: MCP server for network device queries (Palo Alto, Cisco IOS via SSH; F5 BIG-IP via iControl REST)
+- Source: https://pypi.org/project/mcp-network-jcd/0.3.3/
+- Date: 2026-02-11
+- Vendors: Cisco
+- Topics: None
+
+mcp-network-jcd 0.3.0 (Score: 2)
+- Summary: MCP server for network device queries (Palo Alto, Cisco IOS via SSH; F5 BIG-IP via iControl REST)
+- Source: https://pypi.org/project/mcp-network-jcd/0.3.0/
+- Date: 2026-02-11
+- Vendors: Cisco
+- Topics: None
+
+IIFL Finance Receives ‘Changemakers 2026’ Award at Palo Alto Networks Cybersecurity Leadership Summit (Score: 2)
+- Summary: IIFL Finance Receives ‘Changemakers 2026’ Award at Palo Alto Networks Cybersecurity Leadership Summit
+- Source: https://www.thehindubusinessline.com/brandhub/pr-release/iifl-finance-receives-changemakers-2026-award-at-palo-alto-networks-cybersecurity-leadership-summit/article70614576.ece
+- Date: 2026-02-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware (Score: 0)
+- Summary: This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question.
+Another signal: attackers are mixing old and new…
+- Source: https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html
+- Date: 2026-02-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Jersey Shore cop is arresting judges on 'American Idol' (Score: 0)
+- Summary: Julia Sienna Santiago, a special officer in the Sea Girt Police Department, will appear Monday, Feb. 16 on 'American Idol'.
+- Source: https://www.app.com/story/entertainment/music/2026/02/16/american-idol-2026-judges-julia-sienna-police/88698546007/
+- Date: 2026-02-16
+- Vendors: None
+- Topics: None
+
+Digital Immune System Market Size is Poised to Reach USD 98.80 Billion by 2035; Growth is Driven by the Surging Frequency and Complexity of Cyberattacks Globally (Score: 0)
+- Summary: Digital Immune System Market to reach USD 98.80 Billion by 2035, driven by AI-powered threat detection, cloud adoption, and rising global cyberattacks....
+- Source: https://www.globenewswire.com/news-release/2026/02/16/3238566/0/en/Digital-Immune-System-Market-Size-is-Poised-to-Reach-USD-98-80-Billion-by-2035-Growth-is-Driven-by-the-Surging-Frequency-and-Complexity-of-Cyberattacks-Globally.html
+- Date: 2026-02-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Who’s Left In the 10x ARR Club? The Incredible Shrinking Elite of Public B2B Companies Still Trading at 10x+ Revenue. But … The Best Is Yet To Come. (Score: 0)
+- Summary: There used to be a lot of companies in the 10x ARR Club. In Q4 2020, 60% of public B2B companies traded at 10x revenue or higher. Thirty-five traded above 20x. Asana hit 89x. Today it’s at 3x ARR.The median SaaS multiple was north of 18x. That world is not ju…
+- Source: https://www.saastr.com/whos-left-in-the-10x-arr-club-the-incredible-shrinking-elite-of-public-b2b-companies-still-trading-at-10x-revenue-but-the-best-is-yet-to-come/
+- Date: 2026-02-14
+- Vendors: None
+- Topics: None
+
+Mark Zuckerberg expands billionaire “bug-out” empire with Miami mega-mansion (Score: 0)
+- Summary: Billionaires like Mark Zuckerberg ($70M Hawaiian bunker) and Bill Gates are constructing fortified underground shelters stocked with independent food, energy and security systems, anticipating prolonged societal collapse. Zuckerberg’s latest $150–200M fortres…
+- Source: https://www.naturalnews.com/2026-02-14-mark-zuckerberg-expands-billionaire-bug-out-empire.html
+- Date: 2026-02-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic and Databricks raise billions more. Next stop: IPOs? (Score: 0)
+- Summary: Investors are still looking askance at both software-as-a-service and traditional companies that might get disintermediated by AI as well as the AI companies and cloud providers that are spending all that money, wondering if they’ll get the return they’re hop…
+- Source: https://siliconangle.com/2026/02/13/anthropic-databricks-raise-billions-next-stop-ipos/
+- Date: 2026-02-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A scary SaaS selloff changes the calculus for startups and private markets: “code alone was never a real moat” (Score: 0)
+- Summary: On this Friday the 13th, I didn’t have to try hard to come up with a scary SaaS story for you.
+- Source: https://fortune.com/2026/02/13/scary-saas-selloff-changes-calculus-startups-private-markets-code-alone-was-never-a-real-moat/
+- Date: 2026-02-13
+- Vendors: None
+- Topics: None
+
+Omantel launches “Otech,” the Provider of Technologies of the Future and Enabler of Digital Transformation, and signs strategic partnerships (Score: 0)
+- Summary: Omantel launches “Otech,” the Provider of Technologies of the Future and Enabler of Digital Transformation, and signs strategic partnerships....
+- Source: https://www.globenewswire.com/news-release/2026/02/13/3237972/0/en/Omantel-launches-Otech-the-Provider-of-Technologies-of-the-Future-and-Enabler-of-Digital-Transformation-and-signs-strategic-partnerships.html
+- Date: 2026-02-13
+- Vendors: None
+- Topics: None
+
+2026 Winter Olympics TV schedule, Milan Cortina events on today – February 12 (Score: 0)
+- Summary: The 2026 Winter Olympics continue on Thursday, February 12, with another full day of action across the ice and on the slopes. We will get to see the men's hockey tournament kick into full swing with the United States and Canada both hitting the ice for their …
+- Source: https://www.thebiglead.com/2026-winter-olympics-tv-schedule-milan-cortina-events-today-february-12/
+- Date: 2026-02-12
+- Vendors: None
+- Topics: None
+
+Check Point Software Reports Fourth Quarter and 2025 Full Year Results (Score: 0)
+- Summary: TEL AVIV, Israel, Feb. 12, 2026 (GLOBE NEWSWIRE) -- Check Point® Software Technologies Ltd. (NASDAQ: CHKP), today announced its financial results for the fourth quarter and full year ended December 31, 2025.
+- Source: https://www.globenewswire.com/news-release/2026/02/12/3236967/0/en/Check-Point-Software-Reports-Fourth-Quarter-and-2025-Full-Year-Results.html
+- Date: 2026-02-12
+- Vendors: None
+- Topics: None
+
+Show HN: Carapace – A security-hardened Rust alternative to OpenClaw (Score: 0)
+- Summary: Carapace is an open-source personal AI assistant gateway written in Rust. It connects to Anthropic, OpenAI, Ollama, Gemini, and Bedrock, and works through Discord, Telegram, Signal, Slack, and webhooks. Apache-2.0 licensed.I started building it after the Janu…
+- Source: https://github.com/puremachinery/carapace
+- Date: 2026-02-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PAN-SA-2026-0002 Chromium: Monthly Vulnerability Update (February 2026) (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0228 PAN-OS: Improper Validation of Terminal Server Agent Certificate (Severity: LOW) CVE-2025-4235 User-ID Credential Agent: Cleartext Exposure of Service Account password (Severity: MEDIUM) CVE-2025-0140 GlobalProtect App: Non Admi…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0002
+- Date: 2026-02-11
+- Vendors: None
+- Topics: None
+
+Historic move: Palo Alto completes CyberArk acquisition, to list on TASE (Score: 0)
+- Summary: The cybersecurity giant, founded by Israeli Nir Zuk and led by Nikesh Arora, is positioning identity security as a central pillar of its platform strategy.
+- Source: https://www.israelnationalnews.com/news/422280
+- Date: 2026-02-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AlphaTON Capital Corp Announces Election of former Chairman of the Council of Federal Home Loan Banks and Stanford University Fellow, F. Daniel Siciliano, to the Board of Directors (Score: 0)
+- Summary: AlphaTON Capital Corp Announces Election of former Chairman of the Council of Federal Home Loan Banks and Stanford University Fellow, F. Daniel Siciliano....
+- Source: https://www.globenewswire.com/news-release/2026/02/10/3235700/0/en/AlphaTON-Capital-Corp-Announces-Election-of-former-Chairman-of-the-Council-of-Federal-Home-Loan-Banks-and-Stanford-University-Fellow-F-Daniel-Siciliano-to-the-Board-of-Directors.html
+- Date: 2026-02-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Synaptive Medical Announces Formation of Clinical Advisory Board Comprised of Global Surgical and Imaging Leaders (Score: 0)
+- Summary: Distinguished clinician-scientists provide real-world operating-room and imaging insight guiding the next generation of Synaptive’s surgical visualization, navigation, and MRI platforms TORONTO — Synaptive Medical today announced the formation of its Clinical…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/synaptive-medical-announces-formation-of-clinical-advisory-board-comprised-of-global-surgical-and-imaging-leaders
+- Date: 2026-02-10
+- Vendors: None
+- Topics: None
+
+Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools (Score: 0)
+- Summary: Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own vulnerable driver (BYOVD) component for defense evasion purposes within the ransomware payload itself.
+BYOVD r…
+- Source: https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html
+- Date: 2026-02-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
