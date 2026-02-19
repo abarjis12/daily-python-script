@@ -44167,3 +44167,206 @@ AlphaTON Capital Corp Announces Election of former Chairman of the Council of Fe
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-02-19 14:28  ---
+
+Check Point Software expects boost from AI cyber protection as Q4 profit jumps (Score: 6)
+- Summary: JERUSALEM, Feb 12 : Check Point Software Technologies beat expectations for fourth-quarter profit on Thursday, and said a fast-growing need to protect computer networks from artificial intelligence-led cyber threats would help drive growth in 2026.Companies a…
+- Source: https://www.channelnewsasia.com/business/check-point-software-expects-boost-ai-cyber-protection-q4-profit-jumps-5926261
+- Date: 2026-02-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies (Score: 4)
+- Summary: Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legi…
+- Source: https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html
+- Date: 2026-02-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto CEO says AI isn’t great for business, yet (Score: 2)
+- Summary: Sees little enterprise AI adoption other than coding assistants, buys Koi for what comes next If enterprises are implementing AI, they’re not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer ta…
+- Source: https://www.theregister.com/2026/02/18/palo_alto_q2_26/
+- Date: 2026-02-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Risky Business #825 -- Palo Alto Networks blames it on the boogie (Score: 2)
+- Summary: On this week’s show, Patrick Gray, Adam Boileau and James WIlson discuss the week’s cybersecurity news. They cover:
+
+<ul>
+ <li>Palo Alto threat researchers want to attribute to China, but management says shush</li>
+ <li>An increasing proportion of ransomware …
+- Source: https://risky.biz/RB825/
+- Date: 2026-02-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks shares fall after outlook disappoints despite second quarter beat (Score: 2)
+- Summary: Shares in Palo Alto Networks Inc. were down more than 5% in late trading today after the network management and security firm reported earnings and revenue beats in its fiscal 2026 second quarter but fell short of expectations with some of its outlooks. For t…
+- Source: https://siliconangle.com/2026/02/17/palo-alto-networks-shares-fall-outlook-disappoints-despite-second-quarter-beat/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.5.2 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.5.2/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks acquires file security startup Koi for reported $400M (Score: 2)
+- Summary: Palo Alto Networks Inc. is acquiring Koi Security Ltd., a startup that helps enterprises prevent their employees from downloading risky files. The companies announced the deal today without disclosing the financial terms. According to Calcalist, the transacti…
+- Source: https://siliconangle.com/2026/02/17/palo-alto-networks-acquires-file-security-startup-koi-reported-400m/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.5.0 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.5.0/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.4.2 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.4.2/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks (PANW) Expands Cloud-Delivered Security Platform to Address Hybrid Complexity (Score: 2)
+- Summary: Sands Capital Management, LLC‘s Technology Innovators Fund released its Q4 2025 investor letter for “Technology Innovators Fund”. A copy of the letter can be...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-panw-expands-134320267.html
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+My Day Getting My Hands Dirty with an NDR System (Score: 2)
+- Summary: My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?
+
+
+
+
+
+
+My objective
+As someo…
+- Source: https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html
+- Date: 2026-02-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks: Global incident report 2026 analysis (Score: 2)
+- Summary: Palo Alto Networks held its Ignite on Tour London 2026 event recently and an element of the organisation’s presentations mentioned the now-released Global Incident Report 2026. It’s an annual study ...
+- Source: https://www.computerweekly.com/blog/CW-Developer-Network/Palo-Alto-Networks-Global-incident-report-2026-analysis
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: None
+
+CVE-2026-0229 PAN-OS: Denial of Service in Advanced DNS Security Feature (palo alto networks, 2026.02.12) (Score: 2)
+- Summary: PAN-OS 11.2.0 / 12.1.2 ャ
+Advanced DNS Security (ADNS) 罘ャャ宴窿激ケ⒢若障Cloud NGFW Prisma Access 罨
+CVE-2026-0229
+
+
+
+Required Configuration for Exposure
+The firewall must have Advanced DNS Security (ADNS) enabled and a spyware profile with actions configured to block…
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213_panos
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+iflow-mcp_cdot65-palo-alto-mcp 0.1.0 (Score: 2)
+- Summary: MCP server for Palo Alto Networks NGFW integration
+- Source: https://pypi.org/project/iflow-mcp-cdot65-palo-alto-mcp/0.1.0/
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+iflow-mcp_cdot65-palo-alto-mcp added to PyPI (Score: 2)
+- Summary: MCP server for Palo Alto Networks NGFW integration
+- Source: https://pypi.org/project/iflow-mcp-cdot65-palo-alto-mcp/
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks closes $25bn acquisition of CyberArk (Score: 2)
+- Summary: Palo Alto Networks has finalised its $25bn acquisition of CyberArk to incorporate identity security into its core platform strategy.
+- Source: https://www.verdict.co.uk/palo-alto-networks-cyberark-deal/
+- Date: 2026-02-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Inc. (PANW) Balances Analyst Cuts With Growth Deals (Score: 2)
+- Summary: Palo Alto Networks Inc. (NASDAQ:PANW) is one of the best high-growth cybersecurity stocks to buy. On February 10, Stifel trimmed its price target on Palo...
+- Source: https://finance.yahoo.com/news/palo-alto-networks-inc-panw-171750325.html
+- Date: 2026-02-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+mcp-network-jcd 0.3.3 (Score: 2)
+- Summary: MCP server for network device queries (Palo Alto, Cisco IOS via SSH; F5 BIG-IP via iControl REST)
+- Source: https://pypi.org/project/mcp-network-jcd/0.3.3/
+- Date: 2026-02-11
+- Vendors: Cisco
+- Topics: None
+
+mcp-network-jcd 0.3.0 (Score: 2)
+- Summary: MCP server for network device queries (Palo Alto, Cisco IOS via SSH; F5 BIG-IP via iControl REST)
+- Source: https://pypi.org/project/mcp-network-jcd/0.3.0/
+- Date: 2026-02-11
+- Vendors: Cisco
+- Topics: None
+
+capAI PLC to Present at the AI & Technology Virtual Investor Conference – Strategic Platform Update (Score: 0)
+- Summary: Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com PALO ALTO, Calif., Feb. 18, 2026 (GLOBE NEWSWIRE) — capAI PLC (LSE: CPAI; OTCQB: CPIQF), a publicly listed AI-focused …
+- Source: https://financialpost.com/globe-newswire/capai-plc-to-present-at-the-ai-technology-virtual-investor-conference-strategic-platform-update
+- Date: 2026-02-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+capAI PLC to Present at the AI & Technology Virtual Investor Conference – Strategic Platform Update (Score: 0)
+- Summary: Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualI…
+- Source: https://www.globenewswire.com/news-release/2026/02/18/3240333/0/en/capAI-PLC-to-Present-at-the-AI-Technology-Virtual-Investor-Conference-Strategic-Platform-Update.html
+- Date: 2026-02-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2026 Winter Olympics TV schedule, Milan Cortina events on today – February 18 (Score: 0)
+- Summary: Another full day of action is underway at the 2026 Winter Olympics, with several medal events and the quarterfinals of the men’s hockey tournament throughout the day. The United States faces Sweden with a shot to guarantee a medal game,…
+- Source: https://www.thebiglead.com/2026-winter-olympics-tv-schedule-milan-cortina-events-wednesday-february-18/
+- Date: 2026-02-18
+- Vendors: None
+- Topics: None
+
+One stolen credential is all it takes to compromise everything (Score: 0)
+- Summary: Attackers often gain access through routine workflows like email logins, browser sessions, and SaaS integrations. A single stolen credential can give them a quick path to move across systems when access permissions are broad and visibility is fragmented. That…
+- Source: https://www.helpnetsecurity.com/2026/02/18/identity-based-cyberattacks-compromise/
+- Date: 2026-02-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security Money: The Index and NASDAQ Diverge - BSW #435 (Score: 0)
+- Summary: The Security Weekly 25 index and the NASDAQ diverge. Funding and acquisitions continue shift to AI. Are security stocks out of favor? Netskope enters the index, but does not replace CyberArk, as Thoma Bravo buys Verint. We’ll dig into all of this and more! Th…
+- Source: https://sites.libsyn.com/18678/security-money-the-index-and-nasdaq-diverge-bsw-435
+- Date: 2026-02-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+San Jose Can Protect Immigrants by Ending Flock Surveillance System (Score: 0)
+- Summary: (This appeared as an op-ed published February 12, 2026 in the San Jose Spotlight, written by Huy Tran (SIREN), Jeffrey Wang (CAIR-SFBA), and Jennifer Pinsof.)
+
+As ICE and other federal agencies continue their assault on civil liberties, local leaders are ste…
+- Source: https://www.eff.org/deeplinks/2026/02/op-ed-san-jose-can-protect-immigrants-ending-flock-surveillance-system
+- Date: 2026-02-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
