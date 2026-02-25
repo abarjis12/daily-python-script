@@ -45354,3 +45354,190 @@ Cloudastructure Deploys Solar-Powered AI Security Enclosures Across Multiple Sta
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-02-25 14:29  ---
+
+Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies (Score: 4)
+- Summary: Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legi…
+- Source: https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html
+- Date: 2026-02-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Talkdesk extends agentic AI with cross-system business workflow automation (Score: 3)
+- Summary: Talkdesk is advancing Customer Experience Automation with the launch of Automation Flows, a new orchestration engine that automates workflows. ...
+- Source: https://www.globenewswire.com/news-release/2026/02/23/3242832/0/en/Talkdesk-extends-agentic-AI-with-cross-system-business-workflow-automation.html
+- Date: 2026-02-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyber startup Cato Networks tops revenue milestone as CEO says AI is helping business (Score: 2)
+- Summary: Cato CEO Shlomo Kramer co-founded Israeli cybersecurity firm Check Point Software and was an early investor in Palo Alto Networks.
+- Source: https://www.cnbc.com/2026/02/24/cybersecurity-startup-cato-networks-revenue-ai.html
+- Date: 2026-02-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Partners With Cybersecurity Leaders to Secure OT and ICS Infrastructure (Score: 2)
+- Summary: NVIDIA is partnering with Akamai, Forescout, Palo Alto Networks, Siemens, and Xage Security to accelerate computing and AI in operational technology (OT) and industrial control system (ICS) environments. The goal is to improve real-time threat detection and r…
+- Source: https://www.storagereview.com/news/nvidia-partners-with-cybersecurity-leaders-to-secure-ot-and-ics-infrastructure
+- Date: 2026-02-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.8.0 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.8.0/
+- Date: 2026-02-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Broadcom Introduces Industry’s First 6G Digital Front-End SoC for Massive MIMO (Score: 2)
+- Summary: New 0.4-8.5GHz CMOS radio digital front-end solution delivers breakthrough RF performance and power consumption for next-generation 5G Advanced and 6G networks New 0.4-8.5GHz CMOS radio digital front-end solution delivers breakthrough RF performance and power…
+- Source: https://www.globenewswire.com/news-release/2026/02/19/3241148/19933/en/Broadcom-Introduces-Industry-s-First-6G-Digital-Front-End-SoC-for-Massive-MIMO.html
+- Date: 2026-02-19
+- Vendors: None
+- Topics: None
+
+pan-insights-sdk added to PyPI (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Prisma Access Insights 3.0 API
+- Source: https://pypi.org/project/pan-insights-sdk/
+- Date: 2026-02-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto CEO says AI isn’t great for business, yet (Score: 2)
+- Summary: Sees little enterprise AI adoption other than coding assistants, buys Koi for what comes next If enterprises are implementing AI, they’re not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer ta…
+- Source: https://www.theregister.com/2026/02/18/palo_alto_q2_26/
+- Date: 2026-02-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Risky Business #825 -- Palo Alto Networks blames it on the boogie (Score: 2)
+- Summary: On this week’s show, Patrick Gray, Adam Boileau and James WIlson discuss the week’s cybersecurity news. They cover:
+
+<ul>
+ <li>Palo Alto threat researchers want to attribute to China, but management says shush</li>
+ <li>An increasing proportion of ransomware …
+- Source: https://risky.biz/RB825/
+- Date: 2026-02-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks shares fall after outlook disappoints despite second quarter beat (Score: 2)
+- Summary: Shares in Palo Alto Networks Inc. were down more than 5% in late trading today after the network management and security firm reported earnings and revenue beats in its fiscal 2026 second quarter but fell short of expectations with some of its outlooks. For t…
+- Source: https://siliconangle.com/2026/02/17/palo-alto-networks-shares-fall-outlook-disappoints-despite-second-quarter-beat/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.5.2 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.5.2/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks acquires file security startup Koi for reported $400M (Score: 2)
+- Summary: Palo Alto Networks Inc. is acquiring Koi Security Ltd., a startup that helps enterprises prevent their employees from downloading risky files. The companies announced the deal today without disclosing the financial terms. According to Calcalist, the transacti…
+- Source: https://siliconangle.com/2026/02/17/palo-alto-networks-acquires-file-security-startup-koi-reported-400m/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.5.0 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.5.0/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.4.2 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.4.2/
+- Date: 2026-02-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Endpoint Protection Platform Market Surges to $29.0 billion by 2029 | CAGR 10.7% (Score: 0)
+- Summary: Delray Beach, FL, Feb. 24, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global Endpoint Protection Platform Market size is projected to grow from USD 17.4 billion in 2024 to USD 29.0 billion by 2029 at a Compound Annual Growth Rate (CAGR) of …
+- Source: https://www.globenewswire.com/news-release/2026/02/24/3243635/0/en/Endpoint-Protection-Platform-Market-Surges-to-29-0-billion-by-2029-CAGR-10-7.html
+- Date: 2026-02-24
+- Vendors: None
+- Topics: None
+
+Claude Code Security Causes A SaaS-Pocalypse In Cybersecurity (Score: 0)
+- Summary: We have seen this pattern before, even if the specifics look different. Think back to the day AWS introduced GuardDuty, when Microsoft folded Defender for Endpoint into its enterprise licensing commitments and launched Microsoft Sentinel, or when Google acqui…
+- Source: https://www.forrester.com/blogs/claude-code-security-causes-a-saas-pocalypse-in-cybersecurity/
+- Date: 2026-02-23
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure (Score: 0)
+- Summary: As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on e…
+- Source: https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/
+- Date: 2026-02-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A CEO Says You Should Ignore the AI Panic and Keeping Buy This 1 Cybersecurity Stock (Score: 0)
+- Summary: CEO Nikesh Arora says AI is not a threat to cybersecurity anytime soon.
+- Source: https://www.barchart.com/story/news/366574/a-ceo-says-you-should-ignore-the-ai-panic-and-keeping-buy-this-1-cybersecurity-stock
+- Date: 2026-02-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare One is the first SASE offering modern post-quantum encryption across the full platform (Score: 0)
+- Summary: We’ve upgraded Cloudflare One to support post-quantum encryption by implementing the latest IETF drafts for hybrid ML-KEM into our Cloudflare IPsec product. This extends post-quantum encryption across all major Cloudflare One on-ramps and off-ramps.
+- Source: https://blog.cloudflare.com/post-quantum-sase/
+- Date: 2026-02-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Supreme Court Strikes Down IEEPA Tariffs (Score: 0)
+- Summary: Congratulations to both the Women’s and Men’s hockey teams for their Gold Medal victories over Team Canada! I know our neighbors to the north are feeling glum, but there is always 2030 in the French Alps.
+- Source: https://chinaarticles.substack.com/p/the-supreme-court-strikes-down-ieepa
+- Date: 2026-02-23
+- Vendors: None
+- Topics: None
+
+55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' (Score: 0)
+- Summary: In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines.
+- Source: https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued
+- Date: 2026-02-22
+- Vendors: None
+- Topics: None
+
+Top Technology Executives Recognized at the 2026 Ohio CIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/02/20/3242090/0/en/Top-Technology-Executives-Recognized-at-the-2026-Ohio-CIO-ORBIE-Awards.html
+- Date: 2026-02-20
+- Vendors: None
+- Topics: None
+
+Syracuse women’s lacrosse: Arduous early season schedule continues as Orange travel to Stanford (Score: 0)
+- Summary: Don’t look now, but it’s another top-ranked opponent in this crazy start to the 2026 schedule.
+- Source: https://www.nunesmagician.com/syracuse-womens-lacrosse-orange-thorpe/105116/syracuse-womens-lacrosse-arduous-early-season-schedule-continues-as-orange-travel-to-stanford
+- Date: 2026-02-20
+- Vendors: None
+- Topics: None
+
+BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration (Score: 0)
+- Summary: Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and 
+The vul…
+- Source: https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html
+- Date: 2026-02-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+It’s still frothy in AI, but memory chips are now the bottleneck (Score: 0)
+- Summary: You know AI is still pretty frothy when a company with no product or even publicly stated plans for one gets a billion dollars from the likes of Sequoia and maybe Nvidia, Alphabet and Microsoft. But that’s what Ineffable Intelligence just did. Fei-Fei Li also…
+- Source: https://siliconangle.com/2026/02/20/still-frothy-ai-memory-chips-now-bottleneck/
+- Date: 2026-02-20
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
