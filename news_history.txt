@@ -45906,3 +45906,187 @@ Top Technology Executives Recognized at the 2026 Ohio CIO ORBIE Awards (Score: 0
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-02-28 13:51  ---
+
+Industrial networks continue to leak onto the internet (Score: 5)
+- Summary: Industrial operators continue to run remote access portals, building automation servers, and other operational technology services on public IP address ranges. Palo Alto Networks, Siemens, and Idaho National Laboratory describe the scope of that exposure in t…
+- Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+- Date: 2026-02-27
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Talkdesk extends agentic AI with cross-system business workflow automation (Score: 3)
+- Summary: Talkdesk is advancing Customer Experience Automation with the launch of Automation Flows, a new orchestration engine that automates workflows. ...
+- Source: https://www.globenewswire.com/news-release/2026/02/23/3242832/0/en/Talkdesk-extends-agentic-AI-with-cross-system-business-workflow-automation.html
+- Date: 2026-02-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+An Edgy Ska-Core Cover of the Rage Against the Machine Anthem ‘Killing in the Name’ (Score: 2)
+- Summary: Musician JER of Ska Tune Network performed an edgy ska-core cover of the Rage Against the Machine anthem "Killing in the Name". 
+subscribe to the Laughing Squid Newsletter
+The post An Edgy Ska-Core Cover of the Rage Against the Machine Anthem ‘Killing in the …
+- Source: https://laughingsquid.com/killing-in-the-name-ska-core/
+- Date: 2026-02-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-os-python 1.12.4 (Score: 2)
+- Summary: Framework for interacting with Palo Alto Networks devices via API
+- Source: https://pypi.org/project/pan-os-python/1.12.4/
+- Date: 2026-02-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-scm-sdk 0.10.3 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.10.3/
+- Date: 2026-02-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyber startup Cato Networks tops revenue milestone as CEO says AI is helping business (Score: 2)
+- Summary: Cato CEO Shlomo Kramer co-founded Israeli cybersecurity firm Check Point Software and was an early investor in Palo Alto Networks.
+- Source: https://www.cnbc.com/2026/02/24/cybersecurity-startup-cato-networks-revenue-ai.html
+- Date: 2026-02-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Partners With Cybersecurity Leaders to Secure OT and ICS Infrastructure (Score: 2)
+- Summary: NVIDIA is partnering with Akamai, Forescout, Palo Alto Networks, Siemens, and Xage Security to accelerate computing and AI in operational technology (OT) and industrial control system (ICS) environments. The goal is to improve real-time threat detection and r…
+- Source: https://www.storagereview.com/news/nvidia-partners-with-cybersecurity-leaders-to-secure-ot-and-ics-infrastructure
+- Date: 2026-02-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zscaler posts wider quarterly loss on higher spending; shares down 9% (Score: 0)
+- Summary: The results come when IT budgets remain tight and clients spend ​cautiously on large deals amid economic uncertainty, even though cybersecurity budgets face less pressure ​than general capital outlays.
+- Source: https://economictimes.indiatimes.com/tech/technology/zscaler-posts-wider-quarterly-loss-on-higher-spending-shares-down-9/articleshow/128835400.cms
+- Date: 2026-02-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zscaler posts wider quarterly loss on higher spending; shares down 9% (Score: 0)
+- Summary: Feb 26 : Zscaler on Thursday posted a wider net loss in the second quarter, citing higher spending on sales, marketing, and research and development in a competitive market, sending shares of the cloud security firm down roughly 9 per cent in extended trading…
+- Source: https://www.channelnewsasia.com/business/zscaler-posts-wider-quarterly-loss-higher-spending-shares-down-9-5957001
+- Date: 2026-02-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI Is Taking Over Cybersecurity - PSW #915 (Score: 0)
+- Summary: First up is a technical segment called "Paul's Linux Hacks". I finally got around to releasing a bunch of scripts and tutorials for Linux that I've created over the years. We'll go over scripts that can give you a supply chain security report and help you upd…
+- Source: https://sites.libsyn.com/18678/ai-is-taking-over-cybersecurity-psw-915
+- Date: 2026-02-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2026 DallasCISO ORBIE Awards Recognize Top Security Executives (Score: 0)
+- Summary: Leading CISOs honored for leadership, enterprise security, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/02/26/3245969/0/en/2026-DallasCISO-ORBIE-Awards-Recognize-Top-Security-Executives.html
+- Date: 2026-02-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Jeffrey Epstein ingratiated himself with Microsoft’s top ranks (Score: 0)
+- Summary: Newly released Justice Department documents detail how Jeffrey Epstein cultivated relationships with Microsoft’s top executives, gaining access to internal discussions including CEO succession plans. The files outline his links to figures such as Bill Gates, …
+- Source: https://economictimes.indiatimes.com/news/international/world-news/how-jeffrey-epstein-ingratiated-himself-with-microsofts-top-ranks/articleshow/128799903.cms
+- Date: 2026-02-26
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+India’s office real estate transformation: Inside the Table Space strategy for GCC success (Score: 0)
+- Summary: Global Capability Centres are reshaping India's commercial property market, with around 1,800 GCCs projected to reach a $9 billion valuation by 2030. Firms like Table Space are redefining office spaces to attract multinational companies seeking premium talent…
+- Source: https://www.livemint.com/industry/indias-office-real-estate-transformation-inside-the-table-space-strategy-for-gcc-success-11772032975169.html
+- Date: 2026-02-25
+- Vendors: None
+- Topics: None
+
+NEC Deploys Metabob, Cutting Software Maintenance by Two-Thirds in Trials (Score: 0)
+- Summary: NEC deploys Metabob’s AI code intelligence platform, cutting software maintenance time by up to 66% in internal validation trials....
+- Source: https://www.globenewswire.com/news-release/2026/02/25/3244848/0/en/NEC-Deploys-Metabob-Cutting-Software-Maintenance-by-Two-Thirds-in-Trials.html
+- Date: 2026-02-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+LLM firewalls emerge as a new AI security layer (Score: 0)
+- Summary: The race by organizations to AI-enable their operations and business workflows is exposing them to new risks that AI firewalls aim to address.
+- Source: https://www.techtarget.com/searchsecurity/feature/LLM-firewalls-emerge-as-a-new-AI-security-layer
+- Date: 2026-02-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BUREAU VERITAS - Sector-leading organic revenue growth of 6.5% in FY 2025, strong margin improvement to 16.3% in FY 2025, positive growth outlook with continued margin expansion in 2026 and new EUR 200 million share buyback (Score: 0)
+- Summary: PRESS RELEASE  Courbevoie, France – February 25, 2026  Sector-leading organic revenue growth of 6.5% in FY 2025  Strong margin improvement to 16.3% in FY...
+- Source: https://www.globenewswire.com/news-release/2026/02/25/3244255/0/en/BUREAU-VERITAS-Sector-leading-organic-revenue-growth-of-6-5-in-FY-2025-strong-margin-improvement-to-16-3-in-FY-2025-positive-growth-outlook-with-continued-margin-expansion-in-2026-.html
+- Date: 2026-02-25
+- Vendors: None
+- Topics: None
+
+Edge systems take the brunt of internet-wide exploitation attempts (Score: 0)
+- Summary: Internet-facing VPNs, routers, and remote access services absorbed sustained exploitation attempts throughout the second half of 2025, with nearly 3 billion malicious sessions recorded over 162 days. The concentration on edge infrastructure aligns with how at…
+- Source: https://www.helpnetsecurity.com/2026/02/25/edge-infrastructure-attacks-internet-wide-exploitation/
+- Date: 2026-02-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+atmchile added to PyPI (Score: 0)
+- Summary: Python library to obtain climate and air quality data from monitoring stations in Chile
+- Source: https://pypi.org/project/atmchile/
+- Date: 2026-02-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IT, BFSI & telecom headline India's AI cybersecurity push (Score: 0)
+- Summary: BFSI surges ahead: Global BFSI AI market projected to reach $64.3 billion by 2030, with India among the fastest-growing contributors
+- Source: https://economictimes.indiatimes.com/tech/technology/it-bfsi-telecom-headline-indias-ai-cybersecurity-push/articleshow/128768089.cms
+- Date: 2026-02-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+North Korean Lazarus Group Adopts Medusa Ransomware in Global Attacks (Score: 0)
+- Summary: Lazarus Group is now using Medusa ransomware in attacks on healthcare and social services, signaling a move toward profit-focused cybercrime.
+- Source: https://hackread.com/north-korean-lazarus-group-medusa-ransomware/
+- Date: 2026-02-24
+- Vendors: None
+- Topics: None
+
+OpenClaw and Moltbook explained: The latest AI agent craze (Score: 0)
+- Summary: OpenClaw, a viral open source AI agent, promises local control and autonomous task execution. But security, governance and hype raise serious concerns for IT leaders.
+- Source: https://www.techtarget.com/searchcio/feature/OpenClaw-and-Moltbook-explained-The-latest-AI-agent-craze
+- Date: 2026-02-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Endpoint Protection Platform Market Surges to $29.0 billion by 2029 | CAGR 10.7% (Score: 0)
+- Summary: Delray Beach, FL, Feb. 24, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global Endpoint Protection Platform Market size is projected to grow from USD 17.4 billion in 2024 to USD 29.0 billion by 2029 at a Compound Annual Growth Rate (CAGR) of …
+- Source: https://www.globenewswire.com/news-release/2026/02/24/3243635/0/en/Endpoint-Protection-Platform-Market-Surges-to-29-0-billion-by-2029-CAGR-10-7.html
+- Date: 2026-02-24
+- Vendors: None
+- Topics: None
+
+Claude Code Security Causes A SaaS-Pocalypse In Cybersecurity (Score: 0)
+- Summary: We have seen this pattern before, even if the specifics look different. Think back to the day AWS introduced GuardDuty, when Microsoft folded Defender for Endpoint into its enterprise licensing commitments and launched Microsoft Sentinel, or when Google acqui…
+- Source: https://www.forrester.com/blogs/claude-code-security-causes-a-saas-pocalypse-in-cybersecurity/
+- Date: 2026-02-23
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure (Score: 0)
+- Summary: As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on e…
+- Source: https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/
+- Date: 2026-02-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A CEO Says You Should Ignore the AI Panic and Keeping Buy This 1 Cybersecurity Stock (Score: 0)
+- Summary: CEO Nikesh Arora says AI is not a threat to cybersecurity anytime soon.
+- Source: https://www.barchart.com/story/news/366574/a-ceo-says-you-should-ignore-the-ai-panic-and-keeping-buy-this-1-cybersecurity-stock
+- Date: 2026-02-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
