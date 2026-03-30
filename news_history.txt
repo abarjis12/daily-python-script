@@ -46177,3 +46177,188 @@ No news available for today or the last 7 days.
 
 --- Top 25 News Summary for 2026-03-29 14:03  ---
 No news available for today or the last 7 days.
+
+--- Top 25 News Summary for 2026-03-30 14:47  ---
+
+The agentic era: How Palo Alto Networks is turning security into a business enabler (Score: 6)
+- Summary: For years, the relationship between cybersecurity and business innovation has been a zero-sum game. Security teams were the “Department of No,” tasked with slowing down adoption to ensure safety. Given the business pressure to get artificial intelligence depl…
+- Source: https://siliconangle.com/2026/03/23/agentic-era-palo-alto-networks-turning-security-business-enabler/
+- Date: 2026-03-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agents are about to overtake cybersecurity — for better, or worse? (Score: 4)
+- Summary: Artificial intelligence has been a prime concern for cybersecurity for years, but it took on a new urgency at this week’s RSAC conference in San Francisco. AI agents in particular were the chief concern on everyone’s lips, and no wonder: You’ve got these thin…
+- Source: https://siliconangle.com/2026/03/27/ai-agents-overtake-cybersecurity-better-worse/
+- Date: 2026-03-27
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Research Reveals Latino Entrepreneurs are Strengthening the U.S. Economy, Driving Business Growth and Job Creation (Score: 4)
+- Summary: PALO ALTO, CA, March 25, 2026 (GLOBE NEWSWIRE) -- Today, the Latino Business Action Network (LBAN)
+, in collaboration with the Stanford Graduate School of Business (GSB), released the 11th Annual State of Latino Entrepreneurship (SOLE) Research Report, unvei…
+- Source: https://www.globenewswire.com/news-release/2026/03/25/3262390/0/en/New-Research-Reveals-Latino-Entrepreneurs-are-Strengthening-the-U-S-Economy-Driving-Business-Growth-and-Job-Creation.html
+- Date: 2026-03-25
+- Vendors: None
+- Topics: None
+
+China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks (Score: 2)
+- Summary: A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.
+The strategic positioning activity, which involves implanting and maintaining stealthy access m…
+- Source: https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html
+- Date: 2026-03-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best AI Security Solutions for Enterprises in 2026 (Score: 2)
+- Summary: Enterprise AI security solutions in 2026, compare Check Point, Palo Alto, CrowdStrike, Fortinet, and Zscaler across cloud, endpoint, and network.
+- Source: https://hackread.com/best-ai-security-solutions-enterprises-2026/
+- Date: 2026-03-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+WatchGuard Expands NDR Capabilities, Making Advanced Network Threat Detection Practical for MSPs and Midmarket Organizations (Score: 2)
+- Summary: Embedded detection, managed services, and automated response simplify NDR adoption for SMEs and MSPs Embedded detection, managed services, and automated response simplify NDR adoption for SMEs and MSPs
+- Source: https://www.globenewswire.com/news-release/2026/03/26/3262719/0/en/WatchGuard-Expands-NDR-Capabilities-Making-Advanced-Network-Threat-Detection-Practical-for-MSPs-and-Midmarket-Organizations.html
+- Date: 2026-03-26
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks’ Prisma AIRS 3.0 closes visibility gaps in autonomous AI systems (Score: 2)
+- Summary: Palo Alto Networks has advanced its AI security platform with Prisma AIRS 3.0, securing the agentic AI lifecycle and enabling enterprises to move from observation to safe autonomous execution. The shift toward an AI-powered enterprise introduces systemic secu…
+- Source: https://www.helpnetsecurity.com/2026/03/24/palo-alto-networks-prisma-airs-3-0-closes-visibility-gaps-in-autonomous-ai-systems/
+- Date: 2026-03-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PyPANRestV2 2.1.21 (Score: 2)
+- Summary: Python tools for interacting with Palo Alto Networks REST API.
+- Source: https://pypi.org/project/pypanrestv2/2.1.21/
+- Date: 2026-03-23
+- Vendors: Palo Alto Networks
+- Topics: None
+
+virp-mcp-server added to PyPI (Score: 2)
+- Summary: VIRP MCP Server — Cryptographic trust primitives for AI agents operating on live network infrastructure.
+- Source: https://pypi.org/project/virp-mcp-server/
+- Date: 2026-03-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack (Score: 0)
+- Summary: Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.
+Handala Hack Team, which carrie…
+- Source: https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html
+- Date: 2026-03-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic to launch new ‘Claude Mythos’ model with advanced reasoning features (Score: 0)
+- Summary: A configuration error in Anthropic PBC’s content management system has revealed that it’s testing a new large language model called Claude Mythos. The company confirmed the project in a Thursday statement to Fortune. According to the company, its engineers ha…
+- Source: https://siliconangle.com/2026/03/27/anthropic-launch-new-claude-mythos-model-advanced-reasoning-features/
+- Date: 2026-03-27
+- Vendors: None
+- Topics: None
+
+Forte Minerals Provides Updates on Alto Ruri and Pucarini Projects, Peru (Score: 0)
+- Summary: VANCOUVER, British Columbia, March 27, 2026 (GLOBE NEWSWIRE) — Forte Minerals Corp. (“Forte” or the “Company”) (CSE: CUAU) (OTCQB: FOMNF) (Frankfurt: 2OA) is pleased to announce that it is advancing community engagement and permitting at the Alto Ruri Project…
+- Source: https://financialpost.com/globe-newswire/forte-minerals-provides-updates-on-alto-ruri-and-pucarini-projects-peru
+- Date: 2026-03-27
+- Vendors: None
+- Topics: None
+
+Cyber stocks sink on report Anthropic AI model poses security risks (Score: 0)
+- Summary: Cybersecurity stocks slumped after a Fortune report raised concern over Anthropic PBC AI model could be used by hackers. Read here now
+- Source: https://financialpost.com/cybersecurity/cyber-stocks-sink-on-anthropic-security-risk
+- Date: 2026-03-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Geographical barriers and multimorbidity in quilombola territories of the amazon region (Score: 0)
+- Summary: Background Quilombola communities in the Brazilian Amazon face persistent social and territorial inequities that shape health outcomes and access to care. Geographic isolation, limited transportation, centralization of specialized services, and socioeconomic …
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344043
+- Date: 2026-03-27
+- Vendors: None
+- Topics: None
+
+The mobile app traffic your security team can't see — and AI agents are generating it (Score: 0)
+- Summary: AI agents don't knock before entering. Most of the security team doesn't know they're there.
+- Source: https://www.techradar.com/pro/the-mobile-app-traffic-your-security-team-cant-see-and-ai-agents-are-generating-it
+- Date: 2026-03-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Infrastructure highlights from Nvidia GTC 2026 (Score: 0)
+- Summary: Nvidia GTC 2026 underscored surging AI infrastructure demand and ecosystem growth. Tokenomics and inferencing are emerging as key drivers of future value.
+- Source: https://www.techtarget.com/searchnetworking/opinion/Infrastructure-highlights-from-Nvidia-GTC-2026
+- Date: 2026-03-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Meta and OpenAI's compute crunch gives Arm a big opportunity (Score: 0)
+- Summary: Arm CEO Rene Haas announced the Arm AGI CPU, partnering with AI giants Meta and OpenAI to tackle energy-efficient AI computing needs.
+- Source: https://www.businessinsider.com/arm-unveils-ai-chip-partners-with-meta-openai-2026-3
+- Date: 2026-03-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The R&D Metric Mark Hurd and HP Got Wrong (Score: 0)
+- Summary: How one flawed benchmark drove years of R&D decisions and quietly drained HP's innovation pipeline.
+- Source: https://www.philmckinney.com/the-r-d-metric-mark-hurd-and-hp-got-wrong/
+- Date: 2026-03-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NEC X Selects Seven Startups for Batch 15 of Elev X! Ignite, Advancing AI in Healthcare, Governance, Space and Enterprise Operations (Score: 0)
+- Summary: NEC X selects seven AI startups for Elev X! Ignite Batch 15, advancing innovation across healthcare, space, and enterprise operations...
+- Source: https://www.globenewswire.com/news-release/2026/03/24/3261491/0/en/NEC-X-Selects-Seven-Startups-for-Batch-15-of-Elev-X-Ignite-Advancing-AI-in-Healthcare-Governance-Space-and-Enterprise-Operations.html
+- Date: 2026-03-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Joins Snowflake and Industry Leaders to Advance Data and AI Interoperability through the Open Semantic Interchange (Score: 0)
+- Summary: The Open Semantic Interchange creates an open, vendor-neutral framework for exchanging business meaning and semantics across data and AI platforms PALO ALTO, Calif., March 24, 2026 (GLOBE NEWSWIRE) — Denodo, a global leader in data management, powering trustw…
+- Source: https://financialpost.com/globe-newswire/denodo-joins-snowflake-and-industry-leaders-to-advance-data-and-ai-interoperability-through-the-open-semantic-interchange
+- Date: 2026-03-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why stolen logins now cause more damage than malware ever did (Score: 0)
+- Summary: CrowdStrike’s 2026 Global Threat Report delivered a statistic that should fundamentally change how enterprises think about cybersecurity: 82% of detections in 2025 were malware-free. Not reduced. Not declining. Eighty-two percent of the intrusions CrowdStrike…
+- Source: https://techpinions.com/why-stolen-logins-now-cause-more-damage-than-malware-ever-did/
+- Date: 2026-03-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hesai Group Reports Fourth Quarter and Full Year 2025 Unaudited Financial Results (Score: 0)
+- Summary: Quarterly net revenues were RMB1,000.5 million (US$143.1 million)1Quarterly lidar shipments were 631,095 unitsQuarterly net income was RMB153.2 million (US$21.9 million)Full year 2025 net revenues were RMB3,027.6 million (US$432.9 million)Full year 2025 lidar…
+- Source: https://www.globenewswire.com/news-release/2026/03/24/3260989/0/en/Hesai-Group-Reports-Fourth-Quarter-and-Full-Year-2025-Unaudited-Financial-Results.html
+- Date: 2026-03-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Meta hires former Google, Stripe executives behind AI startup Dreamer (Score: 0)
+- Summary: The Dreamer team — including one co-founder, Hugo Barra, who previously worked at Meta — is joining the Meta Superintelligence Labs group under Chief AI Officer Alexandr Wang, according to an internal post Wang sent Monday morning that was reviewed by Bloombe…
+- Source: https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-hires-former-google-stripe-executives-behind-ai-startup-dreamer/articleshow/129766181.cms
+- Date: 2026-03-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Stryker cyberattack: Cyberthreat actor used malicious file to mask intrusion (Score: 0)
+- Summary: Stryker revealed that the cyberthreat actor used a malicious file to run commands, enabling them to conceal their activities within Stryker's environment.
+- Source: https://www.techtarget.com/healthtechsecurity/news/366640597/Stryker-cyberattack-Cyberthreat-actor-used-malicious-file-to-mask-intrusion
+- Date: 2026-03-23
+- Vendors: None
+- Topics: None
+
+OpenClaw Is a Security Nightmare Dressed Up as a Daydream (Score: 0)
+- Summary: Composio content pages powered by our CMS, including tutorials, product updates, and guides.
+- Source: https://composio.dev/content/openclaw-security-and-vulnerabilities
+- Date: 2026-03-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
