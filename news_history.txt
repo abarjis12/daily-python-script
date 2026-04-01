@@ -46548,3 +46548,192 @@ Why stolen logins now cause more damage than malware ever did (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-04-01 14:47  ---
+
+Which Prisma Access Feature Matters Most on the NetSec-Pro Exam ? (Score: 6)
+- Summary: Which Prisma Access Feature Matters Most on the NetSec-Pro Exam ? - posted in Networking: The Palo Alto PCNSE certification is not just about knowing features. It tests how well you understand real network security situations. You are expected to choose the r…
+- Source: https://www.bleepingcomputer.com/forums/t/815194/which-prisma-access-feature-matters-most-on-the-netsec-pro-exam/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agents are about to overtake cybersecurity — for better, or worse? (Score: 4)
+- Summary: Artificial intelligence has been a prime concern for cybersecurity for years, but it took on a new urgency at this week’s RSAC conference in San Francisco. AI agents in particular were the chief concern on everyone’s lips, and no wonder: You’ve got these thin…
+- Source: https://siliconangle.com/2026/03/27/ai-agents-overtake-cybersecurity-better-worse/
+- Date: 2026-03-27
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Research Reveals Latino Entrepreneurs are Strengthening the U.S. Economy, Driving Business Growth and Job Creation (Score: 4)
+- Summary: PALO ALTO, CA, March 25, 2026 (GLOBE NEWSWIRE) -- Today, the Latino Business Action Network (LBAN)
+, in collaboration with the Stanford Graduate School of Business (GSB), released the 11th Annual State of Latino Entrepreneurship (SOLE) Research Report, unvei…
+- Source: https://www.globenewswire.com/news-release/2026/03/25/3262390/0/en/New-Research-Reveals-Latino-Entrepreneurs-are-Strengthening-the-U-S-Economy-Driving-Business-Growth-and-Job-Creation.html
+- Date: 2026-03-25
+- Vendors: None
+- Topics: None
+
+pan-scm-cli 1.2.1 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.2.1/
+- Date: 2026-03-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 1.2.0 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.2.0/
+- Date: 2026-03-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ezpanos 1.0.1 (Score: 2)
+- Summary: A lightweight PanOS (Palo Alto Networks) Firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/1.0.1/
+- Date: 2026-03-31
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Show HN: NetLens – Instant CLI Assistant for Network Engineers (Score: 2)
+- Summary: Article URL: https://v0-netlens.vercel.app
+Comments URL: https://news.ycombinator.com/item?id=47575359
+Points: 1
+# Comments: 0
+- Source: https://v0-netlens.vercel.app
+- Date: 2026-03-30
+- Vendors: None
+- Topics: None
+
+China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks (Score: 2)
+- Summary: A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.
+The strategic positioning activity, which involves implanting and maintaining stealthy access m…
+- Source: https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html
+- Date: 2026-03-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best AI Security Solutions for Enterprises in 2026 (Score: 2)
+- Summary: Enterprise AI security solutions in 2026, compare Check Point, Palo Alto, CrowdStrike, Fortinet, and Zscaler across cloud, endpoint, and network.
+- Source: https://hackread.com/best-ai-security-solutions-enterprises-2026/
+- Date: 2026-03-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+WatchGuard Expands NDR Capabilities, Making Advanced Network Threat Detection Practical for MSPs and Midmarket Organizations (Score: 2)
+- Summary: Embedded detection, managed services, and automated response simplify NDR adoption for SMEs and MSPs Embedded detection, managed services, and automated response simplify NDR adoption for SMEs and MSPs
+- Source: https://www.globenewswire.com/news-release/2026/03/26/3262719/0/en/WatchGuard-Expands-NDR-Capabilities-Making-Advanced-Network-Threat-Detection-Practical-for-MSPs-and-Midmarket-Organizations.html
+- Date: 2026-03-26
+- Vendors: None
+- Topics: None
+
+ONE SHEET: White House Photo Police, MAGA Cracking Over Iran, and Zucker’s Return? (Score: 0)
+- Summary: The Big Picture The Trump administration’s war on press access has a new front: the photo wire. Status broke the story of the White House leaning on AFP to pull an unflattering image of press secretary Karoline Leavitt — and today, government lawyers are back…
+- Source: https://www.mediaite.com/media/news/one-sheet-white-house-photo-police-maga-cracking-over-iran-and-zuckers-return/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+Application Control Bypass for Data Exfiltration, (Tue, Mar 31st) (Score: 0)
+- Summary: In case of a cyber incident, most organizations fear more of data loss (via exfiltration) than regular data encryption because they have a good backup policy in place. If exfiltration happened, it means a total loss of control of the stolen data with all the …
+- Source: https://isc.sans.edu/diary/32850
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+ezpanos 0.2.8 (Score: 0)
+- Summary: A lightweight PanOS (Palo Alto Netoworks) Firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/0.2.8/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+Jim Cramer says this sell-off is creating buying opportunities (Score: 0)
+- Summary: CNBC's Jim Cramer Monday cautioned investors against dumping high-quality stocks in a market he says is being driven more by fear rather than fundamentals.
+- Source: https://www.cnbc.com/2026/03/30/jim-cramer-this-sell-off-is-creating-buying-opportunities.html
+- Date: 2026-03-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The ‘Unwell Winter Games’ Cast Includes Some of the Most Polarizing Personalities in Pop Culture Today (Score: 0)
+- Summary: Alex Cooper’s new competition series, ‘Unwell Winter Games,’ premieres on YouTube on April 6. Here are the reality stars and influencers who will be competing.
+- Source: https://www.cosmopolitan.com/entertainment/celebs/g70885517/unwell-winter-games-cast/
+- Date: 2026-03-30
+- Vendors: None
+- Topics: None
+
+China-Linked groups target Southeast Asian government with advanced malware in 2025 (Score: 0)
+- Summary: China-linked groups hit a Southeast Asian government in 2025, deploying multiple malware families in a sophisticated cyber campaign. In 2025, three China-linked threat clusters targeted a Southeast Asian government in a complex, well-funded cyber operation. T…
+- Source: https://securityaffairs.com/190174/apt/china-linked-groups-target-southeast-asian-government-with-advanced-malware-in-2025.html
+- Date: 2026-03-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sycamore raises $65M from Silicon Valley heavyweights to build governance layer for enterprise AI agents (Score: 0)
+- Summary: Sycamore Labs, a Palo Alto-based startup led by former Atlassian Group Corp. Chief Technology Officer Sri Viswanath, said today it has raised $65 million in seed funding to build the “agentic operating system” for the enterprise. The round was led by heavy hi…
+- Source: https://siliconangle.com/2026/03/30/sycamore-raises-65m-silicon-valley-heavyweights-build-governance-layer-enterprise-ai-agents/
+- Date: 2026-03-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI (Score: 0)
+- Summary: The warning bell is sounding for cybersecurity, as machine identities flood the system faster than companies can secure their data. At the annual Nvidia GTC event, Nvidia Corp. CEO Jensen Huang introduced a series of open-source tools based on OpenClaw, an op…
+- Source: https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/
+- Date: 2026-03-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More (Score: 0)
+- Summary: Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped payin…
+- Source: https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html
+- Date: 2026-03-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign (Score: 0)
+- Summary: Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a "complex and well-resourced operation."
+The campaigns have led to the deployment of various malware families, i…
+- Source: https://thehackernews.com/2026/03/three-china-linked-clusters-target.html
+- Date: 2026-03-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Coding Agents Could Make Free Software Matter Again (Score: 0)
+- Summary: I've been vibe-coding a lot lately.  Like, a lot a lot
+- Source: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+- Date: 2026-03-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack (Score: 0)
+- Summary: Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.
+Handala Hack Team, which carrie…
+- Source: https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html
+- Date: 2026-03-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic to launch new ‘Claude Mythos’ model with advanced reasoning features (Score: 0)
+- Summary: A configuration error in Anthropic PBC’s content management system has revealed that it’s testing a new large language model called Claude Mythos. The company confirmed the project in a Thursday statement to Fortune. According to the company, its engineers ha…
+- Source: https://siliconangle.com/2026/03/27/anthropic-launch-new-claude-mythos-model-advanced-reasoning-features/
+- Date: 2026-03-27
+- Vendors: None
+- Topics: None
+
+Forte Minerals Provides Updates on Alto Ruri and Pucarini Projects, Peru (Score: 0)
+- Summary: VANCOUVER, British Columbia, March 27, 2026 (GLOBE NEWSWIRE) — Forte Minerals Corp. (“Forte” or the “Company”) (CSE: CUAU) (OTCQB: FOMNF) (Frankfurt: 2OA) is pleased to announce that it is advancing community engagement and permitting at the Alto Ruri Project…
+- Source: https://financialpost.com/globe-newswire/forte-minerals-provides-updates-on-alto-ruri-and-pucarini-projects-peru
+- Date: 2026-03-27
+- Vendors: None
+- Topics: None
+
+Cyber stocks sink on report Anthropic AI model poses security risks (Score: 0)
+- Summary: Cybersecurity stocks slumped after a Fortune report raised concern over Anthropic PBC AI model could be used by hackers. Read here now
+- Source: https://financialpost.com/cybersecurity/cyber-stocks-sink-on-anthropic-security-risk
+- Date: 2026-03-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
