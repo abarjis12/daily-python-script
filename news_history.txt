@@ -46737,3 +46737,191 @@ Cyber stocks sink on report Anthropic AI model poses security risks (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-04-02 14:36  ---
+
+Which Prisma Access Feature Matters Most on the NetSec-Pro Exam ? (Score: 6)
+- Summary: Which Prisma Access Feature Matters Most on the NetSec-Pro Exam ? - posted in Networking: The Palo Alto PCNSE certification is not just about knowing features. It tests how well you understand real network security situations. You are expected to choose the r…
+- Source: https://www.bleepingcomputer.com/forums/t/815194/which-prisma-access-feature-matters-most-on-the-netsec-pro-exam/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agents are about to overtake cybersecurity — for better, or worse? (Score: 4)
+- Summary: Artificial intelligence has been a prime concern for cybersecurity for years, but it took on a new urgency at this week’s RSAC conference in San Francisco. AI agents in particular were the chief concern on everyone’s lips, and no wonder: You’ve got these thin…
+- Source: https://siliconangle.com/2026/03/27/ai-agents-overtake-cybersecurity-better-worse/
+- Date: 2026-03-27
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Research Reveals Latino Entrepreneurs are Strengthening the U.S. Economy, Driving Business Growth and Job Creation (Score: 4)
+- Summary: PALO ALTO, CA, March 25, 2026 (GLOBE NEWSWIRE) -- Today, the Latino Business Action Network (LBAN)
+, in collaboration with the Stanford Graduate School of Business (GSB), released the 11th Annual State of Latino Entrepreneurship (SOLE) Research Report, unvei…
+- Source: https://www.globenewswire.com/news-release/2026/03/25/3262390/0/en/New-Research-Reveals-Latino-Entrepreneurs-are-Strengthening-the-U-S-Economy-Driving-Business-Growth-and-Job-Creation.html
+- Date: 2026-03-25
+- Vendors: None
+- Topics: None
+
+Software-Defined Wide Area Network (SD-WAN) Market to Witness 31% CAGR Through 2026-2030 Amid Increasing Cloud Adoption and the Need for Secure, Scalable Networking Solutions (Score: 2)
+- Summary: Key trends include AI-based optimization, hybrid deployments, and quantum-safe technologies. Asia-Pacific is poised for the fastest growth, offering expansive regional potential. Key trends include AI-based optimization, hybrid deployments, and quantum-safe t…
+- Source: https://www.globenewswire.com/news-release/2026/04/01/3266492/28124/en/Software-Defined-Wide-Area-Network-SD-WAN-Market-to-Witness-31-CAGR-Through-2026-2030-Amid-Increasing-Cloud-Adoption-and-the-Need-for-Secure-Scalable-Networking-Solutions.html
+- Date: 2026-04-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The FCC Just Banned All New Foreign-Made Routers. Everything You Need to Know to Keep Your Network Safe (Score: 2)
+- Summary: The ban applies only to the sale of new routers manufactured outside the US. Americans with existing foreign-made routers can continue to use them.
+- Source: https://www.cnet.com/home/internet/fcc-just-banned-all-new-foreign-made-routers-everything-you-need-to-know-to-keep-your-network-safe/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+pan-scm-cli 1.2.1 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.2.1/
+- Date: 2026-03-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 1.2.0 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.2.0/
+- Date: 2026-03-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ezpanos 1.0.1 (Score: 2)
+- Summary: A lightweight PanOS (Palo Alto Networks) Firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/1.0.1/
+- Date: 2026-03-31
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Show HN: NetLens – Instant CLI Assistant for Network Engineers (Score: 2)
+- Summary: Article URL: https://v0-netlens.vercel.app
+Comments URL: https://news.ycombinator.com/item?id=47575359
+Points: 1
+# Comments: 0
+- Source: https://v0-netlens.vercel.app
+- Date: 2026-03-30
+- Vendors: None
+- Topics: None
+
+China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks (Score: 2)
+- Summary: A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.
+The strategic positioning activity, which involves implanting and maintaining stealthy access m…
+- Source: https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html
+- Date: 2026-03-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best AI Security Solutions for Enterprises in 2026 (Score: 2)
+- Summary: Enterprise AI security solutions in 2026, compare Check Point, Palo Alto, CrowdStrike, Fortinet, and Zscaler across cloud, endpoint, and network.
+- Source: https://hackread.com/best-ai-security-solutions-enterprises-2026/
+- Date: 2026-03-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+WatchGuard Expands NDR Capabilities, Making Advanced Network Threat Detection Practical for MSPs and Midmarket Organizations (Score: 2)
+- Summary: Embedded detection, managed services, and automated response simplify NDR adoption for SMEs and MSPs Embedded detection, managed services, and automated response simplify NDR adoption for SMEs and MSPs
+- Source: https://www.globenewswire.com/news-release/2026/03/26/3262719/0/en/WatchGuard-Expands-NDR-Capabilities-Making-Advanced-Network-Threat-Detection-Practical-for-MSPs-and-Midmarket-Organizations.html
+- Date: 2026-03-26
+- Vendors: None
+- Topics: None
+
+Security Analytics Market to Surpass USD 78.92 Billion by 2035, Driven by Rising Cyber Threats and AI-Driven Detection | Research by SNS Insider (Score: 0)
+- Summary: The Security Analytics Market is expanding as enterprises adopt AI-powered threat detection and real-time monitoring across hybrid environments, with the U.S. segment growing from USD 6.40 billion in 2025 to USD 31.14 billion by 2035. The Security Analytics M…
+- Source: https://www.globenewswire.com/news-release/2026/04/01/3266733/0/en/Security-Analytics-Market-to-Surpass-USD-78-92-Billion-by-2035-Driven-by-Rising-Cyber-Threats-and-AI-Driven-Detection-Research-by-SNS-Insider.html
+- Date: 2026-04-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Poilievre pledges to cancel Toronto-Quebec City high-speed rail project (Score: 0)
+- Summary: Conservative Party Leader Pierre Poilievre said he would cancel a high-speed rail line between Toronto and Quebec City. Read more.
+- Source: https://financialpost.com/transportation/rail/carney-tory-cancel-high-speed-rail-project
+- Date: 2026-04-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PCL Construction Selects Navan to Transform Global Travel and Expense Operations (Score: 0)
+- Summary: The 120-year-old construction giant partners with Navan to replace fragmented legacy systems with a unified, AI-powered platform PALO ALTO, Calif. — Navan (NASDAQ: NAVN), the global AI-powered business travel and expense platform, today announced that PCL Con…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/pcl-construction-selects-navan-to-transform-global-travel-and-expense-operations
+- Date: 2026-04-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Defending Encryption in the Post Quantum Era (Score: 0)
+- Summary: Post-quantum cryptography explained, risks of quantum attacks, and steps to secure data, systems, and infrastructure for a quantum-resilient future.
+- Source: https://hackread.com/defending-encryption-in-the-post-quantum-era/
+- Date: 2026-04-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Investigating the analytical robustness of the social and behavioural sciences (Score: 0)
+- Summary: When 100 social and behavioural science claims&nbsp;were examined, 34% of reanalyses closely matched the original results, with 74% reaching the same conclusion, revealing limited robustness of single-path analyses and the need to address analytical uncertain…
+- Source: https://www.nature.com/articles/s41586-025-09844-9
+- Date: 2026-04-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+alto-dictation 1.0.5 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.5/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+Tesla Admits Its Robotaxis Are Being Driven Remotely (Score: 0)
+- Summary: Remote assistance workers can "take temporary control of the vehicle."
+The post Tesla Admits Its Robotaxis Are Being Driven Remotely appeared first on Futurism.
+- Source: http://futurism.com/advanced-transport/tesla-robotaxis-driven-remotely
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+ALSO hits $1B valuation and signs DoorDash as its first major autonomous delivery partner (Score: 0)
+- Summary: The Palo Alto small-EV company raised $200M in a Series C led by Greenoaks, with DoorDash investing alongside a multi-year commercial agreement to deploy purpose-built autonomous vehicles for last-mile delivery. DoorDash co-founder Stanley Tang joins the boar…
+- Source: https://thenextweb.com/news/also-rivian-spinoff-200m-series-c/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+alto-dictation 1.0.4 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.4/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+alto-dictation 1.0.3 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.3/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+alto-dictation 1.0.2 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.2/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+alto-dictation 1.0.1 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.1/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans (Score: 0)
+- Summary: The electric-car maker says it happens rarely and at speeds below 10 mph. But the disclosure—in response to a US senator's questions—occasioned a call for more transparency.
+- Source: https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/
+- Date: 2026-03-31
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
