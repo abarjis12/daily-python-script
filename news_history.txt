@@ -48670,3 +48670,187 @@ Bioz and Vilber Advance Evidence-Driven Scientific Marketing with Custom Publica
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-04-12 14:07  ---
+
+NWN launches cybersecurity platform with Cisco, Palo Alto Networks and Arctic Wolf integrations (Score: 6)
+- Summary: Technology solutions provider NWN Corp. today announced the launch of NWN Cybersecurity, an artificial intelligence-enabled managed security operations suite. The new offering introduces new managed services, expands strategic security partnerships and delive…
+- Source: https://siliconangle.com/2026/04/08/nwn-launches-cybersecurity-platform-cisco-palo-alto-networks-arctic-wolf-integrations/
+- Date: 2026-04-08
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic tries to keep its new AI model away from cyberattackers as enterprises look to tame AI chaos (Score: 4)
+- Summary: Sure, at some point quantum computing may break data encryption — but well before that, artificial intelligence models already seem likely to wreak havoc. That became starkly apparent this week when Anthropic announced a new model called Claude Mythos that it…
+- Source: https://siliconangle.com/2026/04/10/anthropic-tries-keep-new-ai-model-away-cyberattackers-enterprises-look-tame-ai-chaos/
+- Date: 2026-04-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems (Score: 4)
+- Summary: Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and address security vulnerabilities.
+The model will be used by …
+- Source: https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html
+- Date: 2026-04-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Resolight.ai launches to change the AI interconnect game (Score: 4)
+- Summary: There’s a narrative forming in artificial intelligence infrastructure — and most people are still looking in the wrong place. Everyone’s focused on graphics processing units. More compute. Bigger clusters. Faster chips. That’s where the headlines are. But the…
+- Source: https://siliconangle.com/2026/04/06/resolight-ai-launches-change-ai-interconnect-game/
+- Date: 2026-04-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI networking firm Aria Networks raises $125 million in funding (Score: 3)
+- Summary: Aria's network is designed to ‌work with ⁠any ⁠AI chip on the market, Nvidia Google, giving companies ​the flexibility to upgrade or switch hardware over time without overhauling ​their entire network infrastructure.
+- Source: https://economictimes.indiatimes.com/tech/technology/ai-networking-firm-aria-networks-raises-125-million-in-funding/articleshow/130085963.cms
+- Date: 2026-04-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Tony Xu: The delivery market was largely untapped, why restaurants are key to logistics networks, and the importance of understanding urban layouts | David Senra (Score: 2)
+- Summary: DoorDash's innovative logistics network transformed restaurant delivery, tapping into a vast, underserved market opportunity.
+The post Tony Xu: The delivery market was largely untapped, why restaurants are key to logistics networks, and the importance of unde…
+- Source: https://cryptobriefing.com/tony-xu-the-delivery-market-was-largely-untapped-why-restaurants-are-key-to-logistics-networks-and-the-importance-of-understanding-urban-layouts-david-senra/
+- Date: 2026-04-10
+- Vendors: None
+- Topics: None
+
+500 Tbps of capacity: 16 years of scaling our global network (Score: 2)
+- Summary: Cloudflare’s global network has officially crossed 500 Tbps of external capacity, enough to route more than 20% of the web and absorb the largest DDoS attacks ever recorded.
+- Source: https://blog.cloudflare.com/500-tbps-of-capacity/
+- Date: 2026-04-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+xsoar-cli 2.2.0 (Score: 2)
+- Summary: A command-line interface for managing Palo Alto Networks XSOAR (Cortex XSOAR)
+- Source: https://pypi.org/project/xsoar-cli/2.2.0/
+- Date: 2026-04-10
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Deep Networking specialist raises $125m (Score: 2)
+- Summary: Aria Networks was formed 15 months ago with the aim of developing a networking system specifically for AI workloads It has already commercially launched its AI…
+- Source: https://www.telecomtv.com/content/next-gen-telco-infra/deep-networking-specialist-raises-125m-55267/
+- Date: 2026-04-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-insights-sdk 0.3.1 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Prisma Access Insights 3.0 API
+- Source: https://pypi.org/project/pan-insights-sdk/0.3.1/
+- Date: 2026-04-07
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-insights-sdk 0.3.0 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Prisma Access Insights 3.0 API
+- Source: https://pypi.org/project/pan-insights-sdk/0.3.0/
+- Date: 2026-04-07
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-insights-sdk 0.2.3 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Prisma Access Insights 3.0 API
+- Source: https://pypi.org/project/pan-insights-sdk/0.2.3/
+- Date: 2026-04-07
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-insights-sdk 0.2.2 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Prisma Access Insights 3.0 API
+- Source: https://pypi.org/project/pan-insights-sdk/0.2.2/
+- Date: 2026-04-07
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Big Tech Races to Quantum Safety as Cyber Threat Clock Ticks Down (Score: 0)
+- Summary: Forget software patches and firewalls. The threat of physics itself is kicking off what is perhaps the most consequential cybersecurity arms race in the digital era. Quantum Day (Q-Day), the moment when commercially available quantum computers can break widel…
+- Source: https://www.pymnts.com/cybersecurity/2026/big-tech-races-to-quantum-safety-as-cyber-threat-clock-ticks-down/
+- Date: 2026-04-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+RSAC 2026: End-user AI agents are here, but invisible (Score: 0)
+- Summary: Agentic AI dominated RSAC 2026 as vendors grappled with invisible AI usage, shadow tools, unsecured end‑user agents and a renewed focus on the endpoint.
+- Source: https://www.techtarget.com/searchenterprisedesktop/opinion/RSAC-2026-End-user-AI-agents-are-here-but-invisible
+- Date: 2026-04-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Download Tesla Robotaxi App Now: Elon Musk Pushes Update With Interior Camera Safety and Pulsing Lights (Score: 0)
+- Summary: AUSTIN, Texas — Elon Musk urged fans Friday to download the Tesla Robotaxi app immediately after the company rolled out a significant update featuring new safety tips, a darker user interface and clearer guidance on how the autonomous vehicles operate in limi…
+- Source: https://www.ibtimes.com.au/download-tesla-robotaxi-app-now-elon-musk-pushes-update-interior-camera-safety-pulsing-lights-1866031
+- Date: 2026-04-10
+- Vendors: None
+- Topics: None
+
+Project Glasswing Shows That AI Will Break The Vulnerability Management Playbook (Score: 0)
+- Summary: Anthropic, along with 11 other companies, recently announced Project Glasswing, an initiative that aims to secure software in the wake of advances in AI capabilities, most notably Anthropic’s Claude Mythos Preview frontier model. Project Glasswing is made up …
+- Source: https://www.forrester.com/blogs/project-glasswing-shows-that-ai-will-break-the-vulnerability-management-playbook/
+- Date: 2026-04-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic's Mythos Safety Report Shows It Can No Longer Fully Measure What It Built (Score: 0)
+- Summary: Anthropic’s Claude Mythos is powerful, but Its own safety report reveals a deeper crisis that's gone largely unnoticed.
+- Source: https://decrypt.co/363663/anthropic-claude-mythos-safety-report-warning-risk-assesment
+- Date: 2026-04-08
+- Vendors: None
+- Topics: None
+
+CVE-2026-0233 Autonomous Digital Experience Manager: Improper validation of ADEM certificate (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0234 Cortex XSOAR: Improper Verification of Cryptographic Signature in Microsoft Teams integration (Severity: HIGH) PAN-SA-2025-0016 Chromium: Monthly Vulnerability Update (October 2025) (Severity: MEDIUM) PAN-SA-2025-0014 Chromium: …
+- Source: https://security.paloaltonetworks.com/CVE-2026-0233
+- Date: 2026-04-08
+- Vendors: Microsoft
+- Topics: None
+
+New 23andMe Research Institute Study Identifies Genetic Predictors for GLP-1 Weight Loss Efficacy and Side Effects (Score: 0)
+- Summary: 23andMe turns research into useful genetic insights, now offering a new GLP-1 report and interactive tool through 23andMe Total Health PALO ALTO, Calif., April 08, 2026 (GLOBE NEWSWIRE) — 23andMe Research Institute, a nonprofit medical research organization, …
+- Source: https://financialpost.com/globe-newswire/new-23andme-research-institute-study-identifies-genetic-predictors-for-glp-1-weight-loss-efficacy-and-side-effects
+- Date: 2026-04-08
+- Vendors: None
+- Topics: None
+
+Nectar Social and Reddit Announce Strategic Data Partnership (Score: 0)
+- Summary: This partnership brings Reddit’s authentic community conversations into Nectar’s AI-native social commerce platform, enabling brands to build social proof and engage audiences across social and AI-powered discovery PALO ALTO, Calif. — Nectar Social, an AI-nat…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/nectar-social-and-reddit-announce-strategic-data-partnership
+- Date: 2026-04-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Eclipse raises $1.3B across two funds to back the next era of physical industries (Score: 0)
+- Summary: Fund VI ($720M) targets early-stage companies in robotics, manufacturing, and energy. Early Growth Fund III ($591M) supports companies scaling toward Series A. Total AUM is now approximately $10 billion. Eclipse, the Palo Alto-based venture firm that backs co…
+- Source: https://thenextweb.com/news/eclipse-fund-vi-early-growth-iii-1-3-billion/
+- Date: 2026-04-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic debuts Project Glasswing, an initiative that will leverage its powerful Mythos model to reinforce software security (Score: 0)
+- Summary: Anthropic PBC said today it’s releasing a preview of the most powerful frontier model it has ever developed, making it available to a small coterie of partners and cybersecurity researchers to help secure the world’s software. The model, called Claude Mythos,…
+- Source: https://siliconangle.com/2026/04/07/anthropic-debuts-project-glasswing-initiative-will-leverage-powerful-mythos-model-reinforce-software-security/
+- Date: 2026-04-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Carney defends minister's connection to rail project as Tories call for investigation (Score: 0)
+- Summary: Prime Minister Mark Carney dismissed concerns about his minister’s “personal connection” to the government’s high-speed rail project.
+- Source: https://nationalpost.com/news/politics/carney-defends-ministers-connection-to-rail-project-as-tories-call-for-investigation
+- Date: 2026-04-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Evaluation of medetomidine-tiletamine-zolazepam as a partially reversible field anesthesia combination for mesocarnivores (Score: 0)
+- Summary: Anesthesia timing stages and physiologic variables during field anesthesia with medetomidine–tiletamine–zolazepam (MTZ), partially reversed with atipamezole, were evaluated in 142 free-living individuals from 11 mesocarnivore species, including stone marten (…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346586
+- Date: 2026-04-07
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
