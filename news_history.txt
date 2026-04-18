@@ -49751,3 +49751,187 @@ Download Tesla Robotaxi App Now: Elon Musk Pushes Update With Interior Camera Sa
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-04-18 14:08  ---
+
+Anthropic tries to keep its new AI model away from cyberattackers as enterprises look to tame AI chaos (Score: 4)
+- Summary: Sure, at some point quantum computing may break data encryption — but well before that, artificial intelligence models already seem likely to wreak havoc. That became starkly apparent this week when Anthropic announced a new model called Claude Mythos that it…
+- Source: https://siliconangle.com/2026/04/10/anthropic-tries-keep-new-ai-model-away-cyberattackers-enterprises-look-tame-ai-chaos/
+- Date: 2026-04-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Siemens expands Industrial Automation DataCenter with edge AI and cybersecurity (Score: 3)
+- Summary: Siemens will present the next generation of its Industrial Automation DataCenter, a custom-configured data center for IT needs in production, expanding its turnkey solution into an AI-ready platform. Structure of the Siemens Industrial Automation DataCenter a…
+- Source: https://www.helpnetsecurity.com/2026/04/13/siemens-industrial-automation-datacenter/
+- Date: 2026-04-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 1.3.4 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.3.4/
+- Date: 2026-04-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 1.3.3 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.3.3/
+- Date: 2026-04-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 1.3.2 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.3.2/
+- Date: 2026-04-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 1.3.1 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.3.1/
+- Date: 2026-04-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 1.3.0 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/1.3.0/
+- Date: 2026-04-17
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+FCC's Foreign-Made Router Ban: One Popular Brand Just Got the First Exemption (Score: 2)
+- Summary: Find out if your router is banned, when to expect firmware updates and what the latest news on the Federal Communications Commission ban means for your home network.
+- Source: https://www.cnet.com/home/internet/fccs-foreign-made-router-ban-one-popular-brand-just-got-the-first-exemption/
+- Date: 2026-04-14
+- Vendors: None
+- Topics: None
+
+ezpanos 1.0.3 (Score: 2)
+- Summary: A lightweight PanOS (Palo Alto Networks) Firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/1.0.3/
+- Date: 2026-04-14
+- Vendors: Palo Alto Networks
+- Topics: None
+
+netbox-panorama-configpump-plugin 1.1.0 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.1.0/
+- Date: 2026-04-14
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Tony Xu: The delivery market was largely untapped, why restaurants are key to logistics networks, and the importance of understanding urban layouts | David Senra (Score: 2)
+- Summary: DoorDash's innovative logistics network transformed restaurant delivery, tapping into a vast, underserved market opportunity.
+The post Tony Xu: The delivery market was largely untapped, why restaurants are key to logistics networks, and the importance of unde…
+- Source: https://cryptobriefing.com/tony-xu-the-delivery-market-was-largely-untapped-why-restaurants-are-key-to-logistics-networks-and-the-importance-of-understanding-urban-layouts-david-senra/
+- Date: 2026-04-10
+- Vendors: None
+- Topics: None
+
+500 Tbps of capacity: 16 years of scaling our global network (Score: 2)
+- Summary: Cloudflare’s global network has officially crossed 500 Tbps of external capacity, enough to route more than 20% of the web and absorb the largest DDoS attacks ever recorded.
+- Source: https://blog.cloudflare.com/500-tbps-of-capacity/
+- Date: 2026-04-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Identification and detection of genetic markers associated with antimicrobial susceptibility and evaluation of efflux pump mechanisms in Mycoplasma iowae (Score: 0)
+- Summary: Mycoplasma iowae is an economically significant pathogen that causes reduced hatchability, late embryo mortality and leg deformities, chondrodystrophy and skeletal lesions in poults. While prevention is essential in the control of infection, the appropriate a…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347345
+- Date: 2026-04-17
+- Vendors: None
+- Topics: None
+
+Exe file from discord putting malware on device (Score: 0)
+- Summary: Exe file from discord putting malware on device - posted in Virus, Trojan, Spyware, and Malware Removal Help: 
+I clicked on a file from a friends hacked account that installed malware on my device. It stole my cookies, discord token and email password. I have…
+- Source: https://www.bleepingcomputer.com/forums/t/815521/exe-file-from-discord-putting-malware-on-device/
+- Date: 2026-04-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Computer Infected by game file over discord (Score: 0)
+- Summary: Computer Infected by game file over discord - posted in Virus, Trojan, Spyware, and Malware Removal Help: I ran an exe file from someone who had been hacked over discord. Stole my token, cleared freinds and stole passwords/cookie data. Need to remove the rema…
+- Source: https://www.bleepingcomputer.com/forums/t/815515/computer-infected-by-game-file-over-discord/
+- Date: 2026-04-17
+- Vendors: None
+- Topics: None
+
+Conservatives say Champagne is avoiding committee study into Alto rail connection (Score: 0)
+- Summary: OTTAWA — The Conservatives are accusing the Liberals of blocking a House of Commons committee from questioning Finance Minister François-Philippe Champagne about his personal connection to the Alto high-speed rail project. Champagne’s partner, Anne-Marie Gaud…
+- Source: https://toronto.citynews.ca/2026/04/16/conservatives-say-champagne-is-avoiding-committee-study-into-alto-rail-connection/
+- Date: 2026-04-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NodeWeaver says its perpetual licensing beats VMware’s perpetual price hikes (Score: 0)
+- Summary: 'I think you can run this thing on a potato,' NodeWeaver CTO Alan Conboy said. Broadcom's price increases and policy changes have led many VMware customers to look for other options. Nodeweaver is positioning itself as an alternative for customers running com…
+- Source: https://www.theregister.com/2026/04/16/nodeweaver_vs_vmware_at_edge/
+- Date: 2026-04-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2026 Seattle ORBIE Awards Recognize Top Technology Executives (Score: 0)
+- Summary: Leading CIOs and CISOs honored for leadership, innovation, enterprise security, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/04/16/3275857/0/en/2026-Seattle-ORBIE-Awards-Recognize-Top-Technology-Executives.html
+- Date: 2026-04-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Quantum photonics roadmap — how Xanadu and PsiQuantum are looking to transfer qubits through beams of light (Score: 0)
+- Summary: We analyze the approaches of PsiQuantum and Xanadu, who are each developing their own approaches to quantum photonic communications, with a vision that extends beyond 2029.
+- Source: https://www.tomshardware.com/tech-industry/quantum-computing/quantum-photonics-roadmap-how-xanadu-and-psiquantum-are-looking-to-transfer-qubits-through-beams-of-light
+- Date: 2026-04-16
+- Vendors: None
+- Topics: None
+
+Atsign Appoints Cybersecurity and Cloud Leader Aparna Rayasam as CEO to Lead Next Phase of Enterprise Security in the AI Era (Score: 0)
+- Summary: Atsign appoints cybersecurity veteran Aparna Rayasam as CEO to lead its next phase of enterprise security and safe agentic AI deployment....
+- Source: https://www.globenewswire.com/news-release/2026/04/16/3275461/0/en/Atsign-Appoints-Cybersecurity-and-Cloud-Leader-Aparna-Rayasam-as-CEO-to-Lead-Next-Phase-of-Enterprise-Security-in-the-AI-Era.html
+- Date: 2026-04-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+South African Agency Boundless Delivers Mazda’s First AI-produced Commercial Using Luma Agents (Score: 0)
+- Summary: Agency signs agreement with Luma to integrate the company’s AI technologies into its creative workflow, marking a new phase in scalable, AI-native commercial creation PALO ALTO, Calif. — Luma AI today announced that Boundless, an independent creative agency b…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/south-african-agency-boundless-delivers-mazdas-first-ai-produced-commercial-using-luma-agents
+- Date: 2026-04-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Inside the SOC that secured RSAC 2026 Conference (Score: 0)
+- Summary: Take a behind-the-scenes look at the technology and teamwork that went into creating the security operations center that protected attendees, vendors and staff at RSAC 2026.
+- Source: https://www.techtarget.com/searchsecurity/feature/Inside-the-SOC-that-secured-RSAC-2026-Conference
+- Date: 2026-04-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Research Reveals ‘Trust Gap’ Threatening Agentic AI Adoption: 66% of Organizations Say Real-Time Data is Non-Negotiable (Score: 0)
+- Summary: New Global Study of 850 Executives Also Finds That Fragmented Data Sources and Lack of Governance Are Stalling the Shift from AI Insights to AI Action PALO ALTO, Calif., April 15, 2026 (GLOBE NEWSWIRE) — Denodo, a leader in data management, today released the…
+- Source: https://financialpost.com/globe-newswire/research-reveals-trust-gap-threatening-agentic-ai-adoption-66-of-organizations-say-real-time-data-is-non-negotiable
+- Date: 2026-04-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta’s Custom Silicon, MTIA (Score: 0)
+- Summary: Broadcom and Meta announced a multi-year, multi-generation strategic partnership to support Meta’s rapidly scaling AI compute infrastructure....
+- Source: https://www.globenewswire.com/news-release/2026/04/14/3273998/19933/en/Broadcom-Announces-Extended-Partnership-with-Meta-to-Deploy-Technology-to-Support-Multi-Gigawatts-of-Meta-s-Custom-Silicon-MTIA.html
+- Date: 2026-04-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+63 Moons’ cybersecurity arm pilots GPS-spoofing solution at Indian airports (Score: 0)
+- Summary: 63 Moons’ cybersecurity unit pilots a GPS-spoofing solution at Indian airports to enhance aviation safety and security.
+- Source: https://www.thehindubusinessline.com/economy/logistics/63-moons-cybersecurity-arm-pilots-gps-spoofing-solution-at-indian-airports/article70861241.ece
+- Date: 2026-04-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
