@@ -49935,3 +49935,168 @@ Broadcom Announces Extended Partnership with Meta to Deploy Technology to Suppor
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-04-26 14:11  ---
+
+Google rolls out new Security Operations agents, Wiz integrations and agent governance tools (Score: 4)
+- Summary: Google LLC today rolled out a sweeping set of security updates at Google Cloud Next ’26, including three new artificial intelligence agents in Google Security Operations and a major expansion of Wiz Inc. coverage across rival clouds and agent-building platfor…
+- Source: https://siliconangle.com/2026/04/22/google-cloud-next-new-security-operations-agents-wiz-integrations-agent-governance-tools/
+- Date: 2026-04-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Google wants Chrome to be your AI colleague, and it is betting 3.8 billion users agree (Score: 3)
+- Summary: Summary: Google announced at Cloud Next 2026 that Chrome is becoming an agentic workplace platform with Auto Browse (autonomous multi-step task completion), Chrome Skills (saveable AI workflows), a persistent Gemini side panel integrated with Workspace, and o…
+- Source: https://thenextweb.com/news/google-chrome-enterprise-ai-coworker-agentic-browser/
+- Date: 2026-04-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+$93.39 Bn Enterprise Network Equipment Market Trends and Growth Forecasts, 2026-2031: Surging Bandwidth Demand from IoT and Edge Computing and Rapid Enterprise-wide Upgrades to Wi-Fi 7 Campus LANs (Score: 3)
+- Summary: The enterprise network equipment market thrives on AI-optimized, cloud-managed infrastructure, favoring software-defined control and scalability. Major opportunities arise from SD-WAN rollouts, Wi-Fi 7 upgrades, 400/800 G switching, and the demand for sustain…
+- Source: https://www.globenewswire.com/news-release/2026/04/22/3278713/28124/en/93-39-Bn-Enterprise-Network-Equipment-Market-Trends-and-Growth-Forecasts-2026-2031-Surging-Bandwidth-Demand-from-IoT-and-Edge-Computing-and-Rapid-Enterprise-wide-Upgrades-to-Wi-Fi-.html
+- Date: 2026-04-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+North Korean IT workers are stealing remote jobs and raking in billions—and Americans are helping them do it (Score: 2)
+- Summary: “North Korean IT worker schemes would not be successful without U.S.-based facilitators,” wrote Assistant Attorney General John Eisenberg in an April...
+- Source: https://www.yahoo.com/news/articles/north-korean-workers-stealing-remote-110200705.html
+- Date: 2026-04-25
+- Vendors: None
+- Topics: None
+
+North Korean IT workers are stealing remote jobs and raking in billions—and Americans are helping them do it (Score: 2)
+- Summary: “North Korean IT worker schemes would not be successful without U.S.-based facilitators,” wrote Assistant Attorney General John Eisenberg in an April sentencing memo.
+- Source: https://fortune.com/2026/04/25/north-korean-it-worker-scheme-american-faciliators/
+- Date: 2026-04-25
+- Vendors: None
+- Topics: None
+
+Phase 1 of public outreach on proposed high-speed rail network wraps Friday night (Score: 2)
+- Summary: Thousands of "open and constructive exchanges" have taken place and will help shed light on local concerns and needs, the Crown corporation behind the project wrote in a blog post earlier this week.
+- Source: https://www.cbc.ca/news/canada/ottawa/deadline-to-for-public-comments-on-alto-high-speed-rail-midnight-april-24-9.7176086
+- Date: 2026-04-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-sdk 0.14.0 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.14.0/
+- Date: 2026-04-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New BlackFile extortion group linked to surge of vishing attacks (Score: 0)
+- Summary: A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]
+- Source: https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/
+- Date: 2026-04-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2026 HoustonCIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/04/24/3281021/0/en/Top-Technology-Executives-Recognized-at-the-2026-HoustonCIO-ORBIE-Awards.html
+- Date: 2026-04-24
+- Vendors: None
+- Topics: None
+
+Despite ChatGPT Integration, Upwork (UPWK) Is At Risk Of Collapsing Due To AI (Score: 0)
+- Summary: Upwork Inc. (NASDAQ:UPWK) is one of the 10 Stocks That Will Collapse Because of AI. On April 9, Upwork Inc. (NASDAQ:UPWK) expanded its AI strategy by...
+- Source: https://finance.yahoo.com/markets/stocks/articles/despite-chatgpt-integration-upwork-upwk-155525129.html
+- Date: 2026-04-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The transcription factor TaWRKY58 coordinates growth and drought sensitivity in wheat by repressing TaLRR and TaBCS1 (Score: 0)
+- Summary: Author summary Wheat need balance growth and stress survival to maintain yield. We show that the TaWRKY58 protein acts as a central regulator of this balance. It functions as a repressor, reducing plant height by limiting growth hormones and curbing drought r…
+- Source: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012124
+- Date: 2026-04-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mozilla patched 271 Firefox bugs found by Anthropic’s Mythos, and says the zero-day era has an expiration date (Score: 0)
+- Summary: Summary: Mozilla released Firefox 150 with fixes for 271 security vulnerabilities identified by Anthropic’s Claude Mythos Preview, an unreleased frontier AI model distributed under the restricted Project Glasswing programme. The collaboration began with Claud…
+- Source: https://thenextweb.com/news/mozilla-firefox-claude-mythos-271-vulnerabilities/
+- Date: 2026-04-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Beyond Clavulanic Acid biosynthesis: Exploring the broad regulatory impact of BldD in Streptomyces clavuligerus ATCC 27064 (Score: 0)
+- Summary: BldD is a global regulator of morphological development in Streptomyces, usually acting as a repressor of aerial mycelium formation. However, its role in metabolism and secondary biosynthesis in the wild-type strain Streptomyces clavuligerus remains poorly un…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347564
+- Date: 2026-04-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A tsunami of flaws: When frontier AI and Patch Tuesday collide (Score: 0)
+- Summary: Microsoft’s April Patch Tuesday drop was the second-largest in history, falling just shy of an October 2025 record. What is behind the spike in vulnerability disclosures, and is there a connection to Anthropic’s bug-hunting Claude Mythos AI model?
+- Source: https://www.computerweekly.com/news/366641789/A-tsunami-of-flaws-When-frontier-AI-and-Patch-Tuesday-collide
+- Date: 2026-04-22
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CK2 inhibition suppresses glial inflammation in models of neuroinflammation and neurodegeneration (Score: 0)
+- Summary: Chemoproteomics coupled with patient-derived and organoid models identify and validate brain-enriched CK2α2 as an inflammatory driver in Alzheimer's disease. Blocking CK2 (including with brain-penetrant TAL606) lowers inflammatory signals in AD mice.
+- Source: https://www.nature.com/articles/s41467-026-71736-x
+- Date: 2026-04-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Humble emerges from stealth with $24M and a cableless autonomous electric truck built to go dock-to-dock (Score: 0)
+- Summary: The San Francisco startup, founded by an ex-Uber ATG and Waabi engineer, is taking a different approach to autonomous freight than Aurora or Kodiak: no driver’s cab, no hub handoffs, and an autonomy stack built on vision-language-action models rather than rul…
+- Source: https://thenextweb.com/news/humble-24m-seed-cabless-autonomous-electric-truck/
+- Date: 2026-04-21
+- Vendors: Cisco
+- Topics: None
+
+GTT Announces 2026 Strategy: Expanding Cloud and Security Capabilities to Dynamically Protect Global Enterprise Infrastructures (Score: 0)
+- Summary: GTT to simplify complexity and boost cyber resilience with expansion of GTT Envision and AI-enabled security framework, following major investments in 2025 that have grown its global internet backbone to world’s third largest. ARLINGTON, Va. — GTT Communicati…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/gtt-announces-2026-strategy-expanding-cloud-and-security-capabilities-to-dynamically-protect-global-enterprise-infrastructures
+- Date: 2026-04-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ripple stake delivers approximately 150% return for C1 Fund in under four months (Score: 0)
+- Summary: C1 Fund's Ripple success highlights the potential for strategic investments in digital assets to yield significant returns and enhance liquidity.
+The post Ripple stake delivers approximately 150% return for C1 Fund in under four months appeared first on Crypt…
+- Source: https://cryptobriefing.com/ripple-investment-return-c1-fund/
+- Date: 2026-04-21
+- Vendors: None
+- Topics: None
+
+Vulnerability Summary for the Week of April 13, 2026 (Score: 0)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+<th>Patch Info</th>
+</tr>
+
+
+
+<tr>
+<td>Grafana--Pyroscope</td>
+<td>Pyroscope is an open-source continuous p…
+- Source: https://www.cisa.gov/news-events/bulletins/sb26-110
+- Date: 2026-04-20
+- Vendors: None
+- Topics: None
+
+CVE-2023-33538 under attack for a year, but exploitation still unsuccessful (Score: 0)
+- Summary: Hackers have targeted CVE-2023-33538 flaw in old TP-Link routers for a year, but no successful exploitation has been seen so far. Hackers have been trying for over a year to exploit a serious flaw, tracked as CVE-2023-33538 (CVSS score of 8.8), in outdated TP…
+- Source: https://securityaffairs.com/191040/hacking/cve-2023-33538-under-attack-for-a-year-but-exploitation-still-unsuccessful.html
+- Date: 2026-04-20
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
