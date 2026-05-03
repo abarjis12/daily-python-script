@@ -51174,3 +51174,180 @@ Top Technology Executives Recognized at the 2026 HoustonCIO ORBIE Awards (Score:
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-03 14:26  ---
+
+Silverfort acquires Fabrix Security to bring AI decision-making to runtime access control (Score: 4)
+- Summary: Unified identity security company Silverfort Inc. today announced that it has acquired Fabrix Security Ltd., an artificial intelligence-native identity security company, for an undisclosed price. Founded in 2024, Fabrix offers an AI-native identity security p…
+- Source: https://siliconangle.com/2026/04/28/silverfort-acquires-fabrix-security-bring-ai-decisioning-runtime-access-control/
+- Date: 2026-04-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Officials dim hopes for downtown Ottawa high-speed rail station (Score: 2)
+- Summary: The hopes of a intercity train station returning to downtown Ottawa seem to have gone off track, as the corporation behind Canada's proposed high-speed rail network and the federal transportation minister have each said this week that would be difficult to do.
+- Source: https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-downtown-ottawa-station-9.7184621
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia (Score: 2)
+- Summary: Just in time for the Trump-Xi summit
+Exclusive A novel China-linked threat group infiltrated more than a dozen critical networks in Poland, Asian countries, and possibly beyond, beginning in December 2024 and with activity uncovered as recently as this month.…
+- Source: https://www.theregister.com/2026/04/30/chinese_spies_lurking_networks/
+- Date: 2026-04-30
+- Vendors: None
+- Topics: None
+
+AI Security Risks Force CIOs to Rethink Strategy (Score: 2)
+- Summary: In this Q&A, Michael Spisak of Unit 42, Palo Alto Networks, explains the cybersecurity risks and opportunities that enterprises now face with the rapid rise of AI.
+- Source: https://www.techtarget.com/searchcio/feature/AI-Security-Risks-Force-CIOs-to-Rethink-Strategy
+- Date: 2026-04-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aisecurity 0.8.1a3 (Score: 2)
+- Summary: Palo Alto Networks AI Runtime Security: API Intercept Python SDK
+- Source: https://pypi.org/project/pan-aisecurity/0.8.1a3/
+- Date: 2026-04-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Here are 3 ASX ETFs to buy in May and hold until 2030 (Score: 0)
+- Summary: These funds could be worth considering if you are looking for an easy way to invest for the long term.
+The post Here are 3 ASX ETFs to buy in May and hold until 2030 appeared first on The Motley Fool Australia.
+- Source: https://www.fool.com.au/2026/05/02/here-are-3-asx-etfs-to-buy-in-may-and-hold-until-2030/
+- Date: 2026-05-01
+- Vendors: None
+- Topics: None
+
+How Alto plans to buy out property owners for its high-speed rail plans (Score: 0)
+- Summary: The Crown corporation behind Canada’s proposed high-speed rail line has released new details on how it plans to expropriate and compensate land owners to carry out the multibillion-dollar project.
+- Source: https://www.cbc.ca/news/canada/ottawa/how-alto-plans-to-buy-out-property-owners-for-its-high-speed-rail-plans-9.7184084
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2026 Tennessee ORBIE Awards (Score: 0)
+- Summary: Leading CIOs and CISOs honored for leadership, innovation, enterprise security, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/05/01/3286164/0/en/Top-Technology-Executives-Recognized-at-the-2026-Tennessee-ORBIE-Awards.html
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Healthcare Cybersecurity Market: $97.79 Billion by 2031 with Cloud Security Segment Expanding at 18.58% CAGR, Reports Mordor Intelligence (Score: 0)
+- Summary: The healthcare cybersecurity market growth is strongly driven by increasing digitalization of healthcare systems, rising cyberattacks on medical data, and expanding adoption of cloud-based healthcare infrastructure. These healthcare cybersecurity market trend…
+- Source: https://www.globenewswire.com/news-release/2026/05/01/3285708/0/en/Healthcare-Cybersecurity-Market-97-79-Billion-by-2031-with-Cloud-Security-Segment-Expanding-at-18-58-CAGR-Reports-Mordor-Intelligence.html
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+16 New Hotels You’ll Want to Plan Your Summer Around (Score: 0)
+- Summary: The best new hotels opening in April 2026, from island resorts to city stays and major renovations worldwide.
+- Source: https://matadornetwork.com/read/exciting-new-hotels-april/
+- Date: 2026-05-01
+- Vendors: None
+- Topics: None
+
+16 New Hotels You’ll Want to Plan Your Summer Around (Score: 0)
+- Summary: The best new hotels opening in April 2026, from island resorts to city stays and major renovations worldwide.
+- Source: https://matadornetwork.com/read/new-hotels-april-2026/
+- Date: 2026-05-01
+- Vendors: None
+- Topics: None
+
+Anthropic announces Claude Security public beta to find and fix software vulnerabilities (Score: 0)
+- Summary: Anthropic PBC announced the launch of Claude Security in public beta mode today to help cybersecurity teams scan their codebases for vulnerabilities and generate patches.  Part of Claude Enterprise, the company’s subscription model aimed at large organization…
+- Source: https://siliconangle.com/2026/04/30/anthropic-announces-claude-security-public-beta-find-fix-software-vulnerabilities/
+- Date: 2026-04-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Post-quantum encryption for Cloudflare IPsec is generally available (Score: 0)
+- Summary: Cloudflare IPsec now has generally available support for post-quantum encryption via hybrid ML-KEM. We’ve confirmed interoperability with Cisco and Fortinet.
+- Source: https://blog.cloudflare.com/post-quantum-ipsec/
+- Date: 2026-04-30
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+alto-dictation 1.0.19 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.19/
+- Date: 2026-04-30
+- Vendors: None
+- Topics: None
+
+Pharmacy Has A Tower Records Problem. Outsiders Rebuilding The Tech Stack Might Help. (Score: 0)
+- Summary: Tower Records was born in a drugstore. At its height, it had 200 locations and generated $1 billion in revenue in the late 90s. Then, in less than a decade, it was gone.
+- Source: https://www.forbes.com/sites/sethjoseph/2026/04/28/pharmacy-has-a-tower-records-problem-outsiders-rebuilding-the-tech-stack-might-help/
+- Date: 2026-04-28
+- Vendors: None
+- Topics: None
+
+The Google-Anthropic partnership made trust the strategy behind a $30B run rate (Score: 0)
+- Summary: Google LLC and Anthropic PBC are two of the most powerful forces shaping enterprise AI. As agentic deployments demand platforms that are both capable and safe to build on, the Google-Anthropic partnership is fast becoming the model others are measured against…
+- Source: https://siliconangle.com/2026/04/28/google-anthropic-partnership-stakes-claim-trust-ai-googlecloudnext/
+- Date: 2026-04-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Space diplomacy: bridging the operating gaps between myriad missions (Score: 0)
+- Summary: Space is now shared by governments, companies, scientists and philanthropists. They need to work together to avoid collisions and clashes.
+- Source: https://www.nature.com/articles/d41586-026-01298-x
+- Date: 2026-04-28
+- Vendors: None
+- Topics: None
+
+When Nature Become Art (100 Photos) (Score: 0)
+- Summary: Sometimes a mural is only half the fun! A simple tree magically transforms into wild hair. A tiny weed becomes a dancer’s tutu. Stones turn into stunning portraits, and driftwood awakens as a forest spirit. Even whole buildings can bloom into giant flowers or…
+- Source: https://streetartutopia.com/2026/04/28/when-nature-become-art-collection-of-100-photos-of-street-art-murals-and-sculptures/
+- Date: 2026-04-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BlackFile Group Targets Retail and Hospitality with Vishing Attacks (Score: 0)
+- Summary: Researchers uncover a new data theft and extortion group dubbed “BlackFile”
+- Source: https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/
+- Date: 2026-04-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+FSU baseball swept by Stanford after walk-off grand slam (Score: 0)
+- Summary: Rintaro Sasaki delivered a walk-off grand slam for Stanford to beat Florida State baseball 7-4, and secure a stunning sweep over the Seminoles.
+- Source: https://www.tallahassee.com/story/sports/college/fsu/baseball/2026/04/26/florida-state-stanford-baseball-rintaro-sasaki-grand-slam-walk-off/89695333007/
+- Date: 2026-04-27
+- Vendors: None
+- Topics: None
+
+Stanford walks off FSU, completes the sweep (Score: 0)
+- Summary: The Florida State Seminoles were defeated by the Stanford Cardinal 7-4, being swept by the opponent for the first time this season.
+- Source: https://fsuwire.usatoday.com/story/sports/college/fsu/baseball/2026/04/26/fsu-baseball-stanford-sweep-recap/89813472007/
+- Date: 2026-04-26
+- Vendors: None
+- Topics: None
+
+The Audacity Recap: Privacy Notice (Score: 0)
+- Summary: Duncan believes he’s just pulled a brilliant move without realizing he’s leaving himself vulnerable to another of JoAnne’s clients.
+- Source: http://www.vulture.com/article/the-audacity-recap-episode-4-vanitas.html
+- Date: 2026-04-26
+- Vendors: None
+- Topics: None
+
+How Aramco Ventures Is Pumping $7.5 Billion Into Strategic Tech (Score: 0)
+- Summary: The CEO of Aramco's venture capital arm Mahdi Aladel explains its backing of emerging technologies that add value and bring efficiencies to the energy giant's operations.
+- Source: https://www.forbes.com/sites/gauravsharma/2026/04/26/how-aramco-ventures-is-pumping-75-billion-into-strategic-tech/
+- Date: 2026-04-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+YouTube CEO Reveals Your Video Marketing Strategy For 2026 via &sejournal, &gregjarboe Digitalici (Score: 0)
+- Summary: YouTube CEO Reveals Your Video Marketing Strategy For 2026 via &sejournal, &gregjarboe Digitalicidigitalici.com
+- Source: https://www.digitalici.com/youtube-ceo-reveals-your-video-marketing-strategy-for-2026-via-sejournal-gregjarboe/
+- Date: 2026-04-26
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
