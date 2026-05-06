@@ -51514,3 +51514,180 @@ Stanford walks off FSU, completes the sweep (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-06 15:39  ---
+
+safecadence-netrisk added to PyPI (Score: 2)
+- Summary: Free, open-source network infrastructure risk auditing — local-first, multi-vendor, BYO-AI.
+- Source: https://pypi.org/project/safecadence-netrisk/
+- Date: 2026-05-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks buys Portkey for AI agents security #tech (Score: 2)
+- Summary: Palo Alto Networks agrees to buy Portkey to secure AI agents Palo Alto Networks has agreed to acquire Portkey , a startup that develops AI gateway technology designed to manage and secure AI agents. Deal talks valued Portkey at $120 million to $140 million , …
+- Source: https://alltoc.com/tech/palo-alto-networks-buys-portkey-for-ai-agents-security
+- Date: 2026-05-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Officials dim hopes for downtown Ottawa high-speed rail station (Score: 2)
+- Summary: The hopes of a intercity train station returning to downtown Ottawa seem to have gone off track, as the corporation behind Canada's proposed high-speed rail network and the federal transportation minister have each said this week that would be difficult to do.
+- Source: https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-downtown-ottawa-station-9.7184621
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia (Score: 2)
+- Summary: Exclusive: Just in time for the Trump-Xi summit
+- Source: https://www.theregister.com/security/2026/04/30/chinese-spy-group-caught-lurking-in-poland-asia-networks/5227509
+- Date: 2026-04-30
+- Vendors: None
+- Topics: None
+
+What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia (Score: 2)
+- Summary: Just in time for the Trump-Xi summit
+Exclusive A novel China-linked threat group infiltrated more than a dozen critical networks in Poland, Asian countries, and possibly beyond, beginning in December 2024 and with activity uncovered as recently as this month.…
+- Source: https://www.theregister.com/2026/04/30/chinese_spies_lurking_networks/
+- Date: 2026-04-30
+- Vendors: None
+- Topics: None
+
+AI Security Risks Force CIOs to Rethink Strategy (Score: 2)
+- Summary: In this Q&A, Michael Spisak of Unit 42, Palo Alto Networks, explains the cybersecurity risks and opportunities that enterprises now face with the rapid rise of AI.
+- Source: https://www.techtarget.com/searchcio/feature/AI-Security-Risks-Force-CIOs-to-Rethink-Strategy
+- Date: 2026-04-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+alto-dictation 1.0.21 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.21/
+- Date: 2026-05-05
+- Vendors: None
+- Topics: None
+
+LTM and Uniphore Partner to Scale Domain-Specific AI Across Core Business Processes (Score: 0)
+- Summary: Uniphore’s Business AI Cloud will power LTM’s BlueVerse™ ecosystem to deliver industry-specific small language models and AI agents for core enterprise workflows PALO ALTO, Calif. — Uniphore, the Business AI Company, and LTM, the Business Creativity partner t…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/ltm-and-uniphore-partner-to-scale-domain-specific-ai-across-core-business-processes
+- Date: 2026-05-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+War without borders: The rise of cyberattacks beyond the battlefield (Score: 0)
+- Summary: Cyber conflict escalates beyond borders following US-Israeli strikes on Iran. Hacktivists and state-backed actors launch global attacks. This crisis fuels a cybercrime economy, creating cover and opportunity. Critical infrastructure like energy and aviation f…
+- Source: https://economictimes.indiatimes.com/news/international/world-news/war-without-borders-the-rise-of-cyberattacks-beyond-the-battlefield/articleshow/130822082.cms
+- Date: 2026-05-05
+- Vendors: None
+- Topics: None
+
+Think 2026: IBM Delivers the Blueprint for the AI Operating Model as the AI Divide Widens (Score: 0)
+- Summary: Next-generation agent orchestration and agentic development give enterprises a unified way to plan, build, deploy, and govern AI agents at scale Real-time, AI-ready data foundation gives enterprises the governed, connected information agents need to act with …
+- Source: https://www.prnewswire.co.uk/news-releases/think-2026-ibm-delivers-the-blueprint-for-the-ai-operating-model-as-the-ai-divide-widens-302762155.html
+- Date: 2026-05-05
+- Vendors: IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The faces of quantum (Score: 0)
+- Summary: This story is part of Quantum Crossroads, a series examining the impact of the quantum computing megadevelopment in South Chicago. The push to transform Chicago into a world leader in quantum computing research and development has been yearslong and required …
+- Source: http://chicagoreader.com/news/explainer/quantum-computing-campus-tenants-iqmp-illinois/
+- Date: 2026-05-04
+- Vendors: None
+- Topics: None
+
+Forte Minerals Graduates to OTCQX® Best Market (Score: 0)
+- Summary: VANCOUVER, British Columbia, May 04, 2026 (GLOBE NEWSWIRE) — Forte Minerals Corp. (“Forte” or the “Company”) (CSE: CUAU) (OTCQX: FOMNF) (Frankfurt: 2OA) is pleased to announce that it commences trading today on the OTCQX® Best Market under the ticker symbol “…
+- Source: https://financialpost.com/globe-newswire/forte-minerals-graduates-to-otcqx-best-market
+- Date: 2026-05-04
+- Vendors: None
+- Topics: None
+
+alto-dictation 1.0.20 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.20/
+- Date: 2026-05-04
+- Vendors: None
+- Topics: None
+
+The Venture-Capital Populist (Score: 0)
+- Summary: How David Sacks and the new tech right went full MAGA and captured Washington
+- Source: https://www.theatlantic.com/magazine/2026/06/david-sacks-crypto-ai-venture-capital/686941/
+- Date: 2026-05-04
+- Vendors: None
+- Topics: None
+
+Elon Musk Hails Tesla Model Y Dominance in California Q1 2026 Sales as It Crushes Rivals (Score: 0)
+- Summary: PALO ALTO, Calif. — Tesla Model Y dominated California's new-vehicle sales in the first quarter of 2026 with 22,907 registrations, outselling the second-place Toyota Camry by a commanding 54 percent and leaving traditional rivals in its dust, according to dat…
+- Source: https://www.ibtimes.com.au/elon-musk-hails-tesla-model-y-dominance-california-q1-2026-sales-it-crushes-rivals-1868092
+- Date: 2026-05-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Here are 3 ASX ETFs to buy in May and hold until 2030 (Score: 0)
+- Summary: These funds could be worth considering if you are looking for an easy way to invest for the long term.
+The post Here are 3 ASX ETFs to buy in May and hold until 2030 appeared first on The Motley Fool Australia.
+- Source: https://www.fool.com.au/2026/05/02/here-are-3-asx-etfs-to-buy-in-may-and-hold-until-2030/
+- Date: 2026-05-01
+- Vendors: None
+- Topics: None
+
+How Alto plans to buy out property owners for its high-speed rail plans (Score: 0)
+- Summary: The Crown corporation behind Canada’s proposed high-speed rail line has released new details on how it plans to expropriate and compensate land owners to carry out the multibillion-dollar project.
+- Source: https://www.cbc.ca/news/canada/ottawa/how-alto-plans-to-buy-out-property-owners-for-its-high-speed-rail-plans-9.7184084
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2026 Tennessee ORBIE Awards (Score: 0)
+- Summary: Leading CIOs and CISOs honored for leadership, innovation, enterprise security, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/05/01/3286164/0/en/Top-Technology-Executives-Recognized-at-the-2026-Tennessee-ORBIE-Awards.html
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Healthcare Cybersecurity Market: $97.79 Billion by 2031 with Cloud Security Segment Expanding at 18.58% CAGR, Reports Mordor Intelligence (Score: 0)
+- Summary: The healthcare cybersecurity market growth is strongly driven by increasing digitalization of healthcare systems, rising cyberattacks on medical data, and expanding adoption of cloud-based healthcare infrastructure. These healthcare cybersecurity market trend…
+- Source: https://www.globenewswire.com/news-release/2026/05/01/3285708/0/en/Healthcare-Cybersecurity-Market-97-79-Billion-by-2031-with-Cloud-Security-Segment-Expanding-at-18-58-CAGR-Reports-Mordor-Intelligence.html
+- Date: 2026-05-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+16 New Hotels You’ll Want to Plan Your Summer Around (Score: 0)
+- Summary: The best new hotels opening in April 2026, from island resorts to city stays and major renovations worldwide.
+- Source: https://matadornetwork.com/read/exciting-new-hotels-april/
+- Date: 2026-05-01
+- Vendors: None
+- Topics: None
+
+16 New Hotels You’ll Want to Plan Your Summer Around (Score: 0)
+- Summary: The best new hotels opening in April 2026, from island resorts to city stays and major renovations worldwide.
+- Source: https://matadornetwork.com/read/new-hotels-april-2026/
+- Date: 2026-05-01
+- Vendors: None
+- Topics: None
+
+Anthropic announces Claude Security public beta to find and fix software vulnerabilities (Score: 0)
+- Summary: Anthropic PBC announced the launch of Claude Security in public beta mode today to help cybersecurity teams scan their codebases for vulnerabilities and generate patches.  Part of Claude Enterprise, the company’s subscription model aimed at large organization…
+- Source: https://siliconangle.com/2026/04/30/anthropic-announces-claude-security-public-beta-find-fix-software-vulnerabilities/
+- Date: 2026-04-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Post-quantum encryption for Cloudflare IPsec is generally available (Score: 0)
+- Summary: Cloudflare IPsec now has generally available support for post-quantum encryption via hybrid ML-KEM. We’ve confirmed interoperability with Cisco and Fortinet.
+- Source: https://blog.cloudflare.com/post-quantum-ipsec/
+- Date: 2026-04-30
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+alto-dictation 1.0.19 (Score: 0)
+- Summary: System-wide push-to-talk speech-to-text service for Linux
+- Source: https://pypi.org/project/alto-dictation/1.0.19/
+- Date: 2026-04-30
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
