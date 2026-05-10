@@ -52243,3 +52243,187 @@ The Soul of Maintaining a New Machine (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-10 14:34  ---
+
+Netwrix Builds Out Leadership Bench with CTO, VP of Engineering, and Head of Americas Channel (Score: 4)
+- Summary: Senior leaders with experience across Palo Alto Networks, SecurityScorecard, and DigiCert join to accelerate engineering innovation and channel growth for the company's identity and data security platform FRISCO, Texas, May 6, 2026 /PRNewswire/ -- Netwrix, a …
+- Source: https://www.prnewswire.com/news-releases/netwrix-builds-out-leadership-bench-with-cto-vp-of-engineering-and-head-of-americas-channel-302763750.html
+- Date: 2026-05-06
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Data Center Networking Market to Reach USD 139.08 Billion by 2031 at a 16.5% CAGR - AI and GPU-Driven Demands Propel Growth (Score: 2)
+- Summary: Dublin, May 08, 2026 (GLOBE NEWSWIRE) -- The "Data Center Networking Market by Offering, Network Infrastructure, Workload, Data Center Size, End User, and Region - Forecast to 2031" has been added to ResearchAndMarkets.com's offering.The data center networkin…
+- Source: https://www.globenewswire.com/news-release/2026/05/08/3291141/28124/en/Data-Center-Networking-Market-to-Reach-USD-139-08-Billion-by-2031-at-a-16-5-CAGR-AI-and-GPU-Driven-Demands-Propel-Growth.html
+- Date: 2026-05-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Is Wall Street Bullish or Bearish on Palo Alto Networks Stock? (Score: 2)
+- Summary: Despite trailing the broader market over the past year, PANW continues to attract strong bullish sentiment from analysts, reflecting confidence in its long...
+- Source: https://www.barchart.com/story/news/1796731/is-wall-street-bullish-or-bearish-on-palo-alto-networks-stock
+- Date: 2026-05-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nation-state actors exploit Palo Alto PAN-OS zero-day for weeks (Score: 2)
+- Summary: Palo Alto says hackers exploited PAN-OS zero-day CVE-2026-0300 for weeks, gaining root access to exposed firewalls and hiding traces. Palo Alto Networks warned that suspected state-sponsored hackers have been exploiting the critical PAN-OS zero-day CVE-2026-0…
+- Source: https://securityaffairs.com/191831/security/nation-state-actors-exploit-palo-alto-pan-os-zero-day-for-weeks.html
+- Date: 2026-05-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage (Score: 2)
+- Summary: Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026.
+The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vul…
+- Source: https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html
+- Date: 2026-05-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks firewall zero-day exploited for nearly a month (Score: 2)
+- Summary: Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]
+- Source: https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/
+- Date: 2026-05-07
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Brightspeed Fiber Network Nearly Complete, Five Fully Fiber-Ready Pennsylvania Communities & More Coming (Score: 2)
+- Summary: Ultra‑fast fiber internet is now available to more than 192,000 across the state CHARLOTTE, N.C., May 6, 2026 /PRNewswire/ -- Brightspeed, the nation's third-largest fiber broadband builder empowering families and businesses with multi-gig-speed internet serv…
+- Source: https://www.prnewswire.com/news-releases/brightspeed-fiber-network-nearly-complete-five-fully-fiber-ready-pennsylvania-communities--more-coming-302764377.html
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution (Score: 2)
+- Summary: Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild.
+The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code e…
+- Source: https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html
+- Date: 2026-05-06
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Montreal-Ottawa high-speed rail line could cross 1,700 properties, Alto predicts (Score: 2)
+- Summary: The first stretch of Canada's proposed high-speed rail network is expected to cross approximately 1,700 properties, including at least 500 agricultural lands, the Crown corporation behind the project has told Radio-Canada.
+- Source: https://www.cbc.ca/news/canada/ottawa/alto-rail-ottawa-montreal-route-property-map-9.7188144
+- Date: 2026-05-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+safecadence-netrisk added to PyPI (Score: 2)
+- Summary: Free, open-source network infrastructure risk auditing — local-first, multi-vendor, BYO-AI.
+- Source: https://pypi.org/project/safecadence-netrisk/
+- Date: 2026-05-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks buys Portkey for AI agents security #tech (Score: 2)
+- Summary: Palo Alto Networks agrees to buy Portkey to secure AI agents Palo Alto Networks has agreed to acquire Portkey , a startup that develops AI gateway technology designed to manage and secure AI agents. Deal talks valued Portkey at $120 million to $140 million , …
+- Source: https://alltoc.com/tech/palo-alto-networks-buys-portkey-for-ai-agents-security
+- Date: 2026-05-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2026 ChicagoCIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/05/08/3291346/0/en/Top-Technology-Executives-Recognized-at-the-2026-ChicagoCIO-ORBIE-Awards.html
+- Date: 2026-05-08
+- Vendors: None
+- Topics: None
+
+GigCapital7 Corp. Announces Domestication in Furtherance of Business Combination with Hadron Energy (Score: 0)
+- Summary: PALO ALTO, Calif. — GigCapital7 Corp. (NASDAQ: GIG) (“GigCapital7”) today announced that following the shareholder approval of the domestication from the Cayman Islands to Delaware at its Extraordinary General Meeting of Shareholders (the “Extraordinary Meeti…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/gigcapital7-corp-announces-domestication-in-furtherance-of-business-combination-with-hadron-energy
+- Date: 2026-05-08
+- Vendors: None
+- Topics: None
+
+Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here (Score: 0)
+- Summary: The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.
+- Source: https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html
+- Date: 2026-05-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GigCapital7 Corp. Announces Shareholder Approval of Business Combination with Hadron Energy (Score: 0)
+- Summary: PALO ALTO, Calif. — GigCapital7 Corp. (NASDAQ: GIG) (“GigCapital7”) today announced that at the Extraordinary General Meeting of Shareholders (the “Extraordinary Meeting”) held on May 7, 2026, GigCapital7’s shareholders voted to approve the previously announc…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/gigcapital7-corp-announces-shareholder-approval-of-business-combination-with-hadron-energy
+- Date: 2026-05-08
+- Vendors: None
+- Topics: None
+
+They shared their fears about high-speed rail. Then their comments disappeared (Score: 0)
+- Summary: A teenager worried about his family's home and an 84-year-old concerned about agricultural impacts both saw the online comments they left on Alto's interactive map taken down. The Crown corporation says their feedback has been restored, but the initial remova…
+- Source: https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-map-comments-removed-then-reinstated-9.7190149
+- Date: 2026-05-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto warns of critical firewall flaw, tells users a patch is on the way (Score: 0)
+- Summary: Risks can be mitigated through settings, while Palo Alto works on a patch.
+- Source: https://www.techradar.com/pro/security/palo-alto-warns-of-critical-firewall-flaw-tells-users-a-patch-is-on-the-way
+- Date: 2026-05-07
+- Vendors: None
+- Topics: None
+
+Explore: The Leading Hotels of the World Is the Coffee-Table Book That Makes You Want to Book a Flight (Score: 0)
+- Summary: Luxury travel publishing just raised its own bar. Explore: The Leading Hotels of the World arrives in June 2026 as the third volume in a coffee-table series that has quietly become one of the most authoritative visual documents of global hospitality. The firs…
+- Source: https://weandthecolor.com/explore-the-leading-hotels-of-the-world-is-the-coffee-table-book-that-makes-you-want-to-book-a-flight/209607
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CN Presents the 2025 Safe Handling Award to 194 Rail Shippers (Score: 0)
+- Summary: MONTREAL, May 06, 2026 (GLOBE NEWSWIRE) — CN (TSX: CNR) (NYSE: CNI) today announced the winners of its 2025 Safe Handling Award, recognizing customers who demonstrate excellence in the safe loading and transportation of regulated products by rail. Recipients …
+- Source: https://financialpost.com/globe-newswire/cn-presents-the-2025-safe-handling-award-to-194-rail-shippers
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CN Presents the 2025 Safe Handling Award to 194 Rail Shippers (Score: 0)
+- Summary: MONTREAL, May 06, 2026 (GLOBE NEWSWIRE) -- CN (TSX: CNR) (NYSE: CNI) today announced the winners of its 2025 Safe Handling Award, recognizing customers who demonstrate excellence in the safe loading and transportation of regulated products by rail.
+- Source: https://www.globenewswire.com/news-release/2026/05/06/3289029/0/en/CN-Presents-the-2025-Safe-Handling-Award-to-194-Rail-Shippers.html
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Atlas Critical Minerals Corporation to Present at the Precious Metals & Critical Minerals Virtual Investor Conference May 7th (Score: 0)
+- Summary: Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com BELO HORIZONTE, Brazil, May 06, 2026 (GLOBE NEWSWIRE) — Atlas Critical Minerals Corporation (NASDAQ: ATCX), based in B…
+- Source: https://financialpost.com/globe-newswire/atlas-critical-minerals-corporation-to-present-at-the-precious-metals-critical-minerals-virtual-investor-conference-may-7th
+- Date: 2026-05-06
+- Vendors: None
+- Topics: None
+
+Atlas Critical Minerals Corporation to Present at the Precious Metals & Critical Minerals Virtual Investor Conference May 7th (Score: 0)
+- Summary: Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualI…
+- Source: https://www.globenewswire.com/news-release/2026/05/06/3288835/0/en/Atlas-Critical-Minerals-Corporation-to-Present-at-the-Precious-Metals-Critical-Minerals-Virtual-Investor-Conference-May-7th.html
+- Date: 2026-05-06
+- Vendors: None
+- Topics: None
+
+Buyer's guide for CISOs: Cloud security posture management (Score: 0)
+- Summary: Cloud security posture management is a critical component of cloud defense strategy. Need help choosing a CSPM platform? This guide lists key features and platforms to consider.
+- Source: https://www.techtarget.com/searchsecurity/tip/Buyers-guide-for-CISOs-Cloud-security-posture-management
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+/C O R R E C T I O N -- Hesai Group/ (Score: 0)
+- Summary: In the news release, Hesai Secures No.1 in Long-Range ADAS Lidar Shipments for Five Consecutive Years by Yole Group, issued 05-May-2026 by Hesai Group over PR Newswire, we are advised by the company that the headline should read "Hesai Secures No.1 in Long-Ra…
+- Source: https://www.prnewswire.com/news-releases/hesai-secures-no1-in-long-range-adas-lidar-shipments-for-five-consecutive-years-by-yole-group-302761243.html
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Soul of Maintaining a New Machine (Score: 0)
+- Summary: Books in Progress is what we call a “public drafting tool”: Drafts will be made available for comment from the public, allowing for direct collaboration between author and reader.
+- Source: https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
