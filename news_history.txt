@@ -53015,3 +53015,204 @@ Atlas Critical Minerals Corporation to Present at the Precious Metals & Critical
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-14 15:39  ---
+
+Idira launches as Palo Alto Networks extends CyberArk tech to machine and agentic identities (Score: 6)
+- Summary: Palo Alto Networks Inc. today launched Idira, a new identity security platform designed to manage human, machine and artificial intelligence agent identities across the enterprise under a single privileged access management framework. Idira incorporates techn…
+- Source: https://siliconangle.com/2026/05/12/idira-launches-palo-alto-networks-extends-cyberark-tech-machine-agentic-identities/
+- Date: 2026-05-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Red Hat partner ecosystem: A year of expanding choice for virtualized workloads on Red Hat OpenShift Virtualization (Score: 2)
+- Summary: It has been about a year since the last review of Red Hat’s partner ecosystem for Red Hat OpenShift Virtualization. We've had a lot of success in the infrastructure space, including improvements to storage, networking, backup, and disaster recovery (DR), and …
+- Source: https://www.redhat.com/en/blog/red-hat-partner-ecosystem-year-expanding-choice-virtualized-workloads-red-hat-openshift-virtualization
+- Date: 2026-05-13
+- Vendors: None
+- Topics: None
+
+Data Center Networking Market to Reach USD 139.08 Billion by 2031 at a 16.5% CAGR - AI and GPU-Driven Demands Propel Growth (Score: 2)
+- Summary: Dublin, May 08, 2026 (GLOBE NEWSWIRE) -- The "Data Center Networking Market by Offering, Network Infrastructure, Workload, Data Center Size, End User, and Region - Forecast to 2031" has been added to ResearchAndMarkets.com's offering.The data center networkin…
+- Source: https://www.globenewswire.com/news-release/2026/05/08/3291141/28124/en/Data-Center-Networking-Market-to-Reach-USD-139-08-Billion-by-2031-at-a-16-5-CAGR-AI-and-GPU-Driven-Demands-Propel-Growth.html
+- Date: 2026-05-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Is Wall Street Bullish or Bearish on Palo Alto Networks Stock? (Score: 2)
+- Summary: Despite trailing the broader market over the past year, PANW continues to attract strong bullish sentiment from analysts, reflecting confidence in its long...
+- Source: https://www.barchart.com/story/news/1796731/is-wall-street-bullish-or-bearish-on-palo-alto-networks-stock
+- Date: 2026-05-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nation-state actors exploit Palo Alto PAN-OS zero-day for weeks (Score: 2)
+- Summary: Palo Alto says hackers exploited PAN-OS zero-day CVE-2026-0300 for weeks, gaining root access to exposed firewalls and hiding traces. Palo Alto Networks warned that suspected state-sponsored hackers have been exploiting the critical PAN-OS zero-day CVE-2026-0…
+- Source: https://securityaffairs.com/191831/security/nation-state-actors-exploit-palo-alto-pan-os-zero-day-for-weeks.html
+- Date: 2026-05-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage (Score: 2)
+- Summary: Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026.
+The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vul…
+- Source: https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html
+- Date: 2026-05-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks firewall zero-day exploited for nearly a month (Score: 2)
+- Summary: Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]
+- Source: https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/
+- Date: 2026-05-07
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Brightspeed Fiber Network Nearly Complete, Five Fully Fiber-Ready Pennsylvania Communities & More Coming (Score: 2)
+- Summary: Ultra‑fast fiber internet is now available to more than 192,000 across the state CHARLOTTE, N.C., May 6, 2026 /PRNewswire/ -- Brightspeed, the nation's third-largest fiber broadband builder empowering families and businesses with multi-gig-speed internet serv…
+- Source: https://www.prnewswire.com/news-releases/brightspeed-fiber-network-nearly-complete-five-fully-fiber-ready-pennsylvania-communities--more-coming-302764377.html
+- Date: 2026-05-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+When one man, a civilian, controls the kill switch for military ops (Score: 1)
+- Summary: Single individual with no security clearance and no accountability to any electorate was governing the battlefield connectivity of an active war
+- Source: https://www.wnd.com/2026/05/when-one-man-civilian-controls-kill-switch-military/
+- Date: 2026-05-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security Information and Event Management Market worth $13.67 billion by 2031 | MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., May 13, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Security Information and Event Management (SIEM) Market is projected to grow from USD 8.39 billion in 2026 to USD 13.67 billion by 2031, at a CAGR of 10.3% during the foreca…
+- Source: https://www.prnewswire.com/news-releases/security-information-and-event-management-market-worth-13-67-billion-by-2031--marketsandmarkets-302770642.html
+- Date: 2026-05-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI Producer Launches AI Producer In-Room Experience at Microsoft AI-Powered Workplace Tour in Copenhagen (Score: 0)
+- Summary: AI Producer launches AI Producer In-Room Experience, a patent-pending solution that brings professional, AI-assisted production to in-room audiences during hybrid events. PALO ALTO, Calif., May 13, 2026 (GLOBE NEWSWIRE) — AI Producer today launches AI Produce…
+- Source: https://financialpost.com/globe-newswire/ai-producer-launches-ai-producer-in-room-experience-at-microsoft-ai-powered-workplace-tour-in-copenhagen
+- Date: 2026-05-13
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+DELFI Diagnostics to Present First Clinical Utility Data for Blood-Based Lung Cancer Screening at ATS 2026 International Conference (Score: 0)
+- Summary: Late-breaking oral presentation of the L301 FIRSTLUNG Study highlights first-of-its-kind evidence that a blood-based test can increase lung cancer screening uptake; five total presentations span clinical utility, real-world implementation, and health equity a…
+- Source: https://www.prnewswire.com/news-releases/delfi-diagnostics-to-present-first-clinical-utility-data-for-blood-based-lung-cancer-screening-at-ats-2026-international-conference-302749727.html
+- Date: 2026-05-13
+- Vendors: None
+- Topics: None
+
+OpenAI’s Daybreak Challenges Anthropic in AI Cybersecurity Race (Score: 0)
+- Summary: OpenAI has moved deeper into enterprise cybersecurity with the launch of Daybreak, a platform that identifies software vulnerabilities, validates fixes, and speeds up patching workflows using AI models and its Codex Security system. Daybreak places OpenAI mor…
+- Source: https://devops.com/openais-daybreak-challenges-anthropic-in-ai-cybersecurity-race/
+- Date: 2026-05-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days (Score: 0)
+- Summary: Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]
+- Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/
+- Date: 2026-05-12
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Vulnerability Summary for the Week of May 4, 2026 (Score: 0)
+- Summary: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source Info</th>
+<th>Patch Info</th>
+</tr>
+
+
+
+<tr>
+<td>gotenberg--gotenberg</td>
+<td>Gotenberg is a Docker-powered stateles…
+- Source: https://www.cisa.gov/news-events/bulletins/sb26-131
+- Date: 2026-05-11
+- Vendors: None
+- Topics: None
+
+Joanna Stern is not a robot, but she lived with them (Score: 0)
+- Summary: My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my v…
+- Source: https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation
+- Date: 2026-05-11
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More (Score: 0)
+- Summary: Rough Monday.
+Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the …
+- Source: https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html
+- Date: 2026-05-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Impossible Metals Appoints Granger Whitelaw CEO to Build the World’s First Scalable Ocean Intelligence System (Score: 0)
+- Summary: Leadership transition signals next phase of growth centered on AI-driven marine systems and precision resource access PALO ALTO, Calif. — Impossible Metals, an American technology company developing advanced marine systems for precision resource access, today…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/impossible-metals-appoints-granger-whitelaw-ceo-to-build-the-worlds-first-scalable-ocean-intelligence-system
+- Date: 2026-05-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+LayerZero afferma di aver “commesso un errore” nell’exploit da 292 milioni di dollari su Kelp (Score: 0)
+- Summary: After initially framing the exploit as a developer configuration failure, LayerZero said it “owns” the decision to let its own verifier secure high-value transfers in a vulnerable setup.
+- Source: https://www.coindesk.com/it/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit
+- Date: 2026-05-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Technology Executives Recognized at the 2026 ChicagoCIO ORBIE Awards (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation, and business impact. ...
+- Source: https://www.globenewswire.com/news-release/2026/05/08/3291346/0/en/Top-Technology-Executives-Recognized-at-the-2026-ChicagoCIO-ORBIE-Awards.html
+- Date: 2026-05-08
+- Vendors: None
+- Topics: None
+
+GigCapital7 Corp. Announces Domestication in Furtherance of Business Combination with Hadron Energy (Score: 0)
+- Summary: PALO ALTO, Calif. — GigCapital7 Corp. (NASDAQ: GIG) (“GigCapital7”) today announced that following the shareholder approval of the domestication from the Cayman Islands to Delaware at its Extraordinary General Meeting of Shareholders (the “Extraordinary Meeti…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/gigcapital7-corp-announces-domestication-in-furtherance-of-business-combination-with-hadron-energy
+- Date: 2026-05-08
+- Vendors: None
+- Topics: None
+
+Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here (Score: 0)
+- Summary: The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.
+- Source: https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html
+- Date: 2026-05-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GigCapital7 Corp. Announces Shareholder Approval of Business Combination with Hadron Energy (Score: 0)
+- Summary: PALO ALTO, Calif. — GigCapital7 Corp. (NASDAQ: GIG) (“GigCapital7”) today announced that at the Extraordinary General Meeting of Shareholders (the “Extraordinary Meeting”) held on May 7, 2026, GigCapital7’s shareholders voted to approve the previously announc…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/gigcapital7-corp-announces-shareholder-approval-of-business-combination-with-hadron-energy
+- Date: 2026-05-08
+- Vendors: None
+- Topics: None
+
+They shared their fears about high-speed rail. Then their comments disappeared (Score: 0)
+- Summary: A teenager worried about his family's home and an 84-year-old concerned about agricultural impacts both saw the online comments they left on Alto's interactive map taken down. The Crown corporation says their feedback has been restored, but the initial remova…
+- Source: https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-map-comments-removed-then-reinstated-9.7190149
+- Date: 2026-05-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto warns of critical firewall flaw, tells users a patch is on the way (Score: 0)
+- Summary: Risks can be mitigated through settings, while Palo Alto works on a patch.
+- Source: https://www.techradar.com/pro/security/palo-alto-warns-of-critical-firewall-flaw-tells-users-a-patch-is-on-the-way
+- Date: 2026-05-07
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
