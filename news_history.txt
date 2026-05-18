@@ -53804,3 +53804,194 @@ DELFI Diagnostics to Present First Clinical Utility Data for Blood-Based Lung Ca
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-18 16:37  ---
+
+Idira launches as Palo Alto Networks extends CyberArk tech to machine and agentic identities (Score: 6)
+- Summary: Palo Alto Networks Inc. today launched Idira, a new identity security platform designed to manage human, machine and artificial intelligence agent identities across the enterprise under a single privileged access management framework. Idira incorporates techn…
+- Source: https://siliconangle.com/2026/05/12/idira-launches-palo-alto-networks-extends-cyberark-tech-machine-agentic-identities/
+- Date: 2026-05-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cerebras’ monster IPO, Cisco’s big quarter, and the AI factory’s real impact (Score: 4)
+- Summary: Are IPOs finally back? It sure looks like it, if Cerebras’ monster initial public offering this week is any indication. After raising its offering price twice, the stock rose 68% on the first day of trading, as the maker of huge artificial intelligence chips …
+- Source: https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/
+- Date: 2026-05-15
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jefferies Hikes Palo Alto Networks Price Target to $265: AI Is Compressing Attack Timelines (Score: 2)
+- Summary: Jefferies analyst Joseph Gallo raised his price target on Palo Alto Networks (NASDAQ:PANW) to $265 from $215, reiterating a Buy rating following CyberArk’s...
+- Source: https://247wallst.com/investing/2026/05/14/jefferies-hikes-palo-alto-networks-price-target-to-265-ai-is-compressing-attack-timelines/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aiops-ngfw-bpa-mcp 0.1.0 (Score: 2)
+- Summary: MCP server for the Palo Alto Networks AIOps NGFW Best Practice Assessment (BPA) API
+- Source: https://pypi.org/project/pan-aiops-ngfw-bpa-mcp/0.1.0/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aiops-ngfw-bpa-mcp added to PyPI (Score: 2)
+- Summary: MCP server for the Palo Alto Networks AIOps NGFW Best Practice Assessment (BPA) API
+- Source: https://pypi.org/project/pan-aiops-ngfw-bpa-mcp/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Red Hat partner ecosystem: A year of expanding choice for virtualized workloads on Red Hat OpenShift Virtualization (Score: 2)
+- Summary: It has been about a year since the last review of Red Hat’s partner ecosystem for Red Hat OpenShift Virtualization. We've had a lot of success in the infrastructure space, including improvements to storage, networking, backup, and disaster recovery (DR), and …
+- Source: https://www.redhat.com/en/blog/red-hat-partner-ecosystem-year-expanding-choice-virtualized-workloads-red-hat-openshift-virtualization
+- Date: 2026-05-13
+- Vendors: None
+- Topics: None
+
+genai-incidents added to PyPI (Score: 0)
+- Summary: Curated dataset of GenAI & agentic-AI security incidents mapped to OWASP LLM Top 10, OWASP Agentic Top 10, NIST AI RMF, and MITRE ATLAS.
+- Source: https://pypi.org/project/genai-incidents/
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0258 PAN-OS: Server-Side Request Forgery (SSRF) in IKEv2 Certificate URL Fetching (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0261 PAN-OS: Authenticated Admin Command Injection Vulnerability (Severity: MEDIUM) PAN-SA-2026-0006 Informational Bulletin: Impact assessment of OSS CVEs in PAN-OS (Severity: INFORMATIONAL) PAN-SA-2025-0017 Informational Bulletin: I…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0258
+- Date: 2026-05-16
+- Vendors: None
+- Topics: None
+
+Sutter Health and Santa Clara University to Launch the Mark & Mary Stevens School of Medicine (Score: 0)
+- Summary: Funded in part by a $175 million gift from Mark and Mary Stevens, it will be the first new medical school in the San Francisco Bay Area in more than a century. Funded in part by a $175 million gift from Mark and Mary Stevens, it will be the first new medical …
+- Source: https://www.globenewswire.com/news-release/2026/05/15/3296079/0/en/Sutter-Health-and-Santa-Clara-University-to-Launch-the-Mark-Mary-Stevens-School-of-Medicine.html
+- Date: 2026-05-15
+- Vendors: Cisco
+- Topics: None
+
+CVE-2026-0257 PAN-OS: GlobalProtect Authentication Bypass Vulnerabilities (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0251 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM) CVE-2025-0137 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: LOW) CVE-2026-0227 PAN-OS: Firewall Denial of Ser…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0257
+- Date: 2026-05-15
+- Vendors: None
+- Topics: None
+
+Solayer Introduces Physical Card for Solayer Pay, Expanding Real-World Stablecoin Spending (Score: 0)
+- Summary: New Visa-compatible card enables in-store, online, and contactless payments directly from USDC balances New Visa-compatible card enables in-store, online, and contactless payments directly from USDC balances
+- Source: https://www.globenewswire.com/news-release/2026/05/14/3295491/0/en/Solayer-Introduces-Physical-Card-for-Solayer-Pay-Expanding-Real-World-Stablecoin-Spending.html
+- Date: 2026-05-14
+- Vendors: None
+- Topics: None
+
+Historical DNA connects 1.3 million living relatives to 17th-century Maryland settlers and may have identified the colony’s second governor (Score: 0)
+- Summary: Analysis of Historic St. Mary’s City highlights the power of combining ancient DNA, archaeology, and genealogy.
+
+...
+- Source: https://www.globenewswire.com/news-release/2026/05/14/3295281/0/en/Historical-DNA-connects-1-3-million-living-relatives-to-17th-century-Maryland-settlers-and-may-have-identified-the-colony-s-second-governor.html
+- Date: 2026-05-14
+- Vendors: None
+- Topics: None
+
+Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore (Score: 0)
+- Summary: In this post, you will configure Chrome enterprise policies to restrict a browser agent to a specific website, observe the policy enforcement through session recording, and demonstrate custom root CA certificates using a public test site. The walkthrough prod…
+- Source: https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore/
+- Date: 2026-05-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories (Score: 0)
+- Summary: Everything is still on fire.
+This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels li…
+- Source: https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html
+- Date: 2026-05-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Cryptographic Migration Calendar Just Got Real: Inside the Tooling Gap That QSE Just Closed (Score: 0)
+- Summary: Issued on behalf of QSE — Quantum Secure Encryption Corp. From NIST FIPS standards to NSA's CNSA 2.0 framework to municipal pilot programs — QPA v2 lands at the operational gap between regulatory deadline and enterprise execution VANCOUVER, BC, May 14, 2026 /…
+- Source: https://www.prnewswire.com/news-releases/the-cryptographic-migration-calendar-just-got-real-inside-the-tooling-gap-that-qse-just-closed-302771661.html
+- Date: 2026-05-14
+- Vendors: None
+- Topics: None
+
+Siemens Ruggedcom Rox (Score: 0)
+- Summary: View CSAF
+Summary
+Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has rele…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12
+- Date: 2026-05-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Siemens Ruggedcom Rox (Score: 0)
+- Summary: View CSAF
+Summary
+Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens has released new versio…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-02
+- Date: 2026-05-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Siemens Ruggedcom Rox (Score: 0)
+- Summary: View CSAF
+Summary
+Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11
+- Date: 2026-05-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+West Pharmaceutical says hackers stole data, encrypted systems (Score: 0)
+- Summary: West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]
+- Source: https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/
+- Date: 2026-05-13
+- Vendors: None
+- Topics: None
+
+35 Street Art Gems From Brazil Full of Color and Imagination (Score: 0)
+- Summary: Brazilian street art can be massive, intimate, political, funny, and full of color. This collection gathers 35 photos from across the country — from São Paulo and Rio de Janeiro to Manaus, Belo Horizonte, Florianópolis, Petrolina, and beyond.  Nerd Fact: Sã…
+- Source: https://streetartutopia.com/2026/05/14/collection-of-street-art-from-brazil/
+- Date: 2026-05-13
+- Vendors: None
+- Topics: None
+
+CVE-2026-0239 Chronosphere Chronocollector Information Disclosure Vulnerability (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0248 Prisma Access Agent: Improper Certificate Validation Vulnerability (Severity: MEDIUM) CVE-2026-0230 Cortex XDR Agent: Local Administrator can disable the agent on macOS (Severity: MEDIUM) CVE-2025-4234 Cortex XDR Microsoft 365 D…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0239
+- Date: 2026-05-13
+- Vendors: Microsoft
+- Topics: None
+
+PAN-SA-2026-0007 Chromium and Prisma Browser: Monthly Vulnerability Update (May 2026) (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0248 Prisma Access Agent: Improper Certificate Validation Vulnerability (Severity: MEDIUM) CVE-2025-2180 Checkov by Prisma Cloud: Unsafe Deserialization of Terraform Files Allows Code Execution (Severity: LOW) PAN-SA-2026-0005 Inform…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0007
+- Date: 2026-05-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security Information and Event Management Market worth $13.67 billion by 2031 | MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., May 13, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Security Information and Event Management (SIEM) Market is projected to grow from USD 8.39 billion in 2026 to USD 13.67 billion by 2031, at a CAGR of 10.3% during the foreca…
+- Source: https://www.prnewswire.com/news-releases/security-information-and-event-management-market-worth-13-67-billion-by-2031--marketsandmarkets-302770642.html
+- Date: 2026-05-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI Producer Launches AI Producer In-Room Experience at Microsoft AI-Powered Workplace Tour in Copenhagen (Score: 0)
+- Summary: AI Producer launches AI Producer In-Room Experience, a patent-pending solution that brings professional, AI-assisted production to in-room audiences during hybrid events. PALO ALTO, Calif., May 13, 2026 (GLOBE NEWSWIRE) — AI Producer today launches AI Produce…
+- Source: https://financialpost.com/globe-newswire/ai-producer-launches-ai-producer-in-room-experience-at-microsoft-ai-powered-workplace-tour-in-copenhagen
+- Date: 2026-05-13
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+DELFI Diagnostics to Present First Clinical Utility Data for Blood-Based Lung Cancer Screening at ATS 2026 International Conference (Score: 0)
+- Summary: Late-breaking oral presentation of the L301 FIRSTLUNG Study highlights first-of-its-kind evidence that a blood-based test can increase lung cancer screening uptake; five total presentations span clinical utility, real-world implementation, and health equity a…
+- Source: https://www.prnewswire.com/news-releases/delfi-diagnostics-to-present-first-clinical-utility-data-for-blood-based-lung-cancer-screening-at-ats-2026-international-conference-302749727.html
+- Date: 2026-05-13
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
