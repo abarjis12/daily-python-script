@@ -54196,3 +54196,203 @@ The Cryptographic Migration Calendar Just Got Real: Inside the Tooling Gap That 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-20 16:32  ---
+
+Idira launches as Palo Alto Networks extends CyberArk tech to machine and agentic identities (Score: 6)
+- Summary: Palo Alto Networks Inc. today launched Idira, a new identity security platform designed to manage human, machine and artificial intelligence agent identities across the enterprise under a single privileged access management framework. Idira incorporates techn…
+- Source: https://siliconangle.com/2026/05/12/idira-launches-palo-alto-networks-extends-cyberark-tech-machine-agentic-identities/
+- Date: 2026-05-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cerebras’ monster IPO, Cisco’s big quarter, and the AI factory’s real impact (Score: 4)
+- Summary: Are IPOs finally back? It sure looks like it, if Cerebras’ monster initial public offering this week is any indication. After raising its offering price twice, the stock rose 68% on the first day of trading, as the maker of huge artificial intelligence chips …
+- Source: https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/
+- Date: 2026-05-15
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Siemens RUGGEDCOM APE1808 Devices (Score: 2)
+- Summary: View CSAF
+Summary
+A buffer overflow vulnerability in the User-ID™ Authentication Portal (aka Captive Portal) service of Palo Alto Networks PAN-OS software allows an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and V…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02
+- Date: 2026-05-19
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Jim Cramer Shares Why Palo Alto (PANW) Is Having The Last Laugh (Score: 2)
+- Summary: We recently published Jim Cramer Discussed A Mysterious Yellow Light & These 9 Stocks. Palo Alto Networks, Inc. (NASDAQ:PANW) is one the stocks discussed by ...
+- Source: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-palo-144841072.html
+- Date: 2026-05-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Jefferies Hikes Palo Alto Networks Price Target to $265: AI Is Compressing Attack Timelines (Score: 2)
+- Summary: Jefferies analyst Joseph Gallo raised his price target on Palo Alto Networks (NASDAQ:PANW) to $265 from $215, reiterating a Buy rating following CyberArk’s...
+- Source: https://247wallst.com/investing/2026/05/14/jefferies-hikes-palo-alto-networks-price-target-to-265-ai-is-compressing-attack-timelines/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aiops-ngfw-bpa-mcp 0.1.0 (Score: 2)
+- Summary: MCP server for the Palo Alto Networks AIOps NGFW Best Practice Assessment (BPA) API
+- Source: https://pypi.org/project/pan-aiops-ngfw-bpa-mcp/0.1.0/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aiops-ngfw-bpa-mcp added to PyPI (Score: 2)
+- Summary: MCP server for the Palo Alto Networks AIOps NGFW Best Practice Assessment (BPA) API
+- Source: https://pypi.org/project/pan-aiops-ngfw-bpa-mcp/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Red Hat partner ecosystem: A year of expanding choice for virtualized workloads on Red Hat OpenShift Virtualization (Score: 2)
+- Summary: It has been about a year since the last review of Red Hat’s partner ecosystem for Red Hat OpenShift Virtualization. We've had a lot of success in the infrastructure space, including improvements to storage, networking, backup, and disaster recovery (DR), and …
+- Source: https://www.redhat.com/en/blog/red-hat-partner-ecosystem-year-expanding-choice-virtualized-workloads-red-hat-openshift-virtualization
+- Date: 2026-05-13
+- Vendors: None
+- Topics: None
+
+Hot new Palo Alto coffee shop institutes time limit on tables (Score: 0)
+- Summary: The April opening drew long lines and influencers.
+- Source: https://www.sfgate.com/food/article/ralphs-coffee-palo-alto-22261200.php
+- Date: 2026-05-19
+- Vendors: None
+- Topics: None
+
+Parallel Launches Index, A New Model For Compensating Content Owners (Score: 0)
+- Summary: Index introduces new economic model to align incentives between content owners and AI agents Launch partners include premium news publishers, business intelligence and data providers, and leading independent creators PALO ALTO, Calif., May 19, 2026 /PRNewswir…
+- Source: https://www.prnewswire.com/news-releases/parallel-launches-index-a-new-model-for-compensating-content-owners-302775367.html
+- Date: 2026-05-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cubs BCB After Dark: Can Ben Brown stay in the rotation? (Score: 0)
+- Summary: The late-night/early-morning spot for Cubs fans asks if Ben Brown can stay a starting pitcher.
+- Source: https://www.bleedcubbieblue.com/chicago-cubs-discussion/218399/cubs-bcb-after-dark-can-ben-brown-stay-in-the-rotation
+- Date: 2026-05-19
+- Vendors: None
+- Topics: None
+
+Nvidia Billionaire Mark Stevens Funds $175M Medical School With A.I. Focus (Score: 0)
+- Summary: Nvidia investor Mark Stevens is funding a $175 million Bay Area medical school that aims to train future physicians and integrate A.I. into healthcare. The gift underscores how Nvidia’s biggest winners are channeling A.I.-driven fortunes into large-scale heal…
+- Source: https://observer.com/2026/05/nvidia-mark-stevens-donation-bay-area-medical-school/
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+At 84, Bill Wilson Is Still the Soul of Charleston (Score: 0)
+- Summary: “Two Bills are better than one!”  That’s the caption of the now-famous Instagram post of musician Bill Wilson and Bill Murray posing next to each other at the Commodore music venue in Charleston, South Carolina, back in March.  Wilson—who’s known the famed ac…
+- Source: https://www.spinmagazine.com/2026/05/at-84-bill-wilson-is-still-the-soul-of-charleston/
+- Date: 2026-05-18
+- Vendors: None
+- Topics: None
+
+Why Don’t Philanthropists Build Anymore? (Score: 0)
+- Summary: The United States is living through a second Gilded Age. But unlike yesterday's magnates, today's billionaires prefer to write checks to existing organizations. They should instead build institutions that last.
+- Source: https://ssir.org/articles/entry/philanthropy-new-gilded-age
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Advances Trusted Data Foundations for Agentic AI with New Amazon Web Services (AWS) Integrations (Score: 0)
+- Summary: New product integrations unify semantics, extend governed data access, and accelerate enterprise AI agent adoption across hybrid and multi-cloud environments PALO ALTO, Calif., May 18, 2026 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced new…
+- Source: https://financialpost.com/globe-newswire/denodo-advances-trusted-data-foundations-for-agentic-ai-with-new-amazon-web-services-aws-integrations
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenAI and Anthropic are kicking off a mad cybersecurity dash (Score: 0)
+- Summary: Mythos and GPT-5.5 add to cybersecurity worries that OpenAI and Anthropic had already sparked with AI coding's popularity.
+- Source: https://www.businessinsider.com/openai-and-anthropic-kick-off-cybersecurity-frenzy-2026-5
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Seed 40: The best women early-stage investors of 2026 (Score: 0)
+- Summary: Business Insider's annual Seed 40 list recognizes the women early-stage investors who provide crucial support to budding startups.
+- Source: https://www.businessinsider.com/seed-40-best-women-early-stage-vc-investors-2026-5
+- Date: 2026-05-18
+- Vendors: None
+- Topics: None
+
+The Seed 100: The best early-stage investors of 2026 (Score: 0)
+- Summary: Business Insider's annual Seed 100 list recognizes the early-stage investors who provide crucial support to budding startups.
+- Source: https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2026-5
+- Date: 2026-05-18
+- Vendors: None
+- Topics: None
+
+APPLE-SA-05-11-2026-11 visionOS 26.5 (Score: 0)
+- Summary: Posted by Apple Product Security via Fulldisclosure on May 17APPLE-SA-05-11-2026-11 visionOS 26.5
+
+visionOS 26.5 addresses the following issues.
+Information about the security content is also available at
+https://support.apple.com/en-us/127120.
+
+Apple maintai…
+- Source: https://seclists.org/fulldisclosure/2026/May/15
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+APPLE-SA-05-11-2026-6 macOS Tahoe 26.5 (Score: 0)
+- Summary: Posted by Apple Product Security via Fulldisclosure on May 17APPLE-SA-05-11-2026-6 macOS Tahoe 26.5
+
+macOS Tahoe 26.5 addresses the following issues.
+Information about the security content is also available at
+https://support.apple.com/en-us/127115.
+
+Apple ma…
+- Source: https://seclists.org/fulldisclosure/2026/May/11
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+APPLE-SA-05-11-2026-1 iOS 26.5 and iPadOS 26.5 (Score: 0)
+- Summary: Posted by Apple Product Security via Fulldisclosure on May 17APPLE-SA-05-11-2026-1 iOS 26.5 and iPadOS 26.5
+
+iOS 26.5 and iPadOS 26.5 addresses the following issues.
+Information about the security content is also available at
+https://support.apple.com/en-us/1…
+- Source: https://seclists.org/fulldisclosure/2026/May/5
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+genai-incidents added to PyPI (Score: 0)
+- Summary: Curated dataset of GenAI & agentic-AI security incidents mapped to OWASP LLM Top 10, OWASP Agentic Top 10, NIST AI RMF, and MITRE ATLAS.
+- Source: https://pypi.org/project/genai-incidents/
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0258 PAN-OS: Server-Side Request Forgery (SSRF) in IKEv2 Certificate URL Fetching (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0261 PAN-OS: Authenticated Admin Command Injection Vulnerability (Severity: MEDIUM) PAN-SA-2026-0006 Informational Bulletin: Impact assessment of OSS CVEs in PAN-OS (Severity: INFORMATIONAL) PAN-SA-2025-0017 Informational Bulletin: I…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0258
+- Date: 2026-05-16
+- Vendors: None
+- Topics: None
+
+Sutter Health and Santa Clara University to Launch the Mark & Mary Stevens School of Medicine (Score: 0)
+- Summary: Funded in part by a $175 million gift from Mark and Mary Stevens, it will be the first new medical school in the San Francisco Bay Area in more than a century. Funded in part by a $175 million gift from Mark and Mary Stevens, it will be the first new medical …
+- Source: https://www.globenewswire.com/news-release/2026/05/15/3296079/0/en/Sutter-Health-and-Santa-Clara-University-to-Launch-the-Mark-Mary-Stevens-School-of-Medicine.html
+- Date: 2026-05-15
+- Vendors: Cisco
+- Topics: None
+
+CVE-2026-0257 PAN-OS: GlobalProtect Authentication Bypass Vulnerabilities (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0251 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM) CVE-2025-0137 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: LOW) CVE-2026-0227 PAN-OS: Firewall Denial of Ser…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0257
+- Date: 2026-05-15
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
