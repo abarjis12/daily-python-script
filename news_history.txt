@@ -54396,3 +54396,203 @@ CVE-2026-0257 PAN-OS: GlobalProtect Authentication Bypass Vulnerabilities (Sever
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-21 16:23  ---
+
+Cerebras’ monster IPO, Cisco’s big quarter, and the AI factory’s real impact (Score: 4)
+- Summary: Are IPOs finally back? It sure looks like it, if Cerebras’ monster initial public offering this week is any indication. After raising its offering price twice, the stock rose 68% on the first day of trading, as the maker of huge artificial intelligence chips …
+- Source: https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/
+- Date: 2026-05-15
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Show HN: Claude Code Bundle for Bug Hunting with 574 Report Patterns (Score: 3)
+- Summary: A Claude Code skill bundle for bug hunting and external red-team work - 51 skills, 15 slash commands, 574+ disclosed-report patterns curated across 24 vulnerability classes, plus enterprise identit...
+- Source: https://github.com/elementalsouls/Claude-BugHunter
+- Date: 2026-05-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Enterprise Network Infrastructure Market Outlook 2026-2032: Trends, Growth Challenges, Regional Opportunities & Strategies, $73.9 Billion Roadmap (Score: 2)
+- Summary: Key opportunities include leveraging AI for network optimization, adopting Zero Trust for security, and exploring cloud and edge computing for enhanced performance Key opportunities include leveraging AI for network optimization, adopting Zero Trust for secur…
+- Source: https://www.globenewswire.com/news-release/2026/05/20/3298211/28124/en/Enterprise-Network-Infrastructure-Market-Outlook-2026-2032-Trends-Growth-Challenges-Regional-Opportunities-Strategies-73-9-Billion-Roadmap.html
+- Date: 2026-05-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.1.1 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.1.1/
+- Date: 2026-05-20
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Siemens RUGGEDCOM APE1808 Devices (Score: 2)
+- Summary: View CSAF
+Summary
+A buffer overflow vulnerability in the User-ID™ Authentication Portal (aka Captive Portal) service of Palo Alto Networks PAN-OS software allows an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and V…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02
+- Date: 2026-05-19
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Jim Cramer Shares Why Palo Alto (PANW) Is Having The Last Laugh (Score: 2)
+- Summary: We recently published Jim Cramer Discussed A Mysterious Yellow Light & These 9 Stocks. Palo Alto Networks, Inc. (NASDAQ:PANW) is one the stocks discussed by ...
+- Source: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-palo-144841072.html
+- Date: 2026-05-18
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Jefferies Hikes Palo Alto Networks Price Target to $265: AI Is Compressing Attack Timelines (Score: 2)
+- Summary: Jefferies analyst Joseph Gallo raised his price target on Palo Alto Networks (NASDAQ:PANW) to $265 from $215, reiterating a Buy rating following CyberArk’s...
+- Source: https://247wallst.com/investing/2026/05/14/jefferies-hikes-palo-alto-networks-price-target-to-265-ai-is-compressing-attack-timelines/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aiops-ngfw-bpa-mcp 0.1.0 (Score: 2)
+- Summary: MCP server for the Palo Alto Networks AIOps NGFW Best Practice Assessment (BPA) API
+- Source: https://pypi.org/project/pan-aiops-ngfw-bpa-mcp/0.1.0/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-aiops-ngfw-bpa-mcp added to PyPI (Score: 2)
+- Summary: MCP server for the Palo Alto Networks AIOps NGFW Best Practice Assessment (BPA) API
+- Source: https://pypi.org/project/pan-aiops-ngfw-bpa-mcp/
+- Date: 2026-05-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+23andMe Partners with HealthEx to Connect Medical Records with Your DNA for the Future of Personalized Medicine (Score: 0)
+- Summary: 23andMe’s new AI Health Summary Turns Genetics, Medical Records, Labs, and Lifestyle Data Into Personalized, Evidence-Based Recommendations PALO ALTO, Calif. and SAN FRANCISCO, May 20, 2026 (GLOBE NEWSWIRE) — 23andMe Research Institute, a nonprofit medical re…
+- Source: https://financialpost.com/globe-newswire/23andme-partners-with-healthex-to-connect-medical-records-with-your-dna-for-the-future-of-personalized-medicine
+- Date: 2026-05-20
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid (Score: 0)
+- Summary: NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbit…
+- Source: https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/
+- Date: 2026-05-19
+- Vendors: None
+- Topics: None
+
+Hot new Palo Alto coffee shop institutes time limit on tables (Score: 0)
+- Summary: The April opening drew long lines and influencers.
+- Source: https://www.sfgate.com/food/article/ralphs-coffee-palo-alto-22261200.php
+- Date: 2026-05-19
+- Vendors: None
+- Topics: None
+
+Parallel Launches Index, A New Model For Compensating Content Owners (Score: 0)
+- Summary: Index introduces new economic model to align incentives between content owners and AI agents Launch partners include premium news publishers, business intelligence and data providers, and leading independent creators PALO ALTO, Calif., May 19, 2026 /PRNewswir…
+- Source: https://www.prnewswire.com/news-releases/parallel-launches-index-a-new-model-for-compensating-content-owners-302775367.html
+- Date: 2026-05-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cubs BCB After Dark: Can Ben Brown stay in the rotation? (Score: 0)
+- Summary: The late-night/early-morning spot for Cubs fans asks if Ben Brown can stay a starting pitcher.
+- Source: https://www.bleedcubbieblue.com/chicago-cubs-discussion/218399/cubs-bcb-after-dark-can-ben-brown-stay-in-the-rotation
+- Date: 2026-05-19
+- Vendors: None
+- Topics: None
+
+Nvidia Billionaire Mark Stevens Funds $175M Medical School With A.I. Focus (Score: 0)
+- Summary: Nvidia investor Mark Stevens is funding a $175 million Bay Area medical school that aims to train future physicians and integrate A.I. into healthcare. The gift underscores how Nvidia’s biggest winners are channeling A.I.-driven fortunes into large-scale heal…
+- Source: https://observer.com/2026/05/nvidia-mark-stevens-donation-bay-area-medical-school/
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+At 84, Bill Wilson Is Still the Soul of Charleston (Score: 0)
+- Summary: “Two Bills are better than one!”  That’s the caption of the now-famous Instagram post of musician Bill Wilson and Bill Murray posing next to each other at the Commodore music venue in Charleston, South Carolina, back in March.  Wilson—who’s known the famed ac…
+- Source: https://www.spinmagazine.com/2026/05/at-84-bill-wilson-is-still-the-soul-of-charleston/
+- Date: 2026-05-18
+- Vendors: None
+- Topics: None
+
+Why Don’t Philanthropists Build Anymore? (Score: 0)
+- Summary: The United States is living through a second Gilded Age. But unlike yesterday's magnates, today's billionaires prefer to write checks to existing organizations. They should instead build institutions that last.
+- Source: https://ssir.org/articles/entry/philanthropy-new-gilded-age
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Advances Trusted Data Foundations for Agentic AI with New Amazon Web Services (AWS) Integrations (Score: 0)
+- Summary: New product integrations unify semantics, extend governed data access, and accelerate enterprise AI agent adoption across hybrid and multi-cloud environments PALO ALTO, Calif., May 18, 2026 (GLOBE NEWSWIRE) — Denodo, a leader in data management, announced new…
+- Source: https://financialpost.com/globe-newswire/denodo-advances-trusted-data-foundations-for-agentic-ai-with-new-amazon-web-services-aws-integrations
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenAI and Anthropic are kicking off a mad cybersecurity dash (Score: 0)
+- Summary: Mythos and GPT-5.5 add to cybersecurity worries that OpenAI and Anthropic had already sparked with AI coding's popularity.
+- Source: https://www.businessinsider.com/openai-and-anthropic-kick-off-cybersecurity-frenzy-2026-5
+- Date: 2026-05-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Seed 40: The best women early-stage investors of 2026 (Score: 0)
+- Summary: Business Insider's annual Seed 40 list recognizes the women early-stage investors who provide crucial support to budding startups.
+- Source: https://www.businessinsider.com/seed-40-best-women-early-stage-vc-investors-2026-5
+- Date: 2026-05-18
+- Vendors: None
+- Topics: None
+
+The Seed 100: The best early-stage investors of 2026 (Score: 0)
+- Summary: Business Insider's annual Seed 100 list recognizes the early-stage investors who provide crucial support to budding startups.
+- Source: https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2026-5
+- Date: 2026-05-18
+- Vendors: None
+- Topics: None
+
+APPLE-SA-05-11-2026-11 visionOS 26.5 (Score: 0)
+- Summary: Posted by Apple Product Security via Fulldisclosure on May 17APPLE-SA-05-11-2026-11 visionOS 26.5
+
+visionOS 26.5 addresses the following issues.
+Information about the security content is also available at
+https://support.apple.com/en-us/127120.
+
+Apple maintai…
+- Source: https://seclists.org/fulldisclosure/2026/May/15
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+APPLE-SA-05-11-2026-6 macOS Tahoe 26.5 (Score: 0)
+- Summary: Posted by Apple Product Security via Fulldisclosure on May 17APPLE-SA-05-11-2026-6 macOS Tahoe 26.5
+
+macOS Tahoe 26.5 addresses the following issues.
+Information about the security content is also available at
+https://support.apple.com/en-us/127115.
+
+Apple ma…
+- Source: https://seclists.org/fulldisclosure/2026/May/11
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+APPLE-SA-05-11-2026-1 iOS 26.5 and iPadOS 26.5 (Score: 0)
+- Summary: Posted by Apple Product Security via Fulldisclosure on May 17APPLE-SA-05-11-2026-1 iOS 26.5 and iPadOS 26.5
+
+iOS 26.5 and iPadOS 26.5 addresses the following issues.
+Information about the security content is also available at
+https://support.apple.com/en-us/1…
+- Source: https://seclists.org/fulldisclosure/2026/May/5
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+genai-incidents added to PyPI (Score: 0)
+- Summary: Curated dataset of GenAI & agentic-AI security incidents mapped to OWASP LLM Top 10, OWASP Agentic Top 10, NIST AI RMF, and MITRE ATLAS.
+- Source: https://pypi.org/project/genai-incidents/
+- Date: 2026-05-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
