@@ -55717,3 +55717,188 @@ GigCapital7 Announces Closing of Business Combination with Hadron Energy (Score:
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-28 17:04  ---
+
+Coupa Acquires Tonkean to Accelerate Agentic Intake and Orchestration for Global Trade (Score: 3)
+- Summary: Acquisition of AI-native intake and orchestration leader accelerates Coupa's ambition to power proprietary, two-sided, autonomous workflow automation for global buyers and suppliers FOSTER CITY, Calif., May 21, 2026 /PRNewswire/ -- Coupa, the leading cloud-na…
+- Source: https://www.prnewswire.com/news-releases/coupa-acquires-tonkean-to-accelerate-agentic-intake-and-orchestration-for-global-trade-302779613.html
+- Date: 2026-05-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ESET enters a strategic partnership with NATO alongside leading industry partners (Score: 2)
+- Summary: TALLIN, Estonia, May 27, 2026 (GLOBE NEWSWIRE) -- ESET is proud to announce that it is joining a strategic partnership with NATO alongside Microsoft and Palo Alto Networks. This collaboration is an important step to strengthen collective resilience in cybersp…
+- Source: https://www.globenewswire.com/news-release/2026/05/27/3302178/0/en/ESET-enters-a-strategic-partnership-with-NATO-alongside-leading-industry-partners.html
+- Date: 2026-05-27
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: None
+
+AccessIT Group Recognized by Palo Alto Networks as a NextWave Platinum Innovator (Score: 2)
+- Summary: KING OF PRUSSIA, Pa., May 26, 2026 /PRNewswire/ -- AccessIT Group today announced it has become a Palo Alto Networks NextWave Platinum Innovator AccessIT Group joins a select group of channel partners who have met the Platinum Innovator performance, capabilit…
+- Source: https://www.prnewswire.com/news-releases/accessit-group-recognized-by-palo-alto-networks-as-a-nextwave-platinum-innovator-302782184.html
+- Date: 2026-05-26
+- Vendors: Palo Alto Networks
+- Topics: None
+
+bitBiome Closes Oversubscribed Seed Extension Round (Score: 2)
+- Summary: TOKYO and PALO ALTO, Calif., May 26, 2026 /PRNewswire/ -- bitBiome, a pioneering force in the field of discovery, design and engineering of novel enzymes, proteins, strains, and ingredients, today announced that it has closed an oversubscribed seed extension …
+- Source: https://www.prnewswire.com/news-releases/bitbiome-closes-oversubscribed-seed-extension-round-302780191.html
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Revel to Merge With EQT-Backed Voltera, Uniting EV Charging Networks (Score: 2)
+- Summary: Private equity-backed Voltera and Revel Transit Inc. have agreed to merge their electric-vehicle charging businesses to serve ride-hail cars and robotaxis across urban areas in the US.
+- Source: https://financialpost.com/pmn/business-pmn/revel-to-merge-with-eqt-backed-voltera-uniting-ev-charging-networks
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations (Score: 2)
+- Summary: Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.
+The post Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/
+- Date: 2026-05-26
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity jobs available right now: May 26, 2026 (Score: 2)
+- Summary: Application Security Engineer IG Group | India | Hybrid – View job details As an Application Security Engineer, you will assess the security of web, mobile, and cloud applications through penetration testing, secure code reviews, threat modeling, and architec…
+- Source: https://www.helpnetsecurity.com/2026/05/26/cybersecurity-jobs-available-right-now-may-26-2026/
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.2.0 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.2.0/
+- Date: 2026-05-25
+- Vendors: Palo Alto Networks
+- Topics: None
+
+How the H-1B visa replaces American workers (Score: 2)
+- Summary: Mary, a veteran Silicon Valley marketer who can’t find a job, considers herself a victim of an H-1B visa program run amok.Her story, a U.S. native replaced by a foreign-born employee who is willing to work at a significantly lower wage, has become commonplace…
+- Source: https://www.theblaze.com/columns/opinion/how-the-h-1b-visa-replaces-american-workers
+- Date: 2026-05-23
+- Vendors: None
+- Topics: None
+
+‘Low-cost Asian talent’: How the U.S. is helping foreign workers take American jobs (Score: 2)
+- Summary: Experienced high tech industry worker can't compete in job market soaked with H-1B visa scheme advocates
+- Source: https://www.wnd.com/2026/05/low-cost-asian-talent-how-u-s-is/
+- Date: 2026-05-21
+- Vendors: None
+- Topics: None
+
+How U.S. Helps Foreign Workers Take American Jobs (Score: 2)
+- Summary: Mary, a veteran Silicon Valley marketer who can’t find a job, considers herself a victim of an H-1B visa program run amok. 
+Her story, a U.S. native replaced by a foreign-born employee who...
+- Source: https://www.realclearinvestigations.com/articles/2026/05/20/the_replacements_how_us_policy_helps_foreign_workers_take_american_jobs_1183978.html
+- Date: 2026-05-21
+- Vendors: None
+- Topics: None
+
+ezpanos 1.0.5 (Score: 2)
+- Summary: A lightweight PanOS (Palo Alto Networks) Firewall Management utility.
+- Source: https://pypi.org/project/ezpanos/1.0.5/
+- Date: 2026-05-21
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect (Score: 0)
+- Summary: Tenable Research has developed a graph-based model linking 600+ threat groups to real-world customer exposures. It reveals which vulnerabilities sit at the intersection of severity, active exploitation, and organizational risk.Key takeaways
+<ol><li>The "patc…
+- Source: https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk
+- Date: 2026-05-27
+- Vendors: None
+- Topics: None
+
+Xage Security Unlocks Jailbreak-proof AI Agent Autonomy with End-to-End Visibility and Control (Score: 0)
+- Summary: New Zero Trust capabilities provide deterministic visibility and control over AI agents, enabling secure production deployments across SaaS, cloud, in-house data center and edge As one demonstration of its platform, Xage shows an OpenClaw agent being hacked a…
+- Source: https://financialpost.com/globe-newswire/xage-security-unlocks-jailbreak-proof-ai-agent-autonomy-with-end-to-end-visibility-and-control
+- Date: 2026-05-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Broadcom Unveils World’s First Integrated 5G and Wi-Fi 8 FWA Platform in Collaboration with Samsung Electronics (Score: 0)
+- Summary: PALO ALTO, Calif., May 27, 2026 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO), a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions, today announced its collaboration with Samsung Electronics C…
+- Source: https://www.globenewswire.com/news-release/2026/05/27/3302058/19933/en/Broadcom-Unveils-World-s-First-Integrated-5G-and-Wi-Fi-8-FWA-Platform-in-Collaboration-with-Samsung-Electronics.html
+- Date: 2026-05-27
+- Vendors: None
+- Topics: None
+
+Exclusive: Unravel Data launches autonomous optimization engine for Databricks, Snowflake and BigQuery (Score: 0)
+- Summary: Unravel Data Systems Inc. is expanding beyond observability and FinOps software with a new autonomous optimization engine designed to automatically tune and remediate enterprise data platforms running on Databricks Inc., Snowflake Inc. and Google LLC BigQuery…
+- Source: https://siliconangle.com/2026/05/27/exclusive-unravel-data-launches-autonomous-optimization-engine-databricks-snowflake-bigquery/
+- Date: 2026-05-27
+- Vendors: None
+- Topics: None
+
+BMNT Names Brian Miller President as Firm Scales Its Role Across the Government Innovation Ecosystem (Score: 0)
+- Summary: New President role and expanded Director group strengthen BMNT's ability to scale small, operator-led teams across defense, homeland security, space, and health missions PALO ALTO, Calif., May 27, 2026 /PRNewswire/ -- BMNT, the government innovation company t…
+- Source: https://www.prnewswire.com/news-releases/bmnt-names-brian-miller-president-as-firm-scales-its-role-across-the-government-innovation-ecosystem-302782737.html
+- Date: 2026-05-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Faster AI Inference enabled by 1000x Higher Scale with Delos Data™ Nonstop AI™ (Score: 0)
+- Summary: Delos Nonstop AI™ Product Portfolio Solves AI Interconnect Bottlenecks and Increases GPU Utilization Delos AI interconnect architecture enables faster and efficient data movement between GPUs Solves interconnect issues cluster wide for large-scale inference w…
+- Source: https://www.prnewswire.com/news-releases/faster-ai-inference-enabled-by-1000x-higher-scale-with-delos-data-nonstop-ai-302782721.html
+- Date: 2026-05-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zscaler Q3 Earnings Call Highlights (Score: 0)
+- Summary: Zscaler (NASDAQ:ZS) reported stronger-than-expected fiscal third-quarter results, with management highlighting growth in annual recurring revenue, record...
+- Source: https://www.marketbeat.com/instant-alerts/zscaler-q3-earnings-call-highlights-2026-05-26/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-05-26
+- Vendors: None
+- Topics: None
+
+Prezent Vivo and Nested Knowledge Partner to Bring AI-Powered Competitive Intelligence to Life Sciences Teams (Score: 0)
+- Summary: The alliance fuses Prezent Vivo's AI + human expertise model with Nested Knowledge's evidence synthesis platform, so Life Sciences teams arrive at every congress and every month with the insights they need, tailored to their specific challenges. PALO ALTO, Ca…
+- Source: https://www.prnewswire.com/news-releases/prezent-vivo-and-nested-knowledge-partner-to-bring-ai-powered-competitive-intelligence-to-life-sciences-teams-302782111.html
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+JVP Marks Strong Q1 2026 with Four Strategic Exits (Score: 0)
+- Summary: Latest acquisitions across Cybersecurity and Vertical AI underscore JVP's long-term investment model and leadership in building international category leading companies. JERUSALEM, May 26, 2026 /PRNewswire/ -- JVP, a leading international venture capital firm…
+- Source: https://www.prnewswire.com/news-releases/jvp-marks-strong-q1-2026-with-four-strategic-exits-302782100.html
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI-Enabled Cyberespionage Is a National Security Threat. Integrated Cyber Solutions Has an Answer (Score: 0)
+- Summary: Issued on behalf of Integrated Cyber Solutions Inc. As Chinese state-sponsored actors weaponize frontier AI against U.S. enterprises and Washington reframes data exposure as a national security problem, Integrated Cyber Solutions Inc. (dba Integrated Quantum …
+- Source: https://www.prnewswire.com/news-releases/ai-enabled-cyberespionage-is-a-national-security-threat-integrated-cyber-solutions-has-an-answer-302781938.html
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+warlog-spec added to PyPI (Score: 0)
+- Summary: Warlog Spec — canonical workflow contract for Security Operations. Pydantic models, enums, ABI base classes, and HMAC audit-chain crypto primitives.
+- Source: https://pypi.org/project/warlog-spec/
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security platformization vs. best-of-breed: Risks and benefits (Score: 0)
+- Summary: With tool sprawl pushing costs and complexity to a breaking point, the choice between unified security platforms and best-of-breed tools has never been more critical.
+- Source: https://www.techtarget.com/searchsecurity/feature/Security-platformization-vs-best-of-breed-Risks-and-benefits
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Beware: 10 Mines Slot 2 Mistakes (Score: 0)
+- Summary: Eternal Slots Casino Bonus Codes and Promotions If wild animals are your thing, NetEnt’s Gorilla Kingdom is a must play slot at Unibet. Se disconnetti durante un round con scommesse piazzate, Evolution Gaming completa automaticamente il round e accredita vinc…
+- Source: https://stevenpressfield.com/2026/05/beware-10-mines-slot-2-mistakes/
+- Date: 2026-05-26
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
