@@ -56270,3 +56270,189 @@ Xage Security Unlocks Jailbreak-proof AI Agent Autonomy with End-to-End Visibili
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-05-31 14:58  ---
+
+Hardware’s back: AI supercharges server, PC and memory sales (Score: 4)
+- Summary: Hardware firms are cleaning up bigtime as enterprises and cloud providers can’t get enough computing power for their artificial intelligence dreams. Dell Technology’s stock rocketed an incredible 31% in morning trading Friday. That’s thanks to an almost unhea…
+- Source: https://siliconangle.com/2026/05/29/hardwares-back-ai-supercharges-server-pc-memory-sales/
+- Date: 2026-05-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Where all 48 World Cup teams will be based in 2026 (Score: 3)
+- Summary: The 2026 World Cup has taken another step towards kick off, with the full list of Team Base Camp Training Sites now confirmed for all 48 nations across the United States, Mexico and Canada. But the most important detail is not any one location.
+- Source: https://www.hitc.com/where-all-48-world-cup-teams-will-be-based-in-2026/
+- Date: 2026-05-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation (Score: 2)
+- Summary: Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authen…
+- Source: https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html
+- Date: 2026-05-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+(Business Network, 5/26) 初羌桁宴㍼茘欠罎 ... (Score: 2)
+- Summary: (Business Network, 5/26) 初羌桁宴㍼茘欠罎篌/a> (膩)
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260529__cable
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+Plume Security Labs Exposes Hidden Proxy Network Inside SuperBox Streaming Devices that Route Potentially Harmful Traffic over Home Networks (Score: 2)
+- Summary: Investigation reveals media streaming devices sold at major U.S. retailers silently tunnel third-party internet traffic, including potentially stolen credentials and enterprise security bypass operations through subscribers' home broadband connections PALO AL…
+- Source: https://www.prnewswire.com/news-releases/plume-security-labs-exposes-hidden-proxy-network-inside-superbox-streaming-devices-that-route-potentially-harmful-traffic-over-home-networks-302783968.html
+- Date: 2026-05-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NATO just formalised cybersecurity partnerships with Microsoft, Palo Alto Networks, and ESET (Score: 2)
+- Summary: NATO has signed strategic cybersecurity partnerships with Microsoft, Palo Alto Networks, and ESET, formalising what the alliance describes as non-commercial agreements to strengthen collective resilience in cyberspace. The partnerships were announced on 27 Ma…
+- Source: https://thenextweb.com/news/eset-nato-microsoft-palo-alto-cyber-partnership/
+- Date: 2026-05-27
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ESET enters a strategic partnership with NATO alongside leading industry partners (Score: 2)
+- Summary: TALLIN, Estonia, May 27, 2026 (GLOBE NEWSWIRE) -- ESET is proud to announce that it is joining a strategic partnership with NATO alongside Microsoft and Palo Alto Networks. This collaboration is an important step to strengthen collective resilience in cybersp…
+- Source: https://www.globenewswire.com/news-release/2026/05/27/3302178/0/en/ESET-enters-a-strategic-partnership-with-NATO-alongside-leading-industry-partners.html
+- Date: 2026-05-27
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: None
+
+AccessIT Group Recognized by Palo Alto Networks as a NextWave Platinum Innovator (Score: 2)
+- Summary: KING OF PRUSSIA, Pa., May 26, 2026 /PRNewswire/ -- AccessIT Group today announced it has become a Palo Alto Networks NextWave Platinum Innovator AccessIT Group joins a select group of channel partners who have met the Platinum Innovator performance, capabilit…
+- Source: https://www.prnewswire.com/news-releases/accessit-group-recognized-by-palo-alto-networks-as-a-nextwave-platinum-innovator-302782184.html
+- Date: 2026-05-26
+- Vendors: Palo Alto Networks
+- Topics: None
+
+bitBiome Closes Oversubscribed Seed Extension Round (Score: 2)
+- Summary: TOKYO and PALO ALTO, Calif., May 26, 2026 /PRNewswire/ -- bitBiome, a pioneering force in the field of discovery, design and engineering of novel enzymes, proteins, strains, and ingredients, today announced that it has closed an oversubscribed seed extension …
+- Source: https://www.prnewswire.com/news-releases/bitbiome-closes-oversubscribed-seed-extension-round-302780191.html
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Revel to Merge With EQT-Backed Voltera, Uniting EV Charging Networks (Score: 2)
+- Summary: Private equity-backed Voltera and Revel Transit Inc. have agreed to merge their electric-vehicle charging businesses to serve ride-hail cars and robotaxis across urban areas in the US.
+- Source: https://financialpost.com/pmn/business-pmn/revel-to-merge-with-eqt-backed-voltera-uniting-ev-charging-networks
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations (Score: 2)
+- Summary: Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.
+The post Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/
+- Date: 2026-05-26
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity jobs available right now: May 26, 2026 (Score: 2)
+- Summary: Application Security Engineer IG Group | India | Hybrid – View job details As an Application Security Engineer, you will assess the security of web, mobile, and cloud applications through penetration testing, secure code reviews, threat modeling, and architec…
+- Source: https://www.helpnetsecurity.com/2026/05/26/cybersecurity-jobs-available-right-now-may-26-2026/
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.2.0 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.2.0/
+- Date: 2026-05-25
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Elisity Microsegmentation Enables St. Luke's to Secure 85,000 Medical Devices and Unlocks Clinical Innovation in 46 Days (Score: 1)
+- Summary: Pennsylvania-based health system deploys identity-based microsegmentation across 15 hospitals and 350+ outpatient sites with zero outages, reducing ransomware blast radius from organization-wide to a single switch SAN JOSE, Calif., May 28, 2026 /PRNewswire/ -…
+- Source: https://www.prnewswire.com/news-releases/elisity-microsegmentation-enables-st-lukes-to-secure-85-000-medical-devices-and-unlocks-clinical-innovation-in-46-days-302783594.html
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+A net has been cast to bring 89 underworld members, including Shiran Bashik, from Dubai to Sri Lanka. (Score: 0)
+- Summary: Security forces have launched a series of special operations to bring back Sri Lankan criminals and drug traffickers hiding abroad. Accordingly, a wide net has been cast to apprehend 89 criminals of various ranks, and it has been revealed that 38 of them are …
+- Source: https://english.gossiplankanews.com/2026/05/a-net-has-been-cast-to-bring-89.html
+- Date: 2026-05-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Operational Technology (OT) Security Market worth $58.94 billion by 2031 | Report by MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., May 29, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Operational Technology (OT) Security Market is projected to grow from USD 27.39 billion in 2026 to USD 58.94 billion by 2031 at a CAGR of 16.6% during the forecast period. B…
+- Source: https://www.prnewswire.com/news-releases/operational-technology-ot-security-market-worth-58-94-billion-by-2031--report-by-marketsandmarkets-302785417.html
+- Date: 2026-05-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Silent Ransom Group Uses In-Person IT Impersonation to Breach Systems (Score: 0)
+- Summary: Threat actors from the Silent Ransom Group, aka Luna Moth, are escalating attacks by impersonating IT staff in phone calls and even showing up in person to gain direct access to victim systems
+- Source: https://www.infosecurity-magazine.com/news/silent-ransom-group-it/
+- Date: 2026-05-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Corner Expands Leadership Team, Appointing Michael Sonnenshein Partner & Group President (Score: 0)
+- Summary: Former Grayscale CEO and Securitize President joins investment firm with robust history and ambitions for continued global growth NEW YORK, May 29, 2026 /PRNewswire/ -- Corner, a multi-billion dollar investment firm that backs, builds, and operates companies …
+- Source: https://www.prnewswire.com/news-releases/corner-expands-leadership-team-appointing-michael-sonnenshein-partner--group-president-302785022.html
+- Date: 2026-05-29
+- Vendors: None
+- Topics: None
+
+35 Street Art Gems From Brazil Full of Color and Imagination (Score: 0)
+- Summary: Brazilian street art can be massive, intimate, political, funny, and full of color. This collection gathers 35 photos from across the country — from São Paulo and Rio de Janeiro to Manaus, Belo Horizonte, Florianópolis, Petrolina, and beyond.  Nerd Fact: Sã…
+- Source: https://streetartutopia.com/2026/05/29/collection-of-street-art-from-brazil/
+- Date: 2026-05-29
+- Vendors: None
+- Topics: None
+
+Javier Aguirre’s Early Mexico Camp Echoes 1986 Tactics For Home World Cup (Score: 0)
+- Summary: Mexico coach Javier Aguirre is using a strategy from his playing days to prepare for the World Cup.
+- Source: https://www.foxsports.com/stories/soccer/aguirres-early-mexico-camp-revives-a-1986style-grind-for-a-home-world-cup-push
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+(The Hacker News, 5/28) A shared re ... (Score: 0)
+- Summary: (The Hacker News, 5/28) A shared responsibility: Protecting customers through Coordinated Vulnerability Disclosure (MSRC, 5/27) Nightmare-Eclipse 羂GitHub ≪ォс㏍ 腆冴404 archive.is ｃ/a>
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260529__nightmareeclipse
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+Phase 3 HERIZON-GEA-01 Results Published in The New England Journal of Medicine Show Durable and Consistent Survival Benefit with Ziihera® (zanidatamab-hrii) Combinations in First-Line HER2+ Locally Advanced or Metastatic GEA (Score: 0)
+- Summary: Expanded safety, subgroup, progression-free survival sensitivity and subsequent therapy analyses further characterize the consistency and durability of outcomes observed with zanidatamab-containing combinations in the first-line setting Additional subgroup an…
+- Source: https://www.prnewswire.com/news-releases/phase-3-herizon-gea-01-results-published-in-the-new-england-journal-of-medicine-show-durable-and-consistent-survival-benefit-with-ziihera-zanidatamab-hrii-combinations-in-first-line-her2-locally-advanced-or-metastatic-gea-302783494.html
+- Date: 2026-05-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+HP Inc. Reports Fiscal 2026 Second Quarter Results (Score: 0)
+- Summary: PALO ALTO, Calif., May  27, 2026  (GLOBE NEWSWIRE) -- HP (NYSE: HPQ)  Second quarter GAAP diluted net earnings per share ("EPS") of $0.49, up 16.7% from...
+- Source: https://www.globenewswire.com/news-release/2026/05/27/3302394/0/en/HP-Inc-Reports-Fiscal-2026-Second-Quarter-Results.html
+- Date: 2026-05-27
+- Vendors: None
+- Topics: None
+
+Solayer Introduces Physical Card for Solayer Pay, Expanding Real-World Stablecoin Spending (Score: 0)
+- Summary: New Visa-compatible card enables in-store, online, and contactless payments directly from USDC balances PALO ALTO, Calif., May 27, 2026 /PRNewswire/ -- Solayer today announced the launch of the Solayer Pay Physical Card, a new extension of its payments produc…
+- Source: https://www.prnewswire.com/news-releases/solayer-introduces-physical-card-for-solayer-pay-expanding-real-world-stablecoin-spending-302783569.html
+- Date: 2026-05-27
+- Vendors: None
+- Topics: None
+
+Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect (Score: 0)
+- Summary: Tenable Research has developed a graph-based model linking 600+ threat groups to real-world customer exposures. It reveals which vulnerabilities sit at the intersection of severity, active exploitation, and organizational risk.Key takeaways
+<ol><li>The "patc…
+- Source: https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk
+- Date: 2026-05-27
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
