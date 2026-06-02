@@ -56641,3 +56641,200 @@ Javier Aguirre’s Early Mexico Camp Echoes 1986 Tactics For Home World Cup (Sco
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-06-02 17:51  ---
+
+Hardware’s back: AI supercharges server, PC and memory sales (Score: 4)
+- Summary: Hardware firms are cleaning up bigtime as enterprises and cloud providers can’t get enough computing power for their artificial intelligence dreams. Dell Technology’s stock rocketed an incredible 31% in morning trading Friday. That’s thanks to an almost unhea…
+- Source: https://siliconangle.com/2026/05/29/hardwares-back-ai-supercharges-server-pc-memory-sales/
+- Date: 2026-05-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Where all 48 World Cup teams will be based in 2026 (Score: 3)
+- Summary: The 2026 World Cup has taken another step towards kick off, with the full list of Team Base Camp Training Sites now confirmed for all 48 nations across the United States, Mexico and Canada. But the most important detail is not any one location.
+- Source: https://www.hitc.com/where-all-48-world-cup-teams-will-be-based-in-2026/
+- Date: 2026-05-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks warns of active exploitation in GlobalProtect VPN bypass (Score: 2)
+- Summary: Palo Alto Networks has upgraded the severity of a vulnerability in its PAN-OS software following reports of active exploitation in the wild. The flaw, tracked as CVE-2026-0257, allows attackers to bypass security restrictions and establish unauthorized VPN co…
+- Source: https://4sysops.com/archives/palo-alto-networks-warns-of-active-exploitation-in-globalprotect-vpn-bypass/
+- Date: 2026-06-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More (Score: 2)
+- Summary: Monday hit like a cron job with anger issues.
+
+A busted auth path here, a repo-side faceplant there, some "patched-ish" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits prete…
+- Source: https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html
+- Date: 2026-06-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U.S. CISA adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog (Score: 2)
+- Summary: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Palo Alto Networks PAN-OS flaw, tracked as …
+- Source: https://securityaffairs.com/192951/security/u-s-cisa-adds-palo-alto-networks-pan-os-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+- Date: 2026-06-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Warns High-Severity Bug Is Being Actively Exploited (Score: 2)
+- Summary: A vulnerability in Palo Alto Networks’ PAN-OS software is being exploited in attacks
+- Source: https://www.infosecurity-magazine.com/news/palo-alto-highseverity-bug/
+- Date: 2026-06-01
+- Vendors: Palo Alto Networks
+- Topics: None
+
+CVE-2026-0257: Rapid7 Caught Attackers Abusing Forged VPN Cookies Against Multiple Customers (Score: 2)
+- Summary: CVE-2026-0257 lets attackers forge Palo Alto GlobalProtect auth cookies and bypass VPN login. Exploitation confirmed since May 17. Palo Alto Networks addressed the vulnerability CVE-2026-0257 on May 13. Two weeks later, cybersecurity firm Rapid7 confirmed act…
+- Source: https://securityaffairs.com/192933/security/cve-2026-0257-rapid7-caught-attackers-abusing-forged-vpn-cookies-against-multiple-customers.html
+- Date: 2026-05-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks (Score: 2)
+- Summary: Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]
+- Source: https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/
+- Date: 2026-05-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation (Score: 2)
+- Summary: Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authen…
+- Source: https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html
+- Date: 2026-05-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+(Business Network, 5/26) 初羌桁宴㍼茘欠罎 ... (Score: 2)
+- Summary: (Business Network, 5/26) 初羌桁宴㍼茘欠罎篌/a> (膩)
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260529__cable
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+Plume Security Labs Exposes Hidden Proxy Network Inside SuperBox Streaming Devices that Route Potentially Harmful Traffic over Home Networks (Score: 2)
+- Summary: Investigation reveals media streaming devices sold at major U.S. retailers silently tunnel third-party internet traffic, including potentially stolen credentials and enterprise security bypass operations through subscribers' home broadband connections PALO AL…
+- Source: https://www.prnewswire.com/news-releases/plume-security-labs-exposes-hidden-proxy-network-inside-superbox-streaming-devices-that-route-potentially-harmful-traffic-over-home-networks-302783968.html
+- Date: 2026-05-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NATO just formalised cybersecurity partnerships with Microsoft, Palo Alto Networks, and ESET (Score: 2)
+- Summary: NATO has signed strategic cybersecurity partnerships with Microsoft, Palo Alto Networks, and ESET, formalising what the alliance describes as non-commercial agreements to strengthen collective resilience in cyberspace. The partnerships were announced on 27 Ma…
+- Source: https://thenextweb.com/news/eset-nato-microsoft-palo-alto-cyber-partnership/
+- Date: 2026-05-27
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ESET enters a strategic partnership with NATO alongside leading industry partners (Score: 2)
+- Summary: TALLIN, Estonia, May 27, 2026 (GLOBE NEWSWIRE) -- ESET is proud to announce that it is joining a strategic partnership with NATO alongside Microsoft and Palo Alto Networks. This collaboration is an important step to strengthen collective resilience in cybersp…
+- Source: https://www.globenewswire.com/news-release/2026/05/27/3302178/0/en/ESET-enters-a-strategic-partnership-with-NATO-alongside-leading-industry-partners.html
+- Date: 2026-05-27
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: None
+
+AccessIT Group Recognized by Palo Alto Networks as a NextWave Platinum Innovator (Score: 2)
+- Summary: KING OF PRUSSIA, Pa., May 26, 2026 /PRNewswire/ -- AccessIT Group today announced it has become a Palo Alto Networks NextWave Platinum Innovator AccessIT Group joins a select group of channel partners who have met the Platinum Innovator performance, capabilit…
+- Source: https://www.prnewswire.com/news-releases/accessit-group-recognized-by-palo-alto-networks-as-a-nextwave-platinum-innovator-302782184.html
+- Date: 2026-05-26
+- Vendors: Palo Alto Networks
+- Topics: None
+
+bitBiome Closes Oversubscribed Seed Extension Round (Score: 2)
+- Summary: TOKYO and PALO ALTO, Calif., May 26, 2026 /PRNewswire/ -- bitBiome, a pioneering force in the field of discovery, design and engineering of novel enzymes, proteins, strains, and ingredients, today announced that it has closed an oversubscribed seed extension …
+- Source: https://www.prnewswire.com/news-releases/bitbiome-closes-oversubscribed-seed-extension-round-302780191.html
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Revel to Merge With EQT-Backed Voltera, Uniting EV Charging Networks (Score: 2)
+- Summary: Private equity-backed Voltera and Revel Transit Inc. have agreed to merge their electric-vehicle charging businesses to serve ride-hail cars and robotaxis across urban areas in the US.
+- Source: https://financialpost.com/pmn/business-pmn/revel-to-merge-with-eqt-backed-voltera-uniting-ev-charging-networks
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations (Score: 2)
+- Summary: Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.
+The post Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/
+- Date: 2026-05-26
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity jobs available right now: May 26, 2026 (Score: 2)
+- Summary: Application Security Engineer IG Group | India | Hybrid – View job details As an Application Security Engineer, you will assess the security of web, mobile, and cloud applications through penetration testing, secure code reviews, threat modeling, and architec…
+- Source: https://www.helpnetsecurity.com/2026/05/26/cybersecurity-jobs-available-right-now-may-26-2026/
+- Date: 2026-05-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Elisity Microsegmentation Enables St. Luke's to Secure 85,000 Medical Devices and Unlocks Clinical Innovation in 46 Days (Score: 1)
+- Summary: Pennsylvania-based health system deploys identity-based microsegmentation across 15 hospitals and 350+ outpatient sites with zero outages, reducing ransomware blast radius from organization-wide to a single switch SAN JOSE, Calif., May 28, 2026 /PRNewswire/ -…
+- Source: https://www.prnewswire.com/news-releases/elisity-microsegmentation-enables-st-lukes-to-secure-85-000-medical-devices-and-unlocks-clinical-innovation-in-46-days-302783594.html
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+(2026.06.02) (various) (Score: 0)
+- Summary: Notepad++
+ 
+<ul> <li> ュ鴻ｃソ若Notepad++識с荐㊤。ゃ腟算潟茵❼6ヨ申荐 (腦 2026.06.01 菴処).9.6.2 
+ 鐚026綛ョ隈菴処鐚51ヤсNotepad++8.9.6.2⒢鴻-8.9.6.1т信罩ｃ識сCVE-2026-48800膈激⒢ェ荀申篆③ 
+
+</li></ul>
+
+ Exim
+ 
+<ul> <li> Exim Security Advisory for EXIM-Security-2026-05-19.1 / CVE-2026-48840 (Exi…
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260602_various
+- Date: 2026-06-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+(404media, 6/1)ェ莢⒧襖 i Tokenmaxxi ... (Score: 0)
+- Summary: (404media, 6/1)ェ莢⒧襖 i Tokenmaxxing鐚I祚竊区音хｆ'謙PI (。 Ai, 5/24) Tokenmaxxing綽チI羇紫起荅＞醜⒢сぇ若ッ恰莢脂∝刈㍼宴㍽┝
+⒢с
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260602__amazon
+- Date: 2026-06-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2026 South Florida ORBIE Awards Recognize South Florida’s Top Technology Executives (Score: 0)
+- Summary: Leading CIOs honored for leadership, innovation and business impact at the South Florida ORBIE Awards on May 31, 2026, at The Diplomat Beach Resort....
+- Source: https://www.globenewswire.com/news-release/2026/06/01/3304513/0/en/2026-South-Florida-ORBIE-Awards-Recognize-South-Florida-s-Top-Technology-Executives.html
+- Date: 2026-06-01
+- Vendors: None
+- Topics: None
+
+Industrial Control System (ICS) Security Market worth $38.48 billion by 2031 | MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., June 1, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Industrial Control System (ICS) Security Market is projected to grow from USD 17.91 billion in 2026 to USD 38.48 billion by 2031 at a compound annual growth rate (CAGR) of 1…
+- Source: https://www.prnewswire.com/news-releases/industrial-control-system-ics-security-market-worth-38-48-billion-by-2031--marketsandmarkets-302786851.html
+- Date: 2026-06-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Commvault Encourages Organizations to Adopt a Four-Step Approach to Resilience in the Age of Frontier AI (Score: 0)
+- Summary: Frontier models like Mythos and GPT-5.5-Cyber excel at rapidly identifying vulnerabilities, but may also expose exploitable threats to bad actors faster, making resilience essential TINTON FALLS, N.J., June 1, 2026 /PRNewswire/ -- Commvault (NASDAQ: CVLT), a …
+- Source: https://www.prnewswire.com/news-releases/commvault-encourages-organizations-to-adopt-a-four-step-approach-to-resilience-in-the-age-of-frontier-ai-302786510.html
+- Date: 2026-06-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto VPN bug graduates from advisory to active exploitation (Score: 0)
+- Summary: Rapid7: Attackers exploit authentication bypass flaw in the wild, meaning more emergency patching for PAN-OS users
+- Source: https://www.theregister.com/cyber-crime/2026/06/01/palo-alto-vpn-bug-graduates-from-advisory-to-active-exploitation/5249114
+- Date: 2026-06-01
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
