@@ -57030,3 +57030,189 @@ Broadcom Connects the AI Edge with Comprehensive Multi-Gig Broadband and Wi-Fi 8
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-06-04 16:30  ---
+
+Gluware Appoints Alex Henthorn-Iwane as Senior Vice President of Marketing (Score: 5)
+- Summary: Veteran network technology marketing leader and recognized industry voice joins Gluware to accelerate market awareness and demand for the company's AI-powered network automation platform SACRAMENTO, Calif., June 2, 2026 /PRNewswire/ -- Gluware, the leader in …
+- Source: https://www.prnewswire.com/news-releases/gluware-appoints-alex-henthorn-iwane-as-senior-vice-president-of-marketing-302788737.html
+- Date: 2026-06-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyera raises $300M at $12B valuation, doubling its worth in five months (Score: 4)
+- Summary: Artificial intelligence and data security company Cyera Ltd. has raised $300 million in new funding at a valuation of $12 billion, more than doubling its worth in five months. Founded in 2021, Cyera’s platform scans cloud accounts, data stores and software-as…
+- Source: https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/
+- Date: 2026-06-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hardware’s back: AI supercharges server, PC and memory sales (Score: 4)
+- Summary: Hardware firms are cleaning up bigtime as enterprises and cloud providers can’t get enough computing power for their artificial intelligence dreams. Dell Technology’s stock rocketed an incredible 31% in morning trading Friday. That’s thanks to an almost unhea…
+- Source: https://siliconangle.com/2026/05/29/hardwares-back-ai-supercharges-server-pc-memory-sales/
+- Date: 2026-05-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Where all 48 World Cup teams will be based in 2026 (Score: 3)
+- Summary: The 2026 World Cup has taken another step towards kick off, with the full list of Team Base Camp Training Sites now confirmed for all 48 nations across the United States, Mexico and Canada. But the most important detail is not any one location.
+- Source: https://www.hitc.com/where-all-48-world-cup-teams-will-be-based-in-2026/
+- Date: 2026-05-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks shares slip despite third-quarter earnings and revenue beat (Score: 2)
+- Summary: Shares of Palo Alto Networks Inc. were down slightly in late trading today despite the cybersecurity company beating expectations on earnings and revenue in its fiscal 2026 third quarter and raising its outlook for the rest of the year. For the quarter that e…
+- Source: https://siliconangle.com/2026/06/02/palo-alto-networks-shares-slip-despite-third-quarter-earnings-revenue-beat/
+- Date: 2026-06-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Q3 Earnings Call Highlights (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW) reported what executives described as a record fiscal third quarter, with results exceeding guidance across key metrics as...
+- Source: https://www.marketbeat.com/instant-alerts/palo-alto-networks-q3-earnings-call-highlights-2026-06-02/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-06-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto raises annual forecasts on strong AI cybersecurity demand, shares surge (Score: 2)
+- Summary: June 2 : Palo Alto Networks raised its annual revenue and profit forecast on Tuesday, as enterprises increased spending on cloud, identity and AI-driven cybersecurity products amid a rising threat landscape, sending shares up 7.4 per cent in extended trading.…
+- Source: https://www.channelnewsasia.com/business/palo-alto-raises-annual-forecasts-strong-ai-cybersecurity-demand-shares-surge-6157511
+- Date: 2026-06-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Reports Fiscal Third Quarter 2026 Financial Results (Score: 2)
+- Summary: SANTA CLARA, Calif., June 2, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW), the global cybersecurity leader, announced today financial results for its fiscal third quarter 2026, ended April 30, 2026. "Q3 was a standout quarter for Palo Alto Networks,…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-reports-fiscal-third-quarter-2026-financial-results-302789148.html
+- Date: 2026-06-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U.S. CISA adds Oracle WebLogic flaw to its Known Exploited Vulnerabilities catalog (Score: 2)
+- Summary: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Oracle WebLogic flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Palo Alto Networks PAN-OS flaw, tracked as CVE-2024-2…
+- Source: https://securityaffairs.com/193027/security/u-s-cisa-adds-oracle-weblogic-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+- Date: 2026-06-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Is Palo Alto Networks’ Stock Performance Compared to Other Cybersecurity Stocks? (Score: 2)
+- Summary: While Palo Alto Networks has underperformed the broader cybersecurity industry over the past year, analysts maintain a very bullish outlook.
+- Source: https://www.barchart.com/story/news/2257864/how-is-palo-alto-networks-stock-performance-compared-to-other-cybersecurity-stocks
+- Date: 2026-06-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks warns of active exploitation in GlobalProtect VPN bypass (Score: 2)
+- Summary: Palo Alto Networks has upgraded the severity of a vulnerability in its PAN-OS software following reports of active exploitation in the wild. The flaw, tracked as CVE-2026-0257, allows attackers to bypass security restrictions and establish unauthorized VPN co…
+- Source: https://4sysops.com/archives/palo-alto-networks-warns-of-active-exploitation-in-globalprotect-vpn-bypass/
+- Date: 2026-06-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More (Score: 2)
+- Summary: Monday hit like a cron job with anger issues.
+
+A busted auth path here, a repo-side faceplant there, some "patched-ish" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits prete…
+- Source: https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html
+- Date: 2026-06-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U.S. CISA adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog (Score: 2)
+- Summary: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS flaw to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Palo Alto Networks PAN-OS flaw, tracked as …
+- Source: https://securityaffairs.com/192951/security/u-s-cisa-adds-palo-alto-networks-pan-os-flaw-to-its-known-exploited-vulnerabilities-catalog.html
+- Date: 2026-06-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Warns High-Severity Bug Is Being Actively Exploited (Score: 2)
+- Summary: A vulnerability in Palo Alto Networks’ PAN-OS software is being exploited in attacks
+- Source: https://www.infosecurity-magazine.com/news/palo-alto-highseverity-bug/
+- Date: 2026-06-01
+- Vendors: Palo Alto Networks
+- Topics: None
+
+CVE-2026-0257: Rapid7 Caught Attackers Abusing Forged VPN Cookies Against Multiple Customers (Score: 2)
+- Summary: CVE-2026-0257 lets attackers forge Palo Alto GlobalProtect auth cookies and bypass VPN login. Exploitation confirmed since May 17. Palo Alto Networks addressed the vulnerability CVE-2026-0257 on May 13. Two weeks later, cybersecurity firm Rapid7 confirmed act…
+- Source: https://securityaffairs.com/192933/security/cve-2026-0257-rapid7-caught-attackers-abusing-forged-vpn-cookies-against-multiple-customers.html
+- Date: 2026-05-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks (Score: 2)
+- Summary: Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]
+- Source: https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/
+- Date: 2026-05-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation (Score: 2)
+- Summary: Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authen…
+- Source: https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html
+- Date: 2026-05-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+(Business Network, 5/26) 初羌桁宴㍼茘欠罎 ... (Score: 2)
+- Summary: (Business Network, 5/26) 初羌桁宴㍼茘欠罎篌/a> (膩)
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260529__cable
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+Plume Security Labs Exposes Hidden Proxy Network Inside SuperBox Streaming Devices that Route Potentially Harmful Traffic over Home Networks (Score: 2)
+- Summary: Investigation reveals media streaming devices sold at major U.S. retailers silently tunnel third-party internet traffic, including potentially stolen credentials and enterprise security bypass operations through subscribers' home broadband connections PALO AL…
+- Source: https://www.prnewswire.com/news-releases/plume-security-labs-exposes-hidden-proxy-network-inside-superbox-streaming-devices-that-route-potentially-harmful-traffic-over-home-networks-302783968.html
+- Date: 2026-05-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NATO just formalised cybersecurity partnerships with Microsoft, Palo Alto Networks, and ESET (Score: 2)
+- Summary: NATO has signed strategic cybersecurity partnerships with Microsoft, Palo Alto Networks, and ESET, formalising what the alliance describes as non-commercial agreements to strengthen collective resilience in cyberspace. The partnerships were announced on 27 Ma…
+- Source: https://thenextweb.com/news/eset-nato-microsoft-palo-alto-cyber-partnership/
+- Date: 2026-05-27
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Elisity Microsegmentation Enables St. Luke's to Secure 85,000 Medical Devices and Unlocks Clinical Innovation in 46 Days (Score: 1)
+- Summary: Pennsylvania-based health system deploys identity-based microsegmentation across 15 hospitals and 350+ outpatient sites with zero outages, reducing ransomware blast radius from organization-wide to a single switch SAN JOSE, Calif., May 28, 2026 /PRNewswire/ -…
+- Source: https://www.prnewswire.com/news-releases/elisity-microsegmentation-enables-st-lukes-to-secure-85-000-medical-devices-and-unlocks-clinical-innovation-in-46-days-302783594.html
+- Date: 2026-05-28
+- Vendors: None
+- Topics: None
+
+CISA warns of active attacks exploiting Android, Linux bugs (Score: 0)
+- Summary: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]
+- Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/
+- Date: 2026-06-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agents can now manipulate your organization. Are you ready? (Score: 0)
+- Summary: SPONSORED POST: Agents with hands require a hands-on policy
+- Source: https://www.theregister.com/ai-and-ml/2026/06/03/ai-agents-can-now-manipulate-your-organization-are-you-ready/5250444
+- Date: 2026-06-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Stocks Decline as US-Iran Clashes Drive Oil Higher: Markets Wrap (Score: 0)
+- Summary: A renewed advance in oil sent stocks lower as bond yields rose on concern that an escalation of hostilities between the US and Iran will hinder prospects for a peace deal, with elevated energy costs fueling inflation risks.
+- Source: https://financialpost.com/pmn/business-pmn/stocks-decline-as-us-iran-clashes-drive-oil-higher-markets-wrap-2
+- Date: 2026-06-03
+- Vendors: None
+- Topics: None
+
+Stocks Decline as US-Iran Clashes Drive Oil Higher: Markets Wrap (Score: 0)
+- Summary: A renewed advance in oil sent stocks lower as bond yields rose on concern that an escalation of hostilities between the US and Iran will hinder prospects for a peace deal, with elevated energy costs fueling inflation risks.
+- Source: https://financialpost.com/pmn/business-pmn/stocks-decline-as-us-iran-clashes-drive-oil-higher-markets-wrap
+- Date: 2026-06-03
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
