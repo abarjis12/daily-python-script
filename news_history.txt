@@ -62830,3 +62830,187 @@ Vehicle makers maintain positive momentum in June dispatches (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-07-05 14:55  ---
+
+AI software development startup 8090 nabs $135M funding round (Score: 5)
+- Summary: Software development automation startup 8090 Solutions Inc. today announced that it has raised $135 million in funding. Salesforce Ventures led the Series A round. It was joined by Palo Alto Networks Inc. Chief Executive Nikesh Arora, Quora Inc. co-founder Ad…
+- Source: https://siliconangle.com/2026/06/29/ai-software-development-startup-8090-nabs-135m-funding-round/
+- Date: 2026-06-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Straiker lands $64M to defend enterprise AI agents from attack (Score: 4)
+- Summary: Agentic security company Straiker Inc. today revealed that it had raised $64 million in new funding to expand a platform built to secure the artificial intelligence agents now spreading across enterprise systems. The Mountain View, California-based company se…
+- Source: https://siliconangle.com/2026/06/29/straiker-lands-64m-defend-enterprise-ai-agents-attack/
+- Date: 2026-06-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Top Cyber Range Providers: A Comparison of 15 Leading Platforms (Score: 3)
+- Summary: Compare 15 cyber range platforms across live-fire exercises, AI testing, SOC training, OT realism, deployment options, pricing models, and data residency needs.
+- Source: https://hackread.com/top-cyber-range-providers-comparison-leading-platforms/
+- Date: 2026-06-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Here is Why Palo Alto Networks (PANW) Is A Good Stock To Buy Now According to This Fund (Score: 2)
+- Summary: In its first-quarter 2026 investor letter, Brown Advisory Large-Cap Growth Strategy highlighted Palo Alto Networks, Inc. (NASDAQ:PANW). Palo Alto Networks, Inc. (NASDAQ:PANW) is a leading American multinational cybersecurity company that offers advanced netwo…
+- Source: https://biztoc.com/x/098af46ea600d447
+- Date: 2026-07-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Access Control Market Projected to Reach $48.84 Billion by 2035 | SNS Insider (Score: 2)
+- Summary: The U.S. network access control market is expected to reach $13.05 billion by 2035, while Europe is projected to touch $4.89 billion by 2035, driven by zero trust adoption, rising IoT and BYOD security needs, GDPR and NIS2 compliance, and AI-powered network a…
+- Source: https://www.globenewswire.com/news-release/2026/07/02/3321137/0/en/Network-Access-Control-Market-Projected-to-Reach-48-84-Billion-by-2035-SNS-Insider.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Dear Palo Alto Networks Shareholders - Next Stop $400 Per Share (Score: 2)
+- Summary: Palo Alto Networks stock has been on a tear. Based on its strong free cash flow and FCF margins, as well as analysts' forecasts, PANW stock could be worth ov...
+- Source: https://www.barchart.com/story/news/3054332/dear-palo-alto-networks-shareholders-next-stop-400-per-share
+- Date: 2026-06-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Agentic Coding Company Baz Announces Planner That Lets Engineering Teams Eliminate Entire Classes of Bugs and Vulnerabilities at Superhuman Scale and an Extended Funding Round Co-Led by Battery Ventures and boldstart ventures (Score: 2)
+- Summary: SAN FRANCISCO, June 29, 2026 (GLOBE NEWSWIRE) -- Today at AI Engineer World’s Fair, Baz, the leading agentic coding platform company, introduced Baz Planner. The new product is a gateway that sits between developers and the codebase, automatically routing eve…
+- Source: https://www.globenewswire.com/news-release/2026/06/29/3319144/0/en/Agentic-Coding-Company-Baz-Announces-Planner-That-Lets-Engineering-Teams-Eliminate-Entire-Classes-of-Bugs-and-Vulnerabilities-at-Superhuman-Scale-and-an-Extended-Funding-Round-Co-L.html
+- Date: 2026-06-29
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GlobalProtect VPN Overview: How to Use (Score: 2)
+- Summary: This GlobalProtect VPN review covers everything you need to know about one of the more unique VPN solutions on the market. While it is still a virtual private network that encrypts your browsing habits and keeps your location and identity protected, GlobalPro…
+- Source: https://www.addictivetips.com/vpn/global-protect-review/
+- Date: 2026-06-29
+- Vendors: None
+- Topics: None
+
+pan-scm-sdk 0.15.1 (Score: 2)
+- Summary: Python SDK for Palo Alto Networks Strata Cloud Manager.
+- Source: https://pypi.org/project/pan-scm-sdk/0.15.1/
+- Date: 2026-06-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+FBI: TeamPCP Compromised Dev Tools to Steal Cloud Credentials (Score: 0)
+- Summary: FBI says TeamPCP poisoned trusted developer tools to steal cloud credentials, spread malware through software updates, and extort victims. On July 2, 2026, the FBI published a FLASH alert identifying the criminal group called TeamPCP and detailing how it comp…
+- Source: https://securityaffairs.com/194741/uncategorized/fbi-teampcp-compromised-dev-tools-to-steal-cloud-credentials.html
+- Date: 2026-07-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+FBI: TeamPCP Compromised Dev Tools to Steal Cloud Credentials (Score: 0)
+- Summary: FBI says TeamPCP poisoned trusted developer tools to steal cloud credentials, spread malware through software updates, and extort victims. On July 2, 2026, the FBI published a FLASH alert identifying the criminal group called TeamPCP and detailing how it comp…
+- Source: https://securityaffairs.com/194741/cyber-crime/fbi-teampcp-compromised-dev-tools-to-steal-cloud-credentials.html
+- Date: 2026-07-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hyperscalers and Sovereign Initiatives: Driving Forces Behind AI Data Center Expansion (Score: 0)
+- Summary: The market presents significant opportunities in AI-optimized data centers, with a rise in demand for AI-centric infrastructure and liquid cooling. Rapid growth is driven by hyperscalers and sovereign AI initiatives. Competitive advantages will stem from powe…
+- Source: https://www.globenewswire.com/news-release/2026/07/03/3321812/28124/en/Hyperscalers-and-Sovereign-Initiatives-Driving-Forces-Behind-AI-Data-Center-Expansion.html
+- Date: 2026-07-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials (Score: 0)
+- Summary: Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.
+
+"Although tactics differ between affiliates, common patterns emerged in tradecraft through …
+- Source: https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Andrew Luck Calls For College Football's Top Rivalries To Be Preserved (Score: 0)
+- Summary: Stanford legend Andrew Luck is understandably concerned about the future of college football. The landscape of college football has changed dramatically over the past few years due to conference realignment, NIL and the transfer portal. The sport could receiv…
+- Source: https://thespun.com/college-football/andrew-luck-calls-for-college-footballs-top-rivalries-to-be-preserved
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+Data Exfiltration Market Size to Hit $285.85 Billion by 2035 as AI-Driven Data Protection and Cybersecurity Investments Accelerate | Research by SNS Insider (Score: 0)
+- Summary: The U.S. Data Exfiltration Market is Projected to Grow from $24.01 Billion in 2025 to $55.36 Billion by 2035, While Europe is Expected to Expand from $0.79 Billion to $2.37 Billion, Driven by Stricter GDPR, NIS2, and DORA Compliance Requirements, Rising Data …
+- Source: https://www.globenewswire.com/news-release/2026/07/02/3321369/0/en/Data-Exfiltration-Market-Size-to-Hit-285-85-Billion-by-2035-as-AI-Driven-Data-Protection-and-Cybersecurity-Investments-Accelerate-Research-by-SNS-Insider.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+panorama-super-cli 1.2.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.2.0/
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+Why Electricity Has Become the World's Most Strategic Asset (Score: 0)
+- Summary: FN Media Group Presents Oilprice.com Market Commentary NEW YORK, July 2, 2026 /PRNewswire/ -- For most of modern history, oil was the world's most valuable resource. It powered industrial growth, decided wars, reshaped geopolitics, and created the largest cor…
+- Source: https://www.prnewswire.com/news-releases/why-electricity-has-become-the-worlds-most-strategic-asset-302816160.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.1.2 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.1.2/
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.1.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.1.0/
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.0.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.0.0/
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+UnitedHealth Group Now Covers Guardant Health’s Shield Blood Test for Colorectal Cancer Screening (Score: 0)
+- Summary: PALO ALTO, Calif.--(BUSINESS WIRE)--Jul 1, 2026-- Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today announced its Shield™ blood test for colorectal cancer screening (CRC) is now covered for eligible UnitedHealth Group (UHG) membe…
+- Source: https://apnews.com/press-release/business-wire/press-release-3d2432c4c43144f9a68f40bb808880f2
+- Date: 2026-07-01
+- Vendors: None
+- Topics: None
+
+Chartis Names Quantifind a Top 10 Technology Provider in Financial Crime and Compliance, Earning Dual Honors in Perpetual KYC and Open-source Intelligence (Score: 0)
+- Summary: PALO ALTO, Calif., July 1, 2026 /PRNewswire/ -- Quantifind, the leader in AI-native Risk Intelligence for financial crime and national security, today announced it was recognized as a Top 10 Core Technology provider in the 2026 Chartis Financial Crime and Com…
+- Source: https://www.prnewswire.com/news-releases/chartis-names-quantifind-a-top-10-technology-provider-in-financial-crime-and-compliance-earning-dual-honors-in-perpetual-kyc-and-open-source-intelligence-302816288.html
+- Date: 2026-07-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chartis Names Quantifind a Top 10 Technology Provider in Financial Crime and Compliance, Earning Dual Honors in Perpetual KYC and Open-source Intelligence (Score: 0)
+- Summary: PALO ALTO, Calif., July 1, 2026 /PRNewswire/ -- Quantifind, the leader in AI-native Risk Intelligence for financial crime and national security, today announced it was recognized as a Top 10 Core Technology provider in the 2026 Chartis Financial Crime and Com…
+- Source: https://www.prnewswire.com/news-releases/chartis-names-quantifind-a-top-10-technology-provider-in-financial-crime-and-compliance-earning-dual-honors-in-perpetual-kyc-and-open-source-intelligence-302816264.html
+- Date: 2026-07-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Do you still need third-party antivirus on your Windows PC? (Score: 0)
+- Summary: Earlier this year, Microsoft quietly deleted a post that argued Windows 11's built-in Microsoft Defender Antivirus was good enough for most people. But independent evidence says they were right.
+- Source: https://www.zdnet.com/article/do-you-still-need-third-party-antivirus-on-your-windows-pc/
+- Date: 2026-07-01
+- Vendors: Microsoft
+- Topics: None
+
+Vehicle makers maintain positive momentum in June dispatches (Score: 0)
+- Summary: June saw strong growth in vehicle dispatches for Maruti and Mahindra, while Hyundai faced a production decline.
+- Source: https://www.thehindubusinessline.com/economy/vehicle-makers-maintain-positive-momentum-in-june-dispatches/article71169331.ece
+- Date: 2026-07-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
