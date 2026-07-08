@@ -63387,3 +63387,193 @@ Chartis Names Quantifind a Top 10 Technology Provider in Financial Crime and Com
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-07-08 15:39  ---
+
+pan-scm-cli 2.0.0 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/2.0.0/
+- Date: 2026-07-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Fake IT support calls on Microsoft Teams push EtherRAT malware (Score: 2)
+- Summary: Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]
+- Source: https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/
+- Date: 2026-07-06
+- Vendors: Microsoft
+- Topics: None
+
+Maruti Suzuki July discounts: Victoris gets benefits up to Rs 2 lakh; Brezza, Swift, Alto K10 and Wagon R also on offer (Score: 2)
+- Summary: Maruti Suzuki is offering significant discounts across its Arena network this July, with the Victoris leading the pack with benefits up to Rs 2 lakh, especially on CNG variants. Other popular models like the Alto K10, Wagon R, and Brezza also see attractive d…
+- Source: https://economictimes.indiatimes.com/news/new-updates/maruti-suzuki-july-discounts-victoris-gets-benefits-up-to-rs-2-lakh-brezza-swift-alto-k10-and-wagon-r-also-on-offer/articleshow/132208356.cms
+- Date: 2026-07-06
+- Vendors: None
+- Topics: None
+
+Here is Why Palo Alto Networks (PANW) Is A Good Stock To Buy Now According to This Fund (Score: 2)
+- Summary: In its first-quarter 2026 investor letter, Brown Advisory Large-Cap Growth Strategy highlighted Palo Alto Networks, Inc. (NASDAQ:PANW). Palo Alto Networks, Inc. (NASDAQ:PANW) is a leading American multinational cybersecurity company that offers advanced netwo…
+- Source: https://biztoc.com/x/098af46ea600d447
+- Date: 2026-07-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Access Control Market Projected to Reach $48.84 Billion by 2035 | SNS Insider (Score: 2)
+- Summary: The U.S. network access control market is expected to reach $13.05 billion by 2035, while Europe is projected to touch $4.89 billion by 2035, driven by zero trust adoption, rising IoT and BYOD security needs, GDPR and NIS2 compliance, and AI-powered network a…
+- Source: https://www.globenewswire.com/news-release/2026/07/02/3321137/0/en/Network-Access-Control-Market-Projected-to-Reach-48-84-Billion-by-2035-SNS-Insider.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Popular pizza franchisee files for bankruptcy despite two years of national expansion (Score: 0)
+- Summary: Earlier this year, the pizza chain was ranked as the 6th most overpriced pizza chain in the US.
+- Source: https://nypost.com/2026/07/07/lifestyle/mountain-mikes-pizza-franchisee-files-for-bankruptcy-despite-expansion/
+- Date: 2026-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Fake IT bods on Microsoft Teams coax workers into installing malware (Score: 0)
+- Summary: Unit 42 says attackers are posing as helpdesk staff and persuading employees to hand over remote control before dropping EtherRAT trojan
+- Source: https://www.theregister.com/cyber-crime/2026/07/07/fake-it-bods-on-microsoft-teams-coax-workers-into-installing-malware/5267610
+- Date: 2026-07-07
+- Vendors: Microsoft
+- Topics: None
+
+Kingston mayor welcomes high-speed rail pitch amid widespread opposition (Score: 0)
+- Summary: The mayor of Kingston is welcoming the prospect of the Alto prospect stopping in his city, particularly if it follows the Highway 401 corridor, which could ease concerns raised by other municipal governments in Eastern Ontario.
+- Source: https://www.nationalobserver.com/2026/07/07/news/ontario-alto-high-speed-rail-kingston-stop
+- Date: 2026-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI in Trusted Computing Market to Surge: Expected Growth to $15.47 Billion by 2030 (Score: 0)
+- Summary: Key market opportunities include AI-driven threat detection, growing demand for secure AI platforms, expansion of confidential computing, and managed security services. Increased cybersecurity threats and regulatory compliance drive adoption. Asia-Pacific is …
+- Source: https://www.globenewswire.com/news-release/2026/07/07/3322899/28124/en/AI-in-Trusted-Computing-Market-to-Surge-Expected-Growth-to-15-47-Billion-by-2030.html
+- Date: 2026-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ad Tech Briefing: Corporate America finally buys into soccer as a mainstream sport; shadier elements of the ad industry are obliging (Score: 0)
+- Summary: The FIFA World Cup 2026, co-hosted across North America for the first time, has spelled out what some in U.S. media circles have known for some time: association football, or “soccer” to use local parlance, is now big in America, and it’s time for corporation…
+- Source: http://digiday.com/media-buying/ad-tech-briefing-corporate-america-finally-buys-into-soccer-as-a-mainstream-sport-shadier-elements-of-the-ad-industry-are-obliging/
+- Date: 2026-07-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Barracuda makes security logs conversational with Genie (Score: 0)
+- Summary: * Barracuda Managed XDR now uses Genie to let analysts search security logs in natural language instead of SQL, providing multi-tenant threat detection for thousands of customers and MSPs.
+* Investigations that previously required schema expertise across doz…
+- Source: https://www.databricks.com/blog/barracuda-makes-security-logs-conversational-genie
+- Date: 2026-07-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike Surges 5%, Palo Alto and Okta Gain 4% as Cybersecurity Stocks Rally on Analyst Upgrades (Score: 0)
+- Summary: Shares of major cybersecurity names are rallying in Monday’s midday session. CrowdStrike Holdings (NASDAQ:CRWD) stock is up 5% to $204 and change, leading th...
+- Source: https://247wallst.com/investing/2026/07/06/crowdstrike-surges-5-palo-alto-and-okta-gain-4-as-cybersecurity-stocks-rally-on-analyst-upgrades/
+- Date: 2026-07-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More (Score: 0)
+- Summary: A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.
+
+Home devices became a routing cover. Clean code…
+- Source: https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html
+- Date: 2026-07-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+4 of Bank of America’s Top US Q3 Picks Pay Dividends With Double-Digit Upside Potential (Score: 0)
+- Summary: Bank of America just dropped its highest-conviction stock picks for Q3 2026, and four names on the list combine serious dividend income with double-digit ups...
+- Source: https://247wallst.com/investing/2026/07/06/4-of-bank-of-americas-top-u-s-q3-picks-pay-dividends-with-double-digit-upside-potential/
+- Date: 2026-07-06
+- Vendors: None
+- Topics: None
+
+The Private Capture of Public Genius (Score: 0)
+- Summary: Article URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius
+Comments URL: https://news.ycombinator.com/item?id=48799178
+Points: 5
+# Comments: 0
+- Source: https://www.wysr.xyz/p/the-private-capture-of-public-genius
+- Date: 2026-07-05
+- Vendors: None
+- Topics: None
+
+FBI: TeamPCP Compromised Dev Tools to Steal Cloud Credentials (Score: 0)
+- Summary: FBI says TeamPCP poisoned trusted developer tools to steal cloud credentials, spread malware through software updates, and extort victims. On July 2, 2026, the FBI published a FLASH alert identifying the criminal group called TeamPCP and detailing how it comp…
+- Source: https://securityaffairs.com/194741/uncategorized/fbi-teampcp-compromised-dev-tools-to-steal-cloud-credentials.html
+- Date: 2026-07-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+FBI: TeamPCP Compromised Dev Tools to Steal Cloud Credentials (Score: 0)
+- Summary: FBI says TeamPCP poisoned trusted developer tools to steal cloud credentials, spread malware through software updates, and extort victims. On July 2, 2026, the FBI published a FLASH alert identifying the criminal group called TeamPCP and detailing how it comp…
+- Source: https://securityaffairs.com/194741/cyber-crime/fbi-teampcp-compromised-dev-tools-to-steal-cloud-credentials.html
+- Date: 2026-07-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hyperscalers and Sovereign Initiatives: Driving Forces Behind AI Data Center Expansion (Score: 0)
+- Summary: The market presents significant opportunities in AI-optimized data centers, with a rise in demand for AI-centric infrastructure and liquid cooling. Rapid growth is driven by hyperscalers and sovereign AI initiatives. Competitive advantages will stem from powe…
+- Source: https://www.globenewswire.com/news-release/2026/07/03/3321812/28124/en/Hyperscalers-and-Sovereign-Initiatives-Driving-Forces-Behind-AI-Data-Center-Expansion.html
+- Date: 2026-07-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials (Score: 0)
+- Summary: Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.
+
+"Although tactics differ between affiliates, common patterns emerged in tradecraft through …
+- Source: https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Andrew Luck Calls For College Football's Top Rivalries To Be Preserved (Score: 0)
+- Summary: Stanford legend Andrew Luck is understandably concerned about the future of college football. The landscape of college football has changed dramatically over the past few years due to conference realignment, NIL and the transfer portal. The sport could receiv…
+- Source: https://thespun.com/college-football/andrew-luck-calls-for-college-footballs-top-rivalries-to-be-preserved
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+Data Exfiltration Market Size to Hit $285.85 Billion by 2035 as AI-Driven Data Protection and Cybersecurity Investments Accelerate | Research by SNS Insider (Score: 0)
+- Summary: The U.S. Data Exfiltration Market is Projected to Grow from $24.01 Billion in 2025 to $55.36 Billion by 2035, While Europe is Expected to Expand from $0.79 Billion to $2.37 Billion, Driven by Stricter GDPR, NIS2, and DORA Compliance Requirements, Rising Data …
+- Source: https://www.globenewswire.com/news-release/2026/07/02/3321369/0/en/Data-Exfiltration-Market-Size-to-Hit-285-85-Billion-by-2035-as-AI-Driven-Data-Protection-and-Cybersecurity-Investments-Accelerate-Research-by-SNS-Insider.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+panorama-super-cli 1.2.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.2.0/
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+Why Electricity Has Become the World's Most Strategic Asset (Score: 0)
+- Summary: FN Media Group Presents Oilprice.com Market Commentary NEW YORK, July 2, 2026 /PRNewswire/ -- For most of modern history, oil was the world's most valuable resource. It powered industrial growth, decided wars, reshaped geopolitics, and created the largest cor…
+- Source: https://www.prnewswire.com/news-releases/why-electricity-has-become-the-worlds-most-strategic-asset-302816160.html
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.1.2 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.1.2/
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.1.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.1.0/
+- Date: 2026-07-02
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
