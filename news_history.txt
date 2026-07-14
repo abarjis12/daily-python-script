@@ -64491,3 +64491,185 @@ Entra passkey enrollment vishing targets Microsoft 365 users (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-07-14 15:06  ---
+
+Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence (Score: 4)
+- Summary: Nature Medicine - Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence
+- Source: https://www.nature.com/articles/s41591-026-04570-9
+- Date: 2026-07-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Lumen expands managed detection and response with Cortex XSIAM integration (Score: 2)
+- Summary: Lumen Technologies has announced Lumen Defender Advanced Managed Detection and Response (AMDR) for Palo Alto Networks Cortex XSIAM. Attackers are increasingly operating earlier in the lifecycle while AI is accelerating threat speed. This expanded service will…
+- Source: https://www.helpnetsecurity.com/2026/07/13/lumen-defender-amdr/
+- Date: 2026-07-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IBM and Red Hat Launch Lightwell Catalog to Automate Remediation (Score: 2)
+- Summary: IBM and Red Hat have officially launched the Lightwell Network, a major initiative aimed at tackling decades of technical debt. With AI models now capable of identifying and exploiting vulnerabilities in hours, this service provides automated remediation for …
+- Source: https://devops.com/ibm-and-red-hat-launch-lightwell-catalog-to-automate-remediation/
+- Date: 2026-07-09
+- Vendors: IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0287 PAN-OS: Denial of Service Vulnerabilities in Network Traffic Processing (Severity: MEDIUM) (Score: 2)
+- Summary: Related content: PAN-SA-2026-0010 Chromium and Prisma Browser: Monthly Vulnerability Update (July 2026) (Severity: HIGH) CVE-2026-0285 PAN-OS: Server-Side Request Forgery Vulnerability in Management Web Interface (Severity: MEDIUM) CVE-2026-0278 Prisma Access…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0287
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+CVE-2026-0285 PAN-OS: Server-Side Request Forgery Vulnerability in Management Web Interface (Severity: MEDIUM) (Score: 2)
+- Summary: Related content: PAN-SA-2026-0010 Chromium and Prisma Browser: Monthly Vulnerability Update (July 2026) (Severity: HIGH) CVE-2026-0287 PAN-OS: Denial of Service Vulnerabilities in Network Traffic Processing (Severity: MEDIUM) CVE-2026-0278 Prisma Access Agent…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0285
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+CVE-2026-0284 PAN-OS: XML Injection Vulnerability in Large Scale VPN (LSVPN) (Severity: MEDIUM) (Score: 2)
+- Summary: Related content: PAN-SA-2026-0010 Chromium and Prisma Browser: Monthly Vulnerability Update (July 2026) (Severity: HIGH) CVE-2026-0287 PAN-OS: Denial of Service Vulnerabilities in Network Traffic Processing (Severity: MEDIUM) CVE-2026-0278 Prisma Access Agent…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0284
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+CVE-2026-0279 PAN-OS: Multiple Cross-Site Scripting (XSS) Vulnerabilities (Severity: LOW) (Score: 2)
+- Summary: Related content: PAN-SA-2026-0010 Chromium and Prisma Browser: Monthly Vulnerability Update (July 2026) (Severity: HIGH) CVE-2026-0287 PAN-OS: Denial of Service Vulnerabilities in Network Traffic Processing (Severity: MEDIUM) CVE-2026-0278 Prisma Access Agent…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0279
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+CVE-2026-0276 Cortex XDR Broker VM: Privilege Escalation (PE) Vulnerability (Severity: LOW) (Score: 2)
+- Summary: Related content: PAN-SA-2026-0010 Chromium and Prisma Browser: Monthly Vulnerability Update (July 2026) (Severity: HIGH) CVE-2026-0287 PAN-OS: Denial of Service Vulnerabilities in Network Traffic Processing (Severity: MEDIUM) CVE-2026-0278 Prisma Access Agent…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0276
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+PAN-SA-2026-0010 Chromium and Prisma Browser: Monthly Vulnerability Update (July 2026) (Severity: HIGH) (Score: 2)
+- Summary: Related content: CVE-2026-0284 PAN-OS: XML Injection Vulnerability in Large Scale VPN (LSVPN) (Severity: MEDIUM) CVE-2026-0287 PAN-OS: Denial of Service Vulnerabilities in Network Traffic Processing (Severity: MEDIUM) CVE-2026-0278 Prisma Access Agent: Multip…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0010
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+CVE-2026-0288 PAN-OS: Buffer Overflow Vulnerabilities in User-ID Terminal Server Agent (Severity: HIGH) (Score: 2)
+- Summary: Related content: PAN-SA-2026-0010 Chromium and Prisma Browser: Monthly Vulnerability Update (July 2026) (Severity: HIGH) CVE-2026-0287 PAN-OS: Denial of Service Vulnerabilities in Network Traffic Processing (Severity: MEDIUM) CVE-2026-0278 Prisma Access Agent…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0288
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+Zero Trust Network Access (ZTNA) Market Surges to $4.18 billion at a CAGR 25.5% by 2030 | Exclusive Report by MarketsandMarkets™ (Score: 2)
+- Summary: Delray Beach, FL, July 08, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the Zero Trust Network Access (ZTNA) Market is projected to grow from USD 1.34 billion in 2025 to USD 4.18 billion by 2030, registering a Compound Annual Growth Rate (CAGR) o…
+- Source: https://www.globenewswire.com/news-release/2026/07/08/3324258/0/en/Zero-Trust-Network-Access-ZTNA-Market-Surges-to-4-18-billion-at-a-CAGR-25-5-by-2030-Exclusive-Report-by-MarketsandMarkets.html
+- Date: 2026-07-08
+- Vendors: None
+- Topics: None
+
+IBM and Red Hat Expand Lightwell with New Offerings to Build the Trust Infrastructure for AI-Era Open Source (Score: 2)
+- Summary: IBM (NYSE:IBM) and Red Hat today announced the commercial launch of Lightwell, delivering automated vulnerability remediation at scale through two offerings: Lightwell Network and Lightwell Clearinghouse Premier. Available now, Lightwell Network gives enterpr…
+- Source: https://www.redhat.com/en/about/press-releases/ibm-and-red-hat-expand-lightwell-new-offerings-build-trust-infrastructure-ai-era-open-source
+- Date: 2026-07-08
+- Vendors: IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Strengthening the open source supply chain with Red Hat partners (Score: 2)
+- Summary: Earlier today, Red Hat and IBM unveiled two commercial offerings of Lightwell to deliver automated vulnerability remediation at scale. However, true security requires a movement—a connected network of industry leaders and experts working in lockstep. Vulnerab…
+- Source: https://www.redhat.com/en/blog/strengthening-open-source-supply-chain-red-hat-partners
+- Date: 2026-07-08
+- Vendors: IBM
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+BTIG Raised PT on Palo Alto (PANW), Here’s Why (Score: 2)
+- Summary: Palo Alto Networks, Inc. (NASDAQ:PANW) is among the Best Software Stocks to Buy in 2026. Recently, on July 1, BTIG raised the price target on Palo Alto Netwo...
+- Source: https://finance.yahoo.com/markets/stocks/articles/btig-raised-pt-palo-alto-224206144.html
+- Date: 2026-07-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-scm-cli 2.0.0 (Score: 2)
+- Summary: CICD and Network Engineer-friendly CLI tool for Palo Alto Networks Strata Cloud Manager
+- Source: https://pypi.org/project/pan-scm-cli/2.0.0/
+- Date: 2026-07-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Fake IT support calls on Microsoft Teams push EtherRAT malware (Score: 2)
+- Summary: Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]
+- Source: https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/
+- Date: 2026-07-06
+- Vendors: Microsoft
+- Topics: None
+
+panorama-super-cli 1.6.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.6.0/
+- Date: 2026-07-13
+- Vendors: None
+- Topics: None
+
+Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks – Some Might Surprise You (CORRECTED) (Score: 0)
+- Summary: Editor’s Note: This story has been updated to correct details related to Intel (INTC). When it comes to tracking the trading activity of members of Congress,...
+- Source: https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html
+- Date: 2026-07-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The day every affair will be exposed: Even infidelities from decades ago will be outed... experts reveal what cheaters must do immediately (Score: 0)
+- Summary: Cheating partners will soon have nowhere to hide. A tech expert reveal the date, within the next 12 months, when it will all be outed...
+- Source: https://www.dailymail.com/sciencetech/article-15957511/affair-exposed-technology.html
+- Date: 2026-07-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PIP Annual Convention Recognizes Top-Performing Franchises Across the Nation (Score: 0)
+- Summary: MISSION VIEJO, Calif., July 10, 2026 /PRNewswire/ -- PIP, a leading marketing, signs and print services provider, honored top-performing franchisees at its annual PIP Convention and Vendor Show, held recently in San Diego. The PIP Franchisee of the Year Award…
+- Source: https://www.prnewswire.com/news-releases/pip-annual-convention-recognizes-top-performing-franchises-across-the-nation-302823101.html
+- Date: 2026-07-11
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.3.1 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.3.1/
+- Date: 2026-07-10
+- Vendors: None
+- Topics: None
+
+MLB Draft 2026: Top 50 draft prospects, starting with Roch Cholowsky, Grady Emerson and Vahn Lackey (Score: 0)
+- Summary: Here are the top 50 high school and college players most likely to hear their names called this weekend in Philadelphia.
+- Source: https://sports.yahoo.com/mlb/article/mlb-draft-2026-top-50-draft-prospects-starting-with-roch-cholowsky-grady-emerson-and-vahn-lackey-190532005.html
+- Date: 2026-07-09
+- Vendors: None
+- Topics: None
+
+Extortion crew hijacks Microsoft 365 accounts via fake passkey setup (Score: 0)
+- Summary: The Pink cyber extortion crew is tricking employees into giving them access to their Microsoft 365 accounts by faking Entra passkey enrollment requests. The attack The attack starts with a vishing call to an employee. The caller poses as IT and says it’s time…
+- Source: https://www.helpnetsecurity.com/2026/07/09/microsoft-365-fake-passkey-setup-enrollment/
+- Date: 2026-07-09
+- Vendors: Microsoft
+- Topics: None
+
+Provision of preferred nutrients to macrophages promotes Salmonella intracellular replication without relying on Type III secretion systems (Score: 0)
+- Summary: Author summary Salmonella Typhimurium is a leading cause of foodborne illness globally and can cause systemic infections by surviving inside macrophages, the immune cells in charge of fighting them. Traditionally, it was believed that Salmonella relies strict…
+- Source: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014348
+- Date: 2026-07-09
+- Vendors: None
+- Topics: None
+
+Multi-Cloud Security Market Projected to Reach $104.04 Billion by 2035 | SNS Insider (Score: 0)
+- Summary: The U.S. multi-cloud security market is expected to reach $8.99 billion by 2035, while Europe is projected to hit $12.96 billion, driven by GDPR compliance, zero trust security strategies, sovereign cloud initiatives, and rising enterprise adoption of AWS, Mi…
+- Source: https://www.globenewswire.com/news-release/2026/07/09/3324899/0/en/Multi-Cloud-Security-Market-Projected-to-Reach-104-04-Billion-by-2035-SNS-Insider.html
+- Date: 2026-07-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
