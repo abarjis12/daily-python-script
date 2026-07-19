@@ -65434,3 +65434,189 @@ The day every affair will be exposed: Even infidelities from decades ago will be
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-07-19 14:36  ---
+
+Summit Therapeutics Signs Agreement to Sell Phase III Asset Ridinilazole to Biossil, Inc. (Score: 4)
+- Summary: MIAMI — Summit Therapeutics Inc. (NASDAQ: SMMT) today announced it has signed an agreement with Toronto-based Biossil, Inc. for the sale of ridinilazole, an investigational Phase III precision antibiotic owned by Summit. Biossil is an artificial intelligence …
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/summit-therapeutics-signs-agreement-to-sell-phase-iii-asset-ridinilazole-to-biossil-inc
+- Date: 2026-07-14
+- Vendors: None
+- Topics: None
+
+Cybersecurity jobs available right now: July 14, 2026 (Score: 4)
+- Summary: Cyber Network Engineer Fiserv | USA | On-site – View job details As a Cyber Network Engineer, you will lead the design, governance, and security review of enterprise network architectures across on-premises and cloud environments. You will provide expertise i…
+- Source: https://www.helpnetsecurity.com/2026/07/14/cybersecurity-jobs-available-right-now-july-14-2026/
+- Date: 2026-07-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence (Score: 4)
+- Summary: Nature Medicine - Author Correction: The STARD-AI reporting guideline for diagnostic accuracy studies using artificial intelligence
+- Source: https://www.nature.com/articles/s41591-026-04570-9
+- Date: 2026-07-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Occupation BV: The Dutch Infrastructure Behind Israel’s War Economy (Score: 2)
+- Summary: Freddie Ponton21st Century Wire In April 2025, a Dutch government official organised a networking event for Israeli investors in Tel Aviv. More than 50,000 Palestinians had been killed in Gaza. The International Criminal Court (ICC) had issued arrest warrants…
+- Source: https://www.activistpost.com/occupation-bv-the-dutch-infrastructure-behind-israels-war-economy/
+- Date: 2026-07-18
+- Vendors: None
+- Topics: None
+
+Machine Identity Debt: Why Human Identity Is No Longer Cloud Security's Primary Boundary (Score: 2)
+- Summary: Cloud-native systems now create far more machine identities than human ones. Security strategies built around workforce identity are no longer sufficient. Here's what engineering leaders should build instead.
+The Breach That Didn't Need a Password
+On August 8…
+- Source: https://dzone.com/articles/machine-identity-debt
+- Date: 2026-07-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Lumen expands managed detection and response with Cortex XSIAM integration (Score: 2)
+- Summary: Lumen Technologies has announced Lumen Defender Advanced Managed Detection and Response (AMDR) for Palo Alto Networks Cortex XSIAM. Attackers are increasingly operating earlier in the lifecycle while AI is accelerating threat speed. This expanded service will…
+- Source: https://www.helpnetsecurity.com/2026/07/13/lumen-defender-amdr/
+- Date: 2026-07-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+All About ePaper and eInk (Score: 0)
+- Summary: Podcast Transcript For centuries, the printed page was one of the most efficient ways to preserve and share information.  In the digital age, engineers sought to reproduce the best qualities of paper without sacrificing many of the benefits of a screen. The r…
+- Source: https://everything-everywhere.com/all-about-epaper-and-eink/
+- Date: 2026-07-18
+- Vendors: None
+- Topics: None
+
+Tata Electronics cyberattack: Mandiant recommendations implemented to prevent future breaches (Score: 0)
+- Summary: On June 23 ransomware group World Leaks posted more than 200,000 files to the dark web, including details on projects related to some of the company’s global clients, which include Apple and Tesla. Three days later, it said that the company had launched a pro…
+- Source: https://economictimes.indiatimes.com/tech/technology/tata-electronics-cyberattack-mandiant-recommendations-implemented-to-prevent-future-breaches/articleshow/132468750.cms
+- Date: 2026-07-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jim Cramer Says There Will Always Be Another DeepSeek — Here Are the 5 Best Cybersecurity Stocks to Own Right Now (Score: 0)
+- Summary: Jim Cramer says AI shocks like DeepSeek are not a one-time event but a permanent feature of the market, and the cybersecurity stocks positioned to profit fro...
+- Source: https://247wallst.com/investing/2026/07/17/jim-cramer-says-there-will-always-be-another-deepseek-here-are-the-5-best-cybersecurity-stocks-to-own-right-now/
+- Date: 2026-07-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What’s up with… Telstra, Verizon, AT&T (Score: 0)
+- Summary: Telstra failed to heed pre-outage warningsVerizon’s restructuring continuesAT&T and Palo Alto offer quantum-safe SASE
+- Source: https://www.telecomtv.com/content/security/what-s-up-with-telstra-verizon-at-t-55903/
+- Date: 2026-07-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+USBridge Remote sfida RustDesk e AnyDesk con accesso remoto e KVM (Score: 0)
+- Summary: USBridge Remote combina agent software e KVM hardware in un unico client e server per l'accesso remoto, con streaming Sunshine, rete Tailscale, firme HMAC, AES-GCM e supporto Wayland.
+- Source: https://www.ilsoftware.it/alternativa-rustdesk-anydesk-usbridge/
+- Date: 2026-07-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Platform 9.5 Provides Agentic AI with Active Context, to Act Effectively and Responsibly (Score: 0)
+- Summary: Latest release strengthens trusted enterprise context for AI, analytics, and data sharing PALO ALTO, Calif., July 16, 2026 (GLOBE NEWSWIRE) — Denodo, the AI data layer company, announced the availability of Denodo Platform 9.5, advancing its role in providing…
+- Source: https://financialpost.com/globe-newswire/denodo-platform-9-5-provides-agentic-ai-with-active-context-to-act-effectively-and-responsibly
+- Date: 2026-07-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+MIRACLE FLIGHTS STRENGTHENS EXECUTIVE LEADERSHIP TEAM TO DRIVE ITS NEXT ERA OF IMPACT AND GROWTH (Score: 0)
+- Summary: Las Vegas, July 16, 2026 (GLOBE NEWSWIRE) -- As Miracle Flights continues to strengthen its executive leadership and build the capacity needed for its next chapter of growth, the organization today announced the appointments of Stephanie Ceccarelli as Chief o…
+- Source: https://www.globenewswire.com/news-release/2026/07/16/3328619/0/en/MIRACLE-FLIGHTS-STRENGTHENS-EXECUTIVE-LEADERSHIP-TEAM-TO-DRIVE-ITS-NEXT-ERA-OF-IMPACT-AND-GROWTH.html
+- Date: 2026-07-16
+- Vendors: None
+- Topics: None
+
+Sensi.AI Brings Care Intelligence to SYNERGY HomeCare Franchisees Nationwide (Score: 0)
+- Summary: Sensi becomes a preferred partner for SYNERGY HomeCare, empowering franchisees nationwide to deliver superior senior care, eliminate burnout, and scale with a unified AI OS platform fueled by Care Intelligence. PALO ALTO, Calif., July 16, 2026 /PRNewswire/ --…
+- Source: https://www.prnewswire.com/news-releases/sensiai-brings-care-intelligence-to-synergy-homecare-franchisees-nationwide-302827144.html
+- Date: 2026-07-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Identity management startup Oak launches with $60M in funding (Score: 0)
+- Summary: Oak Inc., a startup that helps companies prevent unauthorized access to their applications, launched today with $60 million in seed funding.  Accel, Greylock Partners and CRV jointly led the round. They were joined by Hetz Ventures, AlphaDrive Ventures and se…
+- Source: https://siliconangle.com/2026/07/15/identity-management-startup-oak-launches-60m-funding/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development (Score: 0)
+- Summary: Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successf…
+- Source: https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html
+- Date: 2026-07-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+panorama-super-cli 1.12.1 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.12.1/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.12.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.12.0/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+Filmgrab: Films A-Z (Score: 0)
+- Summary: Visit the post for more.
+- Source: https://film-grab.com/movies-a-z/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.9.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.9.0/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days (Score: 0)
+- Summary: Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.
+The post Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/
+- Date: 2026-07-14
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Taking the W (Score: 0)
+- Summary: Developers rush to use California's new apartments-near-transit law, North Carolina eliminates parking requirements, and the federal housing bill finally becomes law.
+- Source: https://reason.com/2026/07/14/taking-the-w/
+- Date: 2026-07-14
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.8.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.8.0/
+- Date: 2026-07-14
+- Vendors: None
+- Topics: None
+
+AI agents are becoming the enterprise's most privileged users. And most organisations don't know it yet (Score: 0)
+- Summary: AI agents are outpacing identity governance.
+- Source: https://www.itnews.com.au/feature/ai-agents-are-becoming-the-enterprises-most-privileged-users-and-most-organisations-dont-know-it-yet-627324
+- Date: 2026-07-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+3 ASX ETFs with strong long-term growth potential (Score: 0)
+- Summary: Looking for long-term growth? These funds could be worth considering.
+The post 3 ASX ETFs with strong long-term growth potential appeared first on The Motley Fool Australia.
+- Source: https://www.fool.com.au/2026/07/14/3-asx-etfs-with-strong-long-term-growth-potential/
+- Date: 2026-07-13
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
