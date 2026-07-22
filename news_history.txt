@@ -65991,3 +65991,181 @@ The post 3 ASX ETFs with strong long-term growth potential appeared first on The
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-07-22 15:18  ---
+
+Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash (Score: 4)
+- Summary: Google LLC today launched three new Gemini Flash models and moved its CodeMender code-security agent into preview, part of a push to run artificial intelligence agents more cheaply and to automate the finding and fixing of software vulnerabilities. The new mo…
+- Source: https://siliconangle.com/2026/07/21/google-expands-gemini-cheaper-models-bug-hunter-keeps-leash/
+- Date: 2026-07-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Siemens RUGGEDCOM APE1808 with Palo Alto Networks Virtual NGFW (Score: 2)
+- Summary: View CSAF
+Summary
+Palo Alto Networks has published [1] information on vulnerabilities in PAN-OS. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds prov…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-02
+- Date: 2026-07-21
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Occupation BV: The Dutch Infrastructure Behind Israel’s War Economy (Score: 2)
+- Summary: Freddie Ponton21st Century Wire In April 2025, a Dutch government official organised a networking event for Israeli investors in Tel Aviv. More than 50,000 Palestinians had been killed in Gaza. The International Criminal Court (ICC) had issued arrest warrants…
+- Source: https://www.activistpost.com/occupation-bv-the-dutch-infrastructure-behind-israels-war-economy/
+- Date: 2026-07-18
+- Vendors: None
+- Topics: None
+
+Denodo Honors Outstanding Customer Implementations Across 10 Key Industry Verticals (Score: 0)
+- Summary: The North America ‘Denodo Circle of Champions’ program announces winning enterprise leaders PALO ALTO, Calif., July 21, 2026 (GLOBE NEWSWIRE) — Denodo, the AI data layer company, announced the winners of the Denodo Circle of Champions program in North America…
+- Source: https://financialpost.com/globe-newswire/denodo-honors-outstanding-customer-implementations-across-10-key-industry-verticals
+- Date: 2026-07-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+2026 Minnesota ORBIE Awards Recognize Minnesota’s Top Technology and Security Executives (Score: 0)
+- Summary: CIOs & CISOs honored for leadership, innovation, and business impact at the Minnesota ORBIE Awards on July 17, 2026, at Marriott Minneapolis City Center....
+- Source: https://www.globenewswire.com/news-release/2026/07/20/3330010/0/en/2026-Minnesota-ORBIE-Awards-Recognize-Minnesota-s-Top-Technology-and-Security-Executives.html
+- Date: 2026-07-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Neo Security bags $100M to build the secure control layer for enterprise AI agents (Score: 0)
+- Summary: Agentic software control startup Neo Security Inc. said today it is exiting a years-long spell in “stealth” mode after raising $100 million in funding. The round was led by top tier venture capitalists in Andreessen Horowitz and Bessemer Venture Partners, and…
+- Source: https://siliconangle.com/2026/07/20/neo-security-bags-100m-build-secure-control-layer-enterprise-ai-agents/
+- Date: 2026-07-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Maruti Suzuki's no-frills cars once ruled India. Then buyers demanded frills as market share drops to near all-time low (Score: 0)
+- Summary: For years, Suzuki reigned supreme in India's automotive landscape, but changing buyer interests are challenging this status. As consumers increasingly favor larger, feature-rich vehicles over mere economical transport, Suzuki's focus on affordability seems ou…
+- Source: https://economictimes.indiatimes.com/industry/auto/cars-uvs/maruti-suzukis-no-frills-cars-once-ruled-india-then-buyers-demanded-frills-as-market-share-drops-to-near-all-time-low/articleshow/132507097.cms
+- Date: 2026-07-20
+- Vendors: None
+- Topics: None
+
+All the EVs that were discontinued or killed off in the U.S. this year | TechCrunch (Score: 0)
+- Summary: Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.
+- Source: https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/
+- Date: 2026-07-18
+- Vendors: None
+- Topics: None
+
+All About ePaper and eInk (Score: 0)
+- Summary: Podcast Transcript For centuries, the printed page was one of the most efficient ways to preserve and share information.  In the digital age, engineers sought to reproduce the best qualities of paper without sacrificing many of the benefits of a screen. The r…
+- Source: https://everything-everywhere.com/all-about-epaper-and-eink/
+- Date: 2026-07-18
+- Vendors: None
+- Topics: None
+
+Tata Electronics cyberattack: Mandiant recommendations implemented to prevent future breaches (Score: 0)
+- Summary: On June 23 ransomware group World Leaks posted more than 200,000 files to the dark web, including details on projects related to some of the company’s global clients, which include Apple and Tesla. Three days later, it said that the company had launched a pro…
+- Source: https://economictimes.indiatimes.com/tech/technology/tata-electronics-cyberattack-mandiant-recommendations-implemented-to-prevent-future-breaches/articleshow/132468750.cms
+- Date: 2026-07-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jim Cramer Says There Will Always Be Another DeepSeek — Here Are the 5 Best Cybersecurity Stocks to Own Right Now (Score: 0)
+- Summary: Jim Cramer says AI shocks like DeepSeek are not a one-time event but a permanent feature of the market, and the cybersecurity stocks positioned to profit fro...
+- Source: https://247wallst.com/investing/2026/07/17/jim-cramer-says-there-will-always-be-another-deepseek-here-are-the-5-best-cybersecurity-stocks-to-own-right-now/
+- Date: 2026-07-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What’s up with… Telstra, Verizon, AT&T (Score: 0)
+- Summary: Telstra failed to heed pre-outage warningsVerizon’s restructuring continuesAT&T and Palo Alto offer quantum-safe SASE
+- Source: https://www.telecomtv.com/content/security/what-s-up-with-telstra-verizon-at-t-55903/
+- Date: 2026-07-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+USBridge Remote sfida RustDesk e AnyDesk con accesso remoto e KVM (Score: 0)
+- Summary: USBridge Remote combina agent software e KVM hardware in un unico client e server per l'accesso remoto, con streaming Sunshine, rete Tailscale, firme HMAC, AES-GCM e supporto Wayland.
+- Source: https://www.ilsoftware.it/alternativa-rustdesk-anydesk-usbridge/
+- Date: 2026-07-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Platform 9.5 Provides Agentic AI with Active Context, to Act Effectively and Responsibly (Score: 0)
+- Summary: Latest release strengthens trusted enterprise context for AI, analytics, and data sharing PALO ALTO, Calif., July 16, 2026 (GLOBE NEWSWIRE) — Denodo, the AI data layer company, announced the availability of Denodo Platform 9.5, advancing its role in providing…
+- Source: https://financialpost.com/globe-newswire/denodo-platform-9-5-provides-agentic-ai-with-active-context-to-act-effectively-and-responsibly
+- Date: 2026-07-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+MIRACLE FLIGHTS STRENGTHENS EXECUTIVE LEADERSHIP TEAM TO DRIVE ITS NEXT ERA OF IMPACT AND GROWTH (Score: 0)
+- Summary: Las Vegas, July 16, 2026 (GLOBE NEWSWIRE) -- As Miracle Flights continues to strengthen its executive leadership and build the capacity needed for its next chapter of growth, the organization today announced the appointments of Stephanie Ceccarelli as Chief o…
+- Source: https://www.globenewswire.com/news-release/2026/07/16/3328619/0/en/MIRACLE-FLIGHTS-STRENGTHENS-EXECUTIVE-LEADERSHIP-TEAM-TO-DRIVE-ITS-NEXT-ERA-OF-IMPACT-AND-GROWTH.html
+- Date: 2026-07-16
+- Vendors: None
+- Topics: None
+
+Sensi.AI Brings Care Intelligence to SYNERGY HomeCare Franchisees Nationwide (Score: 0)
+- Summary: Sensi becomes a preferred partner for SYNERGY HomeCare, empowering franchisees nationwide to deliver superior senior care, eliminate burnout, and scale with a unified AI OS platform fueled by Care Intelligence. PALO ALTO, Calif., July 16, 2026 /PRNewswire/ --…
+- Source: https://www.prnewswire.com/news-releases/sensiai-brings-care-intelligence-to-synergy-homecare-franchisees-nationwide-302827144.html
+- Date: 2026-07-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Identity management startup Oak launches with $60M in funding (Score: 0)
+- Summary: Oak Inc., a startup that helps companies prevent unauthorized access to their applications, launched today with $60 million in seed funding.  Accel, Greylock Partners and CRV jointly led the round. They were joined by Hetz Ventures, AlphaDrive Ventures and se…
+- Source: https://siliconangle.com/2026/07/15/identity-management-startup-oak-launches-60m-funding/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development (Score: 0)
+- Summary: Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successf…
+- Source: https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html
+- Date: 2026-07-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+panorama-super-cli 1.12.1 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.12.1/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.12.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.12.0/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+Filmgrab: Films A-Z (Score: 0)
+- Summary: Visit the post for more.
+- Source: https://film-grab.com/movies-a-z/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+panorama-super-cli 1.9.0 (Score: 0)
+- Summary: Agent-friendly CLI for Palo Alto Panorama object management: find, dedup/merge, rename, and audit address/service objects safely.
+- Source: https://pypi.org/project/panorama-super-cli/1.9.0/
+- Date: 2026-07-15
+- Vendors: None
+- Topics: None
+
+Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days (Score: 0)
+- Summary: Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.
+The post Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/
+- Date: 2026-07-14
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Taking the W (Score: 0)
+- Summary: Developers rush to use California's new apartments-near-transit law, North Carolina eliminates parking requirements, and the federal housing bill finally becomes law.
+- Source: https://reason.com/2026/07/14/taking-the-w/
+- Date: 2026-07-14
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
