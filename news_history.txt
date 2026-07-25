@@ -66542,3 +66542,190 @@ All the EVs that were discontinued or killed off in the U.S. this year | TechCru
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-07-25 14:44  ---
+
+Abstract Security raises $25M Series A extension, recurring revenue up 380% (Score: 4)
+- Summary: Composable security operations startup Abstract Security Inc. today said it has raised a $25 million Series A extension, capital it will put toward widening in-stream threat detection and pushing its artificial intelligence tooling deeper into the security op…
+- Source: https://siliconangle.com/2026/07/23/abstract-security-raises-25m-series-extension-recurring-revenue-380/
+- Date: 2026-07-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AWS turns Security Hub into an AI and multicloud security control plane (Score: 4)
+- Summary: By extending Security Hub to Microsoft Azure and adding artificial intelligence-specific protections, Amazon Web Services Inc. is positioning its security stack as the foundation for securing enterprise AI at scale. Amazon Web Services’ latest Security Hub up…
+- Source: https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/
+- Date: 2026-07-23
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash (Score: 4)
+- Summary: Google LLC today launched three new Gemini Flash models and moved its CodeMender code-security agent into preview, part of a push to run artificial intelligence agents more cheaply and to automate the finding and fixing of software vulnerabilities. The new mo…
+- Source: https://siliconangle.com/2026/07/21/google-expands-gemini-cheaper-models-bug-hunter-keeps-leash/
+- Date: 2026-07-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Detection and Response (NDR) Market worth $7.29 billion by 2031 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., July 24, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Network Detection and Response (NDR) Market is projected to grow from USD 4.34 billion in 2026 to USD 7.29 billion by 2031 at a compound annual growth rate (CAGR) of 10.9% …
+- Source: https://www.prnewswire.co.uk/news-releases/network-detection-and-response-ndr-market-worth-7-29-billion-by-2031---report-by-marketsandmarkets-302833999.html
+- Date: 2026-07-24
+- Vendors: None
+- Topics: None
+
+Network Detection and Response (NDR) Market worth $7.29 billion by 2031 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., July 24, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Network Detection and Response (NDR) Market is projected to grow from USD 4.34 billion in 2026 to USD 7.29 billion by 2031 at a compound annual growth rate (CAGR) of 10.9% …
+- Source: https://www.prnewswire.com/news-releases/network-detection-and-response-ndr-market-worth-7-29-billion-by-2031---report-by-marketsandmarkets-302833997.html
+- Date: 2026-07-24
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks' Q4 2026 Earnings: What to Expect (Score: 2)
+- Summary: Santa Clara, California-based Palo Alto Networks, Inc. (PANW) offers network security solutions to enterprises, service providers and government entities worldwide. The company has a market capitalization of $273.3 billion and offers solutions like Prisma Acc…
+- Source: https://biztoc.com/x/8ed099bf9b127d3c
+- Date: 2026-07-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks' Q4 2026 Earnings: What to Expect (Score: 2)
+- Summary: Palo Alto Networks is expected to announce its fourth-quarter earnings soon, and Wall Street forecasts a double-digit rise in its bottom line.
+- Source: https://www.barchart.com/story/news/3428682/palo-alto-networks-q4-2026-earnings-what-to-expect
+- Date: 2026-07-23
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-os-python 1.13.1 (Score: 2)
+- Summary: Framework for interacting with Palo Alto Networks devices via API
+- Source: https://pypi.org/project/pan-os-python/1.13.1/
+- Date: 2026-07-22
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Less than 8% of OT and ICS Companies Have Robust AI Deployment, According to new Nozomi Networks and BlastWave-Sponsored Takepoint Research (Score: 2)
+- Summary: SAN FRANCISCO and PALO ALTO, Calif., July 22, 2026 /PRNewswire/ -- Nozomi Networks, the leader in operational technology (OT), Internet of Things (IoT) and cyber physical systems (CPS) security and BlastWave, a leader in OT Zero Trust Protection, today releas…
+- Source: https://www.prnewswire.com/news-releases/less-than-8-of-ot-and-ics-companies-have-robust-ai-deployment-according-to-new-nozomi-networks-and-blastwave-sponsored-takepoint-research-302831745.html
+- Date: 2026-07-22
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New InfraTrust report reveals infrastructure flaws admins should patch first (Score: 2)
+- Summary: Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]
+- Source: https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/
+- Date: 2026-07-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks to Extend Leading Observability Platform with Innovative Digital Experience Monitoring (Score: 2)
+- Summary: New RUM and Synthetics capabilities unify infrastructure, application and user experience insights, catching problems before a user does SANTA CLARA, Calif., July 21, 2026 /PRNewswire/ -- Palo Alto Networks® (NASDAQ: PANW), the global cybersecurity leader, to…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-to-extend-leading-observability-platform-with-innovative-digital-experience-monitoring-302831253.html
+- Date: 2026-07-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Qilin Ransomware Affiliates Abuse CVE-2026-0257 to Gain Unauthorized VPN Access (Score: 2)
+- Summary: Qilin ransomware exploits the PAN-OS GlobalProtect flaw CVE-2026-0257 to gain unauthorized VPN access to unpatched networks. Arctic Wolf researchers warn that the Qilin ransomware gang is exploiting the critical PAN-OS GlobalProtect vulnerability CVE-2026-025…
+- Source: https://securityaffairs.com/195730/cyber-crime/qilin-ransomware-affiliates-abuse-cve-2026-0257-to-gain-unauthorized-vpn-access.html
+- Date: 2026-07-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Siemens RUGGEDCOM APE1808 with Palo Alto Networks Virtual NGFW (Score: 2)
+- Summary: View CSAF
+Summary
+Palo Alto Networks has published [1] information on vulnerabilities in PAN-OS. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds prov…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-02
+- Date: 2026-07-21
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Occupation BV: The Dutch Infrastructure Behind Israel’s War Economy (Score: 2)
+- Summary: Freddie Ponton21st Century Wire In April 2025, a Dutch government official organised a networking event for Israeli investors in Tel Aviv. More than 50,000 Palestinians had been killed in Gaza. The International Criminal Court (ICC) had issued arrest warrants…
+- Source: https://www.activistpost.com/occupation-bv-the-dutch-infrastructure-behind-israels-war-economy/
+- Date: 2026-07-18
+- Vendors: None
+- Topics: None
+
+A Post-Quantum Security Company Just Planted a Flag in Southeast Asia, Right as Governments Start Mandating the Switch (Score: 1)
+- Summary: Issued on behalf of Quantum Secure Encryption Corp. (CSE: QSE) (OTCQB: QSEGF) (FSE: VN80) The migration to quantum-resistant encryption has shifted from a research topic to a procurement mandate, and one Canadian company is trying to turn that regulatory wave…
+- Source: https://www.prnewswire.com/news-releases/a-post-quantum-security-company-just-planted-a-flag-in-southeast-asia-right-as-governments-start-mandating-the-switch-302833110.html
+- Date: 2026-07-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Silicon Valley city is quietly becoming Robot Row. Here's who's clanking around. (Score: 0)
+- Summary: A growing number of robotics companies now have a footprint in Fremont, which sits at the intersection of Silicon Valley talent and manufacturing.
+- Source: https://www.businessinsider.com/robot-row-humanoid-hub-location-fremont-silicon-valley-agility-tesla-2026-7#article
+- Date: 2026-07-24
+- Vendors: None
+- Topics: None
+
+Cisco Firewall Migration Manager: A Faster, Simpler, More Confident Path to Secure Firewall (Score: 0)
+- Summary: Firewall Migration Manager delivers fast, enterprise-ready migration to Cisco Secure Firewall Threat Defense. It brings multi-migration management, real-time issue guidance, and a modern experience built for how migration programs actually run. Learn how it t…
+- Source: https://blogs.cisco.com/?p=493636
+- Date: 2026-07-23
+- Vendors: Cisco
+- Topics: None
+
+The Trust Graph: Why Infrastructure Diagrams No Longer Describe Modern Systems (Score: 0)
+- Summary: Traditional architecture diagrams miss the identity relationships that now drive breaches and outages. Platform teams need trust graphs that map who and what can act across modern systems.
+- Source: https://devops.com/the-trust-graph-why-infrastructure-diagrams-no-longer-describe-modern-systems/
+- Date: 2026-07-23
+- Vendors: None
+- Topics: None
+
+Geopolitical interference takes center stage during the World Cup (Score: 0)
+- Summary: The 2026 FIFA World Cup is the largest sporting event ever staged. This makes for an unprecedented attack surface for threat actors.
+- Source: https://www.techradar.com/pro/geopolitical-interference-takes-center-stage-during-the-world-cup
+- Date: 2026-07-23
+- Vendors: None
+- Topics: None
+
+In 1967, a history teacher couldn’t explain how ordinary Germans fell in behind the Nazis, so he showed his class instead, and within five days he had built a movement of two hundred students he could no longer control (Score: 0)
+- Summary: What began as a classroom experiment in empathy spiraled into something Jones couldn't contain—a cautionary tale about how quickly ordinary people embrace authoritarianism when given permission.
+The post In 1967, a history teacher couldn’t explain how ordinar…
+- Source: https://spacedaily.com/k-in-1967-a-history-teacher-couldnt-explain-how-ordinary-germans-fell-in-behind-the-nazis-so-he-showed-his-class-instead-and-within-five-days-he-had-built-a-movement-of-two-hundred-students-he-coul/
+- Date: 2026-07-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Parks Associates and Plume: Competition for Broadband Driven by Service Quality, Protection, and AI vs. Speed (Score: 0)
+- Summary: 62% of smart home device owners find AI-powered cybersecurity monitoring appealing PLANO, Texas and PALO ALTO, Calif., July 22, 2026 /PRNewswire/ -- Ahead of NCTC's The Independent Show, Parks Associates and Plume released research that details the shift in b…
+- Source: https://www.prnewswire.com/news-releases/parks-associates-and-plume-competition-for-broadband-driven-by-service-quality-protection-and-ai-vs-speed-302831835.html
+- Date: 2026-07-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Salt Security Launches in Australia with Local Infrastructure and Dedicated Sales Team (Score: 0)
+- Summary: Salt Security announces its official entry into the Australian market, bringing local AWS-hosted infrastructure and a dedicated in-country team to meet growing enterprise demand for agentic and API security across the Asia-Pacific region. PALO ALTO, Calif. an…
+- Source: https://www.prnewswire.com/news-releases/salt-security-launches-in-australia-with-local-infrastructure-and-dedicated-sales-team-302831395.html
+- Date: 2026-07-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ERGO NEXT Insurance Named One of CNBC’s 2026 World’s Top Fintech Companies (Score: 0)
+- Summary: ERGO NEXT Insurance Named One of CNBC’s 2026 World’s Top Fintech Companies in Insurtech category....
+- Source: https://www.globenewswire.com/news-release/2026/07/22/3331175/0/en/ERGO-NEXT-Insurance-Named-One-of-CNBC-s-2026-World-s-Top-Fintech-Companies.html
+- Date: 2026-07-22
+- Vendors: None
+- Topics: None
+
+Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite (Score: 0)
+- Summary: Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite
+Executive summary 
+A group of Russian state-supported cyber actors has been targeting and compromising various Western government and commercial organ…
+- Source: https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-204a
+- Date: 2026-07-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Denodo Honors Outstanding Customer Implementations Across 10 Key Industry Verticals (Score: 0)
+- Summary: The North America ‘Denodo Circle of Champions’ program announces winning enterprise leaders PALO ALTO, Calif., July 21, 2026 (GLOBE NEWSWIRE) — Denodo, the AI data layer company, announced the winners of the Denodo Circle of Champions program in North America…
+- Source: https://financialpost.com/globe-newswire/denodo-honors-outstanding-customer-implementations-across-10-key-industry-verticals
+- Date: 2026-07-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
