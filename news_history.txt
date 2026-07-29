@@ -67283,3 +67283,187 @@ Cisco Firewall Migration Manager: A Faster, Simpler, More Confident Path to Secu
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-07-29 15:34  ---
+
+NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework (Score: 4)
+- Summary: NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.
+
+The 37-member group spans cloud, security, enterprise softw…
+- Source: https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
+- Date: 2026-07-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Abstract Security raises $25M Series A extension, recurring revenue up 380% (Score: 4)
+- Summary: Composable security operations startup Abstract Security Inc. today said it has raised a $25 million Series A extension, capital it will put toward widening in-stream threat detection and pushing its artificial intelligence tooling deeper into the security op…
+- Source: https://siliconangle.com/2026/07/23/abstract-security-raises-25m-series-extension-recurring-revenue-380/
+- Date: 2026-07-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AWS turns Security Hub into an AI and multicloud security control plane (Score: 4)
+- Summary: By extending Security Hub to Microsoft Azure and adding artificial intelligence-specific protections, Amazon Web Services Inc. is positioning its security stack as the foundation for securing enterprise AI at scale. Amazon Web Services’ latest Security Hub up…
+- Source: https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/
+- Date: 2026-07-23
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+49ers coach speaks out on his drugs past as he steps up to replace Kyle Shanahan after car crash (Score: 3)
+- Summary: Shanahan's longtime ally Chris Foerster, who serves as assistant head coach, will take on a bigger role in training camp with help from new defensive coordinator Raheem Morris.
+- Source: https://www.dailymail.com/sport/nfl/article-16009081/49ers-coach-speaks-drugs-past-steps-replace-Kyle-Shanahan-car-crash.html
+- Date: 2026-07-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Network Detection and Response (NDR) Market worth $7.29 billion by 2031 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., July 24, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Network Detection and Response (NDR) Market is projected to grow from USD 4.34 billion in 2026 to USD 7.29 billion by 2031 at a compound annual growth rate (CAGR) of 10.9% …
+- Source: https://www.prnewswire.com/news-releases/network-detection-and-response-ndr-market-worth-7-29-billion-by-2031---report-by-marketsandmarkets-302833997.html
+- Date: 2026-07-24
+- Vendors: None
+- Topics: None
+
+Network Detection and Response (NDR) Market worth $7.29 billion by 2031 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., July 24, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Network Detection and Response (NDR) Market is projected to grow from USD 4.34 billion in 2026 to USD 7.29 billion by 2031 at a compound annual growth rate (CAGR) of 10.9% …
+- Source: https://www.prnewswire.co.uk/news-releases/network-detection-and-response-ndr-market-worth-7-29-billion-by-2031---report-by-marketsandmarkets-302833999.html
+- Date: 2026-07-24
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks' Q4 2026 Earnings: What to Expect (Score: 2)
+- Summary: Santa Clara, California-based Palo Alto Networks, Inc. (PANW) offers network security solutions to enterprises, service providers and government entities worldwide. The company has a market capitalization of $273.3 billion and offers solutions like Prisma Acc…
+- Source: https://biztoc.com/x/8ed099bf9b127d3c
+- Date: 2026-07-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks' Q4 2026 Earnings: What to Expect (Score: 2)
+- Summary: Palo Alto Networks is expected to announce its fourth-quarter earnings soon, and Wall Street forecasts a double-digit rise in its bottom line.
+- Source: https://www.barchart.com/story/news/3428682/palo-alto-networks-q4-2026-earnings-what-to-expect
+- Date: 2026-07-23
+- Vendors: Palo Alto Networks
+- Topics: None
+
+pan-os-python 1.13.1 (Score: 2)
+- Summary: Framework for interacting with Palo Alto Networks devices via API
+- Source: https://pypi.org/project/pan-os-python/1.13.1/
+- Date: 2026-07-22
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Less than 8% of OT and ICS Companies Have Robust AI Deployment, According to new Nozomi Networks and BlastWave-Sponsored Takepoint Research (Score: 2)
+- Summary: SAN FRANCISCO and PALO ALTO, Calif., July 22, 2026 /PRNewswire/ -- Nozomi Networks, the leader in operational technology (OT), Internet of Things (IoT) and cyber physical systems (CPS) security and BlastWave, a leader in OT Zero Trust Protection, today releas…
+- Source: https://www.prnewswire.com/news-releases/less-than-8-of-ot-and-ics-companies-have-robust-ai-deployment-according-to-new-nozomi-networks-and-blastwave-sponsored-takepoint-research-302831745.html
+- Date: 2026-07-22
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New InfraTrust report reveals infrastructure flaws admins should patch first (Score: 2)
+- Summary: Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]
+- Source: https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/
+- Date: 2026-07-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks to Extend Leading Observability Platform with Innovative Digital Experience Monitoring (Score: 2)
+- Summary: New RUM and Synthetics capabilities unify infrastructure, application and user experience insights, catching problems before a user does SANTA CLARA, Calif., July 21, 2026 /PRNewswire/ -- Palo Alto Networks® (NASDAQ: PANW), the global cybersecurity leader, to…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-to-extend-leading-observability-platform-with-innovative-digital-experience-monitoring-302831253.html
+- Date: 2026-07-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Qilin Ransomware Affiliates Abuse CVE-2026-0257 to Gain Unauthorized VPN Access (Score: 2)
+- Summary: Qilin ransomware exploits the PAN-OS GlobalProtect flaw CVE-2026-0257 to gain unauthorized VPN access to unpatched networks. Arctic Wolf researchers warn that the Qilin ransomware gang is exploiting the critical PAN-OS GlobalProtect vulnerability CVE-2026-025…
+- Source: https://securityaffairs.com/195730/cyber-crime/qilin-ransomware-affiliates-abuse-cve-2026-0257-to-gain-unauthorized-vpn-access.html
+- Date: 2026-07-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+A Post-Quantum Security Company Just Planted a Flag in Southeast Asia, Right as Governments Start Mandating the Switch (Score: 1)
+- Summary: Issued on behalf of Quantum Secure Encryption Corp. (CSE: QSE) (OTCQB: QSEGF) (FSE: VN80) The migration to quantum-resistant encryption has shifted from a research topic to a procurement mandate, and one Canadian company is trying to turn that regulatory wave…
+- Source: https://www.prnewswire.com/news-releases/a-post-quantum-security-company-just-planted-a-flag-in-southeast-asia-right-as-governments-start-mandating-the-switch-302833110.html
+- Date: 2026-07-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What’s up with… Amazon Leo, AT&T, Nvidia (Score: 0)
+- Summary: Amazon Leo plots D2D constellationAT&T to ramp use of quantum computingNvidia forges Open Secure AI Alliance
+- Source: https://www.telecomtv.com/content/access-evolution/what-s-up-with-amazon-leo-at-t-nvidia-55973/
+- Date: 2026-07-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Environmental and biotic drivers of Aedes albopictus spatiotemporal distribution in a subtropical city: A major transit hub on Argentina’s triple border (Score: 0)
+- Summary: Author summary Mosquitoes that transmit diseases are highly sensitive to their surroundings, yet we know little about how they respond to landscapes being rapidly transformed by human activities, especially in border regions where people and pathogens move fr…
+- Source: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013989
+- Date: 2026-07-28
+- Vendors: None
+- Topics: None
+
+Mattermost and Virtru Partner to Deliver Zero Trust Data Protection for National Security and Mission-Critical Operations (Score: 0)
+- Summary: Integration brings Zero Trust Data Format (ZTDF) file protection natively into Mattermost, enabling mission teams to collaborate securely without compromising data security Integration brings Zero Trust Data Format (ZTDF) file protection natively into Matterm…
+- Source: https://www.globenewswire.com/news-release/2026/07/28/3334358/0/en/Mattermost-and-Virtru-Partner-to-Deliver-Zero-Trust-Data-Protection-for-National-Security-and-Mission-Critical-Operations.html
+- Date: 2026-07-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Unified Threat Management Market to Hit $19.7 Bn by 2031 Cloud Deployments Held 57.65% of the Market in 2025, Says Mordor Intelligence (Score: 0)
+- Summary: HYDERABAD, India, July 28, 2026 /PRNewswire/ -- Mordor Intelligence has published a new report on the unified threat management market, providing a comprehensive assessment of market dynamics, technology trends, competitive landscape, and future opportunities…
+- Source: https://www.prnewswire.com/news-releases/unified-threat-management-market-to-hit-19-7-bn-by-2031-cloud-deployments-held-57-65-of-the-market-in-2025--says-mordor-intelligence-302836277.html
+- Date: 2026-07-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chris Simms knew about Kyle Shanahan’s car accident nearly two weeks before it became public (Score: 0)
+- Summary: Chris Simms carried a piece of information about one of his closest friends for the better part of two weeks, watching the news cycle every day without seeing it surface. Simms revealed on Monday’s episode of PFT Live that he’d known about San Francisco 49ers…
+- Source: https://awfulannouncing.com/nfl/chris-simms-knew-kyle-shanahan-car-accident-early.html
+- Date: 2026-07-27
+- Vendors: Cisco
+- Topics: None
+
+AI Security Operations Center (SOC) Market worth $47.07 billion by 2031 - Exclusive Report by MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., July 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the AI Security Operations Center (SOC) Market is projected to grow from USD 18.10 billion in 2026 to USD 47.07 billion by 2031 at a CAGR of 21.1% during the forecast period. B…
+- Source: https://www.prnewswire.com/news-releases/ai-security-operations-center-soc-market-worth-47-07-billion-by-2031--exclusive-report-by-marketsandmarkets-302835029.html
+- Date: 2026-07-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Enterprise Browser Market Forecast to Reach $24.19 Billion by 2035 | SNS Insider (Score: 0)
+- Summary: The U.S. enterprise browser market is expected to reach $7.01 billion by 2035, while Europe is projected to hit $5.93 billion, driven by zero trust security, AI-powered browser protection, GDPR compliance, and growing demand for secure enterprise access acros…
+- Source: https://www.globenewswire.com/news-release/2026/07/27/3333620/0/en/Enterprise-Browser-Market-Forecast-to-Reach-24-19-Billion-by-2035-SNS-Insider.html
+- Date: 2026-07-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+「AIの発展にはアメリカ製オープンモデルが必要不可欠」とする声明をMicrosoftが発表しNVIDIA・OpenAI・Google・AMDなども賛同 (Score: 0)
+- Summary: Microsoftが「AIリーダーシップを確保するためにアメリカ主導でオープンモデルを開発するべき」とする声明を発表しました。Google・OpenAI・NVIDIA・AMDといった大手テクノロジー企業も声明に賛同しています。Open Weights and American AI Leadershiphttps://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/Open-weight models are essentia…
+- Source: https://news.livedoor.com/article/detail/31921477/
+- Date: 2026-07-27
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hardest College Football Schedules for 2026 (Score: 0)
+- Summary: Which programs have the nastiest schedules going into the 2026 college football season? These 26 teams will have to work harder than everyone else to make a playoff push.
+- Source: https://collegefootballnews.com/college-football/hardest-college-football-schedules-2026
+- Date: 2026-07-26
+- Vendors: None
+- Topics: None
+
+How Many AI Tech Companies Does it Take to Write a Threatening Letter? Fifty! (Score: 0)
+- Summary: "You’ve got a nice little healthy AI economy here. It’d be a shame if anything happened to it." That's the gist of Open Weights and American AI Leadership, a don't-mess-with-AI-if-you-know-what's-good-for-you letter crafted and distributed on Friday by fifty …
+- Source: https://slashdot.org/submission/17349310/how-many-ai-tech-companies-does-it-take-to-write-a-threatening-letter-fifty
+- Date: 2026-07-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jim Cramer Says Buy CrowdStrike (CRWD) as AI Agents Go Rogue (Score: 0)
+- Summary: On Wednesday’s episode of Mad Money, Jim Cramer labeled a recent security incident a “watershed moment” for the technology industry, making a case for CrowdS...
+- Source: https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-buy-crowdstrike-064240066.html
+- Date: 2026-07-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
