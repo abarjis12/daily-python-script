@@ -68416,3 +68416,196 @@ CrowdStrike (CRWD) Rides the AI Threat Wave, But Can It Lead the Pack? (Score: 0
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-04 15:43  ---
+
+INE Launches New Palo Alto Prisma SD-WAN Course for Enterprise Network Professionals (Score: 5)
+- Summary: Prisma SD-WAN: From Concepts to Deployment helps network engineers build practical skills for modern branch and distributed network environments Prisma SD-WAN: From Concepts to Deployment helps network engineers build practical skills for modern branch and di…
+- Source: https://www.globenewswire.com/news-release/2026/07/28/3334589/0/en/INE-Launches-New-Palo-Alto-Prisma-SD-WAN-Course-for-Enterprise-Network-Professionals.html
+- Date: 2026-07-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Okta to acquire Permiso Security in reported $200M identity security deal (Score: 4)
+- Summary: Okta Inc. said today it has signed a definitive agreement to acquire Permiso Security Inc., a startup whose software hunts for attackers abusing identities across cloud accounts, software-as-a-service applications and, more recently, artificial intelligence a…
+- Source: https://siliconangle.com/2026/07/30/okta-acquire-permiso-security-reported-200m-identity-security-deal/
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework (Score: 4)
+- Summary: NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.
+
+The 37-member group spans cloud, security, enterprise softw…
+- Source: https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
+- Date: 2026-07-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+o6 Automation open62541 (Score: 3)
+- Summary: View CSAF
+Summary
+Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information, cause a denial of service, or potentially execute arbitrary code.
+The following versions of o6 Automation open62541 are affected:
+<ul…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-08
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+49ers coach speaks out on his drugs past as he steps up to replace Kyle Shanahan after car crash (Score: 3)
+- Summary: Shanahan's longtime ally Chris Foerster, who serves as assistant head coach, will take on a bigger role in training camp with help from new defensive coordinator Raheem Morris.
+- Source: https://www.dailymail.com/sport/nfl/article-16009081/49ers-coach-speaks-drugs-past-steps-replace-Kyle-Shanahan-car-crash.html
+- Date: 2026-07-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks (Score: 2)
+- Summary: This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.
+
+Some of it was clever. Mo…
+- Source: https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html
+- Date: 2026-08-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks to Announce Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results on Tuesday, September 1, 2026 (Score: 2)
+- Summary: SANTA CLARA, Calif., Aug. 3, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW), the global AI cybersecurity leader, announced today that it will release the financial results for its fiscal fourth quarter and fiscal year 2026, ending July 31, 2026, after…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-to-announce-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results-on-tuesday-september-1-2026-302840777.html
+- Date: 2026-08-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+In the 1970s, one engineer created Ethernet, the networking technology that changed how computers connect (Score: 2)
+- Summary: Robert Metcalfe and Dave Boggs developed Ethernet at Xerox PARC in 1973. This technology solved the growing problem of sharing data between computers quickly. Ethernet became the world's most widely used local area network standard. Metcalfe later co-founded …
+- Source: https://economictimes.indiatimes.com/news/international/us/in-the-1970s-one-engineer-created-ethernet-the-networking-technology-that-changed-how-computers-connect/articleshow/132749984.cms
+- Date: 2026-07-30
+- Vendors: None
+- Topics: None
+
+Gilded lives of AI barons: How tech tycoons have become new jet-setting elite from Palm Beach mansions and golf with Trump and private jets (Score: 0)
+- Summary: From golfing with Donald Trump at the Mar-a-Lago Club estate, to lounging on yachts and boarding private jets, AI billionaires are increasingly emerging as the new jet-setting elite.
+- Source: https://www.dailymail.com/news/article-15999525/Gilded-lives-AI-barons-tech-tycoons-new-jet-setting-elite-Palm-Beach-mansions-golf-Trump-private-jets.html
+- Date: 2026-08-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+California's new housing law has Palo Alto buzzing (Score: 0)
+- Summary: City officials didn't expect this flurry.
+- Source: https://www.sfgate.com/local/article/palo-alto-housing-proposals-22368057.php
+- Date: 2026-08-02
+- Vendors: None
+- Topics: None
+
+Maruti Suzuki clocks record monthly production in July at 2,48,845 units (Score: 0)
+- Summary: Maruti Suzuki produced a record 2,48,845 vehicles in July, up 33% year-on-year, driven by strong demand across segments. Despite record output and sales, dealer inventory remained at just 16 days, well below the industry average, with pending bookings of arou…
+- Source: https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-suzuki-clocks-record-monthly-production-in-july-at-248845-units/articleshow/132801286.cms
+- Date: 2026-08-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Robert De Niro's 105-Minute Gritty Crime Thriller Officially Returns To Streaming Today (Score: 0)
+- Summary: Robert De Niro is known for starring in many critically popular crime movies, and an especially gritty one is now available to stream again.
+- Source: https://screenrant.com/robert-de-niro-cop-land-movie-paramount-plus-streaming-release-august-2026/
+- Date: 2026-08-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agents are changing where cybersecurity seed funding lands (Score: 0)
+- Summary: Founders pitching a cybersecurity seed round this summer are joining a line that keeps getting longer. Product Hunt launches hit their highest level since late 2023 last quarter, and the Census Bureau’s count of high-propensity business applications kept clim…
+- Source: https://www.helpnetsecurity.com/2026/07/31/ai-agents-cybersecurity-seed-funding/
+- Date: 2026-07-31
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+‘The 49ers Keep Messing Up’ — Insider Rips Niners for Repeatedly Botching Aftermath of Kyle Shanahan Car Crash (Score: 0)
+- Summary: The San Francisco 49ers had the opportunity to do what was expected at the time: reveal that head coach Kyle Shanahan had been involved in a serious car accident. For whatever reason, they chose to keep the incident under wraps for 11 days before informing th…
+- Source: https://www.profootballnetwork.com/49ers-messing-up-insider-san-francisco-aftermath-kyle-shanahan-car-crash/
+- Date: 2026-07-31
+- Vendors: Cisco
+- Topics: None
+
+‘Why Is This So Top Secret?’ — NFL World Questions Palo Alto PD’s Refusal To Release Bodycam Footage of Kyle Shanahan’s Accident (Score: 0)
+- Summary: The conversation around San Francisco 49ers head coach Kyle Shanahan keeps raising fresh questions. The 46-year-old is recovering from a serious car accident that occurred on July 14, but the biggest talking point has become how long it took for details of th…
+- Source: https://www.profootballnetwork.com/questions-palo-alto-pd-refusal-bodycam-footage-kyle-shanahan-car-accident/?utm_medium=rss&amp;utm_source=nordot
+- Date: 2026-07-31
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Trust Surface: The Missing Complement to Attack Surface (Score: 0)
+- Summary: Organizations don't have an identity crisis. They have a trust accounting crisis. Nobody is keeping the books.
+Security has gone through two eras of defining itself by what it measures. In the 1990s, security meant the firewall: define the perimeter, control …
+- Source: https://dzone.com/articles/trust-surface-attack-surface
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Okta buys AI security startup Permiso; source says for about $200M | TechCrunch (Score: 0)
+- Summary: The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
+- Source: https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Okta buys AI security startup Permiso; source says for about $200M (Score: 0)
+- Summary: The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.
+- Source: https://finance.yahoo.com/technology/ai/articles/okta-buys-ai-security-startup-160942099.html
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Government execs received $200 million in bonuses last year despite missing half of targets: CTF (Score: 0)
+- Summary: Government executives were paid $201.5 million in bonuses in 2025, despite departments meeting just 54 per cent of their targets.
+- Source: https://nationalpost.com/news/canada/government-executives-received-200-million-in-bonuses-2025
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chicago News Station Airs Photoshopped Pic Of Kyle Shanahan’s Head On Mitch McConnell’s Body While Reporting On Accident (Score: 0)
+- Summary: Earlier this month, 49ers head coach Kyle Shanahan suffered a slew of injuries after he was involved in a car crash in California. He landed in the hospital as a result, but contrary to what one news station in Chicago would lead you to believe, he did not po…
+- Source: https://brobible.com/sports/article/wgn-chicago-kyle-shanhan-mitch-mcconell-photoshop/
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Game Your Game, Inc. Announces Direct Listing on Nasdaq - Common Stock to Begin Trading Under the Symbol “GYGY” (Score: 0)
+- Summary: Game Your Game, Inc. Announces Direct Listing on Nasdaq - Common Stock to Begin Trading Under the Symbol “GYGY”...
+- Source: https://www.globenewswire.com/news-release/2026/07/30/3336099/0/en/Game-Your-Game-Inc-Announces-Direct-Listing-on-Nasdaq-Common-Stock-to-Begin-Trading-Under-the-Symbol-GYGY.html
+- Date: 2026-07-30
+- Vendors: None
+- Topics: None
+
+Plume Earns Highest Honor with Three Gold Stevie® Awards for Technology Excellence in AI, Product and Leadership (Score: 0)
+- Summary: Plume Platform recognized as Domain Specific AI Platform of the Year in Telecom and New Product of the Year; CEO Dan Herscovici named Executive of the Year PALO ALTO, Calif., July 30, 2026 /PRNewswire/ -- Plume Design, Inc. ("Plume"), the global technology pl…
+- Source: https://www.prnewswire.com/news-releases/plume-earns-highest-honor-with-three-gold-stevie-awards-for-technology-excellence-in-ai-product-and-leadership-302838447.html
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+panhygiene added to PyPI (Score: 0)
+- Summary: Offline hygiene checker for Palo Alto Panorama and PAN-OS configs: unused objects, duplicates, shadowed rules. Your config never leaves your machine.
+- Source: https://pypi.org/project/panhygiene/
+- Date: 2026-07-30
+- Vendors: None
+- Topics: None
+
+The Startup Using AI To Make Hearing Aids Better (Score: 0)
+- Summary: In this week’s edition of InnovationRx, we look at Fortell’s efforts to make a better hearing aid, Abby Care’s business getting payment for caregivers, J&J’s $5.5 billion talc settlement, Scribe Therapeutics’ IPO, and more.
+- Source: https://www.forbes.com/sites/innovationrx/2026/07/29/the-startup-using-ai-to-make-hearing-aids-better/
+- Date: 2026-07-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mythos Asks the Right Question. It Doesn't Answer It. (Score: 0)
+- Summary: AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.
+
+The conversation happening in security circles right now goes something li…
+- Source: https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html
+- Date: 2026-07-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
