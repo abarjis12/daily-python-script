@@ -68989,3 +68989,189 @@ AI agents are changing where cybersecurity seed funding lands (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-07 14:29  ---
+
+Open Secure AI Alliance proposes SAFE guidelines as membership tops 120 (Score: 4)
+- Summary: The Open Secure AI Alliance today proposed a set of guidelines for reporting cybersecurity incidents involving artificial intelligence agents, one week after the group was formed. The proposal is called Shared AI Findings Exchange, or SAFE, and was published …
+- Source: https://siliconangle.com/2026/08/04/open-secure-ai-alliance-proposes-safe-guidelines-membership-tops-120/
+- Date: 2026-08-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Okta to acquire Permiso Security in reported $200M identity security deal (Score: 4)
+- Summary: Okta Inc. said today it has signed a definitive agreement to acquire Permiso Security Inc., a startup whose software hunts for attackers abusing identities across cloud accounts, software-as-a-service applications and, more recently, artificial intelligence a…
+- Source: https://siliconangle.com/2026/07/30/okta-acquire-permiso-security-reported-200m-identity-security-deal/
+- Date: 2026-07-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+‘Did the Electrical Substation Write This?’ — 49ers Fans Poke Holes in Kyle Shanahan’s Assistant’s Training Camp Update (Score: 3)
+- Summary: The San Francisco 49ers continue working through training camp, but the mood around the organization remains far from ideal. Head coach Kyle Shanahan is still recovering after his July 14 car crash in Palo Alto, and the Niners are also dealing with an ongoing…
+- Source: https://www.profootballnetwork.com/electrical-substation-49ers-fans-poke-holes-kyle-shanahan-assistant-update/?utm_medium=rss&amp;utm_source=nordot
+- Date: 2026-08-06
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+China launches cybersecurity review into Palo Alto Networks products (Score: 2)
+- Summary: China initiated a cybersecurity review of Palo Alto Networks products.  The regulator cited critical information infrastructure and national security risks.  This action follows increased scrutiny of foreign technology suppliers by Beijing.  It also occurs am…
+- Source: https://economictimes.indiatimes.com/tech/technology/china-launches-cybersecurity-review-into-palo-alto-networks-products/articleshow/133001162.cms
+- Date: 2026-08-06
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto’s NOVA finds 14,090 flaws as PAN-OS 12.2 closes patch window (Score: 2)
+- Summary: Palo Alto Networks says its NOVA AI engine found 14,090 previously unreported vulnerabilities across 3,915 open-source projects in about two months. At Black Hat, the company paired those findings with PAN-OS 12.2 Ceres, which provides network-level virtual p…
+- Source: https://4sysops.com/archives/palo-altos-nova-finds-14090-flaws-as-pan-os-12-2-closes-patch-window/
+- Date: 2026-08-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Alpha School Expands to 27 New Communities Nationwide With Campuses Opening This Fall (Score: 2)
+- Summary: Enrollment Now Open for Founding Families as Demand for AI-Powered, Mastery-Based Learning Continues to Grow Nationwide AUSTIN, Texas, Aug. 5, 2026 /PRNewswire/ -- Alpha School, a national network of private K-12 schools built around personalized, mastery-bas…
+- Source: https://www.prnewswire.com/news-releases/alpha-school-expands-to-27-new-communities-nationwide-with-campuses-opening-this-fall-302843874.html
+- Date: 2026-08-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts (Score: 2)
+- Summary: Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation.
+The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/
+- Date: 2026-08-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks (Score: 2)
+- Summary: This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.
+
+Some of it was clever. Mo…
+- Source: https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html
+- Date: 2026-08-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks to Announce Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results on Tuesday, September 1, 2026 (Score: 2)
+- Summary: SANTA CLARA, Calif., Aug. 3, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW), the global AI cybersecurity leader, announced today that it will release the financial results for its fiscal fourth quarter and fiscal year 2026, ending July 31, 2026, after…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-to-announce-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results-on-tuesday-september-1-2026-302840777.html
+- Date: 2026-08-03
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+In the 1970s, one engineer created Ethernet, the networking technology that changed how computers connect (Score: 2)
+- Summary: Robert Metcalfe and Dave Boggs developed Ethernet at Xerox PARC in 1973. This technology solved the growing problem of sharing data between computers quickly. Ethernet became the world's most widely used local area network standard. Metcalfe later co-founded …
+- Source: https://economictimes.indiatimes.com/news/international/us/in-the-1970s-one-engineer-created-ethernet-the-networking-technology-that-changed-how-computers-connect/articleshow/132749984.cms
+- Date: 2026-07-30
+- Vendors: None
+- Topics: None
+
+The Download: Google’s AI shake-up and Meta’s rogue model (Score: 0)
+- Summary: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, dela…
+- Source: https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/
+- Date: 2026-08-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Alto Ingredients Q2 Earnings Call Highlights (Score: 0)
+- Summary: Alto Ingredients (NASDAQ:ALTO) reported a fourth consecutive quarter of positive gross profit, operating income, net income and adjusted EBITDA in the second...
+- Source: https://www.marketbeat.com/instant-alerts/alto-ingredients-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-08-05
+- Vendors: None
+- Topics: None
+
+5 Best AI Detection & Response Platforms for 2026 (Score: 0)
+- Summary: Compare AI detection & response platforms for 2026, including Dash, Lakera, Operant AI, HiddenLayer and Prisma AIRS, for runtime threat protection and response.
+- Source: https://hackread.com/best-ai-detection-response-platforms-2026/
+- Date: 2026-08-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Lumen Technologies, Inc. Q2 2026 Earnings Call Summary (Score: 0)
+- Summary: Moby summary of Lumen Technologies, Inc.'s Q2 2026 earnings call
+- Source: https://app.moby.co/home/research/tools/earningsCalendar/earnings-lumen-technologies-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss
+- Date: 2026-08-05
+- Vendors: None
+- Topics: None
+
+Plume Names Rebecca Stone Chief Customer and Marketing Officer, Creating a Dedicated C-Suite Voice for Global ISP Customer Success (Score: 0)
+- Summary: Expanded role reflects Plume's commitment to 450+ ISP customers with dedicated executive champion across entire customer lifecycle, from brand awareness and onboarding through adoption, retention and expansion PALO ALTO, Calif., Aug. 5, 2026 /PRNewswire/ -- P…
+- Source: https://www.prnewswire.com/news-releases/plume-names-rebecca-stone-chief-customer-and-marketing-officer-creating-a-dedicated-c-suite-voice-for-global-isp-customer-success-302843181.html
+- Date: 2026-08-05
+- Vendors: None
+- Topics: None
+
+Zacatecas: Between Extortion and a Drug-Run Government (Score: 0)
+- Summary: “Sol Prendido” for Borderland Beat  The administration of David Monreal Ávila in the state of Zacatecas, which began in September 2021, has ...
+- Source: https://www.borderlandbeat.com/2026/08/zacatecas-between-extortion-and-drug.html
+- Date: 2026-08-05
+- Vendors: None
+- Topics: None
+
+Nvidia bets on Sarvam AI; Sidbi eases fund rules for VCs (Score: 0)
+- Summary: Happy Wednesday! Sarvam’s Pratyush Kumar has confirmed adding Nvidia to the AI startup’s captable. This and more in today’s ETtech Morning Dispatch.
+- Source: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/nvidia-bets-on-sarvam-ai-sidbi-eases-fund-rules-for-vcs/articleshow/132883992.cms
+- Date: 2026-08-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Operational Technology (OT) Security Market Surges to $58.94 billion at a CAGR 16.6% by 2031 | Report by MarketsandMarkets™ (Score: 0)
+- Summary: Delray Beach, FL, Aug. 04, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global Operational Technology (OT) Security Market is projected to grow from USD 27.39 billion in 2026 to USD 58.94 billion by 2031, at a CAGR of 16.6% during the forecas…
+- Source: https://www.globenewswire.com/news-release/2026/08/04/3338527/0/en/Operational-Technology-OT-Security-Market-Surges-to-58-94-billion-at-a-CAGR-16-6-by-2031-Report-by-MarketsandMarkets.html
+- Date: 2026-08-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Xage Security Delivers Critical Asset Protection, Providing Comprehensive Asset Defense as AI-enabled Threats Grow Exponentially (Score: 0)
+- Summary: Proven Zero Trust controls now shield applications, cloud services, enterprise AI agents and other digital assets from AI-driven cyber attack Key Takeaways Threat actors are using AI to discover and exploit software vulnerabilities at a greater scale and fast…
+- Source: https://financialpost.com/globe-newswire/xage-security-delivers-critical-asset-protection-providing-comprehensive-asset-defense-as-ai-enabled-threats-grow-exponentially
+- Date: 2026-08-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chan-Zuckerberg Abandon Model School They Founded and Funded (Score: 0)
+- Summary: This is a very sad story. Mark Zuckerberg is a billionaire. His wife Priscilla Chan is a pediatrician. Ten years ago, they founded and funded a school that was designed to be different. They sought out children who were impoverished. Their school offered wrap…
+- Source: https://dianeravitch.net/2026/08/04/chan-zuckerberg-abandon-model-school-they-funded/
+- Date: 2026-08-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Obsidian Raises $85 Million Series D to Scale AI Agent Security Growth (Score: 0)
+- Summary: Company Achieves Unicorn Status with Global Enterprise Adoption of Obsidian’s AI Security Platform Accelerating Company valued at $1.1B with world’s largest and most complex enterprises deploying agents with Obsidian’s AI security platform Trusted by 60 of th…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/obsidian-raises-85-million-series-d-to-scale-ai-agent-security-growth
+- Date: 2026-08-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+I videogiochi vanno in vacanza, le carte da gioco no. Quali sono i giochi di carte più popolari dell’estate? (Score: 0)
+- Summary: var divElement = document.getElementById('viz1785507855406'); var vizElement = divElement.getElementsByTagName('object'); if ( divElement.offsetWidth 800 ) { vizElement.style.width='650px';vizElement.style.height='839px';} else if ( divElement.offsetWidth 500…
+- Source: https://www.infodata.ilsole24ore.com/2026/08/04/i-videogiochi-vanno-in-vacanza-le-carte-da-gioco-no-quali-sono-i-giochi-di-carte-piu-popolari-dellestate/
+- Date: 2026-08-04
+- Vendors: None
+- Topics: None
+
+IBM and Red Hat Offer Lightwell at No Charge to Universities, NGOs and Think Tanks (Score: 0)
+- Summary: IBM (NYSE: IBM) and Red Hat today announced a new program providing Lightwell at no charge to over 185 leading research universities and 100 major nongovernmental organizations (NGOs) and think tanks. Eligible institutions can access Lightwell’s library of va…
+- Source: https://www.redhat.com/en/about/press-releases/ibm-and-red-hat-offer-lightwell-no-charge-universities-ngos-and-think-tanks
+- Date: 2026-08-04
+- Vendors: IBM
+- Topics: None
+
+Armadin and TENEX.ai Run the Largest Controlled Live AI Cyberattack on Record (Score: 0)
+- Summary: A joint engagement at a globally critical institution demonstrates continuous, machine-speed attack and response, the standard most organizations have not built and the one Armadin and TENEX.ai already run every day. PALO ALTO, Calif., Aug. 3, 2026 /PRNewswir…
+- Source: https://www.prnewswire.com/news-releases/armadin-and-tenexai-run-the-largest-controlled-live-ai-cyberattack-on-record-302841653.html
+- Date: 2026-08-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada’s rail renaissance: How hybrid locomotives and high-speed rail are reshaping the transportation future (Score: 0)
+- Summary: Future generations may look back on the mid-2020s as the moment Canada decided to reinvest in rail, not simply as a legacy transportation system, but as a cornerstone of a cleaner, more connected, and technologically sophisticated economy.
+The post Canada’s r…
+- Source: https://www.digitaljournal.com/article/canadas-rail-renaissance-how-hybrid-locomotives-and-high-speed-rail-are-reshaping-the-transportation-future/
+- Date: 2026-08-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
