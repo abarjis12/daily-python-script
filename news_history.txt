@@ -69746,3 +69746,189 @@ A research firm shares its top cybersecurity stock picks with agentic AI threats
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-11 14:34  ---
+
+Artificial Intelligence in Cybersecurity Market to Reach $275.02 Billion by 2035 | SNS Insider (Score: 4)
+- Summary: The U.S. artificial intelligence in cybersecurity market is projected to reach $79.73 billion by 2035, while Europe is expected to hit $73.82 billion, driven by sophisticated cyber threats, cloud adoption, automated threat detection, AI-powered incident respo…
+- Source: https://www.globenewswire.com/news-release/2026/08/07/3341134/0/en/artificial-intelligence-in-cybersecurity-market-to-reach-275-02-billion-by-2035-sns-insider.html
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U Mobile launches EIP Hub to drive 5G-Advanced and AI adoption for Malaysian enterprises (Score: 4)
+- Summary: U Mobile has officially launched its Enterprise Innovation Platform (EIP) Hub, a dedicated collaborative facility aimed at accelerating the adoption of 5G-Advanced (5G-A) and artificial intelligence among local businesses. Officiated by Communications Ministe…
+- Source: https://soyacincau.com/2026/08/07/u-mobile-launches-eip-hub-to-drive-5g-advanced-and-ai-adoption-for-malaysian-enterprises/
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Naïve bags $28.5M in funding to automate the creation and day-to-day running of almost any business (Score: 4)
+- Summary: Palo Alto-based Naïve Inc., an artificial intelligence lab that’s developing autonomous agents capable of setting up and running entire businesses, said today it has closed on a $28.5 million Series A round of funding. Nexus Venture Partners led the round, wh…
+- Source: https://siliconangle.com/2026/08/06/naive-bags-28-5m-funding-automate-creation-day-day-running-almost-business/
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Open Secure AI Alliance proposes SAFE guidelines as membership tops 120 (Score: 4)
+- Summary: The Open Secure AI Alliance today proposed a set of guidelines for reporting cybersecurity incidents involving artificial intelligence agents, one week after the group was formed. The proposal is called Shared AI Findings Exchange, or SAFE, and was published …
+- Source: https://siliconangle.com/2026/08/04/open-secure-ai-alliance-proposes-safe-guidelines-membership-tops-120/
+- Date: 2026-08-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The On-Chain AI Skill Economy · The Standard Layer (Score: 3)
+- Summary: Skills Are Becoming Assets. Assets Need Titles.    FinChip Files ERC-8338, the Ownership Standard for the On-Chain AI Skill Economy    PALO ALTO, Calif.,...
+- Source: https://www.globenewswire.com/news-release/2026/08/10/3341522/0/en/the-on-chain-ai-skill-economy-the-standard-layer.html
+- Date: 2026-08-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+‘Did the Electrical Substation Write This?’ — 49ers Fans Poke Holes in Kyle Shanahan’s Assistant’s Training Camp Update (Score: 3)
+- Summary: The San Francisco 49ers continue working through training camp, but the mood around the organization remains far from ideal. Head coach Kyle Shanahan is still recovering after his July 14 car crash in Palo Alto, and the Niners are also dealing with an ongoing…
+- Source: https://www.profootballnetwork.com/electrical-substation-49ers-fans-poke-holes-kyle-shanahan-assistant-update/?utm_medium=rss&amp;utm_source=nordot
+- Date: 2026-08-06
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+8/12/26: Startup Pitch & Themed Networking Palo Alto | Unlock Your Idea - $12.60 (Score: 2)
+- Summary: Join us in Palo Alto for a high-energy AI and Tech Networking evening hosted by Ascent Valley.
+Meet investors, founders, AI experts, operators, and entrepreneurs building the next generation of global companies. Share your project, connect with capital, and e…
+- Source: https://sf.funcheap.com/startup-pitch-themed-networking-palo-alto-unlock-idea/
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Are Wall Street Analysts Predicting Palo Alto Networks Stock Will Climb or Sink? (Score: 2)
+- Summary: With a market cap of around $293 billion, Santa Clara, California-based Palo Alto Networks, Inc. (PANW) is a global leader in AI-powered cybersecurity, offering a comprehensive portfolio of solutions across network, cloud, security operations, AI, and identit…
+- Source: https://biztoc.com/x/22506aee8426a578
+- Date: 2026-08-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Are Wall Street Analysts Predicting Palo Alto Networks Stock Will Climb or Sink? (Score: 2)
+- Summary: As Palo Alto Networks has outperformed relative to the broader market over the past year, Wall Street analysts remain bullish about the stock’s prospects.
+- Source: https://www.barchart.com/story/news/3724768/are-wall-street-analysts-predicting-palo-alto-networks-stock-will-climb-or-sink
+- Date: 2026-08-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare shares jump after forecast raise on AI-driven demand (Score: 2)
+- Summary: Aug 7 : Cloudflare shares rose before the bell on Friday after the cloud services firm raised its annual forecasts, betting that resilient AI-driven demand will sustain traffic across its network.Quarterly results of Cloudflare, whose shares were last up 16.2…
+- Source: https://www.channelnewsasia.com/business/cloudflare-shares-jump-after-forecast-raise-ai-driven-demand-6306101
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories (Score: 2)
+- Summary: Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.
+
+This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructio…
+- Source: https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html
+- Date: 2026-08-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+D-Wave Quantum Just Got a 240x Boost From AT&T. How to Play QBTS From Here. (Score: 2)
+- Summary: D-Wave’s 240x faster network optimization result with AT&T could strengthen the case for broader commercial adoption.
+- Source: https://www.barchart.com/story/news/3695181/d-wave-quantum-just-got-a-240x-boost-from-at-t-how-to-play-qbts-from-here
+- Date: 2026-08-06
+- Vendors: None
+- Topics: None
+
+China launches cybersecurity review into Palo Alto Networks products (Score: 2)
+- Summary: China initiated a cybersecurity review of Palo Alto Networks products.  The regulator cited critical information infrastructure and national security risks.  This action follows increased scrutiny of foreign technology suppliers by Beijing.  It also occurs am…
+- Source: https://economictimes.indiatimes.com/tech/technology/china-launches-cybersecurity-review-into-palo-alto-networks-products/articleshow/133001162.cms
+- Date: 2026-08-06
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto’s NOVA finds 14,090 flaws as PAN-OS 12.2 closes patch window (Score: 2)
+- Summary: Palo Alto Networks says its NOVA AI engine found 14,090 previously unreported vulnerabilities across 3,915 open-source projects in about two months. At Black Hat, the company paired those findings with PAN-OS 12.2 Ceres, which provides network-level virtual p…
+- Source: https://4sysops.com/archives/palo-altos-nova-finds-14090-flaws-as-pan-os-12-2-closes-patch-window/
+- Date: 2026-08-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Alpha School Expands to 27 New Communities Nationwide With Campuses Opening This Fall (Score: 2)
+- Summary: Enrollment Now Open for Founding Families as Demand for AI-Powered, Mastery-Based Learning Continues to Grow Nationwide AUSTIN, Texas, Aug. 5, 2026 /PRNewswire/ -- Alpha School, a national network of private K-12 schools built around personalized, mastery-bas…
+- Source: https://www.prnewswire.com/news-releases/alpha-school-expands-to-27-new-communities-nationwide-with-campuses-opening-this-fall-302843874.html
+- Date: 2026-08-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts (Score: 2)
+- Summary: Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation.
+The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/
+- Date: 2026-08-05
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Major Depressive Disorder Market is Predicted to Grow During the Forecast Period (2026-2036) as Novel Antidepressants are Expected to Enter the Market | DelveInsight (Score: 0)
+- Summary: The major depressive disorder market is experiencing a significant transformation as rapid-acting therapies with novel mechanisms of action complement conventional SSRIs and SNRIs. Recent treatment approvals have broadened therapeutic choices for patients wit…
+- Source: https://www.prnewswire.com/news-releases/major-depressive-disorder-market-is-predicted-to-grow-during-the-forecast-period-20262036-as-novel-antidepressants-are-expected-to-enter-the-market--delveinsight-302846903.html
+- Date: 2026-08-10
+- Vendors: None
+- Topics: None
+
+Major Depressive Disorder Market is Predicted to Grow During the Forecast Period (2026-2036) as Novel Antidepressants are Expected to Enter the Market | DelveInsight (Score: 0)
+- Summary: The major depressive disorder market is experiencing a significant transformation as rapid-acting therapies with novel mechanisms of action complement conventional SSRIs and SNRIs. Recent treatment approvals have broadened therapeutic choices for patients wit…
+- Source: https://www.prnewswire.co.uk/news-releases/major-depressive-disorder-market-is-predicted-to-grow-during-the-forecast-period-20262036-as-novel-antidepressants-are-expected-to-enter-the-market--delveinsight-302846913.html
+- Date: 2026-08-10
+- Vendors: None
+- Topics: None
+
+Language, Landscapes and Robot Minds with Annalee Newitz (Score: 0)
+- Summary: AI embodiment, boom and bust in San Francisco, and anthropomorphizing technology with Annalee Newitz
+- Source: https://www.kqed.org/news/12094288/language-landscapes-and-robot-minds-with-annalee-newitz
+- Date: 2026-08-10
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Dear Palo Alto Stock Fans, Mark Your Calendars for September 1 (Score: 0)
+- Summary: Palo Alto is nearing its latest earnings release, backed by strong execution and AI security tailwinds.
+- Source: https://www.barchart.com/story/news/3744668/dear-palo-alto-stock-fans-mark-your-calendars-for-september-1
+- Date: 2026-08-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Security Affairs newsletter Round 589 by Pierluigi Paganini – INTERNATIONAL EDITION (Score: 0)
+- Summary: A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. Palo Alto Ne…
+- Source: https://securityaffairs.com/196911/security/security-affairs-newsletter-round-589-by-pierluigi-paganini-international-edition.html
+- Date: 2026-08-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Quali sono i giochi di carte più popolari dell’estate? (Score: 0)
+- Summary: var divElement = document.getElementById('viz1785507855406'); var vizElement = divElement.getElementsByTagName('object'); if ( divElement.offsetWidth 800 ) { vizElement.style.width='650px';vizElement.style.height='839px';} else if ( divElement.offsetWidth 500…
+- Source: https://www.infodata.ilsole24ore.com/2026/08/09/quali-sono-i-giochi-di-carte-piu-popolari-dellestate/
+- Date: 2026-08-09
+- Vendors: None
+- Topics: None
+
+Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Mapping the malware blast radius a single alert won’t show you In this interview with Help Net Security, Mike Wiacek, founder and CTO of Stairwell, explains Back…
+- Source: https://www.helpnetsecurity.com/2026/08/09/week-in-review-cisco-fixes-imc-bug-patch-tuesday-forecast-black-hat-usa-2026/
+- Date: 2026-08-09
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Architecture of Failure: Why DEF CON 34 Shattered the AI Agent Security Narrative (Score: 0)
+- Summary: The week in Las Vegas began with a defensive wall of corporate security products at Black Hat and ended with the systematic dismantling of the AI agent runtime stack at DEF CON 34. As we detailed in our BH Day 1 Briefings, the industry has been racing to depl…
+- Source: https://forkast.news/the-architecture-of-failure-why-def-con-34-shattered-the-ai-agent-security-narrative/
+- Date: 2026-08-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Stanford Cuts Ties With Flock Safety, Shifts to New Surveillance Vendor (Score: 0)
+- Summary: The university joins a growing list of Bay Area jurisdictions rethinking the reach of data collection.
+- Source: https://www.kqed.org/news/12094101/stanford-cuts-ties-with-flock-safety-shifts-to-new-surveillance-vendor
+- Date: 2026-08-07
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
