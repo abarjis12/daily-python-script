@@ -70314,3 +70314,194 @@ Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsin
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-14 14:28  ---
+
+Palo Alto Networks to run OpenAI cyber models inside customer networks (Score: 6)
+- Summary: Palo Alto Networks Inc. said today its Unit 42 consulting arm will put OpenAI Group PBC’s frontier cyber models to work inside customer environments, expanding a service it launched earlier this year to find the attack paths that artificial intelligence-equip…
+- Source: https://siliconangle.com/2026/08/12/palo-alto-networks-run-openai-cyber-models-inside-customer-networks/
+- Date: 2026-08-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Banking’s Next AI Risk Is Cyber Autonomy (Score: 4)
+- Summary: Artificial intelligence (AI) is no longer just helping cybersecurity teams find suspicious activity. It is starting to find vulnerabilities, test attack paths and, in some cases, act in ways that stretch the limits of the systems built to contain it. A clear …
+- Source: https://www.pymnts.com/cybersecurity/2026/bankings-next-ai-risk-is-cyber-autonomy/
+- Date: 2026-08-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Artificial Intelligence in Cybersecurity Market to Reach $275.02 Billion by 2035 | SNS Insider (Score: 4)
+- Summary: The U.S. artificial intelligence in cybersecurity market is projected to reach $79.73 billion by 2035, while Europe is expected to hit $73.82 billion, driven by sophisticated cyber threats, cloud adoption, automated threat detection, AI-powered incident respo…
+- Source: https://www.globenewswire.com/news-release/2026/08/07/3341134/0/en/artificial-intelligence-in-cybersecurity-market-to-reach-275-02-billion-by-2035-sns-insider.html
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U Mobile launches EIP Hub to drive 5G-Advanced and AI adoption for Malaysian enterprises (Score: 4)
+- Summary: U Mobile has officially launched its Enterprise Innovation Platform (EIP) Hub, a dedicated collaborative facility aimed at accelerating the adoption of 5G-Advanced (5G-A) and artificial intelligence among local businesses. Officiated by Communications Ministe…
+- Source: https://soyacincau.com/2026/08/07/u-mobile-launches-eip-hub-to-drive-5g-advanced-and-ai-adoption-for-malaysian-enterprises/
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Naïve bags $28.5M in funding to automate the creation and day-to-day running of almost any business (Score: 4)
+- Summary: Palo Alto-based Naïve Inc., an artificial intelligence lab that’s developing autonomous agents capable of setting up and running entire businesses, said today it has closed on a $28.5 million Series A round of funding. Nexus Venture Partners led the round, wh…
+- Source: https://siliconangle.com/2026/08/06/naive-bags-28-5m-funding-automate-creation-day-day-running-almost-business/
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The On-Chain AI Skill Economy · The Standard Layer (Score: 3)
+- Summary: Skills Are Becoming Assets. Assets Need Titles.    FinChip Files ERC-8338, the Ownership Standard for the On-Chain AI Skill Economy    PALO ALTO, Calif.,...
+- Source: https://www.globenewswire.com/news-release/2026/08/10/3341522/0/en/the-on-chain-ai-skill-economy-the-standard-layer.html
+- Date: 2026-08-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto puts OpenAI’s GPT-5.6-Cyber to work inside customer networks (Score: 2)
+- Summary: Palo Alto Networks is bringing OpenAI’s advanced cyber models into customer environments, where Unit 42 can test real attack paths rather than merely list vulnerabilities; 36% of early findings had no matching CVE. OpenAI’s earlier Daybreak launch introduced …
+- Source: https://4sysops.com/archives/palo-alto-puts-openais-gpt-5-6-cyber-to-work-inside-customer-networks/
+- Date: 2026-08-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Behind the scenes at Black Hat's network operations center (Score: 2)
+- Summary: Step inside Black Hat's guarded NOC, where nearly unlimited threats meet unlimited resources, and security experts battle hackers, deploy custom AI agents and mitigate attacks.
+- Source: https://www.techtarget.com/cybersecurity/news/366649216/Behind-the-scenes-at-Black-Hats-network-operations-center
+- Date: 2026-08-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Kimwolf v7 Hides DDoS Traffic Behind Chrome Fingerprints and Ethereum (Score: 2)
+- Summary: Kimwolf v7: The Android TV Botnet That Now Hides Its Traffic Behind Chrome Fingerprints and Ethereum Palo Alto Networks Unit 42 discovered Kimwolf v7 on February 3, 2026, while hunting threats following public disclosures of the botnet’s earlier activity. The…
+- Source: https://securityaffairs.com/197070/malware/kimwolf-v7-hides-ddos-traffic-behind-chrome-fingerprints-and-ethereum.html
+- Date: 2026-08-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled the Stock (Score: 2)
+- Summary: Palo Alto Networks is now a ~$265B market cap company. The stock is up roughly 100% over the past twelve months and hit an all-time high of $368.80 in July. What makes it interesting isn’t the run. It’s how they got it. They spent about $29B on acquisitions i…
+- Source: https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/
+- Date: 2026-08-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks (Score: 2)
+- Summary: Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.
+
+Targets of these attacks include healthcare and public health, financial se…
+- Source: https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html
+- Date: 2026-08-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mysten unveils Tessera, a confidential B2B settlement network built on Sui (Score: 2)
+- Summary: Tessera's launch could redefine enterprise payment privacy, challenging traditional systems by merging blockchain efficiency with compliance.
+The post Mysten unveils Tessera, a confidential B2B settlement network built on Sui appeared first on Crypto Briefing.
+- Source: https://cryptobriefing.com/mysten-tessera-confidential-b2b-settlement/
+- Date: 2026-08-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+8/12/26: Startup Pitch & Themed Networking Palo Alto | Unlock Your Idea - $12.60 (Score: 2)
+- Summary: Join us in Palo Alto for a high-energy AI and Tech Networking evening hosted by Ascent Valley.
+Meet investors, founders, AI experts, operators, and entrepreneurs building the next generation of global companies. Share your project, connect with capital, and e…
+- Source: https://sf.funcheap.com/startup-pitch-themed-networking-palo-alto-unlock-idea/
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Are Wall Street Analysts Predicting Palo Alto Networks Stock Will Climb or Sink? (Score: 2)
+- Summary: With a market cap of around $293 billion, Santa Clara, California-based Palo Alto Networks, Inc. (PANW) is a global leader in AI-powered cybersecurity, offering a comprehensive portfolio of solutions across network, cloud, security operations, AI, and identit…
+- Source: https://biztoc.com/x/22506aee8426a578
+- Date: 2026-08-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Are Wall Street Analysts Predicting Palo Alto Networks Stock Will Climb or Sink? (Score: 2)
+- Summary: As Palo Alto Networks has outperformed relative to the broader market over the past year, Wall Street analysts remain bullish about the stock’s prospects.
+- Source: https://www.barchart.com/story/news/3724768/are-wall-street-analysts-predicting-palo-alto-networks-stock-will-climb-or-sink
+- Date: 2026-08-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare shares jump after forecast raise on AI-driven demand (Score: 2)
+- Summary: Aug 7 : Cloudflare shares rose before the bell on Friday after the cloud services firm raised its annual forecasts, betting that resilient AI-driven demand will sustain traffic across its network.Quarterly results of Cloudflare, whose shares were last up 16.2…
+- Source: https://www.channelnewsasia.com/business/cloudflare-shares-jump-after-forecast-raise-ai-driven-demand-6306101
+- Date: 2026-08-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories (Score: 2)
+- Summary: Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.
+
+This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructio…
+- Source: https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html
+- Date: 2026-08-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+D-Wave Quantum Just Got a 240x Boost From AT&T. How to Play QBTS From Here. (Score: 2)
+- Summary: D-Wave’s 240x faster network optimization result with AT&T could strengthen the case for broader commercial adoption.
+- Source: https://www.barchart.com/story/news/3695181/d-wave-quantum-just-got-a-240x-boost-from-at-t-how-to-play-qbts-from-here
+- Date: 2026-08-06
+- Vendors: None
+- Topics: None
+
+Sciton Launches OMNI™ in Canada: A New Laser Hair Removal Platform Designed for All (Score: 0)
+- Summary: PALO ALTO, Calif., Aug. 13, 2026 /PRNewswire/ -- Sciton Inc., a global leader in laser and light-powered technology, has received approval from Health Canada for its latest innovation, OMNI™ laser hair removal. OMNI was developed to meet the growing demand fo…
+- Source: https://www.prnewswire.com/news-releases/sciton-launches-omni-in-canada-a-new-laser-hair-removal-platform-designed-for-all-302850909.html
+- Date: 2026-08-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Google’s DeepMind is having an identity crisis (Score: 0)
+- Summary: Hassabis has ceded day-to-day control to DeepMind’s CTO Koray Kavukcuoglu. Here’s what happened.
+- Source: https://fortune.com/2026/08/13/googles-deepmind-is-having-an-identity-crisis/
+- Date: 2026-08-13
+- Vendors: None
+- Topics: None
+
+49ers head coach Kyle Shanahan car crash, timeline of events (Score: 0)
+- Summary: San Francisco 49ers head coach Kyle Shanahan was involved in a July 14 car crash. Here is how he's doing now.
+- Source: https://www.usatoday.com/story/sports/nfl/49ers/2026/08/13/49ers-coach-kyle-shanahan-car-crash-timeline-recovery/91279739007/
+- Date: 2026-08-13
+- Vendors: Cisco
+- Topics: None
+
+‘Are They Hiding Something More?’ — Mike Florio Speculates on 49ers’ Suspicious Handling of Kyle Shanahan’s Accident (Score: 0)
+- Summary: Nearly a month has passed since San Francisco 49ers head coach Kyle Shanahan was involved in a serious car accident, yet questions remain surrounding why the organization waited 11 days before disclosing the crash to the media. During that stretch, the 49ers …
+- Source: https://www.profootballnetwork.com/mike-florio-speculates-49ers-suspicious-kyle-shanahan-accident-news-august-2026/?utm_medium=rss&amp;utm_source=nordot
+- Date: 2026-08-13
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Building Security Agents That Cannot Escape Their Trust Boundary (Score: 0)
+- Summary: Article URL: https://cynative.com/blog/agent-trust-boundaries/
+Comments URL: https://news.ycombinator.com/item?id=49277437
+Points: 3
+# Comments: 0
+- Source: https://cynative.com/blog/agent-trust-boundaries/
+- Date: 2026-08-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0301 PAN-OS: Information Disclosure Vulnerability in URL Filtering (Severity: LOW) (Score: 0)
+- Summary: Related content: CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM) PAN-SA-2026-0011 Chromium: Monthly Vulnerability Update (August 2026) (Severity: HIGH) PAN-SA-2026-0010 Chromium and …
+- Source: https://security.paloaltonetworks.com/CVE-2026-0301
+- Date: 2026-08-12
+- Vendors: None
+- Topics: None
+
+PAN-SA-2026-0011 Chromium: Monthly Vulnerability Update (August 2026) (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM) CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM) PAN-SA-…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0011
+- Date: 2026-08-12
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
