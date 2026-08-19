@@ -71264,3 +71264,189 @@ Google’s DeepMind is having an identity crisis (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-19 14:04  ---
+
+Palo Alto Networks to run OpenAI cyber models inside customer networks (Score: 6)
+- Summary: Palo Alto Networks Inc. said today its Unit 42 consulting arm will put OpenAI Group PBC’s frontier cyber models to work inside customer environments, expanding a service it launched earlier this year to find the attack paths that artificial intelligence-equip…
+- Source: https://siliconangle.com/2026/08/12/palo-alto-networks-run-openai-cyber-models-inside-customer-networks/
+- Date: 2026-08-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The AI party keeps roaring: Why it won’t end anytime soon (Score: 4)
+- Summary: Yes, there’s an artificial intelligence bubble, no denying that anymore — so the question becomes, “Will it burst, and when?” You’d be forgiven for thinking it could happen soon, given the continuing, seemingly never-ending funding of and spending by AI model…
+- Source: https://siliconangle.com/2026/08/14/ai-party-keeps-roaring-wont-end-anytime-soon/
+- Date: 2026-08-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Banking’s Next AI Risk Is Cyber Autonomy (Score: 4)
+- Summary: Artificial intelligence (AI) is no longer just helping cybersecurity teams find suspicious activity. It is starting to find vulnerabilities, test attack paths and, in some cases, act in ways that stretch the limits of the systems built to contain it. A clear …
+- Source: https://www.pymnts.com/cybersecurity/2026/bankings-next-ai-risk-is-cyber-autonomy/
+- Date: 2026-08-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto puts OpenAI’s GPT-5.6-Cyber to work inside customer networks (Score: 2)
+- Summary: Palo Alto Networks is bringing OpenAI’s advanced cyber models into customer environments, where Unit 42 can test real attack paths rather than merely list vulnerabilities; 36% of early findings had no matching CVE. OpenAI’s earlier Daybreak launch introduced …
+- Source: https://4sysops.com/archives/palo-alto-puts-openais-gpt-5-6-cyber-to-work-inside-customer-networks/
+- Date: 2026-08-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Behind the scenes at Black Hat's network operations center (Score: 2)
+- Summary: Step inside Black Hat's guarded NOC, where nearly unlimited threats meet unlimited resources, and security experts battle hackers, deploy custom AI agents and mitigate attacks.
+- Source: https://www.techtarget.com/cybersecurity/news/366649216/Behind-the-scenes-at-Black-Hats-network-operations-center
+- Date: 2026-08-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Kimwolf v7 Hides DDoS Traffic Behind Chrome Fingerprints and Ethereum (Score: 2)
+- Summary: Kimwolf v7: The Android TV Botnet That Now Hides Its Traffic Behind Chrome Fingerprints and Ethereum Palo Alto Networks Unit 42 discovered Kimwolf v7 on February 3, 2026, while hunting threats following public disclosures of the botnet’s earlier activity. The…
+- Source: https://securityaffairs.com/197070/malware/kimwolf-v7-hides-ddos-traffic-behind-chrome-fingerprints-and-ethereum.html
+- Date: 2026-08-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled the Stock (Score: 2)
+- Summary: Palo Alto Networks is now a ~$265B market cap company. The stock is up roughly 100% over the past twelve months and hit an all-time high of $368.80 in July. What makes it interesting isn’t the run. It’s how they got it. They spent about $29B on acquisitions i…
+- Source: https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/
+- Date: 2026-08-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+The super-rich are building Swiss bunkers to stash their Ferraris, gold and fine wine (Score: 0)
+- Summary: California’s super-rich have plenty of luxury bunkers to choose from — but this one takes doomsday prepping to a whole new level.
+- Source: https://nypost.com/2026/08/18/business/inside-the-swiss-alps-vaults-being-built-for-the-super-rich/
+- Date: 2026-08-18
+- Vendors: None
+- Topics: None
+
+Unaccompanied Migrant Kids May Face Legal Gaps as Bay Area Groups Lose Federal Funding (Score: 0)
+- Summary: An Oakland judge is weighing whether a new Trump administration plan ensures children are represented in immigration court as federal law requires.
+- Source: https://www.kqed.org/news/12095281/unaccompanied-migrant-kids-may-face-legal-gaps-as-bay-area-groups-lose-federal-funding
+- Date: 2026-08-17
+- Vendors: None
+- Topics: None
+
+2 cops killed as car collides head-on with truck in Shimla (Score: 0)
+- Summary: Two Shimla policemen, Head Constable Praveen Mehta and Constable Hemant Kumar, died after their Alto hit a tanker on Talland-Khalini road.
+- Source: https://timesofindia.indiatimes.com/city/chandigarh/2-cops-killed-as-car-collides-head-on-with-truck-in-shimla/articleshow/133304384.cms
+- Date: 2026-08-17
+- Vendors: None
+- Topics: None
+
+Police arrest two people, recover over 15 kg of charas from their car (Score: 0)
+- Summary: Kanpur police arrested two men and seized 15.320 kg of charas from their Alto car in Fazalganj; probe continues into an interstate narcotics syndicate.
+- Source: https://timesofindia.indiatimes.com/city/kanpur/police-arrest-two-people-recover-over-15-kg-of-charas-from-their-car/articleshow/133304170.cms
+- Date: 2026-08-17
+- Vendors: None
+- Topics: None
+
+A California school has been sued after a field trip of students who were encouraged to wear hijab, given Qurans (Score: 0)
+- Summary: US News: Two Jewish parents, three former Jewish students, a Hindu parent and a Zoroastrian parent have sued Palo Alto Unified School District and Palo Alto Hi.
+- Source: https://timesofindia.indiatimes.com/world/us/a-california-school-has-been-sued-after-a-field-trip-of-students-who-were-encouraged-to-wear-hijab-given-qurans/articleshow/133303050.cms
+- Date: 2026-08-17
+- Vendors: None
+- Topics: None
+
+Uniphore Launches Marketing AI as Marketing Moves Beyond the CDP (Score: 0)
+- Summary: Digital Twins and custom Small Language Models enable brands to know every customer better, simulate outcomes before spending and predict what’s next PALO ALTO, Calif. — Uniphore, the Business AI company, today launched Marketing AI, ushering in a new era of …
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/uniphore-launches-marketing-ai-as-marketing-moves-beyond-the-cdp
+- Date: 2026-08-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Key to Understanding the Disturbing Relationship Between Silicon Valley and the Trump Administration (Score: 0)
+- Summary: A new book thoroughly catalogs the insane things that tech moguls like Peter Thiel have advocated for.
+- Source: https://slate.com/culture/2026/08/tech-silicon-valley-elon-musk-peter-thiel-trump-politics-fascism-gil-duran.html
+- Date: 2026-08-16
+- Vendors: None
+- Topics: None
+
+The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure (Score: 0)
+- Summary: Tenable’s Research Special Operations (RSO) team has been tracking a cluster of agentic AI threat activity since late July 2026. The Taiwan autonomous AI cyber attack confirmed what the cluster data already showed: near-autonomous offensive AI has crossed fro…
+- Source: https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean
+- Date: 2026-08-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Victor Davis Hanson: You’re Not a Socialist—You Just Chose a $200K Degree Over a Trade (Score: 0)
+- Summary: Editor’s note: This is a lightly edited transcript of the latest edition of “Victor Davis Hanson: In His Own Words” from Daily Signal senior contributor Victor Davis Hanson. Subscribe to Victor Davis Hanson’s own YouTube channel to watch past episodes. Sami W…
+- Source: https://www.dailysignal.com/2026/08/14/hanson-not-socialist-degree-trade/
+- Date: 2026-08-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+EU introduces strict new security rules for VPNs with the help of industry giants (Score: 0)
+- Summary: The EU is introducing official security standards for all VPNs sold in Europe. Backed by industry heavyweights like NordVPN and Surfshark, this new regulatory framework aims to keep your digital life safer.
+- Source: https://www.techradar.com/vpn/vpn-services/eu-introduces-strict-new-security-rules-for-vpns-with-the-help-of-industry-giants
+- Date: 2026-08-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Think Your Mac and Cloud Apps Are Safe? These Crypto Wallet and ChatGPT Hacks Prove Otherwise (Score: 0)
+- Summary: This week in cybersecurity: Experts expose critical vulnerabilities across macOS, ChatGPT, and Microsoft Defender—proving no platform is entirely bulletproof.
+Last week was the Black Hat security conference, and if you missed the fun, you can read all of the …
+- Source: https://uk.pcmag.com/security/166720/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-and-chatgpt-hacks-prove-otherwise
+- Date: 2026-08-14
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Think Your Mac and Cloud Apps Are Safe? These Crypto Wallet and ChatGPT Hacks Prove Otherwise (Score: 0)
+- Summary: This week in cybersecurity: Experts expose critical vulnerabilities across macOS, ChatGPT, and Microsoft Defender—proving no platform is entirely bulletproof.
+Last week was the Black Hat security conference, and if you missed the fun, you can read all of the …
+- Source: https://uk.pcmag.com/security/166720/think-your-mac-and-cloud-apps-are-safe-these-crypto-wallet-and-chatgpt
+- Date: 2026-08-14
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud (Score: 0)
+- Summary: The China-linked threat actor known as Jewelbug has been observed carrying out cyber espionage operations targeting governments and militaries, while simultaneously engaging in cryptocurrency fraud.
+
+"Both missions are administered from a single control panel…
+- Source: https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html
+- Date: 2026-08-14
+- Vendors: None
+- Topics: None
+
+Correlations between Wastewater Concentrations of Influenza A and Respiratory Syncytial Viruses and Clinical Laboratory Testing and Hospitalization Data, California, USA (Score: 0)
+- Summary: Correlations between Wastewater and Clinical Data
+- Source: https://wwwnc.cdc.gov/eid/article/32/13/26-0306_article
+- Date: 2026-08-14
+- Vendors: None
+- Topics: None
+
+Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr (Score: 0)
+- Summary: The week the “AI is just a feature we’ll add” argument stopped working, and three pay bands replaced two. This week on 20VC x SaaStr with Harry Stebbings, Jason Lemkin and Rory O’Driscoll, we started somewhere other than OpenAI and Anthropic for once: Canva c…
+- Source: https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/
+- Date: 2026-08-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Notorious Bay Area beach with ‘wicked’ reputation to open as free public park (Score: 0)
+- Summary: A beachfront property known for its lawless parties will soon reopen as a free public park.
+- Source: https://nypost.com/2026/08/13/lifestyle/bay-area-beach-with-wild-reputation-to-open-as-free-public-park/
+- Date: 2026-08-13
+- Vendors: None
+- Topics: None
+
+Sciton Launches OMNI™ in Canada: A New Laser Hair Removal Platform Designed for All - Meditation Affinity (Score: 0)
+- Summary: Let's understand meditation and know the spiritual meditation benefits, types of meditation, meditation techniques, and meditation exercises.
+- Source: https://meditationaffinity.com/health/sciton-launches-omni-in-canada-a-new-laser-hair-removal-platform-designed-for-all/
+- Date: 2026-08-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sciton Launches OMNI™ in Canada: A New Laser Hair Removal Platform Designed for All | Biz News Desk (Score: 0)
+- Summary: PALO ALTO, Calif., Aug. 13, 2026 /PRNewswire/ — Sciton Inc., a global leader in laser and light-powered technology, has received approval from Health Canada for […]
+- Source: https://biznewsdesk.com/business/sciton-launches-omni-in-canada-a-new-laser-hair-removal-platform-designed-for-all/
+- Date: 2026-08-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
