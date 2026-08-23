@@ -72009,3 +72009,188 @@ Unaccompanied Migrant Kids May Face Legal Gaps as Bay Area Groups Lose Federal F
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-23 13:51  ---
+
+Zero Networks expands Palo Alto Networks integration to AI agent control (Score: 6)
+- Summary: Zero-trust security startup Zero Networks Ltd. today expanded its integration with Palo Alto Networks Inc., adding automated threat containment and a set of controls aimed at artificial intelligence agents. The two companies first integrated their products in…
+- Source: https://siliconangle.com/2026/08/20/zero-networks-expands-palo-alto-networks-integration-to-ai-agent-control/
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Tufin expands Unified Control Plane with AI intelligence and multi-vendor automation (Score: 3)
+- Summary: Tufin has announced the availability of Tufin Orchestration Suite (TOS) 5.3, helping enterprises further simplify security operations and maintain consistent control across increasingly complex multi-vendor, hybrid environments. As enterprise security environ…
+- Source: https://www.helpnetsecurity.com/2026/08/20/tufin-expands-unified-control-plane-with-ai-intelligence-and-multi-vendor-automation/
+- Date: 2026-08-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PaleBlueDot AI's HGX B300 Cluster Earns NVIDIA Exemplar Cloud Status for Large-Model Training (Score: 3)
+- Summary: More Than 98% of NVIDIA Reference Performance Across Six Training Configurations, Validated Under Full Load PALO ALTO, Calif., Aug. 18, 2026 /PRNewswire/ -- PaleBlueDot AI ("the Company"), a Silicon Valley-based AI intelligence platform founded in 2024, today…
+- Source: https://www.prnewswire.com/news-releases/palebluedot-ais-hgx-b300-cluster-earns-nvidia-exemplar-cloud-status-for-large-model-training-302854302.html
+- Date: 2026-08-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks and NTT DATA target $1B in AI security sales by 2029 (Score: 2)
+- Summary: Palo Alto Networks Inc. and NTT DATA Group Corp. today signed a multiyear global alliance that targets $1 billion in joint business by the end of 2029. Palo Alto Networks said it’s the first alliance of its kind it has struck with a global systems integrator.…
+- Source: https://siliconangle.com/2026/08/20/palo-alto-networks-and-ntt-data-target-1b-in-ai-security-sales-by-2029/
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Axis Communications Joins Palo Alto Networks Program as Founding Partner in New Initiative to Help Organizations Mitigate Software Vulnerabilities (Score: 2)
+- Summary: CHELMSFORD, Mass. — Axis Communications today announced it has joined a strategic initiative, the Frontier AI Critical Defense Program, created by Palo Alto Networks to protect critical infrastructure from Frontier AI-driven exploits. As a founding partner in…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/axis-communications-joins-palo-alto-networks-program-as-founding-partner-in-new-initiative-to-help-organizations-mitigate-software-vulnerabilities
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NTT DATA and Palo Alto Networks Sign Global Strategic Alliance to Accelerate Secure AI Transformation (Score: 2)
+- Summary: First-of-its-kind global alliance combines AI-powered security innovation with enterprise-scale consulting and managed services Helps organizations navigate Frontier AI with integrated governance, threat intelligence and cybersecurity expertise Backed by co-i…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/ntt-data-and-palo-alto-networks-sign-global-strategic-alliance-to-accelerate-secure-ai-transformation
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Introduces Frontier AI Critical Defense Program (Score: 2)
+- Summary: A collaboration of leading technology providers to protect critical infrastructure against the rapid rise of AI-discovered vulnerabilities SANTA CLARA, Calif., Aug. 19, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW) today announced the Frontier AI Cri…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-introduces-frontier-ai-critical-defense-program-302855274.html
+- Date: 2026-08-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anti-Flock Organizers Ramp Up Bay Area Protests, Urging Cities to Cut Ties With Company (Score: 0)
+- Summary: Activists are holding events across the region through next week, urging cities to shut off license plate readers.
+- Source: https://www.kqed.org/news/12096106/anti-flock-organizers-ramp-up-bay-area-protests-urging-cities-to-cut-ties-with-company
+- Date: 2026-08-21
+- Vendors: None
+- Topics: None
+
+Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail… quietly (Score: 0)
+- Summary: Data centers, of all things, now look like they’re going to be a prime political issue in the midterm elections and beyond. Really? Really. Even the GOP is worried that opposition to AI data centers could give Democrats a potent campaign issue. It seems a lit…
+- Source: https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/
+- Date: 2026-08-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What Happened to Kyle Shanahan? Revisiting the 49ers HC’s Devastating Car Crash Ahead of Preseason Clash vs. Chargers (Score: 0)
+- Summary: San Francisco 49ers head coach Kyle Shanahan is preparing for another preseason test after a frightening car crash interrupted his summer. The accident left the veteran coach with several injuries and a concussion, forcing him to scale back his work during tr…
+- Source: https://www.profootballnetwork.com/what-happened-kyle-shanahan-revisiting-49ers-hc-car-crash/
+- Date: 2026-08-21
+- Vendors: Cisco
+- Topics: None
+
+What’s up with… SoftBank, Google, Comsol (Score: 0)
+- Summary: SoftBank and Ericsson validate AI in the RANMarvell to become Google’s AI chip heroComsol unveils new South African 5G wholesale play
+- Source: https://www.telecomtv.com/content/the-future-of-ran/what-s-up-with-softbank-google-comsol-56115/
+- Date: 2026-08-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Super Copper to Present at the Clean Energy & Metals Virtual Investor Conference on August 27th (Score: 0)
+- Summary: Company invites individual and institutional investors, as well as advisors and analysts, to attend online at VirtualInvestorConferences.com VANCOUVER, British Columbia, Aug. 20, 2026 (GLOBE NEWSWIRE) — Super Copper Corp. (CSE: CUPR | OTCQB: CUPPF | FSE: N60)…
+- Source: https://financialpost.com/globe-newswire/super-copper-to-present-at-the-clean-energy-metals-virtual-investor-conference-on-august-27th
+- Date: 2026-08-20
+- Vendors: None
+- Topics: None
+
+Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $389 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens (Score: 0)
+- Summary: Eightco repurchased 14 million shares of common stock in the past two weeks under its previously announced $125 million share repurchase program Eightco treasury composition as of August 19, 2026: $90M OpenAI equity (indirect), $18M Beast Industries equity, 1…
+- Source: https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-389-million-includes-openai-beast-industries-more-than-16-000-eth-and-nearly-302-million-wld-tokens-302855932.html
+- Date: 2026-08-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NFL Star Robert Smith to Headline JumpStart VC Fest, Joining National Speaker Lineup as Startups and Venture Leaders Converge on Cleveland (Score: 0)
+- Summary: Speakers from Cleveland to Palo Alto join founders, investors and corporate leaders September 29–30 for panels, showcases and curated matchmaking. CLEVELAND, Aug. 20, 2026 /PRNewswire/ -- JumpStart Inc., a nonprofit on a mission to drive economic vitality by …
+- Source: https://www.prnewswire.com/news-releases/nfl-star-robert-smith-to-headline-jumpstart-vc-fest-joining-national-speaker-lineup-as-startups-and-venture-leaders-converge-on-cleveland-302855774.html
+- Date: 2026-08-20
+- Vendors: None
+- Topics: None
+
+Why Is Flock Safety So Controversial in the Bay Area? (Score: 0)
+- Summary: Flock Safety technology has been implemented by cities across the Bay Area. Are they here to stay?
+- Source: https://www.kqed.org/news/12095764/why-is-flock-safety-so-controversial-in-the-bay-area
+- Date: 2026-08-20
+- Vendors: None
+- Topics: None
+
+Crypto IRA Robinhood Review (Score: 0)
+- Summary: Robinhood does not currently offer direct cryptocurrency trading inside its self-directed Traditional or Roth IRAs. Customers can trade stocks, exchange-traded funds, and eligible options in a Robinhood IRA, but they cannot buy Bitcoin, Ethereum, Solana, Doge…
+- Source: https://themattwalshblog.com/crypto-ira-robinhood-review/
+- Date: 2026-08-20
+- Vendors: None
+- Topics: None
+
+The election campaign activities of two powerful opposition politicians are at a basic level.. (Score: 0)
+- Summary: The Colombo Chief Magistrate's Court has ordered the Police Financial Crimes Investigation Division to examine all bank accounts of Shiran Basik, a powerful drug trafficker who was arrested in Dubai and brought to the country on August 14, and to summon the r…
+- Source: https://english.gossiplankanews.com/2026/08/the-election-campaign-activities-of-two.html
+- Date: 2026-08-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Stocks Supported by Lower Bond Yields (Score: 0)
+- Summary: The S&P 500 Index ($SPX ) (SPY ) is up by +0.58% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.55%, and the Nasdaq 100 Index ($IUXX ) (...
+- Source: https://www.barchart.com/story/news/3931839/stocks-supported-by-lower-bond-yields
+- Date: 2026-08-19
+- Vendors: None
+- Topics: None
+
+Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation (Score: 0)
+- Summary: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild.
+
+The shortcomings added to the KEV catalog are …
+- Source: https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html
+- Date: 2026-08-19
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Miami schedule predictions: Will Hurricanes slip up before Notre Dame? (Score: 0)
+- Summary: The Miami Hurricanes have one of the easiest ACC schedules in 2026. Will they finally make the ACC championship game? Here's our game predictions.
+- Source: https://www.palmbeachpost.com/story/sports/college/hurricanes/2026/08/19/miami-football-game-predictions/91359038007/
+- Date: 2026-08-19
+- Vendors: None
+- Topics: None
+
+Security Hub Extended adds Supply Chain Security as its tenth category (Score: 0)
+- Summary: Since February, we’ve grown AWS Security Hub Extended from 14 curated partners across 9 categories to 23 partners across 10. At Black Hat this month, 14 of those partners were at the Amazon Web Services (AWS) booth demoing live. Four of those partners deliver…
+- Source: https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/
+- Date: 2026-08-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Who Represents Unaccompanied Migrant Kids in Immigration Court (Score: 0)
+- Summary: Legal aid organizations that represent unaccompanied children in immigration court may soon be replaced.
+- Source: https://www.kqed.org/news/12095691/who-represents-unaccompanied-migrant-kids-in-immigration-court
+- Date: 2026-08-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Politician on the House Intelligence Committee’s Cyber Panel Just Bought Three Cybersecurity Stocks (Score: 0)
+- Summary: A senior member of the House Intelligence Committee's cyber subcommittee just disclosed purchases of three pure-play cybersecurity stocks, and whether that f...
+- Source: https://247wallst.com/investing/2026/08/18/this-politician-on-the-house-intelligence-committees-cyber-panel-just-bought-three-cybersecurity-stocks/
+- Date: 2026-08-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Free Teacher-Facing AI for Behavior and Learning (Score: 0)
+- Summary: From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.
+Most teachers reaching for AI to help a struggling student are reaching for the wrong kind of AI. Natalie Tambu…
+- Source: https://www.coolcatteacher.com/e971/
+- Date: 2026-08-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The super-rich are building Swiss bunkers to stash their Ferraris, gold and fine wine (Score: 0)
+- Summary: California’s super-rich have plenty of luxury bunkers to choose from — but this one takes doomsday prepping to a whole new level.
+- Source: https://nypost.com/2026/08/18/business/inside-the-swiss-alps-vaults-being-built-for-the-super-rich/
+- Date: 2026-08-18
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
