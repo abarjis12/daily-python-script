@@ -72745,3 +72745,185 @@ The election campaign activities of two powerful opposition politicians are at a
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-27 23:00  ---
+
+Zero Networks expands Palo Alto Networks integration to AI agent control (Score: 6)
+- Summary: Zero-trust security startup Zero Networks Ltd. today expanded its integration with Palo Alto Networks Inc., adding automated threat containment and a set of controls aimed at artificial intelligence agents. The two companies first integrated their products in…
+- Source: https://siliconangle.com/2026/08/20/zero-networks-expands-palo-alto-networks-integration-to-ai-agent-control/
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Tufin expands Unified Control Plane with AI intelligence and multi-vendor automation (Score: 3)
+- Summary: Tufin has announced the availability of Tufin Orchestration Suite (TOS) 5.3, helping enterprises further simplify security operations and maintain consistent control across increasingly complex multi-vendor, hybrid environments. As enterprise security environ…
+- Source: https://www.helpnetsecurity.com/2026/08/20/tufin-expands-unified-control-plane-with-ai-intelligence-and-multi-vendor-automation/
+- Date: 2026-08-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What’s up with… RAIA Grid, Telefónica, SpaceX & Nvidia (Score: 2)
+- Summary: Indonesia has a new AI-powered national fibre networkTelefónica lines up insurance arm saleElon Musk’s SpaceX to use Nvidia CPUs on earth and in space
+- Source: https://www.telecomtv.com/content/access-evolution/what-s-up-with-raia-grid-telef-nica-spacex-nvidia-56136/
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode (Score: 2)
+- Summary: An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction langua…
+- Source: https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why DNS, DHCP, and IPAM Can No Longer Live in Separate Silos (Score: 2)
+- Summary: Ask a network engineer where their DNS records live, and the answer is rarely straightforward. Some zones reside on Windows DNS servers, others are hosted in cloud-managed services, while DHCP scopes are spread across regional data centers, branch offices, an…
+- Source: https://devops.com/why-dns-dhcp-and-ipam-can-no-longer-live-in-separate-silos/
+- Date: 2026-08-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Analyst Just Upped Its Price Target on Palo Alto Networks Stock. Here's Why. (Score: 2)
+- Summary: Benchmark raised the price target on Palo Alto Networks stock to $400. Here’s why the firm is bullish on PANW shares.
+- Source: https://www.barchart.com/story/news/4006683/this-analyst-just-upped-its-price-target-on-palo-alto-networks-stock-here-s-why
+- Date: 2026-08-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents (Score: 2)
+- Summary: The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic system…
+- Source: https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/
+- Date: 2026-08-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+At 7, Jammy-born boy entered Guinness records as world’s youngest male webmaster. Now 20, he’s raised $4.3 million to fix a major space communication problem (Score: 2)
+- Summary: Jammu-born Onkar Singh Batra is building a space communication network.  His startup Apolink aims to keep satellites connected beyond ground station range.  This innovative system uses small satellites as relay points for data transmission.  Apolink has secur…
+- Source: https://economictimes.indiatimes.com/news/new-updates/at-7-jammy-born-boy-entered-guinness-records-as-worlds-youngest-male-webmaster-now-20-hes-raised-4-3-million-to-fix-a-major-space-communication-problem/articleshow/133440444.cms
+- Date: 2026-08-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks and NTT DATA target $1B in AI security sales by 2029 (Score: 2)
+- Summary: Palo Alto Networks Inc. and NTT DATA Group Corp. today signed a multiyear global alliance that targets $1 billion in joint business by the end of 2029. Palo Alto Networks said it’s the first alliance of its kind it has struck with a global systems integrator.…
+- Source: https://siliconangle.com/2026/08/20/palo-alto-networks-and-ntt-data-target-1b-in-ai-security-sales-by-2029/
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Axis Communications Joins Palo Alto Networks Program as Founding Partner in New Initiative to Help Organizations Mitigate Software Vulnerabilities (Score: 2)
+- Summary: CHELMSFORD, Mass. — Axis Communications today announced it has joined a strategic initiative, the Frontier AI Critical Defense Program, created by Palo Alto Networks to protect critical infrastructure from Frontier AI-driven exploits. As a founding partner in…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/axis-communications-joins-palo-alto-networks-program-as-founding-partner-in-new-initiative-to-help-organizations-mitigate-software-vulnerabilities
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NTT DATA and Palo Alto Networks Sign Global Strategic Alliance to Accelerate Secure AI Transformation (Score: 2)
+- Summary: First-of-its-kind global alliance combines AI-powered security innovation with enterprise-scale consulting and managed services Helps organizations navigate Frontier AI with integrated governance, threat intelligence and cybersecurity expertise Backed by co-i…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/ntt-data-and-palo-alto-networks-sign-global-strategic-alliance-to-accelerate-secure-ai-transformation
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ijene added to PyPI (Score: 0)
+- Summary: Kapsamlı SQL Injection Tespit Aracı
+- Source: https://pypi.org/project/ijene/
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Okta pops 15% after topping estimates as AI threat spikes demand for identity security (Score: 0)
+- Summary: New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period
+- Source: https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+College Football Week 1 Schedule, Predictions & Scoreboard (Score: 0)
+- Summary: Week 1 of the 2026 college football season has something for everyone with a massive five-day slate of games.
+- Source: https://collegefootballnews.com/college-football/college-football-week-1-schedule-2026
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Patients Representing the Power of Advanced Therapies to Take Center Stage at Emily Whitehead Foundation's 2026 Believe Ball (Score: 0)
+- Summary: Gathering in Philadelphia on Sept. 25 Will Bring Patients and Cell and Gene Therapies Community Together to Grow Support for Greater Access to Life-Saving Treatments PHILIPSBURG, Pa., Aug. 26, 2026 /PRNewswire/ -- Nine leading voices in advanced therapies and…
+- Source: https://www.prnewswire.com/news-releases/patients-representing-the-power-of-advanced-therapies-to-take-center-stage-at-emily-whitehead-foundations-2026-believe-ball-302860845.html
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter (Score: 0)
+- Summary: A joint Tenable-SentinelOne analysis of 93 CVE-actor attribution pairs reveals that both state-sponsored actors and cybercriminals independently converge on the same edge infrastructure. Special thanks to SentinelOne® Incident Readiness & Response for their c…
+- Source: https://www.tenable.com/blog/edge-infrastructure-under-siege
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Crypto IRA Platform (Score: 0)
+- Summary: Seeing how many scams take place in the crypto space, I thought it was necessary to release a “best crypto IRA platform” list for consumers. So here it is. Hope you find it helpful. iTrustCapital is the best Crypto IRA platform for most investors because it c…
+- Source: https://themattwalshblog.com/best-crypto-ira-platform/
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+nerva v1.69.2 (Score: 0)
+- Summary: Fast service fingerprinting CLI for 170+ protocols (TCP/UDP/SCTP) - built by Praetorian
+- Source: https://kitploit.com/en/posts/github-praetorian-inc-nerva-v1692
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Ranking Week 0 games on the college football schedule: From UNC vs. TCU to USC, Florida State openers (Score: 0)
+- Summary: The 2026 college football season kicks off Saturday with eight games involving FBS teams
+- Source: https://www.cbssports.com/college-football/news/ranking-week-0-games-college-football-unc-tcu-usc-florida-state/
+- Date: 2026-08-25
+- Vendors: None
+- Topics: None
+
+SiFive pushes development server to take RISC-V into the datacenter (Score: 0)
+- Summary: Rack-mount system intended for software porting, workload optimization, to bring open standard to the bitbarn
+- Source: https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136
+- Date: 2026-08-25
+- Vendors: None
+- Topics: None
+
+More details about Jed York's arrest in a prostitution sting come to light and begs questions about the 49ers (Score: 0)
+- Summary: Jed York responded to an ad on a known prostitution website and was intercepted near a trailer park in East Palestine, Ohio, during a police sting.
+- Source: https://www.foxnews.com/outkick-sports/details-jed-yorks-arrest-prostitution-sting-begs-questions-49ers
+- Date: 2026-08-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+HPE-Aruba-AOS8-Vulnerabilities (Score: 0)
+- Summary: ArubaOS 8.13.2.0 pre-auth attack surface research. XXE+SSRF, ICMP  reflection, buffer over-read, hardcoded credentials — all submitted to  HPE Bugcrowd, marked N/A. No fixes issued.
+- Source: https://kitploit.com/en/tools/github/jm00nj/hpe-aruba-aos8-vulnerabilities/
+- Date: 2026-08-24
+- Vendors: Aruba, HPE
+- Topics: None
+
+Why Mark Zuckerberg’s wife Priscilla Chan founded a 'whole child' school in 2016 but shut it down after a decade (Score: 0)
+- Summary: The Primary School, a tuition-free private institution, has ceased operations after ten years.  This closure followed the Chan Zuckerberg Initiative's decision to end its funding beyond 2025.  The school faced challenges in consistently meeting academic bench…
+- Source: https://economictimes.indiatimes.com/news/new-updates/why-mark-zuckerbergs-wife-priscilla-chan-founded-a-whole-child-school-in-2016-and-why-it-shut-down-after-a-decade/articleshow/133473084.cms
+- Date: 2026-08-24
+- Vendors: None
+- Topics: None
+
+YL Ventures Ranks in PitchBook's Top Decile of Global Venture Capital for the Fourth Consecutive Year (Score: 0)
+- Summary: SAN FRANCISCO, Aug. 24, 2026 /PRNewswire/ -- YL Ventures, the global cybersecurity-focused venture capital firm, has placed in the top decile of PitchBook's 2025 Global Manager Performance Score League Tables. It is the fourth consecutive year that the firm h…
+- Source: https://www.prnewswire.com/news-releases/yl-ventures-ranks-in-pitchbooks-top-decile-of-global-venture-capital-for-the-fourth-consecutive-year-302858120.html
+- Date: 2026-08-24
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anti-Flock Organizers Ramp Up Bay Area Protests, Urging Cities to Cut Ties With Company (Score: 0)
+- Summary: Activists are holding events across the region through next week, urging cities to shut off license plate readers.
+- Source: https://www.kqed.org/news/12096106/anti-flock-organizers-ramp-up-bay-area-protests-urging-cities-to-cut-ties-with-company
+- Date: 2026-08-21
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
