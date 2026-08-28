@@ -72927,3 +72927,187 @@ Anti-Flock Organizers Ramp Up Bay Area Protests, Urging Cities to Cut Ties With 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-08-28 23:07  ---
+
+What’s up with… RAIA Grid, Telefónica, SpaceX & Nvidia (Score: 2)
+- Summary: Indonesia has a new AI-powered national fibre networkTelefónica lines up insurance arm saleElon Musk’s SpaceX to use Nvidia CPUs on earth and in space
+- Source: https://www.telecomtv.com/content/access-evolution/what-s-up-with-raia-grid-telef-nica-spacex-nvidia-56136/
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode (Score: 2)
+- Summary: An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction langua…
+- Source: https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why DNS, DHCP, and IPAM Can No Longer Live in Separate Silos (Score: 2)
+- Summary: Ask a network engineer where their DNS records live, and the answer is rarely straightforward. Some zones reside on Windows DNS servers, others are hosted in cloud-managed services, while DHCP scopes are spread across regional data centers, branch offices, an…
+- Source: https://devops.com/why-dns-dhcp-and-ipam-can-no-longer-live-in-separate-silos/
+- Date: 2026-08-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Analyst Just Upped Its Price Target on Palo Alto Networks Stock. Here's Why. (Score: 2)
+- Summary: Benchmark raised the price target on Palo Alto Networks stock to $400. Here’s why the firm is bullish on PANW shares.
+- Source: https://www.barchart.com/story/news/4006683/this-analyst-just-upped-its-price-target-on-palo-alto-networks-stock-here-s-why
+- Date: 2026-08-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents (Score: 2)
+- Summary: The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic system…
+- Source: https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/
+- Date: 2026-08-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+At 7, Jammy-born boy entered Guinness records as world’s youngest male webmaster. Now 20, he’s raised $4.3 million to fix a major space communication problem (Score: 2)
+- Summary: Jammu-born Onkar Singh Batra is building a space communication network.  His startup Apolink aims to keep satellites connected beyond ground station range.  This innovative system uses small satellites as relay points for data transmission.  Apolink has secur…
+- Source: https://economictimes.indiatimes.com/news/new-updates/at-7-jammy-born-boy-entered-guinness-records-as-worlds-youngest-male-webmaster-now-20-hes-raised-4-3-million-to-fix-a-major-space-communication-problem/articleshow/133440444.cms
+- Date: 2026-08-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks and NTT DATA target $1B in AI security sales by 2029 (Score: 2)
+- Summary: Palo Alto Networks Inc. and NTT DATA Group Corp. today signed a multiyear global alliance that targets $1 billion in joint business by the end of 2029. Palo Alto Networks said it’s the first alliance of its kind it has struck with a global systems integrator.…
+- Source: https://siliconangle.com/2026/08/20/palo-alto-networks-and-ntt-data-target-1b-in-ai-security-sales-by-2029/
+- Date: 2026-08-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike CEO: AI exposes dangerous cyber gaps that legacy tools can’t handle (Score: 0)
+- Summary: CrowdStrike CEO said Thursday that AI is allowing attackers to find and exploit vulnerabilities faster, making the company's protection a must.
+- Source: https://www.cnbc.com/2026/08/27/crowdstrike-ceo-ai-exposes-dangerous-cyber-gaps.html
+- Date: 2026-08-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How AI-armed script kiddies will soon wield the power of state-sponsored threat actors (Score: 0)
+- Summary: Low-skill hacktivists are now 'enabled with the same tooling and sophistication as a state-sponsored group,' according to cybersecurity consultant Unit 42.
+- Source: https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/
+- Date: 2026-08-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories (Score: 0)
+- Summary: A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.
+
+The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, m…
+- Source: https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html
+- Date: 2026-08-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity Stocks Rally on Twin Earnings Beats: Okta Spikes 22%, CrowdStrike Jumps 13% (Score: 0)
+- Summary: Okta and CrowdStrike both crushed earnings, but one stock is surging nearly twice as hard as the other despite posting slower growth and a troubling dip in a...
+- Source: https://247wallst.com/investing/2026/08/27/cybersecurity-stocks-rally-on-twin-earnings-beats-okta-spikes-22-crowdstrike-jumps-13/
+- Date: 2026-08-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Uniphore and Tech Mahindra Partner to Deliver an Agentic AI Factory for the Enterprise (Score: 0)
+- Summary: PALO ALTO, Calif.--(BUSINESS WIRE)--Aug 27, 2026-- Uniphore, the Business AI Company, and Tech Mahindra (NSE: TECHM), a leading global provider of technology consulting and digital solutions to enterprises across industries, today announced a partnership to c…
+- Source: https://apnews.com/press-release/business-wire/press-release-9057669c863f434ebb91ec8947ddd22d
+- Date: 2026-08-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Uniphore and Tech Mahindra Partner to Deliver an Agentic AI Factory for the Enterprise (Score: 0)
+- Summary: Partnership enables the development of domain-specific Small Language Models and AI agents on Uniphore’s Business AI Cloud for enterprise clients across EMEA and North America. PALO ALTO, Calif. — Uniphore, the Business AI Company, and Tech Mahindra (NSE: TEC…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/uniphore-and-tech-mahindra-partner-to-deliver-an-agentic-ai-factory-for-the-enterprise
+- Date: 2026-08-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+iTrustCapital Crypto IRA Review (Score: 0)
+- Summary: The iTrustCapital Crypto IRA is a self-directed retirement account that allows eligible US investors to buy and hold cryptocurrency and physical precious metals. The platform combines an online trading interface with an IRA custodian and institutional digital…
+- Source: https://themattwalshblog.com/itrustcapital-crypto-ira-review/
+- Date: 2026-08-27
+- Vendors: None
+- Topics: None
+
+ijene added to PyPI (Score: 0)
+- Summary: Kapsamlı SQL Injection Tespit Aracı
+- Source: https://pypi.org/project/ijene/
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Okta pops 15% after topping estimates as AI threat spikes demand for identity security (Score: 0)
+- Summary: New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period
+- Source: https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Stock Is Riding A Wave Of AI Fear, But What Happens Next? (Score: 0)
+- Summary: Management raised the bar on its future, and after a moment of doubt, investors have been piling in ever since, forcing a critical question about how much mo...
+- Source: https://www.trefis.com/articles/612949/palo-alto-stock-is-riding-a-wave-of-ai-fear-but-what-happens-next/2026-08-26
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+College Football Week 1 Schedule, Predictions & Scoreboard (Score: 0)
+- Summary: Week 1 of the 2026 college football season has something for everyone with a massive five-day slate of games.
+- Source: https://collegefootballnews.com/college-football/college-football-week-1-schedule-2026
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Patients Representing the Power of Advanced Therapies to Take Center Stage at Emily Whitehead Foundation's 2026 Believe Ball (Score: 0)
+- Summary: Gathering in Philadelphia on Sept. 25 Will Bring Patients and Cell and Gene Therapies Community Together to Grow Support for Greater Access to Life-Saving Treatments PHILIPSBURG, Pa., Aug. 26, 2026 /PRNewswire/ -- Nine leading voices in advanced therapies and…
+- Source: https://www.prnewswire.com/news-releases/patients-representing-the-power-of-advanced-therapies-to-take-center-stage-at-emily-whitehead-foundations-2026-believe-ball-302860845.html
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter (Score: 0)
+- Summary: A joint Tenable-SentinelOne analysis of 93 CVE-actor attribution pairs reveals that both state-sponsored actors and cybercriminals independently converge on the same edge infrastructure. Special thanks to SentinelOne® Incident Readiness & Response for their c…
+- Source: https://www.tenable.com/blog/edge-infrastructure-under-siege
+- Date: 2026-08-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best Crypto IRA Platform (Score: 0)
+- Summary: Seeing how many scams take place in the crypto space, I thought it was necessary to release a “best crypto IRA platform” list for consumers. So here it is. Hope you find it helpful. iTrustCapital is the best Crypto IRA platform for most investors because it c…
+- Source: https://themattwalshblog.com/best-crypto-ira-platform/
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+nerva v1.69.2 (Score: 0)
+- Summary: Fast service fingerprinting CLI for 170+ protocols (TCP/UDP/SCTP) - built by Praetorian
+- Source: https://kitploit.com/en/posts/github-praetorian-inc-nerva-v1692
+- Date: 2026-08-26
+- Vendors: None
+- Topics: None
+
+Ranking Week 0 games on the college football schedule: From UNC vs. TCU to USC, Florida State openers (Score: 0)
+- Summary: The 2026 college football season kicks off Saturday with eight games involving FBS teams
+- Source: https://www.cbssports.com/college-football/news/ranking-week-0-games-college-football-unc-tcu-usc-florida-state/
+- Date: 2026-08-25
+- Vendors: None
+- Topics: None
+
+SiFive pushes development server to take RISC-V into the datacenter (Score: 0)
+- Summary: Rack-mount system intended for software porting, workload optimization, to bring open standard to the bitbarn
+- Source: https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136
+- Date: 2026-08-25
+- Vendors: None
+- Topics: None
+
+More details about Jed York's arrest in a prostitution sting come to light and begs questions about the 49ers (Score: 0)
+- Summary: Jed York responded to an ad on a known prostitution website and was intercepted near a trailer park in East Palestine, Ohio, during a police sting.
+- Source: https://www.foxnews.com/outkick-sports/details-jed-yorks-arrest-prostitution-sting-begs-questions-49ers
+- Date: 2026-08-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
