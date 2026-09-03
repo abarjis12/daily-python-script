@@ -74033,3 +74033,185 @@ Hawaii vs Stanford Prediction, Picks & Odds Today: College Football Week 0 (Scor
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-09-03 17:05  ---
+
+CrowdStrike’s post-Mythos surge: Moat, momentum and the blast-radius test (Score: 4)
+- Summary: CrowdStrike Holdings Inc.’s most recent earnings print shows that Anthropic PBC’s Mythos model transformed artificial intelligence security from something chief information security officers needed to worry about down the road into an immediate buying event. …
+- Source: https://siliconangle.com/2026/08/29/crowdstrikes-post-mythos-surge-moat-momentum-and-the-blast-radius-test/
+- Date: 2026-08-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+It’s Nvidia’s world. We just live in it (Score: 4)
+- Summary: The artificial intelligence juggernaut kept cruising along this week thanks to big earnings results from Nvidia — and even Salesforce, the supposed epicenter of the SaaSpocalypse. Nvidia not only beat all expectations for revenue, CEO Jensen Huang (pictured) …
+- Source: https://siliconangle.com/2026/08/28/its-nvidias-world-we-just-live-in-it/
+- Date: 2026-08-28
+- Vendors: None
+- Topics: None
+
+OpenAI, Anthropic and 100-plus firms warn AI attacks are about to scale (Score: 4)
+- Summary: OpenAI Group PBC today published an open letter signed by more than 100 technology companies, banks, insurers and security vendors warning that artificial intelligence-enabled cyberattacks will become far more widespread within months and that defenders have …
+- Source: https://siliconangle.com/2026/08/27/openai-anthropic-and-100-plus-firms-warn-ai-attacks-are-about-to-scale/
+- Date: 2026-08-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Huskeys Raises $27M Series A Led by Blackstone to Build a New Security Layer for the Network Edge (Score: 2)
+- Summary: The cybersecurity industry has spent years adding new layers of protection around applications, cloud infrastructure, and internet-facing services. But as organizations adopt more cloud providers, CDNs, web application firewalls and network technologies, a di…
+- Source: https://thenextweb.com/news/huskeys-raises-27m-series-a-led-by-blackstone
+- Date: 2026-09-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Is Palo Alto Networks Stock Outperforming the S&P 500? (Score: 2)
+- Summary: Palo Alto Networks, Inc. (PANW) is a global cybersecurity company that helps organizations protect their digital infrastructure. The California-based company provides network, cloud, and AI-driven security solutions, along with threat intelligence, incident r…
+- Source: https://biztoc.com/x/af444a859e7a12cf
+- Date: 2026-09-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+‘Golden State Isn’t Prepared’ – Former NFL Star Reveals Major Reason Stephen Curry Should Not Finish Career With Warriors (Score: 2)
+- Summary: Four-time NBA champion Stephen Curry is entering the final chapter of a legendary career that has made him universally recognized as the greatest shooter of all time. Curry also helped establish one of the NBA’s true dynasties as a member of the Golden State …
+- Source: https://www.profootballnetwork.com/nba/golden-state-isnt-prepared-former-nfl-stephen-curry-not-finish-warriors/?utm_medium=rss&amp;utm_source=nordot
+- Date: 2026-09-02
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks Q4 Earnings Call Highlights (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW) said it exceeded its guidance across financial metrics in the fiscal fourth quarter, closing fiscal 2026 with accelerating b...
+- Source: https://www.marketbeat.com/instant-alerts/transcript-palo-alto-networks-q4-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-09-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks beats estimates but margin concerns send shares lower (Score: 2)
+- Summary: Shares in Palo Alto Networks Inc. fell around 2% in late trading today after the cybersecurity company beat Wall Street targets in its fiscal fourth quarter and guided above consensus for the year ahead, though not on margins. The stock had already dropped mo…
+- Source: https://siliconangle.com/2026/09/01/palo-alto-networks-beats-estimates-but-but-margin-concerns-send-shares-lower/
+- Date: 2026-09-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Reports Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results (Score: 2)
+- Summary: SANTA CLARA, Calif., Sept. 1, 2026 /PRNewswire/ -- Palo Alto Networks® (NASDAQ: PANW), the global AI cybersecurity leader, announced today financial results for its fiscal fourth quarter and fiscal year, ended July 31, 2026. "We delivered a strong Q4 to close…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results-302866744.html
+- Date: 2026-09-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Acquires Console to Agentify Security (Score: 2)
+- Summary: Transforming how customers benefit from agentic-driven workflows that are purpose-built for the AI era SANTA CLARA, Calif., Sept. 1, 2026 /PRNewswire/ -- Palo Alto Networks® (NASDAQ: PANW), the global cybersecurity leader, today announced it has acquired Cons…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-acquires-console-to-agentify-security-302866763.html
+- Date: 2026-09-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Vishing campaign abuses Microsoft Teams to give attackers a foothold in company networks (Score: 2)
+- Summary: A coordinated voice-phishing (vishing) campaign, named Spring Ring, used fake IT support accounts on Microsoft Teams to trick employees into installing malware or granting remote access to their computers, according to Unit 42, Palo Alto Networks’ threat inte…
+- Source: https://www.helpnetsecurity.com/2026/09/01/spring-ring-vishing-campaign-microsoft-teams/
+- Date: 2026-09-01
+- Vendors: Palo Alto Networks, Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+‘Hate It,’ ‘(GOAT)’ — NBA World Has Mixed Feelings As Stephen Curry Makes Stance Clear on Finishing Career With Warriors (Score: 2)
+- Summary: Golden State Warriors superstar Stephen Curry is heading into the final season of his current contract as the 2026-27 NBA season approaches. Curry has spent his entire NBA career in Golden State since entering the league in 2009, and has once again made his i…
+- Source: https://www.profootballnetwork.com/nba/nba-world-mixed-feelings-stephen-curry-stance-clear-finishing-career-warriors-september-2026/?utm_medium=rss&amp;utm_source=nordot
+- Date: 2026-09-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cybersecurity jobs available right now: September 1, 2026 (Score: 2)
+- Summary: Security Engineer, PSO Google | USA | On-site – View job details As a Security Engineer, you will provide technical guidance to customers adopting Google Cloud Platform, helping them navigate their cloud journey with the Professional Services team. The role i…
+- Source: https://www.helpnetsecurity.com/2026/09/01/cybersecurity-jobs-available-right-now-september-1-2026/
+- Date: 2026-09-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Securing AI: 5 Most-Upgraded Stocks From the Q2 Reporting Season (Score: 2)
+- Summary: Okta, CrowdStrike, Datadog, Cloudflare and Palo Alto Networks led Q2's most-upgraded stocks as AI-driven agentic traffic boosts cybersecurity demand, with an...
+- Source: https://www.marketbeat.com/articles/securing-ai-5-most-upgraded-stocks-from-the-q2-reporting-season/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-08-31
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Is What Investors Should Watch Before Buying PANW Stock. Most Will Ignore It on September 1. (Score: 2)
+- Summary: Palo Alto Networks heads into earnings with surging expectations, but investors may need more than strong headline growth to justify the stock's enormous ral...
+- Source: https://www.barchart.com/story/news/4345073/this-is-what-investors-should-watch-before-buying-panw-stock-most-will-ignore-it-on-september-1
+- Date: 2026-08-30
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks Stock Surged With The Whole Security Group (Score: 2)
+- Summary: A single-session gain that looks like a verdict on the company's acquisitions arrived with its rivals repricing alongside it, which leaves the company's own...
+- Source: https://www.trefis.com/articles/613546/palo-alto-networks-stock-surged-with-the-whole-security-group/2026-08-28
+- Date: 2026-08-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Gets a $400 Target — But Earnings Need to Prove the AI Story (Score: 2)
+- Summary: Ahead of the fourth-quarter fiscal 2026 report on September 1, Benchmark raised its price target on Palo Alto Networks, Inc. (NASDAQ:PANW) to $400 from $340...
+- Source: https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-gets-400-111553249.html
+- Date: 2026-08-28
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike’s AI Security Boom May Still Have Room to Run (Score: 0)
+- Summary: Wall Street experts believe that AI adoption continues to create a cybersecurity spending cycle, with companies increasingly needing to secure AI agents, app...
+- Source: https://finance.yahoo.com/technology/ai/articles/crowdstrike-ai-security-boom-may-165458612.html
+- Date: 2026-09-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk (Score: 0)
+- Summary: Here are five key things investors need to know to start the trading day.
+- Source: https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html
+- Date: 2026-09-02
+- Vendors: None
+- Topics: None
+
+Governments Just Put a Deadline on Encryption, and a Quiet Corner of Cybersecurity Is Suddenly on the Clock. (Score: 0)
+- Summary: VANCOUVER, BC, Aug. 28, 2026 /PRNewswire/ -- Equity Insider News Commentary - For most of the internet's history, the encryption protecting banking, identity, communications, and state secrets has been treated as a settled problem. That assumption is now expi…
+- Source: https://www.prnewswire.com/news-releases/governments-just-put-a-deadline-on-encryption-and-a-quiet-corner-of-cybersecurity-is-suddenly-on-the-clock-302867706.html
+- Date: 2026-09-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Roundtable 100 analysts put Nvidia at No. 76 in new tech power ranking (Score: 0)
+- Summary: Nvidia landed at No. 76 ranking in the Roundtable 100, with an unlikely candidate topping the list.
+- Source: https://www.thestreet.com/crypto/markets/roundtable-100-analysts-put-nvidia-at-no-76-in-new-tech-power-ranking
+- Date: 2026-09-01
+- Vendors: None
+- Topics: None
+
+From a Singapore airport soundtrack to new AI-powered PCs, HP is looking for a new rhythm in Asia (Score: 0)
+- Summary: HP recently launched Garage 2.0, a startup accelerator, in Singapore as it tries to revive its business for the AI age.
+- Source: https://fortune.com/2026/09/01/hp-asia-ai-pcs-wubble-ai-changi-airport-michael-boyle/
+- Date: 2026-09-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Super MOXI® by Sciton Ushers in a New Era of Head-to-Toe Skin Revitalization (Score: 0)
+- Summary: PALO ALTO, Calif., Sept. 1, 2026 /PRNewswire/ -- Sciton Inc., a pioneer and leader in medical and aesthetic laser and light-based technologies, today announced the launch of Super MOXI® with High Density (HD) Delivery™, a major evolution of its award-winning …
+- Source: https://www.prnewswire.com/news-releases/super-moxi-by-sciton-ushers-in-a-new-era-of-head-to-toe-skin-revitalization-302865715.html
+- Date: 2026-09-01
+- Vendors: None
+- Topics: None
+
+PayToMe.co Accelerates Global Expansion of Its AI-Powered Commerce Platform (Score: 0)
+- Summary: Silicon Valley technology company advances enterprise adoption through an integrated AI-powered ecosystem connecting payments, commerce, logistics and travel PALO ALTO, Calif., Sept. 1, 2026 /PRNewswire/ -- PayToMe.co, a Silicon Valley AI and financial techno…
+- Source: https://www.prnewswire.com/news-releases/paytomeco-accelerates-global-expansion-of-its-ai-powered-commerce-platform-302866244.html
+- Date: 2026-09-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mirage Kitten targeting aviation and FinTech sectors across the Middle East and Africa with a new malware set (Score: 0)
+- Summary: Kaspersky researchers have discovered new Mirage Kitten attacks using previously undocumented malware families: NodeRabbit in Node.js and PollCat in JavaScript.
+- Source: https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/
+- Date: 2026-09-01
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
