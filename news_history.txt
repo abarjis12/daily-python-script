@@ -75125,3 +75125,185 @@ The First Agentic Attack: How AI Is Reshaping the Economics of Cybersecurity (Sc
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-09-09 17:11  ---
+
+Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI (Score: 4)
+- Summary: Perhaps it’s no surprise that Nvidia ended up embracing open artificial intelligence model archive Hugging Face this week following more than a week of rumors. Even at almost $13 billion, it may end up being a steal — especially for a company that had $24 bil…
+- Source: https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/
+- Date: 2026-09-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model? (Score: 3)
+- Summary: OpenAI launched Daybreak for Frontline Defenders on September 3, committing $1 billion in subsidized Daybreak access, training, technical support and partner...
+- Source: https://finance.yahoo.com/technology/ai/articles/openai-1-billion-cyber-push-122609472.html
+- Date: 2026-09-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.3.0 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.3.0/
+- Date: 2026-09-08
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks to Present at Upcoming Investor Event (Score: 2)
+- Summary: SANTA CLARA, Calif., Sept. 8, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW), the global AI cybersecurity leader, announced today that members of its management team will be presenting at the following financial community event: Goldman Sachs Communac…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-to-present-at-upcoming-investor-event-302871973.html
+- Date: 2026-09-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Building a Risk-Based Secure Network Analytics Detection with Splunk Detection Editor (Alpha) (Score: 2)
+- Summary: At Black Hat USA, we used Splunk Detection Editor Alpha to turn Cisco SNA alarms into risk events with context, drilldowns & analyst-ready investigation paths.
+- Source: https://blogs.cisco.com/?p=496867
+- Date: 2026-09-07
+- Vendors: Cisco
+- Topics: None
+
+CrowdStrike and Palo Alto Made the SaaSmageddon Survivor List. Can AI Expand Their Moats Faster Than It Compresses Software Prices? (Score: 2)
+- Summary: An August 25 analysis of so-called SaaSmageddon survivors included CrowdStrike and Palo Alto Networks, arguing that security platforms may resist AI-driven s...
+- Source: https://finance.yahoo.com/technology/ai/articles/crowdstrike-palo-alto-made-saasmageddon-225017164.html
+- Date: 2026-09-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare taps OpenAI’s cyber models to find and block code flaws (Score: 2)
+- Summary: Cloudflare Inc. today opened early access to Vulnerability Discovery and Remediation, a service that uses OpenAI Group PBC’s cybersecurity models to find software flaws in customer applications and block attacks on them at the network edge. The service runs i…
+- Source: https://siliconangle.com/2026/09/03/cloudflare-taps-openais-cyber-models-to-find-and-block-code-flaws/
+- Date: 2026-09-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Huskeys Raises $27M Series A Led by Blackstone to Build a New Security Layer for the Network Edge (Score: 2)
+- Summary: The cybersecurity industry has spent years adding new layers of protection around applications, cloud infrastructure, and internet-facing services. But as organizations adopt more cloud providers, CDNs, web application firewalls and network technologies, a di…
+- Source: https://thenextweb.com/news/huskeys-raises-27m-series-a-led-by-blackstone
+- Date: 2026-09-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks, Inc. Q4 2026 Earnings Call Summary (Score: 2)
+- Summary: Moby summary of Palo Alto Networks, Inc.'s Q4 2026 earnings call
+- Source: https://app.moby.co/home/research/tools/earningsCalendar/earnings-palo-alto-networks-inc-q4-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss
+- Date: 2026-09-02
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Is Palo Alto Networks Stock Outperforming the S&P 500? (Score: 2)
+- Summary: Palo Alto Networks, Inc. (PANW) is a global cybersecurity company that helps organizations protect their digital infrastructure. The California-based company provides network, cloud, and AI-driven security solutions, along with threat intelligence, incident r…
+- Source: https://biztoc.com/x/af444a859e7a12cf
+- Date: 2026-09-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Is Palo Alto Networks Stock Outperforming the S&P 500? (Score: 2)
+- Summary: Palo Alto Networks has considerably outperformed the broader market over the past year, while analysts remain bullish on its future prospects.
+- Source: https://www.barchart.com/story/news/4396216/is-palo-alto-networks-stock-outperforming-the-s-p-500
+- Date: 2026-09-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+‘Golden State Isn’t Prepared’ – Former NFL Star Reveals Major Reason Stephen Curry Should Not Finish Career With Warriors (Score: 2)
+- Summary: Four-time NBA champion Stephen Curry is entering the final chapter of a legendary career that has made him universally recognized as the greatest shooter of all time. Curry also helped establish one of the NBA’s true dynasties as a member of the Golden State …
+- Source: https://www.profootballnetwork.com/nba/golden-state-isnt-prepared-former-nfl-stephen-curry-not-finish-warriors/?utm_medium=rss&amp;utm_source=nordot
+- Date: 2026-09-02
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks Q4 Earnings Call Highlights (Score: 2)
+- Summary: Palo Alto Networks (NASDAQ:PANW) said it exceeded its guidance across financial metrics in the fiscal fourth quarter, closing fiscal 2026 with accelerating b...
+- Source: https://www.marketbeat.com/instant-alerts/transcript-palo-alto-networks-q4-earnings-call-highlights-2026-09-01/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-09-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks beats estimates but margin concerns send shares lower (Score: 2)
+- Summary: Shares in Palo Alto Networks Inc. fell around 2% in late trading today after the cybersecurity company beat Wall Street targets in its fiscal fourth quarter and guided above consensus for the year ahead, though not on margins. The stock had already dropped mo…
+- Source: https://siliconangle.com/2026/09/01/palo-alto-networks-beats-estimates-but-but-margin-concerns-send-shares-lower/
+- Date: 2026-09-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Reports Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results (Score: 2)
+- Summary: SANTA CLARA, Calif., Sept. 1, 2026 /PRNewswire/ -- Palo Alto Networks® (NASDAQ: PANW), the global AI cybersecurity leader, announced today financial results for its fiscal fourth quarter and fiscal year, ended July 31, 2026. "We delivered a strong Q4 to close…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results-302866744.html
+- Date: 2026-09-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Acquires Console to Agentify Security (Score: 2)
+- Summary: Transforming how customers benefit from agentic-driven workflows that are purpose-built for the AI era SANTA CLARA, Calif., Sept. 1, 2026 /PRNewswire/ -- Palo Alto Networks® (NASDAQ: PANW), the global cybersecurity leader, today announced it has acquired Cons…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-acquires-console-to-agentify-security-302866763.html
+- Date: 2026-09-01
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Prezent Vivo Appoints Medical Communications Leader Alice Choi as Chief Operating Officer (Score: 0)
+- Summary: Alice Choi joins Prezent Vivo as COO with more than 30 years of experience in medical communications and scientific storytelling, bringing deep Life Sciences expertise to the company's next phase of growth. PALO ALTO, Calif., Sept. 8, 2026 /PRNewswire/ -- Pre…
+- Source: https://www.prnewswire.com/news-releases/prezent-vivo-appoints-medical-communications-leader-alice-choi-as-chief-operating-officer-302872478.html
+- Date: 2026-09-08
+- Vendors: None
+- Topics: None
+
+Assessing methods to identify Veterans Health Administration populations with Veterans Justice Programs contact to improve health research (Score: 0)
+- Summary: Military veterans with criminal legal involvement have a need for healthcare and housing to attenuate their risks of suicide, overdose, and homelessness. Links between criminal legal involvement and Veterans Health Administration (VHA) care are poorly underst…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357665
+- Date: 2026-09-08
+- Vendors: None
+- Topics: None
+
+Rivian’s Gambit for Full Autonomy (Score: 0)
+- Summary: I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. At one point I pass the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Sil…
+- Source: https://spectrum.ieee.org/rivian-self-driving
+- Date: 2026-09-08
+- Vendors: None
+- Topics: None
+
+Why Is Nike Stock Falling? China Sales Slump, S&P 100 Exit Drive 78% Plunge From 2021 Peak This Year (Score: 0)
+- Summary: Nike's stock has dropped nearly 80% from its 2021 peak, driven by challenges in China, a slow turnaround, and removal from the S&P 100 index, raising concerns about its future growth.
+- Source: https://www.ibtimes.com.au/nike-stock-decline-china-challenges-sp100-exit-1875178
+- Date: 2026-09-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Tyrese Gibson and Kevin Chou Co-Chair the True Zero Global Prize for Startups Tackling the Planet's Biggest Challenges (Score: 0)
+- Summary: SparkLabs' global competition names Tyrese Gibson and Kevin Chou co-chairs and brings together 34 leaders across climate, AI, energy, finance and government as judges ahead of COP31 in Antalya, Türkiye PALO ALTO, Calif. and ANKARA, Türkiye, Sept. 7, 2026 /PRN…
+- Source: https://www.prnewswire.com/news-releases/tyrese-gibson-and-kevin-chou-co-chair-the-true-zero-global-prize-for-startups-tackling-the-planets-biggest-challenges-302871756.html
+- Date: 2026-09-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Congress Is Building the Scaffolding: The First Federal Bill Mandating Agent Security Standards (Score: 0)
+- Summary: Federal legislators have watched five weeks pass since the EU’s Article 50 transparency obligations took effect without a single enforcement action targeting agent behavior. The FTC’s 20-case AI enforcement record, totaling $51 million in recoveries, has simi…
+- Source: https://forkast.news/congress-is-building-the-scaffolding-the-first-federal-bill-mandating-agent-security-standards/
+- Date: 2026-09-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nike just got kicked out of an elite club (Score: 0)
+- Summary: The sneaker giant’s stock collapse has real consequences.
+- Source: https://www.thestreet.com/investing/why-nike-was-kicked-out-sp-100
+- Date: 2026-09-07
+- Vendors: None
+- Topics: None
+
+Billionaire Ken Fisher Goes All In on These 2 AI Stocks (Score: 0)
+- Summary: Back in 1979, Ken Fisher started his investment firm, Fisher Investments, with $250 and faith in his own competence. He used the money, and his confidence wa...
+- Source: https://finance.yahoo.com/technology/ai/articles/billionaire-ken-fisher-goes-2-175946935.html
+- Date: 2026-09-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How Facebook’s News Feed kicked off the age of the algorithm (Score: 0)
+- Summary: It might seem quaint now but for many Facebook users, the introduction of this content algorithm felt like a violation of their privacy and trust.
+- Source: https://theconversation.com/how-facebooks-news-feed-kicked-off-the-age-of-the-algorithm-291393
+- Date: 2026-09-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
