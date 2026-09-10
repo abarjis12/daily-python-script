@@ -75307,3 +75307,185 @@ How Facebook’s News Feed kicked off the age of the algorithm (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-09-10 17:02  ---
+
+Orchid Security gives enterprises a kill switch for rogue AI agents (Score: 5)
+- Summary: Identity security startup Orchid Security Inc. today added identity drift detection and application-level kill switches for artificial intelligence agents to its Identity Control Plane. The controls are meant to let security teams strip an agent of its author…
+- Source: https://siliconangle.com/2026/09/09/orchid-security-gives-enterprises-a-kill-switch-for-rogue-ai-agents/
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI (Score: 4)
+- Summary: Perhaps it’s no surprise that Nvidia ended up embracing open artificial intelligence model archive Hugging Face this week following more than a week of rumors. Even at almost $13 billion, it may end up being a steal — especially for a company that had $24 bil…
+- Source: https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/
+- Date: 2026-09-04
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model? (Score: 3)
+- Summary: OpenAI launched Daybreak for Frontline Defenders on September 3, committing $1 billion in subsidized Daybreak access, training, technical support and partner...
+- Source: https://finance.yahoo.com/technology/ai/articles/openai-1-billion-cyber-push-122609472.html
+- Date: 2026-09-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.3.0 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.3.0/
+- Date: 2026-09-08
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto Networks to Present at Upcoming Investor Event (Score: 2)
+- Summary: SANTA CLARA, Calif., Sept. 8, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW), the global AI cybersecurity leader, announced today that members of its management team will be presenting at the following financial community event: Goldman Sachs Communac…
+- Source: https://www.prnewswire.com/news-releases/palo-alto-networks-to-present-at-upcoming-investor-event-302871973.html
+- Date: 2026-09-08
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Building a Risk-Based Secure Network Analytics Detection with Splunk Detection Editor (Alpha) (Score: 2)
+- Summary: At Black Hat USA, we used Splunk Detection Editor Alpha to turn Cisco SNA alarms into risk events with context, drilldowns & analyst-ready investigation paths.
+- Source: https://blogs.cisco.com/?p=496867
+- Date: 2026-09-07
+- Vendors: Cisco
+- Topics: None
+
+CrowdStrike and Palo Alto Made the SaaSmageddon Survivor List. Can AI Expand Their Moats Faster Than It Compresses Software Prices? (Score: 2)
+- Summary: An August 25 analysis of so-called SaaSmageddon survivors included CrowdStrike and Palo Alto Networks, arguing that security platforms may resist AI-driven s...
+- Source: https://finance.yahoo.com/technology/ai/articles/crowdstrike-palo-alto-made-saasmageddon-225017164.html
+- Date: 2026-09-04
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare taps OpenAI’s cyber models to find and block code flaws (Score: 2)
+- Summary: Cloudflare Inc. today opened early access to Vulnerability Discovery and Remediation, a service that uses OpenAI Group PBC’s cybersecurity models to find software flaws in customer applications and block attacks on them at the network edge. The service runs i…
+- Source: https://siliconangle.com/2026/09/03/cloudflare-taps-openais-cyber-models-to-find-and-block-code-flaws/
+- Date: 2026-09-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The RealReal Expands Los Angeles Presence with New Glendale Store (Score: 0)
+- Summary: New Glendale location brings authenticated luxury resale, expert consignment services and a constantly evolving assortment of one-of-one designer finds to one of Los Angeles' premier shopping destinations GLENDALE, Calif., Sept. 9, 2026 /PRNewswire/ -- The Re…
+- Source: https://www.prnewswire.com/news-releases/the-realreal-expands-los-angeles-presence-with-new-glendale-store-302873838.html
+- Date: 2026-09-09
+- Vendors: None
+- Topics: None
+
+ARPA-H Selects UpDoc to Lead Development of Autonomous Clinical AI System, in an Initiative Joined by Microsoft, OpenAI and NVIDIA (Score: 0)
+- Summary: UpDoc awarded up to $9.2 million under ARPA-H's ADVOCATE program to develop and validate an autonomous clinical AI system intended for future FDA authorization and real-world deployment, starting in cardiovascular disease PALO ALTO, Calif., Sept. 9, 2026 /PRN…
+- Source: https://www.prnewswire.com/news-releases/arpa-h-selects-updoc-to-lead-development-of-autonomous-clinical-ai-system-in-an-initiative-joined-by-microsoft-openai-and-nvidia-302873780.html
+- Date: 2026-09-09
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PAN-SA-2026-0012 Chromium: Monthly Vulnerability Update (September 2026) (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0310 PAN-OS: Buffer Overflow Vulnerability via XML Processing (Severity: HIGH) CVE-2026-0295 GlobalProtect App: Local Privilege Escalation via Race Condition on macOS (Severity: MEDIUM) CVE-2026-0302 Checkov by Prisma Cloud: OS Comma…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0012
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0310 PAN-OS: Buffer Overflow Vulnerability via XML Processing (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0303 Checkov by Prisma Cloud: Code Execution via Auto-Loaded Configuration File (Severity: LOW) CVE-2026-0295 GlobalProtect App: Local Privilege Escalation via Race Condition on macOS (Severity: MEDIUM) PAN-SA-2026-0012 Chromium: Mon…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0310
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3% (Score: 0)
+- Summary: A security partnership with OpenAI sent Cloudflare shares surging while cybersecurity giants CrowdStrike and Palo Alto sat out the rally entirely, raising a...
+- Source: https://247wallst.com/investing/2026/09/09/cloudflare-surges-9-on-openai-security-partnership-zscaler-rises-3/
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+WAND AI adds ZEROPORT as an Agent Containment Layer to Enable Sovereign AI on Air-Gapped and Critical National Systems (Score: 0)
+- Summary: Zeroport's hardware-enforced, non-IP boundary and its on-device Moativ guardrail become an additional containment capability within Wand's sovereign AI labor infrastructure. PALO ALTO, Calif., Sept. 9, 2026 /PRNewswire/ -- Wand AI today announced the addition…
+- Source: https://www.prnewswire.com/news-releases/wand-ai-adds-zeroport-as-an-agent-containment-layer-to-enable-sovereign-ai-on-air-gapped-and-critical-national-systems-302873155.html
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Lotus Notes and the dangers of starting from scratch (Score: 0)
+- Summary: You either loved it, or were using it wrong.
+- Source: https://buttondown.com/blog/lotus-notes-email
+- Date: 2026-09-09
+- Vendors: None
+- Topics: None
+
+pdfalto 0.6.3 (Score: 0)
+- Summary: PDF to ALTO XML conversion — Python bindings for the pdfalto command line tool
+- Source: https://pypi.org/project/pdfalto/0.6.3/
+- Date: 2026-09-09
+- Vendors: None
+- Topics: None
+
+pdfalto added to PyPI (Score: 0)
+- Summary: PDF to ALTO XML conversion — Python bindings for the pdfalto command line tool
+- Source: https://pypi.org/project/pdfalto/
+- Date: 2026-09-09
+- Vendors: None
+- Topics: None
+
+nerva v1.69.6 (Score: 0)
+- Summary: Fast service fingerprinting CLI for 170+ protocols (TCP/UDP/SCTP) - built by Praetorian
+- Source: https://kitploit.com/en/posts/github-praetorian-inc-nerva-v1696
+- Date: 2026-09-09
+- Vendors: None
+- Topics: None
+
+AI Is Making Cybersecurity Harder to Ignore—These 3 ETFs Offer a Broad Bet (Score: 0)
+- Summary: Cybersecurity demand is surging on AI growth, with stocks like Palo Alto, CrowdStrike, and Okta, plus ETFs HACK, CIBR, and BUG, rallying despite chart patter...
+- Source: https://www.marketbeat.com/articles/ai-is-making-cybersecurity-harder-to-ignorethese-3-etfs-offer-a-broad-bet/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-09-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Prezent Vivo Appoints Medical Communications Leader Alice Choi as Chief Operating Officer (Score: 0)
+- Summary: Alice Choi joins Prezent Vivo as COO with more than 30 years of experience in medical communications and scientific storytelling, bringing deep Life Sciences expertise to the company's next phase of growth. PALO ALTO, Calif., Sept. 8, 2026 /PRNewswire/ -- Pre…
+- Source: https://www.prnewswire.com/news-releases/prezent-vivo-appoints-medical-communications-leader-alice-choi-as-chief-operating-officer-302872478.html
+- Date: 2026-09-08
+- Vendors: None
+- Topics: None
+
+Assessing methods to identify Veterans Health Administration populations with Veterans Justice Programs contact to improve health research (Score: 0)
+- Summary: Military veterans with criminal legal involvement have a need for healthcare and housing to attenuate their risks of suicide, overdose, and homelessness. Links between criminal legal involvement and Veterans Health Administration (VHA) care are poorly underst…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357665
+- Date: 2026-09-08
+- Vendors: None
+- Topics: None
+
+Rivian’s Gambit for Full Autonomy (Score: 0)
+- Summary: I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. At one point I pass the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Sil…
+- Source: https://spectrum.ieee.org/rivian-self-driving
+- Date: 2026-09-08
+- Vendors: None
+- Topics: None
+
+Why Is Nike Stock Falling? China Sales Slump, S&P 100 Exit Drive 78% Plunge From 2021 Peak This Year (Score: 0)
+- Summary: Nike's stock has dropped nearly 80% from its 2021 peak, driven by challenges in China, a slow turnaround, and removal from the S&P 100 index, raising concerns about its future growth.
+- Source: https://www.ibtimes.com.au/nike-stock-decline-china-challenges-sp100-exit-1875178
+- Date: 2026-09-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Tyrese Gibson and Kevin Chou Co-Chair the True Zero Global Prize for Startups Tackling the Planet's Biggest Challenges (Score: 0)
+- Summary: SparkLabs' global competition names Tyrese Gibson and Kevin Chou co-chairs and brings together 34 leaders across climate, AI, energy, finance and government as judges ahead of COP31 in Antalya, Türkiye PALO ALTO, Calif. and ANKARA, Türkiye, Sept. 7, 2026 /PRN…
+- Source: https://www.prnewswire.com/news-releases/tyrese-gibson-and-kevin-chou-co-chair-the-true-zero-global-prize-for-startups-tackling-the-planets-biggest-challenges-302871756.html
+- Date: 2026-09-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Congress Is Building the Scaffolding: The First Federal Bill Mandating Agent Security Standards (Score: 0)
+- Summary: Federal legislators have watched five weeks pass since the EU’s Article 50 transparency obligations took effect without a single enforcement action targeting agent behavior. The FTC’s 20-case AI enforcement record, totaling $51 million in recoveries, has simi…
+- Source: https://forkast.news/congress-is-building-the-scaffolding-the-first-federal-bill-mandating-agent-security-standards/
+- Date: 2026-09-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
