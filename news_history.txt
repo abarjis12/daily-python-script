@@ -76409,3 +76409,187 @@ pdfalto 0.6.3 (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-09-16 17:39  ---
+
+Orchid Security gives enterprises a kill switch for rogue AI agents (Score: 5)
+- Summary: Identity security startup Orchid Security Inc. today added identity drift detection and application-level kill switches for artificial intelligence agents to its Identity Control Plane. The controls are meant to let security teams strip an agent of its author…
+- Source: https://siliconangle.com/2026/09/09/orchid-security-gives-enterprises-a-kill-switch-for-rogue-ai-agents/
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances (Score: 4)
+- Summary: A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances.
+
+According to independent …
+- Source: https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html
+- Date: 2026-09-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Should You Get Paid To Wait For Palo Alto Networks To Slow Down? (Score: 2)
+- Summary: Palo Alto Networks (PANW) has returned 71.4% over the past year and trades about 15% below its 52-week high. You can be paid now for agreeing to buy the shar...
+- Source: https://www.trefis.com/articles/614688/should-you-get-paid-to-wait-for-palo-alto-networks-to-slow-down/2026-09-09
+- Date: 2026-09-10
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Delos Data Unveils Nonstop AI™ to Build and Scale Resilient AI Clusters to Deliver Nonstop Tokens (Score: 0)
+- Summary: Nonstop AI portfolio includes Reference Architecture, Data Interface, Software, Server, and Platform PALO ALTO, Calif., Sept. 15, 2026 /PRNewswire/ -- Delos Data today expanded the Delos Nonstop AI™ portfolio with the addition of the Delos Nonstop AI™ Data In…
+- Source: https://www.prnewswire.com/news-releases/delos-data-unveils-nonstop-ai-to-build-and-scale-resilient-ai-clusters-to-deliver-nonstop-tokens-302878474.html
+- Date: 2026-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Epstein-Barr virus-encoded microRNA-BART17-5p suppresses cell proliferation and metastasis by targeting CERK (Score: 0)
+- Summary: Author summary Epstein-Barr virus (EBV) is a common virus that infects most people worldwide and is linked to several types of cancer, including cancers of the stomach, nose, and blood system. Although this virus produces many small regulatory molecules, micr…
+- Source: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014519
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Globalgig expands managed security portfolio to protect enterprise AI (Score: 0)
+- Summary: Globalgig has expanded its managed security portfolio to cover enterprise AI, bringing together services that discover, assess, and protect the AI applications, agents, models, and data enterprises are putting into production. The services are delivered throu…
+- Source: https://www.helpnetsecurity.com/2026/09/15/globalgig-expands-managed-security-with-ai-protection/
+- Date: 2026-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Quote of the day by Mark Zuckerberg: ‘Give everyone a voice and give people power, the system usually ends up…’ – Facebook founder on why technology should empower people (Score: 0)
+- Summary: Mark Zuckerberg envisions a world where technology serves as a catalyst for individual empowerment and equitable power distribution. Through his creation, Facebook, now Meta, he has successfully interconnected billions worldwide. Meta also oversees platforms …
+- Source: https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-mark-zuckerberg-give-everyone-a-voice-and-give-people-power-the-system-usually-ends-up-facebook-founder-on-why-technology-should-empower-people/articleshow/134256157.cms
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Mark Zuckerberg - Colossus (Score: 0)
+- Summary: A journey to the heart of history’s largest nonterritorial empire
+- Source: https://colossus.com/article/mark-zuckerberg-profile/
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Lucile Packard Children's Hospital Stanford Ranks Among Top Children's Hospitals by U.S. News & World Report and Ties for Best in Northern California (Score: 0)
+- Summary: Nationally recognized in all pediatric specialties, with two specialties ranked in the top 5 Key rankings: Best Children's Hospital in Northern California Ranked No. 2 Children's Hospital in California Top 5 nationally in two specialties: Neonatology and Neph…
+- Source: https://www.prnewswire.com/news-releases/lucile-packard-childrens-hospital-stanford-ranks-among-top-childrens-hospitals-by-us-news--world-report-and-ties-for-best-in-northern-california-302876551.html
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Frontiers | Multimodal transformer and directed relational graph learning for emotion recognition in conversations with potential applications in college student mental health research (Score: 0)
+- Summary: Frontiers | Multimodal transformer and directed relational graph learning for emotion recognition in conversations with potential applications in college student mental health researchfrontiersin.org
+- Source: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1867034/full
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+AI Is Supercharging Cybersecurity Stocks. Here Are Wedbush’s 2 Favorite Picks. (Score: 0)
+- Summary: AI is giving cybersecurity a serious boost, and Wedbush is betting big on these two cybersecurity names, adding them to its Best Ideas List. Let’s see what’s...
+- Source: https://www.barchart.com/story/news/4593369/ai-is-supercharging-cybersecurity-stocks-here-are-wedbushs-2-favorite-picks
+- Date: 2026-09-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Verizon advances its AI-native 6G plans (Score: 0)
+- Summary: Verizon formed its 6G Innovation Forum in September 2025Now AWS, Cisco, Intel, Nvidia and more have joined that initiative The move will advance the telco’s AI…
+- Source: https://www.telecomtv.com/content/ai/verizon-advances-its-ai-native-6g-plans-56244/
+- Date: 2026-09-14
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+manyhands added to PyPI (Score: 0)
+- Summary: Run several local OCR models over the same page and show a human exactly which words they disagree on.
+- Source: https://pypi.org/project/manyhands/
+- Date: 2026-09-14
+- Vendors: None
+- Topics: None
+
+Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference (Score: 0)
+- Summary: Zscaler (NASDAQ:ZS) CEO and Founder Jay Chaudhry said the company entered fiscal 2027 with an expanded product portfolio, improving sales momentum and growin...
+- Source: https://www.marketbeat.com/instant-alerts/event-zscaler-ceo-highlights-ai-security-surge-zero-trust-momentum-at-citi-conference-2026-09-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-09-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+I was laid off from HP after 30 years. At 59, I moved to Antarctica for work — and the wildest adventure of my life. (Score: 0)
+- Summary: I was planning on retiring from HP, but I was laid off. I took it as an opportunity to reinvent my life and become a seasonal worker in Antarctica.
+- Source: https://www.businessinsider.com/laid-off-from-hp-after-retirement-work-antarctica-2026-9
+- Date: 2026-09-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+I was laid off from HP after 30 years. At 59, I moved to Antarctica for work — and the wildest adventure of my life. (Score: 0)
+- Summary: I was planning on retiring from HP, but I was laid off. I took it as an opportunity to reinvent my life and become a seasonal worker in Antarctica.
+- Source: https://www.businessinsider.com/laid-off-from-hp-after-retirement-work-antarctica-2026-9#article
+- Date: 2026-09-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The tech projects Canada is selling to global investors at next week’s summit | BetaKit (Score: 0)
+- Summary: The tech projects Canada is selling to global investors at next week’s summit | BetaKitbetakit.com
+- Source: https://betakit.com/the-tech-projects-canada-is-selling-to-global-investors-at-next-weeks-summit/
+- Date: 2026-09-10
+- Vendors: None
+- Topics: None
+
+N-acetylcysteine attenuates oxidative-stress-associated apoptosis and collagen deposition after rat hindlimb ischemia-reperfusion injury (Score: 0)
+- Summary: Proper use of fingers and limbs is crucial for people to carry out normal activities of daily living. Therefore, when fingers or limbs are severed accidentally, replantation is attempted whenever possible. However, even when replantation is successful and fin…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357829
+- Date: 2026-09-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+VPN Infrastructure Is Now the Authentication Gap’s Final Frontier (Score: 0)
+- Summary: The authentication gap has migrated to the outermost layer of enterprise infrastructure: the VPN. While previous waves of exploitation targeted middleware, identity providers, and endpoint management systems, the focus has shifted to the gateways that define …
+- Source: https://forkast.news/vpn-infrastructure-is-now-the-authentication-gaps-final-frontier-2/
+- Date: 2026-09-10
+- Vendors: None
+- Topics: None
+
+Architecting SASE solutions using AWS Local Zones (Score: 0)
+- Summary: Organizations with geographically distributed workforces face a trade-off between security and low-latency access. This post explores how to use AWS Local Zones and Secure Access Service Edge (SASE) solutions to deploy virtual security appliances closer to en…
+- Source: https://aws.amazon.com/blogs/compute/architecting-sase-solutions-using-aws-local-zones/
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+4 Oregon State Football Players to Watch Against Texas Tech (Score: 0)
+- Summary: The Beavers had quite a few players show out in their week one loss to top 25 Houston, and some of these guys could be considered a bit of a surprise. For insta
+- Source: https://www.si.com/college/oregon-state/football/4-oregon-state-football-players-to-watch-against-texas-tech
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Beyond shared responsibility: When AI acts, who owns the blast radius? (Score: 0)
+- Summary: The cloud shared-responsibility model was initially not well-understood by many. In fact, early adopters often believed that simply having data in the cloud meant that Amazon Web Services Inc., or a software-as-a-service vendor, was responsible for safeguardi…
+- Source: https://siliconangle.com/2026/09/09/beyond-shared-responsibility-when-ai-acts-who-owns-the-blast-radius/
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SecureSky Acquires Soveren, Adding Industry-Leading Real-Time DSPM to Its Active Protection Platform (Score: 0)
+- Summary: OMAHA, Neb., Sept. 9, 2026 /PRNewswire/ -- SecureSky, a leading provider of Exposure Management and patented AI-based Managed Detection and Response (MDR) services, has acquired Soveren, an innovator in Data Security Posture Management (DSPM). The acquisition…
+- Source: https://www.prnewswire.com/news-releases/securesky-acquires-soveren-adding-industry-leading-real-time-dspm-to-its-active-protection-platform-302874103.html
+- Date: 2026-09-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The RealReal Expands Los Angeles Presence with New Glendale Store (Score: 0)
+- Summary: New Glendale location brings authenticated luxury resale, expert consignment services and a constantly evolving assortment of one-of-one designer finds to one of Los Angeles' premier shopping destinations GLENDALE, Calif., Sept. 9, 2026 /PRNewswire/ -- The Re…
+- Source: https://www.prnewswire.com/news-releases/the-realreal-expands-los-angeles-presence-with-new-glendale-store-302873838.html
+- Date: 2026-09-09
+- Vendors: None
+- Topics: None
+
+ARPA-H Selects UpDoc to Lead Development of Autonomous Clinical AI System, in an Initiative Joined by Microsoft, OpenAI and NVIDIA (Score: 0)
+- Summary: UpDoc awarded up to $9.2 million under ARPA-H's ADVOCATE program to develop and validate an autonomous clinical AI system intended for future FDA authorization and real-world deployment, starting in cardiovascular disease PALO ALTO, Calif., Sept. 9, 2026 /PRN…
+- Source: https://www.prnewswire.com/news-releases/arpa-h-selects-updoc-to-lead-development-of-autonomous-clinical-ai-system-in-an-initiative-joined-by-microsoft-openai-and-nvidia-302873780.html
+- Date: 2026-09-09
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
