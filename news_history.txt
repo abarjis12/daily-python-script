@@ -76938,3 +76938,157 @@ The tech projects Canada is selling to global investors at next week’s summit 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-09-19 16:37  ---
+
+Factory raises $200M for its self-improving software development platform (Score: 4)
+- Summary: Factory, a startup using artificial intelligence agents to speed up software projects, today announced that it has raised $200 million in funding. The round was backed by Blackstone, Khosla Ventures, Sequoia Capital, NEA and several other prominent investment…
+- Source: https://siliconangle.com/2026/09/15/factory-raises-200m-for-its-self-improving-software-development-platform/
+- Date: 2026-09-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+xsoar-cli 2.4.3 (Score: 2)
+- Summary: A command-line interface for managing Palo Alto Networks XSOAR (Cortex XSOAR)
+- Source: https://pypi.org/project/xsoar-cli/2.4.3/
+- Date: 2026-09-16
+- Vendors: Palo Alto Networks
+- Topics: None
+
+xsoar-cli 2.4.2 (Score: 2)
+- Summary: A command-line interface for managing Palo Alto Networks XSOAR (Cortex XSOAR)
+- Source: https://pypi.org/project/xsoar-cli/2.4.2/
+- Date: 2026-09-16
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Mamdani's new $4M NYC public bathrooms auto-open doors after 10 minutes (Score: 0)
+- Summary: Mayor Zohran Mamdani's $4 million public bathroom pilot installs Throne Labs units across NYC, but a strict 10-minute limit ends with the door opening.
+- Source: https://www.foxnews.com/media/mamdanis-new-4m-nyc-public-bathrooms-auto-open-doors-after-10-minutes
+- Date: 2026-09-17
+- Vendors: None
+- Topics: None
+
+cortex-tip added to PyPI (Score: 0)
+- Summary: Cortex TIP — Threat Intelligence & SOC Platform Docker Stack CLI
+- Source: https://pypi.org/project/cortex-tip/
+- Date: 2026-09-17
+- Vendors: None
+- Topics: None
+
+PayToMe.co Expands Self-Service AI Commerce Platform Following 700% Web Traffic Growth (Score: 0)
+- Summary: Businesses can sign up without a demo, connect Stripe and Plaid, and automate payments, invoicing and verification. PALO ALTO, Calif., Sept. 17, 2026 /PRNewswire/ -- PayToMe.co, a Silicon Valley AI and financial technology company, today announced increased d…
+- Source: https://www.prnewswire.com/news-releases/paytomeco-expands-self-service-ai-commerce-platform-following-700-web-traffic-growth-302881247.html
+- Date: 2026-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Ultimate Cyber Shield: CrowdStrike Rises Past $235 (Score: 0)
+- Summary: CrowdStrike shares hit 52-week highs near $242 after strong Q2 results showed 25.6% revenue growth and 51% ARR expansion, as cybersecurity spending resists b...
+- Source: https://www.marketbeat.com/articles/crowdstrike-hits-record-high-cyber-leader-breaks-out-on-call-flow/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-09-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+‘World’s coolest’ neighborhood for 2026 named by Time Out | CNN (Score: 0)
+- Summary: From foodie hubs to artsy enclaves, these are the best districts in cities across the globe, according to global listing guide Time Out.
+- Source: https://www.cnn.com/2026/09/16/travel/worlds-coolest-neighborhood-2026-time-out
+- Date: 2026-09-16
+- Vendors: None
+- Topics: None
+
+McBride H2 Earnings Call Highlights (Score: 0)
+- Summary: McBride (LON:MCB) reported what Chief Executive Officer Chris Smith described as a resilient full-year performance for the year ended June 30, 2026, despite...
+- Source: https://www.marketbeat.com/instant-alerts/transcript-mcbride-h2-earnings-call-highlights-2026-09-16/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-09-16
+- Vendors: None
+- Topics: None
+
+CrowdStrike, Other Cybersecurity Stocks Surge as AI Debate Takes Center Stage (Score: 0)
+- Summary: CrowdStrike stock rallies as tech leaders issue stark warnings on rapid AI evolution. Here’s why their warnings are bullish for cybersecurity stocks.
+- Source: https://www.barchart.com/story/news/4617812/crowdstrike-other-cybersecurity-stocks-surge-as-ai-debate-takes-center-stage
+- Date: 2026-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Delos Data Unveils Nonstop AI™ to Build and Scale Resilient AI Clusters to Deliver Nonstop Tokens (Score: 0)
+- Summary: Nonstop AI portfolio includes Reference Architecture, Data Interface, Software, Server, and Platform PALO ALTO, Calif., Sept. 15, 2026 /PRNewswire/ -- Delos Data today expanded the Delos Nonstop AI™ portfolio with the addition of the Delos Nonstop AI™ Data In…
+- Source: https://www.prnewswire.com/news-releases/delos-data-unveils-nonstop-ai-to-build-and-scale-resilient-ai-clusters-to-deliver-nonstop-tokens-302878474.html
+- Date: 2026-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Epstein-Barr virus-encoded microRNA-BART17-5p suppresses cell proliferation and metastasis by targeting CERK (Score: 0)
+- Summary: Author summary Epstein-Barr virus (EBV) is a common virus that infects most people worldwide and is linked to several types of cancer, including cancers of the stomach, nose, and blood system. Although this virus produces many small regulatory molecules, micr…
+- Source: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014519
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Globalgig expands managed security portfolio to protect enterprise AI (Score: 0)
+- Summary: Globalgig has expanded its managed security portfolio to cover enterprise AI, bringing together services that discover, assess, and protect the AI applications, agents, models, and data enterprises are putting into production. The services are delivered throu…
+- Source: https://www.helpnetsecurity.com/2026/09/15/globalgig-expands-managed-security-with-ai-protection/
+- Date: 2026-09-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Quote of the day by Mark Zuckerberg: ‘Give everyone a voice and give people power, the system usually ends up…’ – Facebook founder on why technology should empower people (Score: 0)
+- Summary: Mark Zuckerberg envisions a world where technology serves as a catalyst for individual empowerment and equitable power distribution. Through his creation, Facebook, now Meta, he has successfully interconnected billions worldwide. Meta also oversees platforms …
+- Source: https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-mark-zuckerberg-give-everyone-a-voice-and-give-people-power-the-system-usually-ends-up-facebook-founder-on-why-technology-should-empower-people/articleshow/134256157.cms
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Mark Zuckerberg - Colossus (Score: 0)
+- Summary: A journey to the heart of history’s largest nonterritorial empire
+- Source: https://colossus.com/article/mark-zuckerberg-profile/
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Lucile Packard Children's Hospital Stanford Ranks Among Top Children's Hospitals by U.S. News & World Report and Ties for Best in Northern California (Score: 0)
+- Summary: Nationally recognized in all pediatric specialties, with two specialties ranked in the top 5 Key rankings: Best Children's Hospital in Northern California Ranked No. 2 Children's Hospital in California Top 5 nationally in two specialties: Neonatology and Neph…
+- Source: https://www.prnewswire.com/news-releases/lucile-packard-childrens-hospital-stanford-ranks-among-top-childrens-hospitals-by-us-news--world-report-and-ties-for-best-in-northern-california-302876551.html
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+Frontiers | Multimodal transformer and directed relational graph learning for emotion recognition in conversations with potential applications in college student mental health research (Score: 0)
+- Summary: Frontiers | Multimodal transformer and directed relational graph learning for emotion recognition in conversations with potential applications in college student mental health researchfrontiersin.org
+- Source: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1867034/full
+- Date: 2026-09-15
+- Vendors: None
+- Topics: None
+
+AI Is Supercharging Cybersecurity Stocks. Here Are Wedbush’s 2 Favorite Picks. (Score: 0)
+- Summary: AI is giving cybersecurity a serious boost, and Wedbush is betting big on these two cybersecurity names, adding them to its Best Ideas List. Let’s see what’s...
+- Source: https://www.barchart.com/story/news/4593369/ai-is-supercharging-cybersecurity-stocks-here-are-wedbushs-2-favorite-picks
+- Date: 2026-09-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Verizon advances its AI-native 6G plans (Score: 0)
+- Summary: Verizon formed its 6G Innovation Forum in September 2025Now AWS, Cisco, Intel, Nvidia and more have joined that initiative The move will advance the telco’s AI…
+- Source: https://www.telecomtv.com/content/ai/verizon-advances-its-ai-native-6g-plans-56244/
+- Date: 2026-09-14
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+manyhands added to PyPI (Score: 0)
+- Summary: Run several local OCR models over the same page and show a human exactly which words they disagree on.
+- Source: https://pypi.org/project/manyhands/
+- Date: 2026-09-14
+- Vendors: None
+- Topics: None
+
+Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference (Score: 0)
+- Summary: Zscaler (NASDAQ:ZS) CEO and Founder Jay Chaudhry said the company entered fiscal 2027 with an expanded product portfolio, improving sales momentum and growin...
+- Source: https://www.marketbeat.com/instant-alerts/event-zscaler-ceo-highlights-ai-security-surge-zero-trust-momentum-at-citi-conference-2026-09-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+- Date: 2026-09-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
