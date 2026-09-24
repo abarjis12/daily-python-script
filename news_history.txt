@@ -77737,3 +77737,123 @@ McBride H2 Earnings Call Highlights (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-09-24 17:53  ---
+
+AI Agent Skills Are the New Supply Chain Attack Vector – And Most Have Never Been Vetted (Score: 3)
+- Summary: The rapid expansion of AI agent skill marketplaces has quietly turned into a significant supply-chain attack surface. As enterprises rush to equip their AI agents with new capabilities, they are increasingly relying on third-party skills that function much li…
+- Source: https://forkast.news/ai-agent-skills-are-the-new-supply-chain-attack-vector-and-most-have-never-been-vetted/
+- Date: 2026-09-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ovato Announces Listing on Toobit Exchange (Score: 2)
+- Summary: Continuing Its Expansion Across Multiple Exchanges to Support the Ovato Coin and Its Merchant Rewards Network PALO ALTO, Calif., Sept. 22, 2026 /PRNewswire/ -- Ovato (ovato.com; trading symbol: OVATO), a digital currency operated by Bitovation Corp., helps lo…
+- Source: https://www.prnewswire.com/news-releases/ovato-announces-listing-on-toobit-exchange-302885340.html
+- Date: 2026-09-22
+- Vendors: None
+- Topics: None
+
+AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack (Score: 2)
+- Summary: AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work.  As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive…
+- Source: https://blogs.nvidia.com/blog/ai-security-agent-stack/
+- Date: 2026-09-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada's 'Railway City' wants passenger trains back. Like much of the country, it's not so simple (Score: 2)
+- Summary: Canada is spending billions to expand passenger rail after decades of decline, but torn-up tracks, lost corridors and a surviving network built around freight means communities trying to bring trains back face a very different railway than the one they lost.
+- Source: https://www.cbc.ca/news/canada/st-thomas-ontario-passenger-rail-canada-9.7346675
+- Date: 2026-09-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+DROS-VEP-lite (Score: 0)
+- Summary: Open-source, 100% reproducible AI Agent Runtime Security Benchmark & Sandbox Environment (RFC-010 Draft Protocol).
+- Source: https://kitploit.com/en/tools/github/top-celestial-company-ltd/dros-vep-lite/
+- Date: 2026-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why Bernstein Still Sees 46% Upside in Zscaler (ZS) but Downgraded Palo Alto (PANW) (Score: 0)
+- Summary: Wall Street has spent much of 2026 rewarding cybersecurity stocks for the risks created by AI. Bernstein now thinks the easy part of that trade is over, with...
+- Source: https://finance.yahoo.com/markets/stocks/articles/why-bernstein-still-sees-46-041316215.html
+- Date: 2026-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The AI Your Company Never Approved Is Already Making Decisions (Score: 0)
+- Summary: The AI Your Company Never Approved Unapproved generative AI is already in daily work. Spotting it means watching prompts, SaaS, and endpoints. Managing it means sanctioned tools people will actually use, plus controls that treat paste as a data path. A produc…
+- Source: https://cloudtweaks.com/2026/09/ai-your-company-never-approved/
+- Date: 2026-09-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Transcript: Glen Kacher, CIO of Light Street Capital (Score: 0)
+- Summary: The transcript from this week’s MiB: Glen Kacher, CIO of Light Street Capital, is below. You can stream and download our full conversation, including any podcast extras, on Apple Podcasts, Spotify, YouTube (video), YouTube (audio), and Bloomberg. All of our e…
+- Source: https://ritholtz.com/2026/09/transcript-glen-kacher/
+- Date: 2026-09-22
+- Vendors: None
+- Topics: None
+
+EWOR names a San Francisco team as US applications surge 237% (Score: 0)
+- Summary: EWOR, a founder fellowship harder to get into than Y Combinator, has named a senior leadership team in San Francisco. The appointments follow a record year of US applications, up 237% in twelve months. The team comprises Charles Ferguson, the Oscar-winning fi…
+- Source: https://thenextweb.com/news/ewor-san-francisco-leadership-team-us-applications-237
+- Date: 2026-09-22
+- Vendors: Cisco
+- Topics: None
+
+Will students do their homework if it’s turned into a TikTok-style feed? ScrollEd thinks so. (Score: 0)
+- Summary: There's a new app turning textbooks into social media feeds that look like the For You Page. It's called ScrollEd, and it is trying to improve educational outcomes by making studying more fun for school-age kids.
+ScrollEd's founders are Utsav Gupta and Rebecc…
+- Source: https://www.tubefilter.com/2026/09/21/scrolled-turns-textbooks-into-tiktok-feeds-new-app/
+- Date: 2026-09-21
+- Vendors: None
+- Topics: None
+
+Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up (Score: 0)
+- Summary: AI safety warnings from the people building the models are landing inside cybersecurity revenue expectations, and the market is betting on which companies si...
+- Source: https://247wallst.com/investing/2026/09/21/cybersecurity-stocks-extend-gains-on-ai-safety-warnings-crowdstrike-and-okta-rise-4-palo-alto-ticks-up/
+- Date: 2026-09-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ScrollEd wants to turn textbooks into TikTok | TechCrunch (Score: 0)
+- Summary: ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.
+- Source: https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/
+- Date: 2026-09-20
+- Vendors: None
+- Topics: None
+
+Elon Musk totaled a $1 million McLaren with Peter Thiel riding shotgun — and hadn't bought insurance (Score: 0)
+- Summary: His last words before sending it: "Watch this."
+- Source: https://finance.yahoo.com/small-business/articles/elon-musk-totaled-1-million-090000791.html
+- Date: 2026-09-20
+- Vendors: None
+- Topics: None
+
+Mamdani's new $4M NYC public bathrooms auto-open doors after 10 minutes (Score: 0)
+- Summary: Mayor Zohran Mamdani's $4 million public bathroom pilot installs Throne Labs units across NYC, but a strict 10-minute limit ends with the door opening.
+- Source: https://www.foxnews.com/media/mamdanis-new-4m-nyc-public-bathrooms-auto-open-doors-after-10-minutes
+- Date: 2026-09-17
+- Vendors: None
+- Topics: None
+
+cortex-tip added to PyPI (Score: 0)
+- Summary: Cortex TIP — Threat Intelligence & SOC Platform Docker Stack CLI
+- Source: https://pypi.org/project/cortex-tip/
+- Date: 2026-09-17
+- Vendors: None
+- Topics: None
+
+PayToMe.co Expands Self-Service AI Commerce Platform Following 700% Web Traffic Growth (Score: 0)
+- Summary: Businesses can sign up without a demo, connect Stripe and Plaid, and automate payments, invoicing and verification. PALO ALTO, Calif., Sept. 17, 2026 /PRNewswire/ -- PayToMe.co, a Silicon Valley AI and financial technology company, today announced increased d…
+- Source: https://www.prnewswire.com/news-releases/paytomeco-expands-self-service-ai-commerce-platform-following-700-web-traffic-growth-302881247.html
+- Date: 2026-09-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
