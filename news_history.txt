@@ -78044,3 +78044,189 @@ Mamdani's new $4M NYC public bathrooms auto-open doors after 10 minutes (Score: 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-09-26 17:19  ---
+
+Loyalty Juggernaut Advances Responsible AI with ISO/IEC 42001 Certification (Score: 8)
+- Summary: Palo Alto (California) [US], September 25: Global loyalty technology leader Loyalty Juggernaut today announced that it has achieved ISO/IEC 42001:2023 certification for its Artificial Intelligence Management System, which governs the development, deployment, …
+- Source: https://www.aninews.in/news/business/loyalty-juggernaut-advances-responsible-ai-with-isoiec-42001-certification20260925103851
+- Date: 2026-09-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Loyalty Juggernaut Advances Responsible AI with ISO/IEC 42001 Certification (Score: 4)
+- Summary: Loyalty Juggernaut Advances Responsible AI with ISO/IEC 42001 Certification
+- Source: https://www.thehindubusinessline.com/brandhub/pr-release/loyalty-juggernaut-advances-responsible-ai-with-iso-iec-42001-certification/article71506903.ece
+- Date: 2026-09-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Loyalty Juggernaut Advances Responsible AI with ISO/IEC 42001 Certification (Score: 4)
+- Summary: British Standards Institution certifies the AI management system governing GRAVTY®'s pioneering Agentic Systems portfolio. PALO ALTO, Calif., Sept. 24, 2026 /PRNewswire/ -- Global loyalty technology leader Loyalty Juggernaut today announced that it has achiev…
+- Source: https://www.prnewswire.com/news-releases/loyalty-juggernaut-advances-responsible-ai-with-isoiec-42001-certification-302888232.html
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI Agent Skills Are the New Supply Chain Attack Vector – And Most Have Never Been Vetted (Score: 3)
+- Summary: The rapid expansion of AI agent skill marketplaces has quietly turned into a significant supply-chain attack surface. As enterprises rush to equip their AI agents with new capabilities, they are increasingly relying on third-party skills that function much li…
+- Source: https://forkast.news/ai-agent-skills-are-the-new-supply-chain-attack-vector-and-most-have-never-been-vetted/
+- Date: 2026-09-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Coworking Firm Industrious to Provide Hologram-Like Google Beam Meetings (Score: 2)
+- Summary: Industrious, a major flexible workplace company, announced Thursday that it has partnered with Google to launch a network of Google Beam meeting rooms exclusively for its members and guests. Google’s HP Dimension with Google Beam bills itself as an artificial…
+- Source: http://commercialobserver.com/2026/09/industrious-google-beam/
+- Date: 2026-09-24
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks tackles the risks of autonomous AI agents (Score: 2)
+- Summary: AI agent security now has to govern what autonomous software can do, not just what it can say. The shift from chatbots to autonomous agents changes the enterprise risk equation now that agents can access tools, retain information and act without waiting for a…
+- Source: https://siliconangle.com/2026/09/24/ai-agent-security-palo-alto-networks-googlecloudaiagentsinaction/
+- Date: 2026-09-24
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ovato Announces Listing on Toobit Exchange (Score: 2)
+- Summary: Continuing Its Expansion Across Multiple Exchanges to Support the Ovato Coin and Its Merchant Rewards Network PALO ALTO, Calif., Sept. 22, 2026 /PRNewswire/ -- Ovato (ovato.com; trading symbol: OVATO), a digital currency operated by Bitovation Corp., helps lo…
+- Source: https://www.prnewswire.com/news-releases/ovato-announces-listing-on-toobit-exchange-302885340.html
+- Date: 2026-09-22
+- Vendors: None
+- Topics: None
+
+AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack (Score: 2)
+- Summary: AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work.  As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive…
+- Source: https://blogs.nvidia.com/blog/ai-security-agent-stack/
+- Date: 2026-09-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Canada's 'Railway City' wants passenger trains back. Like much of the country, it's not so simple (Score: 2)
+- Summary: Canada is spending billions to expand passenger rail after decades of decline, but torn-up tracks, lost corridors and a surviving network built around freight means communities trying to bring trains back face a very different railway than the one they lost.
+- Source: https://www.cbc.ca/news/canada/st-thomas-ontario-passenger-rail-canada-9.7346675
+- Date: 2026-09-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agent kill switch urged by Okta-led alliance – how businesses could make it work (Score: 1)
+- Summary: In response to the emerging threat of rogue and shadow AI agents, here’s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.
+- Source: https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GreenboneOS: New Distributor Partnership: CoreWin Brings OPENVAS to Ukraine and the Region (Score: 0)
+- Summary: Greenbone is pleased to announce CoreWin as a new distribution partner. As a Ukraine-based value-added software distributor, CoreWin is well-positioned to make OPENVAS available in Ukraine, Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Moldova, and Uz…
+- Source: https://www.greenbone.net/en/blog/vulnerability-management-distributor/
+- Date: 2026-09-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Monogoto Receives 2026 IoT Evolution Product of the Year Award for the Second Consecutive Year (Score: 0)
+- Summary: Software-Defined Connectivity Cloud recognized back-to-back for turning connectivity into a programmable, intelligent layer of the IoT stack PALO ALTO, Calif., Sept. 24, 2026 /PRNewswire/ -- Monogoto, the pioneer of programmable hybrid connectivity, announced…
+- Source: https://www.prnewswire.com/news-releases/monogoto-receives-2026-iot-evolution-product-of-the-year-award-for-the-second-consecutive-year-302889610.html
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Island raises $400m at a $6.4bn valuation to govern AI agents (Score: 0)
+- Summary: Island, the Dallas company behind the Enterprise Browser, has raised $400m in a Series F round. The deal values it at $6.4bn, Island announced on Thursday. Evolution Equity Partners led the round. In March 2025, Island raised $250m in a Series E led by Coatue…
+- Source: https://thenextweb.com/news/island-series-f-400m-6-4bn-valuation-ai-agents
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How to watch Week 5 Corpus Christi high school football games (Score: 0)
+- Summary: Here is how you can watch all the Corpus Christi and Coastal Bend high school football games that will be broadcast in Week 5.
+- Source: https://www.caller.com/story/sports/high-school/football/2026/09/24/how-to-watch-week-5-corpus-christi-area-high-school-football-games/91830035007/
+- Date: 2026-09-24
+- Vendors: None
+- Topics: None
+
+Cybersecurity stocks are so hot investors question their staying power (Score: 0)
+- Summary: Recent warnings from the AI industry about threats posed by the technology have given investors reason to buy cybersecurity stocks. Read on
+- Source: https://financialpost.com/investing/cybersecurity-stocks-hot-investors-question-staying-power
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Docker Commits to Bringing the Sandbox Kit Spec to the CNCF (Score: 0)
+- Summary: Docker and the CNCF will partner on an open spec to make agent permissions portable  Docker Sandbox Kits let you package an AI agent together with exactly what it is allowed to do, so anyone can pull the same agent with the same limits, review changes to thos…
+- Source: https://www.linux.com/featured/docker-commits-to-bringing-the-sandbox-kit-spec-to-the-cncf/
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Oh no, here come the AI Tamagotchis (Score: 0)
+- Summary: Good morning. Today I’m watching yet another Fire Emblem: Fortune’s Weave review (watch this for context), getting started on my Booker Prize shortlist read-through, and reading as much as I can about Ella Langley’s “Choosin’ Texas” now that it’s the longest-…
+- Source: http://9to5google.com/2026/09/24/oh-no-here-come-the-ai-tamagotchis/
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+UConn men's basketball team needed a backup center. Dan Hurley found ‘He-Man' (Score: 0)
+- Summary: Na'jai Hines, Oskar Giltay may not provide same offensive production, but could be step up defensively at center for UConn.
+- Source: https://www.ctinsider.com/sports/uconn-mens-basketball/article/dan-hurley-centers-najai-hines-oskar-giltay-22445385.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication
+- Date: 2026-09-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global Zero Trust Security Heads for USD 162.08 Billion by 2034 as New Maximize Market Research Analysis Tracks 16.4% Growth (Score: 0)
+- Summary: CHICAGO, Sept. 23, 2026 /PRNewswire/ -- The Global Zero Trust Security Market was valued at USD 41.32 Billion in 2025 and is projected to expand at a strong 16.4% CAGR from 2026 to 2034, reaching approximately USD 162.08 Billion by 2034, according to a new an…
+- Source: https://www.prnewswire.com/news-releases/global-zero-trust-security-heads-for-usd-162-08-billion-by-2034-as-new-maximize-market-research-analysis-tracks-16-4-growth-302887765.html
+- Date: 2026-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Google Beam 3D meeting booths coming to co-working spaces (Score: 0)
+- Summary: Google today announced the latest expansion of its 3D meeting booths, including a partnership that brings Google Beam to co-working spaces in the US.
+
+
+
+ more…
+- Source: http://9to5google.com/2026/09/23/google-beam-co-working/
+- Date: 2026-09-23
+- Vendors: None
+- Topics: None
+
+DROS-VEP-lite (Score: 0)
+- Summary: Open-source, 100% reproducible AI Agent Runtime Security Benchmark & Sandbox Environment (RFC-010 Draft Protocol).
+- Source: https://kitploit.com/en/tools/github/top-celestial-company-ltd/dros-vep-lite/
+- Date: 2026-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Why Bernstein Still Sees 46% Upside in Zscaler (ZS) but Downgraded Palo Alto (PANW) (Score: 0)
+- Summary: Wall Street has spent much of 2026 rewarding cybersecurity stocks for the risks created by AI. Bernstein now thinks the easy part of that trade is over, with...
+- Source: https://finance.yahoo.com/markets/stocks/articles/why-bernstein-still-sees-46-041316215.html
+- Date: 2026-09-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The AI Your Company Never Approved Is Already Making Decisions (Score: 0)
+- Summary: The AI Your Company Never Approved Unapproved generative AI is already in daily work. Spotting it means watching prompts, SaaS, and endpoints. Managing it means sanctioned tools people will actually use, plus controls that treat paste as a data path. A produc…
+- Source: https://cloudtweaks.com/2026/09/ai-your-company-never-approved/
+- Date: 2026-09-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Transcript: Glen Kacher, CIO of Light Street Capital (Score: 0)
+- Summary: The transcript from this week’s MiB: Glen Kacher, CIO of Light Street Capital, is below. You can stream and download our full conversation, including any podcast extras, on Apple Podcasts, Spotify, YouTube (video), YouTube (audio), and Bloomberg. All of our e…
+- Source: https://ritholtz.com/2026/09/transcript-glen-kacher/
+- Date: 2026-09-22
+- Vendors: None
+- Topics: None
+
+EWOR names a San Francisco team as US applications surge 237% (Score: 0)
+- Summary: EWOR, a founder fellowship harder to get into than Y Combinator, has named a senior leadership team in San Francisco. The appointments follow a record year of US applications, up 237% in twelve months. The team comprises Charles Ferguson, the Oscar-winning fi…
+- Source: https://thenextweb.com/news/ewor-san-francisco-leadership-team-us-applications-237
+- Date: 2026-09-22
+- Vendors: Cisco
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
