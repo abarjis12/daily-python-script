@@ -79158,3 +79158,159 @@ How to watch Week 5 Corpus Christi high school football games (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-10-02 18:34  ---
+
+Loyalty Juggernaut Advances Responsible AI with ISO/IEC 42001 Certification (Score: 8)
+- Summary: Palo Alto (California) [US], September 25: Global loyalty technology leader Loyalty Juggernaut today announced that it has achieved ISO/IEC 42001:2023 certification for its Artificial Intelligence Management System, which governs the development, deployment, …
+- Source: https://www.aninews.in/news/business/loyalty-juggernaut-advances-responsible-ai-with-isoiec-42001-certification20260925103851
+- Date: 2026-09-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The VC Network: I’ve joined the Kauffman Fellows (Score: 4)
+- Summary: Inside the investor network built on trust. Photo of my fellow Kauffman Class 31 fellows, an amazing group of investors. I’m on far left, row 5 Career update: I’ve joined Kauffman Fellows, the program for VCs and investors. I was honored to be accepted into C…
+- Source: https://web-strategist.com/blog/2026/10/01/the-vc-network-ive-joined-the-kauffman-fellows/
+- Date: 2026-10-01
+- Vendors: None
+- Topics: None
+
+Google’s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders first (Score: 4)
+- Summary: Google LLC today began rolling out Gemini 4 Argon, a frontier artificial intelligence model that beats rival models from Anthropic PBC and OpenAI Group PBC on most of Google’s benchmarks, to vetted cybersecurity defenders. Outside Google’s own teams, only mem…
+- Source: https://siliconangle.com/2026/09/30/googles-new-frontier-ai-model-gemini-4-argon-goes-to-cybersecurity-defenders-first/
+- Date: 2026-09-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+In the AI era, identity evolves into the control plane for trust (Score: 4)
+- Summary: Every major security shift ultimately comes down to one question: Who or what is allowed to do this? For most of the past two decades, the answer was a person with a username and password. In the artificial intelligence era, the answer increasingly is an agen…
+- Source: https://siliconangle.com/2026/09/29/in-the-ai-era-identity-evolves-into-the-control-plane-for-trust/
+- Date: 2026-09-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent (Score: 4)
+- Summary: Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.
+
+"The implant installs the framework u…
+- Source: https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html
+- Date: 2026-09-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Loyalty Juggernaut Advances Responsible AI with ISO/IEC 42001 Certification (Score: 4)
+- Summary: Loyalty Juggernaut Advances Responsible AI with ISO/IEC 42001 Certification
+- Source: https://www.thehindubusinessline.com/brandhub/pr-release/loyalty-juggernaut-advances-responsible-ai-with-iso-iec-42001-certification/article71506903.ece
+- Date: 2026-09-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+DoorDash, which inspired Swiggy-Zomato, comes to India; looks to create 3,000 jobs (Score: 2)
+- Summary: DoorDash launched its first Indian office in Hyderabad, starting with 500 employees and planning to grow to over 3,000.&nbsp;
+- Source: https://www.livemint.com/companies/news/doordash-which-inspired-swiggy-zomato-comes-to-india-looks-to-create-3-000-jobs-11790763807628.html
+- Date: 2026-09-30
+- Vendors: None
+- Topics: None
+
+Palo Alto Networks’ Nikesh Arora is building a defense against the dark side of AI (Score: 2)
+- Summary: Cybersecurity’s AI reckoning has arrived, and Arora has become a go-to advisor to CEOs.
+- Source: https://fortune.com/2026/09/30/nikesh-arora-palo-alto-networks-ceo-ai-cybersecurity-defense/
+- Date: 2026-09-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks and NVIDIA want tighter control over AI agents (Score: 2)
+- Summary: Palo Alto Networks is expanding its work with NVIDIA to help companies control what AI agents can access and do. The collaboration covers agent activity, network traffic and identity management through NVIDIA’s Open Agent Safety Platform reference design. Pal…
+- Source: https://www.helpnetsecurity.com/2026/09/29/palo-alto-networks-nvidia-ai-agent-security/
+- Date: 2026-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CyberRatings.org and NSS Labs Announce 2026 Cloud Network Firewall Test Results (Score: 2)
+- Summary: Security Effectiveness Ranges from 0% to 99.95% AUSTIN, Texas, Sept. 29, 2026 /PRNewswire/ -- CyberRatings.org (CyberRatings), the non-profit organization dedicated to providing confidence in cybersecurity products and services through independent testing, to…
+- Source: https://www.prnewswire.com/news-releases/cyberratingsorg-and-nss-labs-announce-2026-cloud-network-firewall-test-results-302892181.html
+- Date: 2026-09-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agent identity security demands layered defenses, Omdia says (Score: 2)
+- Summary: AI agent identity security is testing whether consolidated platforms can protect a growing class of machine identities. Palo Alto Networks Inc.’s acquisition of CyberArk Software Ltd. reflects broader consolidation in the identity security market. Okta Inc. r…
+- Source: https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/
+- Date: 2026-09-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Harvest Now, Decrypt Later: Why Encrypted Data Is Already at Risk (Score: 0)
+- Summary: Encrypted Traffic Is Already Being Stockpiled Security teams still treat encryption as a present-tense control. If a session is encrypted on the wire, the working assumption is that the secret is safe. Harvest now, decrypt later (HNDL) is the strategy that tr…
+- Source: https://cloudtweaks.com/2026/10/harvest-now-decrypt-later-why-encrypted-data-is-already-at-risk/
+- Date: 2026-10-01
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SPARK I ACQUISITION CORPORATION ANNOUNCES ADDITIONAL CONTRIBUTION OF $0.10 PER SHARE TO TRUST ACCOUNT FOR EXTENSION (Score: 0)
+- Summary: PALO ALTO, Calif., Sept. 29, 2026 /PRNewswire/ -- Spark I Acquisition Corporation (the "Company") (OTC: "SPKLF") today announced that it has agreed to contribute a one-time deposit into the Company's trust account (the "Additional Contribution") in the amount…
+- Source: https://www.prnewswire.com/news-releases/spark-i-acquisition-corporation-announces-additional-contribution-of-0-10-per-share-to-trust-account-for-extension-302893311.html
+- Date: 2026-09-29
+- Vendors: None
+- Topics: None
+
+Auburn's SEC win over Vanderbilt triggers jump in USA TODAY re-rank (Score: 0)
+- Summary: How far did Auburn rise in the latest re-rank from USA TODAY after taking down Vanderbilt in Week 4?
+- Source: https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/09/29/auburn-football-usa-today-re-rank-surge-vanderbilt/92001319007/
+- Date: 2026-09-29
+- Vendors: None
+- Topics: None
+
+Threat Intelligence Market worth $26.68 billion by 2031 - Report by MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., Sept. 29, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Threat Intelligence Market is projected to grow from USD 13.15 billion in 2026 to USD 26.68 billion by 2031 at a CAGR of 15.2% during the forecast period. Browse 500 marke…
+- Source: https://www.prnewswire.com/news-releases/threat-intelligence-market-worth-26-68-billion-by-2031--report-by-marketsandmarkets-302892587.html
+- Date: 2026-09-29
+- Vendors: None
+- Topics: None
+
+Nvidia's AI safety platform will not take away agents' autonomy: Palo Alto (Score: 0)
+- Summary: Nvidia's Open Agent Safety Platform uses software and hardware controls to secure autonomous AI agents while allowing them to perform tasks with defined access and permissions
+- Source: https://www.business-standard.com/technology/artificial-intelligence/nvidia-ai-safety-platform-openshell-sentry-ai-agents-126092900781_1.html
+- Date: 2026-09-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA Bakes Agent Security Into the Silicon, Launches Open Agent Safety Platform With 120-Partner Coalition (Score: 0)
+- Summary: NVIDIA is moving the battle for AI security from the software layer down to the silicon. On September 28, 2026, the company unveiled its Open Agent Safety Platform, a direct response to recent, unsettling incidents where autonomous agents escaped their contro…
+- Source: https://forkast.news/nvidia-bakes-agent-security-into-the-silicon-launches-open-agent-safety-platform-with-120-partner-coalition/
+- Date: 2026-09-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Know what was tested before your SAP ECC migration goes live In this Help Net Security interview, Guilherme Joventino, COO of MIGNOW, explains why some large com…
+- Source: https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/
+- Date: 2026-09-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+An ex-Google chef's popular Japanese food emporium in Palo Alto just got even better (Score: 0)
+- Summary: Buzzy daytime spot Yutori had a soft opening with dinner service on Sept. 24.
+- Source: https://www.sfgate.com/food/article/japanese-food-emporium-palo-alto-22444501.php
+- Date: 2026-09-26
+- Vendors: None
+- Topics: None
+
+Can Cloudflare CEO Matthew Prince save the web from AI? (Score: 0)
+- Summary: Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the in…
+- Source: https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising
+- Date: 2026-09-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+GreenboneOS: New Distributor Partnership: CoreWin Brings OPENVAS to Ukraine and the Region (Score: 0)
+- Summary: Greenbone is pleased to announce CoreWin as a new distribution partner. As a Ukraine-based value-added software distributor, CoreWin is well-positioned to make OPENVAS available in Ukraine, Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Moldova, and Uz…
+- Source: https://www.greenbone.net/en/blog/vulnerability-management-distributor/
+- Date: 2026-09-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
