@@ -80398,3 +80398,157 @@ PaleBlueDot AI Raises $200M Series C Round to Scale Super Intelligence Infrastru
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-10-10 17:55  ---
+
+MAGIC: an international network for evaluating generative artificial intelligence in global health (Score: 6)
+- Summary: Nature Medicine - MAGIC: an international network for evaluating generative artificial intelligence in global health
+- Source: https://www.nature.com/articles/s41591-026-04706-x
+- Date: 2026-10-06
+- Vendors: None
+- Topics: None
+
+Cato Networks Appoints Former Palo Alto & Netskope Executive Chad Gardner as Chief Revenue Officer (Score: 2)
+- Summary: Gardner brings more than two decades of global sales leadership across cybersecurity, cloud, networking, and enterprise technology TEL AVIV, Israel, Oct. 7, 2026 /PRNewswire/ -- Cato Networks, the converged network and security cloud for the AI era, today ann…
+- Source: https://www.prnewswire.com/news-releases/cato-networks-appoints-former-palo-alto--netskope-executive-chad-gardner-as-chief-revenue-officer-302898809.html
+- Date: 2026-10-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Zscaler’s Agentic SOC Launch Signals the Category Startups Built Is Now an Enterprise Requirement (Score: 2)
+- Summary: Security teams are struggling to keep up with autonomous software. These programs make decisions and execute tasks on their own, but the tools used to monitor networks were built for a slower era. On September 9, 2026, Zscaler launched its Agentic SOC to addr…
+- Source: https://forkast.news/zscalers-agentic-soc-launch-signals-the-category-startups-built-is-now-an-enterprise-requirement/
+- Date: 2026-10-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Even with OT network visibility, critical infrastructure operators struggle with legacy equipment (Score: 2)
+- Summary: Large critical infrastructure operators run seven separate security tools on average, and most still cannot see every asset on their operational technology (OT) networks. That is the picture from a Palo Alto Networks survey of more than 1,600 security and ope…
+- Source: https://www.helpnetsecurity.com/2026/10/07/ot-network-visibility-challenges/
+- Date: 2026-10-07
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Vinci reels in $250M for its engineering simulation platform (Score: 2)
+- Summary: Vinci4D Inc. today announced that it has closed a $250 million funding round at a $1.5 billion valuation. Advent, Temasek and Xora jointly led the Series B deal. They were joined by several startup funds including AMD Ventures. Hardware engineers use simulati…
+- Source: https://siliconangle.com/2026/10/06/vinci-reels-in-250m-for-its-engineering-simulation-platform/
+- Date: 2026-10-06
+- Vendors: None
+- Topics: None
+
+Nectar MCP Brings Consumer and Creator Data to ChatGPT, Claude, Gemini and Copilot (Score: 0)
+- Summary: Nectar puts social, community, creator, customer care and insights teams on one platform. Now its answers come to the AI assistant businesses already use. PALO ALTO, Calif. — Nectar, the agentic growth operating system connecting businesses to consumers, toda…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/nectar-mcp-brings-consumer-and-creator-data-to-chatgpt-claude-gemini-and-copilot
+- Date: 2026-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Integrating large language model-generated culturally adapted verbal suggestions into music therapy for university students: A pilot randomized exploratory study (Score: 0)
+- Summary: Previous research has suggested that culturally mismatched interventions may cause resistance and reduce the effectiveness of music-based interventions. This pilot randomized exploratory study examined the implementation and preliminary outcomes of a music-ba…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360478
+- Date: 2026-10-09
+- Vendors: None
+- Topics: None
+
+18 insights from SailPoint’s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed (Score: 0)
+- Summary: AI agents have made identity the front line of enterprise security. Agents now number in the thousands. They pick up access nobody meant to give them, and when they’re blocked partway through a task, they look for another way in. That has turned identity secu…
+- Source: https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/
+- Date: 2026-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI company moves to defend critical infrastructure and open-source projects from AI (Score: 0)
+- Summary: Anthropic says for the next two years, attackers will have the advantage
+- Source: https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128
+- Date: 2026-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic launches critical infrastructure program and free OSS Scanner for open source (Score: 0)
+- Summary: Anthropic PBC today launched a program that brings its frontier models and onsite engineers to the security companies protecting power grids, water systems and other critical infrastructure. OSS Scanner, launched with it, offers open-source projects free peri…
+- Source: https://siliconangle.com/2026/10/08/anthropic-launches-critical-infrastructure-program-and-free-oss-scanner-for-open-source/
+- Date: 2026-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hurricanes basketball tip-off times, broadcasts announced (Score: 0)
+- Summary: The Hurricanes’ men’s basketball team is going to be on the national stage often this season. The ACC announced its basketball tip-off times and TV schedule for the upcoming season, and Miami has multiple night games on ESPN or ESPN2 this season, including th…
+- Source: https://www.sun-sentinel.com/2026/10/07/um-hoops-tv/
+- Date: 2026-10-07
+- Vendors: None
+- Topics: None
+
+GovCIO Partners with CLEAR to Pilot a New Way for Veterans to Securely Access VA.gov (Score: 0)
+- Summary: As VA.gov's modernization prime, GovCIO teamed with CLEAR to give Veterans more choice in how they sign in. FAIRFAX, Va., Oct. 7, 2026 /PRNewswire/ -- The Department of Veterans Affairs on Wednesday introduced a new pilot identity verification option to make …
+- Source: https://www.prnewswire.com/news-releases/govcio-partners-with-clear-to-pilot-a-new-way-for-veterans-to-securely-access-vagov-302901323.html
+- Date: 2026-10-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI Cybersecurity Market worth $95.25 billion by 2031 - Report by MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., Oct. 7, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the AI Cybersecurity Market is projected to grow from USD 31.25 billion in 2026 to USD 95.25 billion by 2031 at a CAGR of 25.0% during the forecast period. Browse 500 market dat…
+- Source: https://www.prnewswire.com/news-releases/ai-cybersecurity-market-worth-95-25-billion-by-2031--report-by-marketsandmarkets-302900898.html
+- Date: 2026-10-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U.S. Department of Veterans Affairs Selects CLEAR for New Pilot Initiative to Modernize the Veteran Experience on VA.gov (Score: 0)
+- Summary: First-of-its-kind effort to close the gap between the benefits Veterans have earned and the benefits they receive NEW YORK, Oct. 7, 2026 /PRNewswire/ -- CLEAR (NYSE: YOU), the secure identity company, announced today that the U.S. Department of Veterans Affai…
+- Source: https://www.prnewswire.com/news-releases/us-department-of-veterans-affairs-selects-clear-for-new-pilot-initiative-to-modernize-the-veteran-experience-on-vagov-302900511.html
+- Date: 2026-10-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Mobility hinders malaria elimination goals in the Brazilian Amazon (Score: 0)
+- Summary: Author summary Malaria elimination depends not only on reducing local transmission, but also on preventing infections from being carried into places where malaria has already declined or disappeared. In the Brazilian Amazon, human movement is shaped by mining…
+- Source: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014843
+- Date: 2026-10-06
+- Vendors: None
+- Topics: None
+
+The RpfF Acyl-ACP thioesterase of major rice pathogen Xanthomonas oryzae pv. oryzae is essential for maintenance of membrane function and virulence (Score: 0)
+- Summary: Author summary We demonstrate that the Xoo RpfF enzyme serves a dual role: it produces DSF-family quorum-sensing signals and, through its acyl-ACP thioesterase activity, maintains membrane integrity. By regulating de novo fatty acid biosynthesis, RpfF ensures…
+- Source: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014669
+- Date: 2026-10-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+EXCLUSIVE: One Year On, Chanel’s Bruno Pavlovsky Talks Sales Growth, Retail Strategy and Matthieu Blazy Impact (Score: 0)
+- Summary: Chanel's Bruno Pavlovsky discusses sales growth, retail strategy, and Matthieu Blazy's creative impact as the brand outperforms luxury competitors.
+- Source: http://wwd.com/fashion-news/fashion-features/chanel-sales-growth-retail-strategy-matthieu-blazy-impact-1239312403/
+- Date: 2026-10-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Clockwork.io Raises $31M as LinkedIn, Together AI and WhiteFiber Adopt Its Resilience Software to Stop Wasting GPU-Hours (Score: 0)
+- Summary: LinkedIn prevents tens of thousands of GPU-hours of downtime monthly; new TorchPass innovations preserve AI workload progress without code changes and speed reinforcement learning. PALO ALTO, Calif., Oct. 5, 2026 /PRNewswire/ -- Clockwork.io, whose fault-tole…
+- Source: https://www.prnewswire.com/news-releases/clockworkio-raises-31m-as-linkedin-together-ai-and-whitefiber-adopt-its-resilience-software-to-stop-wasting-gpu-hours-302897588.html
+- Date: 2026-10-05
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ten Years of Hoover Institution Boot Camp: How Hoover Connects Students with Top Scholars (Score: 0)
+- Summary: After 10 years, nearly 1,000 students have now engaged up close with the field-leading scholars of the Hoover Institution through its Summer Policy Boot Camp (HISPBC).
+- Source: https://www.hoover.org/news/ten-years-hoover-institution-boot-camp-how-hoover-connects-students-top-scholars
+- Date: 2026-10-05
+- Vendors: None
+- Topics: None
+
+Top Wall Street analysts are upbeat about the prospects for these 3 stocks (Score: 0)
+- Summary: Investors with a long-term horizon can track ratings from top Wall Street analysts to find stocks with solid growth prospects.
+- Source: https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html
+- Date: 2026-10-04
+- Vendors: None
+- Topics: None
+
+9 insights from ‘Private Tech Trailblazers’: Vertical AI becomes the growth engine (Score: 0)
+- Summary: The companies featured at the recent Bank of America Private Tech Trailblazers Conference point to where the next wave of AI growth is taking shape: specialized technology built around proprietary data, industry-specific workflows and, increasingly, purpose-b…
+- Source: https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/
+- Date: 2026-10-03
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
