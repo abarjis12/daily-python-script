@@ -81181,3 +81181,181 @@ U.S. Department of Veterans Affairs Selects CLEAR for New Pilot Initiative to Mo
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-10-15 17:49  ---
+
+DATA Network joins Sui and Walrus to scale the supply chain for AI training data (Score: 5)
+- Summary: Palo Alto, United States, 12th October 2026, Chainwire
+The post DATA Network joins Sui and Walrus to scale the supply chain for AI training data appeared first on The Daily Hodl.
+- Source: https://dailyhodl.com/2026/10/11/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data/
+- Date: 2026-10-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ITNE: AI, Careers, Linux, Security, Techstrong.IT, Cisco, Google, KnowBe4, Oracle, Palo Alto Networks, ServiceNow, Splunk, Tenable, Marketing Events (Score: 4)
+- Summary: ITNE: AI, Careers, Linux, Security, Techstrong.IT, Cisco, Google, KnowBe4, Oracle, Palo Alto Networks, ServiceNow, Splunk, Tenable, Marketing Eventssubstack.com
+- Source: https://itnews.substack.com/p/itne-ai-careers-linux-security-techstrongit
+- Date: 2026-10-13
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records (Score: 4)
+- Summary: Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.
+
+The activity, which brings toge…
+- Source: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+- Date: 2026-10-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0321 PAN-OS: Denial of Service (DoS) Vulnerabilities in Network Services (Severity: MEDIUM) (Score: 2)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0315 GlobalProtect…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0321
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+Monogoto Named Gold Winner for Software-Defined Networking in 2026 Merit Awards for Technology (Score: 2)
+- Summary: Recognizing Monogoto for bringing software-defined control to IoT connectivity PALO ALTO, Calif., Oct. 13, 2026 /PRNewswire/ -- Monogoto, the pioneer of programmable hybrid connectivity, announced today that its Software-Defined Connectivity Cloud has been na…
+- Source: https://www.prnewswire.com/news-releases/monogoto-named-gold-winner-for-software-defined-networking-in-2026-merit-awards-for-technology-302907341.html
+- Date: 2026-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0319 PAN-OS: Improper Input Handling Vulnerability (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0316 PAN-OS: Store…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0319
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+CVE-2026-0316 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability (Severity: LOW) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0315 GlobalProtect…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0316
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+CVE-2026-0311 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0316 PAN-OS: Store…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0311
+- Date: 2026-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0315 GlobalProtect App: Local Privilege Escalation Vulnerability on macOS (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0316 PAN-OS: Store…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0315
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0319 PAN-OS: Improper Input Handling Vulnerability (Severity: MEDIUM) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0316 PAN-OS: Stored Cross-Site Scripting (XSS) V…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0322
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+PAN-SA-2026-0013 Chromium: Monthly Vulnerability Update (October 2026) (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0315 GlobalProtect…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0013
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock (Score: 0)
+- Summary: Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud e…
+- Source: https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/
+- Date: 2026-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Moderne Ventures announces seven new companies selected to join its exclusive Moderne Passport industry immersion program (Score: 0)
+- Summary: CHICAGO, Oct. 13, 2026 /PRNewswire/ -- Moderne Ventures is pleased to announce its Fall 2026 Passport Class. Moderne Ventures is a strategic venture capital firm that invests in transformative technologies like AI, robotics, fintech and digital transactions a…
+- Source: https://www.prnewswire.com/news-releases/moderne-ventures-announces-seven-new-companies-selected-to-join-its-exclusive-moderne-passport-industry-immersion-program-302907443.html
+- Date: 2026-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Netbox Labs partners with NVIDIA and Grafana Labs, announces new additions to the NetBox Infrastructure Intelligence Platform to Assemble the Intelligence Layer for AI Datacenter and Enterprise Infrastructure Buildouts (Score: 0)
+- Summary: NetBox, already used by more than 90% of top neoclouds, and companies including Arm, J.P. Morgan Chase and CoreWeave, becomes native to NVIDIA DSX OS and the Grafana catalog, and adds new ways for people and AI agents to design and run the world’s most comple…
+- Source: https://financialpost.com/globe-newswire/netbox-labs-partners-with-nvidia-and-grafana-labs-announces-new-additions-to-the-netbox-infrastructure-intelligence-platform-to-assemble-the-intelligence-layer-for-ai-datacenter-and-enterprise-infras
+- Date: 2026-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+New Plume Console Multiplies ISP Business Results by Putting AI Agents to Work on Cost to Serve, Churn Reduction and Revenue Growth (Score: 0)
+- Summary: Plume Console gives every ISP team AI agents that autonomously find and resolve complex subscriber issues, turn months of analysis into a few clicks, while enabling operators to cut cost to serve, reduce churn and uncover new revenue opportunities VIENNA and …
+- Source: https://www.prnewswire.com/news-releases/new-plume-console-multiplies-isp-business-results-by-putting-ai-agents-to-work-on-cost-to-serve-churn-reduction-and-revenue-growth-302906425.html
+- Date: 2026-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+insidepacket Launches the AI Access Platform: One On-Ramp Between Enterprises and GPU Clouds (Score: 0)
+- Summary: One access solution: providers sell it under their brand; operators run it as their marketplace; enterprises reach participating compute providers in minutes. PALO ALTO, Calif. and LONDON, Oct. 12, 2026 /PRNewswire/ -- insidepacket today announced the AI Acce…
+- Source: https://www.prnewswire.com/news-releases/insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-302905480.html
+- Date: 2026-10-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+insidepacket Launches the AI Access Platform: One On-Ramp Between Enterprises and GPU Clouds (Score: 0)
+- Summary: One access solution: providers sell it under their brand; operators run it as their marketplace; enterprises reach participating compute providers in minutes. PALO ALTO, Calif. and LONDON, Oct. 12, 2026 /PRNewswire/ -- insidepacket today announced the AI Acce…
+- Source: https://www.prnewswire.com/news-releases/insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-302905481.html
+- Date: 2026-10-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: FortiBleed is still active, Patch Tuesday forecast (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Three questions a hospital CISO should ask a healthcare fintech vendor In this Help Net Security interview, Drew McCombs, CTO and CISO at Cylerity, explains how …
+- Source: https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/
+- Date: 2026-10-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nectar MCP Brings Consumer and Creator Data to ChatGPT, Claude, Gemini and Copilot (Score: 0)
+- Summary: Nectar puts social, community, creator, customer care and insights teams on one platform. Now its answers come to the AI assistant businesses already use. PALO ALTO, Calif. — Nectar, the agentic growth operating system connecting businesses to consumers, toda…
+- Source: https://financialpost.com/pmn/business-wire-news-releases-pmn/nectar-mcp-brings-consumer-and-creator-data-to-chatgpt-claude-gemini-and-copilot
+- Date: 2026-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Integrating large language model-generated culturally adapted verbal suggestions into music therapy for university students: A pilot randomized exploratory study (Score: 0)
+- Summary: Previous research has suggested that culturally mismatched interventions may cause resistance and reduce the effectiveness of music-based interventions. This pilot randomized exploratory study examined the implementation and preliminary outcomes of a music-ba…
+- Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360478
+- Date: 2026-10-09
+- Vendors: None
+- Topics: None
+
+18 insights from SailPoint’s Navigate event: Enterprises race to bring identity security for AI agents up to machine speed (Score: 0)
+- Summary: AI agents have made identity the front line of enterprise security. Agents now number in the thousands. They pick up access nobody meant to give them, and when they’re blocked partway through a task, they look for another way in. That has turned identity secu…
+- Source: https://siliconangle.com/2026/10/09/identity-security-ai-agents-18-insights-from-navigate-2026-sailpointnavigate/
+- Date: 2026-10-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI company moves to defend critical infrastructure and open-source projects from AI (Score: 0)
+- Summary: Anthropic says for the next two years, attackers will have the advantage
+- Source: https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128
+- Date: 2026-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic launches critical infrastructure program and free OSS Scanner for open source (Score: 0)
+- Summary: Anthropic PBC today launched a program that brings its frontier models and onsite engineers to the security companies protecting power grids, water systems and other critical infrastructure. OSS Scanner, launched with it, offers open-source projects free peri…
+- Source: https://siliconangle.com/2026/10/08/anthropic-launches-critical-infrastructure-program-and-free-oss-scanner-for-open-source/
+- Date: 2026-10-08
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hurricanes basketball tip-off times, broadcasts announced (Score: 0)
+- Summary: The Hurricanes’ men’s basketball team is going to be on the national stage often this season. The ACC announced its basketball tip-off times and TV schedule for the upcoming season, and Miami has multiple night games on ESPN or ESPN2 this season, including th…
+- Source: https://www.sun-sentinel.com/2026/10/07/um-hoops-tv/
+- Date: 2026-10-07
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
