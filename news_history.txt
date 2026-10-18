@@ -81735,3 +81735,193 @@ PAN-SA-2026-0013 Chromium: Monthly Vulnerability Update (October 2026) (Severity
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-10-18 16:39  ---
+
+DATA Network joins Sui and Walrus to scale the supply chain for AI training data (Score: 5)
+- Summary: Palo Alto, United States, 12th October 2026, Chainwire
+The post DATA Network joins Sui and Walrus to scale the supply chain for AI training data appeared first on The Daily Hodl.
+- Source: https://dailyhodl.com/2026/10/11/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data/
+- Date: 2026-10-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ITNE: AI, Careers, Linux, Security, Techstrong.IT, Cisco, Google, KnowBe4, Oracle, Palo Alto Networks, ServiceNow, Splunk, Tenable, Marketing Events (Score: 4)
+- Summary: ITNE: AI, Careers, Linux, Security, Techstrong.IT, Cisco, Google, KnowBe4, Oracle, Palo Alto Networks, ServiceNow, Splunk, Tenable, Marketing Eventssubstack.com
+- Source: https://itnews.substack.com/p/itne-ai-careers-linux-security-techstrongit
+- Date: 2026-10-13
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records (Score: 4)
+- Summary: Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.
+
+The activity, which brings toge…
+- Source: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+- Date: 2026-10-12
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability (Score: 2)
+- Summary: Cybersecurity stocks sold off again on Friday amid a hacker vulnerability involving a Palo Alto Networks network firewall platform.
+The post Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability appeared first on Investor's Business Daily.
+- Source: https://biztoc.com/x/86b2a227d1d053df
+- Date: 2026-10-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog (Score: 2)
+- Summary: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …
+- Source: https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+- Date: 2026-10-15
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation (Score: 2)
+- Summary: Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.
+
+The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management i…
+- Source: https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html
+- Date: 2026-10-15
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks (Score: 2)
+- Summary: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]
+- Source: https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/
+- Date: 2026-10-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+pan-airs-api-mgmt-sdk 0.4.1a1 (Score: 2)
+- Summary: Palo Alto Networks Prisma AIRS Runtime API Management SDK
+- Source: https://pypi.org/project/pan-airs-api-mgmt-sdk/0.4.1a1/
+- Date: 2026-10-14
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0321 PAN-OS: Denial of Service (DoS) Vulnerabilities in Network Services (Severity: MEDIUM) (Score: 2)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0315 GlobalProtect…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0321
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+Monogoto Named Gold Winner for Software-Defined Networking in 2026 Merit Awards for Technology (Score: 2)
+- Summary: Recognizing Monogoto for bringing software-defined control to IoT connectivity PALO ALTO, Calif., Oct. 13, 2026 /PRNewswire/ -- Monogoto, the pioneer of programmable hybrid connectivity, announced today that its Software-Defined Connectivity Cloud has been na…
+- Source: https://www.prnewswire.com/news-releases/monogoto-named-gold-winner-for-software-defined-networking-in-2026-merit-awards-for-technology-302907341.html
+- Date: 2026-10-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ServiceNow AI Control Tower: Selling a penthouse while building the frame (Score: 0)
+- Summary: ServiceNow Inc. is making one of the more consequential and visible bets in enterprise AI. The company says AI Control Tower can discover and govern any agent, work across models and clouds, track cost and value, and shut down behavior that violates policy. T…
+- Source: https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/
+- Date: 2026-10-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best AI Agent Governance Tools in 2026: Reviews & Comparisons (Score: 0)
+- Summary: AI agents are becoming a huge category of software running inside our organizations. The problem is that many companies are adopting them faster than they can inventory, secure, and govern them. I have also heard that CIOs and CISOs in some organizations are …
+- Source: https://sematext.com/blog/best-ai-agent-governance-tools/
+- Date: 2026-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PEERSTITCH malware: How Attackers Compromised 500 Firewalls Through FortiManager (Score: 0)
+- Summary: PEERSTITCH malware exploited FortiManager to expose 500+ firewalls, evade detection inside FortiOS memory, and maintain stealthy access. PEERSTITCH, a stealthy implant deployed during a prolonged intrusion, helped attackers maintain access to a telecom manage…
+- Source: https://securityaffairs.com/201077/malware/peerstitch-malware-how-attackers-compromised-500-firewalls-through-fortimanager.html
+- Date: 2026-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions (Score: 0)
+- Summary: A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.
+
+The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4),…
+- Source: https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
+- Date: 2026-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Social Reckoning: A Riveting, Revelatory Masterpiece! (Score: 0)
+- Summary: Hold onto your smartphones, folks, because Aaron Sorkin has done it again! The Social Reckoning is not merely a movie. It is a cinematic detonation! An absolute tour de force! From the dynamic opening scene to the breathless climax, this pulse-pounding master…
+- Source: https://freerepublic.com/focus/f-bloggers/4399265/posts
+- Date: 2026-10-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Prompt injection in HTTP headers: what 217M web responses show (Score: 0)
+- Summary: Our Common Crawl scan found 7,959 sites sending HTTP headers aimed at AI agents, including 30 injection attempts. See what they say and how to defend agents.
+- Source: https://www.signalscorps.com/blog/prompt-injection-in-http-headers/
+- Date: 2026-10-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Peter Thiel: Prophet, Provocateur or Threat to Liberal Democracy? (Score: 0)
+- Summary: Few figures in contemporary technology and politics generate as much contradictory commentary as entrepreneur and venture capitalist Peter Thiel. Depending on the lens, he appears as a visionary investor, a philosophical contrarian, a kingmaker of the America…
+- Source: https://www.fairobserver.com/united-states/peter-thiel-prophet-provocateur-or-threat-to-liberal-democracy/
+- Date: 2026-10-15
+- Vendors: None
+- Topics: None
+
+CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products (Score: 0)
+- Summary: The US Cybersecurity and Infrastructure Security Agency (CISA) has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog: CVE-2026-0322, a high-severity remote code execution (RCE) vulnerability in the management interface of Pal…
+- Source: https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/
+- Date: 2026-10-15
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Photos show how classrooms have changed for millennials, Gen Z, and Gen Alpha (Score: 0)
+- Summary: Since 2000, classrooms in the US have seen dramatic changes. Photos show technology differences, cultural shifts between generations, and more.
+- Source: https://www.businessinsider.com/photos-how-classrooms-evolved-over-generations-millenials-gen-z-2026-10#article
+- Date: 2026-10-15
+- Vendors: None
+- Topics: None
+
+Palo Alto Products Multiple Vulnerabilities (Score: 0)
+- Summary: Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, cross-site scripting and securit
+- Source: https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261015
+- Date: 2026-10-15
+- Vendors: None
+- Topics: None
+
+fwshift added to PyPI (Score: 0)
+- Summary: FWShift: multi-vendor firewall policy converter, auditor and zone matrix (PAN-OS, FortiOS, Check Point, Cisco ASA, Cisco Secure Firewall, Sophos Firewall, pfSense, SonicWall, WatchGuard, Barracuda, Juniper SRX, iptables) with a lossiness report
+- Source: https://pypi.org/project/fwshift/
+- Date: 2026-10-15
+- Vendors: Cisco
+- Topics: None
+
+CVE-2026-0319 PAN-OS: Improper Input Handling Vulnerability (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0316 PAN-OS: Store…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0319
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+CVE-2026-0316 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability (Severity: LOW) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0315 GlobalProtect…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0316
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+CVE-2026-0311 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0316 PAN-OS: Store…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0311
+- Date: 2026-10-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0315 GlobalProtect App: Local Privilege Escalation Vulnerability on macOS (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH) CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM) CVE-2026-0316 PAN-OS: Store…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0315
+- Date: 2026-10-14
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
