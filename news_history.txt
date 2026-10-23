@@ -82686,3 +82686,192 @@ Prompt injection in HTTP headers: what 217M web responses show (Score: 0)
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-10-23 17:54  ---
+
+What the PHP2Shell vulnerability means for Fortinet, Cisco and Palo Alto customers (Score: 2)
+- Summary: Palo Alto Networks confirmed that all versions of PAN-OS and Panorama are affected by PHP2Shell, a pair of critical PHP vulnerabilities that let an attacker run code on a web server without logging in. Palo Alto has not shipped fixed PAN-OS releases yet. Fort…
+- Source: https://www.helpnetsecurity.com/2026/10/22/php2shell-vulnerability-fortinet-cisco-palo-alto-networks/
+- Date: 2026-10-22
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Qilin and INC Exploited a Patched Palo Alto VPN Bypass for Four Months. ConnectWise Shows Where the Same Trust Failure Went Next. (Score: 2)
+- Summary: Ransomware operators have spent roughly four months monetizing a critical authentication bypass in Palo Alto Networks GlobalProtect VPN software. While the vulnerability was patched in May, Unit 42 reported on October 19 that the threat actors behind the Spik…
+- Source: https://forkast.news/qilin-and-inc-exploited-a-patched-palo-alto-vpn-bypass-for-four-months-connectwise-shows-where-the-same-trust-failure-went-next/
+- Date: 2026-10-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netconverter-cli added to PyPI (Score: 2)
+- Summary: NetConverter CLI — any-vendor network configuration migration, validation and optimization, and a local MCP bridge for your AI assistant
+- Source: https://pypi.org/project/netconverter-cli/
+- Date: 2026-10-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Software-defined Wide Area Network (SD-WAN) Market worth $71.42 billion by 2032 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Oct. 21, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Software-defined Wide Area Network (SD-WAN) is projected to grow from USD 27.34 billion in 2026 and to reach USD 71.42 billion by 2032, at a CAGR of 17.4% from 2026 to 2032…
+- Source: https://www.prnewswire.co.uk/news-releases/software-defined-wide-area-network-sd-wan-market-worth-71-42-billion-by-2032--report-by-marketsandmarkets-302915337.html
+- Date: 2026-10-21
+- Vendors: None
+- Topics: None
+
+Software-defined Wide Area Network (SD-WAN) Market worth $71.42 billion by 2032 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Oct. 21, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Software-defined Wide Area Network (SD-WAN) is projected to grow from USD 27.34 billion in 2026 and to reach USD 71.42 billion by 2032, at a CAGR of 17.4% from 2026 to 2032…
+- Source: https://www.prnewswire.com/news-releases/software-defined-wide-area-network-sd-wan-market-worth-71-42-billion-by-2032--report-by-marketsandmarkets-302915301.html
+- Date: 2026-10-21
+- Vendors: None
+- Topics: None
+
+Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June (Score: 2)
+- Summary: Several ransomware groups are exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks’ PAN-OS GlobalProtect patched in May, to break into organizations in sectors ranging from healthcare and education to government and energy. CVE-2026-0257 s…
+- Source: https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/
+- Date: 2026-10-21
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Palo Alto's firewall OS has been under attack from multiple ransomware groups since June (Score: 2)
+- Summary: Unit 42 investigates network compromises across numerous industries
+- Source: https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
+- Date: 2026-10-20
+- Vendors: None
+- Topics: None
+
+Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA (Score: 2)
+- Summary: Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting  PAN-OS and Prisma Access by ransomware actors.
+
+The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that…
+- Source: https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html
+- Date: 2026-10-20
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability (Score: 2)
+- Summary: Cybersecurity stocks sold off again on Friday amid a hacker vulnerability involving a Palo Alto Networks network firewall platform.
+The post Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability appeared first on Investor's Business Daily.
+- Source: https://biztoc.com/x/86b2a227d1d053df
+- Date: 2026-10-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+U.S. CISA adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog (Score: 2)
+- Summary: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Palo Alto Networks PAN-OS, Ahsay AhsayCBS, and Cisco Secure Email Gateway flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) …
+- Source: https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+- Date: 2026-10-15
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Exclusive: Hundreds of shady Chrome VPN extensions target Russians — including fakes of Windscribe and ExpressVPN (Score: 0)
+- Summary: Shady VPNs are giving people a ‘false sense of security.’ But why are Russians being targeted?
+- Source: https://www.techradar.com/vpn/vpn-privacy-security/exclusive-hundreds-of-shady-chrome-vpn-extensions-target-russians-including-fakes-of-windscribe-and-expressvpn
+- Date: 2026-10-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed (Score: 0)
+- Summary: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the …
+- Source: https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html
+- Date: 2026-10-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nvidia turns the AI factory into a product, and agents into the workload (Score: 0)
+- Summary: For most of the past half-decade, the narrative around Nvidia Corp. has largely centered on the graphics processing unit. The questions have been who has allocation, how much faster the next generation is and whether anyone can close the gap. At GTC Berlin ea…
+- Source: https://siliconangle.com/2026/10/21/nvidia-turns-the-ai-factory-into-a-product-and-agents-into-the-workload/
+- Date: 2026-10-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI tools discovered the PHP vulnerability that could take down 70% of the Internet. Now the race is on to patch it before AI-powered hackers attack (Score: 0)
+- Summary: Now the race is on to patch the PHP vulnerability before AI-powered hackers use it to attack
+- Source: https://fortune.com/2026/10/21/ai-tools-discovered-the-php-vulnerability-that-could-take-down-70-of-the-internet-now-the-race-is-on-to-patch-it-before-ai-powered-hackers-attack/
+- Date: 2026-10-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+NVIDIA GTC Berlin: 14-Day DSX POD AI Factories, a 2.5x Substrate Buildout, and the OpenShell Reference Architecture (Score: 0)
+- Summary: NVIDIA’s GTC Berlin announcements today span containerized Vera Rubin infrastructure, a 2.5x expansion of its substrate supply, and software for AI factory power management and agent security, along with telecom, autonomous vehicle, robotics, and healthcare p…
+- Source: https://www.storagereview.com/news/nvidia-gtc-berlin-2026-dsx-pod-14-day-ai-factory-substrate-openshell-ai-ran
+- Date: 2026-10-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How tech billionaires are disrupting biomedical science (Score: 0)
+- Summary: Money from the world’s increasingly prosperous technology entrepreneurs has been flooding into biomedical research. Is it changing how science is done?
+- Source: https://www.nature.com/articles/d41586-026-03311-9
+- Date: 2026-10-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study (Score: 0)
+- Summary: Updates to the Global Burden of Disease Study showed that although global measles incidence and mortality had declined in 1990−2019, its resurgence since 2020 reflects stalled vaccination progress worldwide.
+- Source: https://www.nature.com/articles/s41591-026-04661-7
+- Date: 2026-10-21
+- Vendors: None
+- Topics: None
+
+New Research Reveals Denodo AI Data Layer Delivers 290% ROI and 3x Faster Agent Deployments for Enterprise Agentic AI (Score: 0)
+- Summary: PALO ALTO, Calif., Oct. 20, 2026 (GLOBE NEWSWIRE) — Denodo, the AI data layer company, announced the findings of a comprehensive independent study conducted by research firm Veqtor8. The research report, titled “The ROI of an AI Data Layer for Agentic AI,” re…
+- Source: https://financialpost.com/globe-newswire/new-research-reveals-denodo-ai-data-layer-delivers-290-roi-and-3x-faster-agent-deployments-for-enterprise-agentic-ai
+- Date: 2026-10-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jay Brophy honors loved ones, feels support as he enters APS Athletics HOF (Score: 0)
+- Summary: Miami Hurricanes national champion and former NFL player Jay Brophy was inducted into the Akron Public Schools Athletics Hall of Fame on Oct. 19.
+- Source: https://www.beaconjournal.com/story/sports/high-school/football/2026/10/20/jay-brophy-akron-public-schools-athletics-hall-of-fame/92289449007/
+- Date: 2026-10-20
+- Vendors: None
+- Topics: None
+
+⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More (Score: 0)
+- Summary: The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done.
+
+This week had plent…
+- Source: https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html
+- Date: 2026-10-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Strands Box: Open-source sandbox for AI agents AWS released Strands Box, an open source sandbox for AI agents that pairs operating-system isolation with rules th…
+- Source: https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/
+- Date: 2026-10-18
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ServiceNow AI Control Tower: Selling a penthouse while building the frame (Score: 0)
+- Summary: ServiceNow Inc. is making one of the more consequential and visible bets in enterprise AI. The company says AI Control Tower can discover and govern any agent, work across models and clouds, track cost and value, and shut down behavior that violates policy. T…
+- Source: https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/
+- Date: 2026-10-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Best AI Agent Governance Tools in 2026: Reviews & Comparisons (Score: 0)
+- Summary: AI agents are becoming a huge category of software running inside our organizations. The problem is that many companies are adopting them faster than they can inventory, secure, and govern them. I have also heard that CIOs and CISOs in some organizations are …
+- Source: https://sematext.com/blog/best-ai-agent-governance-tools/
+- Date: 2026-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PEERSTITCH malware: How Attackers Compromised 500 Firewalls Through FortiManager (Score: 0)
+- Summary: PEERSTITCH malware exploited FortiManager to expose 500+ firewalls, evade detection inside FortiOS memory, and maintain stealthy access. PEERSTITCH, a stealthy implant deployed during a prolonged intrusion, helped attackers maintain access to a telecom manage…
+- Source: https://securityaffairs.com/201077/malware/peerstitch-malware-how-attackers-compromised-500-firewalls-through-fortimanager.html
+- Date: 2026-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions (Score: 0)
+- Summary: A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.
+
+The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4),…
+- Source: https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
+- Date: 2026-10-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
