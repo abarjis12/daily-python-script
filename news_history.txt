@@ -83616,3 +83616,193 @@ AI tools discovered the PHP vulnerability that could take down 70% of the Intern
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-10-28 18:57  ---
+
+CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets (Score: 4)
+- Summary: Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.
+
+TrendAI, which analyzed three exposed …
+- Source: https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html
+- Date: 2026-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking (Score: 4)
+- Summary: Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.
+
+"In one case, the attackers targeted a g…
+- Source: https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+- Date: 2026-10-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products - CyberSecurityNews (Score: 2)
+- Summary: Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network ProductsCyberSecurityNews Welcome to the Valley of PainThe Atlantic PHP Foundation 'under-funded' with one full-time staff member, director saysReuters PHP2Shell: AI uncovers critic…
+- Source: https://slashdot.org/firehose.pl?op=view&amp;id=186450282
+- Date: 2026-10-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials (Score: 2)
+- Summary: Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.
+
+"Artifacts from this investigation also indicate that operato…
+- Source: https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html
+- Date: 2026-10-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What the PHP2Shell vulnerability means for Fortinet, Cisco and Palo Alto customers (Score: 2)
+- Summary: Palo Alto Networks confirmed that all versions of PAN-OS and Panorama are affected by PHP2Shell, a pair of critical PHP vulnerabilities that let an attacker run code on a web server without logging in. Palo Alto has not shipped fixed PAN-OS releases yet. Fort…
+- Source: https://www.helpnetsecurity.com/2026/10/22/php2shell-vulnerability-fortinet-cisco-palo-alto-networks/
+- Date: 2026-10-22
+- Vendors: Cisco, Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Qilin and INC Exploited a Patched Palo Alto VPN Bypass for Four Months. ConnectWise Shows Where the Same Trust Failure Went Next. (Score: 2)
+- Summary: Ransomware operators have spent roughly four months monetizing a critical authentication bypass in Palo Alto Networks GlobalProtect VPN software. While the vulnerability was patched in May, Unit 42 reported on October 19 that the threat actors behind the Spik…
+- Source: https://forkast.news/qilin-and-inc-exploited-a-patched-palo-alto-vpn-bypass-for-four-months-connectwise-shows-where-the-same-trust-failure-went-next/
+- Date: 2026-10-21
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netconverter-cli added to PyPI (Score: 2)
+- Summary: NetConverter CLI — any-vendor network configuration migration, validation and optimization, and a local MCP bridge for your AI assistant
+- Source: https://pypi.org/project/netconverter-cli/
+- Date: 2026-10-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Software-defined Wide Area Network (SD-WAN) Market worth $71.42 billion by 2032 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Oct. 21, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Software-defined Wide Area Network (SD-WAN) is projected to grow from USD 27.34 billion in 2026 and to reach USD 71.42 billion by 2032, at a CAGR of 17.4% from 2026 to 2032…
+- Source: https://www.prnewswire.co.uk/news-releases/software-defined-wide-area-network-sd-wan-market-worth-71-42-billion-by-2032--report-by-marketsandmarkets-302915337.html
+- Date: 2026-10-21
+- Vendors: None
+- Topics: None
+
+Software-defined Wide Area Network (SD-WAN) Market worth $71.42 billion by 2032 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Oct. 21, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Software-defined Wide Area Network (SD-WAN) is projected to grow from USD 27.34 billion in 2026 and to reach USD 71.42 billion by 2032, at a CAGR of 17.4% from 2026 to 2032…
+- Source: https://www.prnewswire.com/news-releases/software-defined-wide-area-network-sd-wan-market-worth-71-42-billion-by-2032--report-by-marketsandmarkets-302915301.html
+- Date: 2026-10-21
+- Vendors: None
+- Topics: None
+
+Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June (Score: 2)
+- Summary: Several ransomware groups are exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks’ PAN-OS GlobalProtect patched in May, to break into organizations in sectors ranging from healthcare and education to government and energy. CVE-2026-0257 s…
+- Source: https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/
+- Date: 2026-10-21
+- Vendors: Palo Alto Networks
+- Topics: None
+
+The eMudhra Certificate Authority Incident Is A Wake-Up Call For Enterprise PKI (Score: 0)
+- Summary: The private key of a certificate authority (CA) should be one of the most secure secrets in digital infrastructure. In eMudhra’s case, eight CA private keys turned out to not be very secret. In fact, they were so weak that security researchers could derive th…
+- Source: https://www.forrester.com/blogs/the-emudhra-certificate-authority-incident-is-a-wake-up-call-for-enterprise-pki/
+- Date: 2026-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The eMudhra Certificate Authority (CA) Incident Is A Wake-Up Call For Enterprise PKI (Score: 0)
+- Summary: A certificate authority’s private key should be one of the most secure secrets in digital infrastructure. In eMudhra’s case, eight CA private keys turned out to not be very secret. The were so weak that security researchers could derive them from their corres…
+- Source: https://www.forrester.com/blogs/the-emudhra-certificate-authority-ca-incident-is-a-wake-up-call-for-enterprise-pki/
+- Date: 2026-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Post-Quantum Cryptography Market worth $3.80 billion by 2031 - Report by MarketsandMarkets™ (Score: 0)
+- Summary: DELRAY BEACH, Fla., Oct. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Post-Quantum Cryptography Market is projected to grow from USD 0.60 billion in 2026 to USD 3.80 billion by 2031, registering a CAGR of 44.5% during the forecast period. Bro…
+- Source: https://www.prnewswire.co.uk/news-releases/post-quantum-cryptography-market-worth-3-80-billion-by-2031--report-by-marketsandmarkets-302920602.html
+- Date: 2026-10-27
+- Vendors: None
+- Topics: None
+
+ACC Power Rankings (Week 9) (Score: 0)
+- Summary: Frightful versus Fantastic Seasons on Halloween Week
+- Source: https://www.stateoftheu.com/miami-hurricanes-football/89380/acc-power-rankings-week-9
+- Date: 2026-10-27
+- Vendors: None
+- Topics: None
+
+This is Fine: What NetScaler Zero-Days Tell Us About the New Normal (Score: 0)
+- Summary: Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon.
+The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/
+- Date: 2026-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Octave Alto expands visualization capabilities (Score: 0)
+- Summary: Latest update allows single, consolidated visualization of multiple mission-critical data sources HUNTSVILLE, Ala., Oct. 27, 2026 (GLOBE NEWSWIRE) — Octave Intelligence plc (Nasdaq: OCTV) released the latest version of Octave Alto, Octave’s geospatial solutio…
+- Source: https://financialpost.com/globe-newswire/octave-alto-expands-visualization-capabilities
+- Date: 2026-10-27
+- Vendors: None
+- Topics: None
+
+Xage Security Named in 2026 Gartner® Magic Quadrant™ for Privileged Access Management (Score: 0)
+- Summary: Gartner Recognized Xage for Its Ability to Execute and Completeness of Vision PALO ALTO, Calif., Oct. 26, 2026 (GLOBE NEWSWIRE) — Xage Security, the leader in identity-based Zero Trust for high-stakes environments, today announced that it has been newly named…
+- Source: https://financialpost.com/globe-newswire/xage-security-named-in-2026-gartner-magic-quadrant-for-privileged-access-management
+- Date: 2026-10-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More (Score: 0)
+- Summary: This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security tea…
+- Source: https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html
+- Date: 2026-10-26
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Politecnica, Park Associati, and AMDL CIRCLE Win Competition for Cultural Hub in Italy’s UNESCO-Listed Valle Camonica (Score: 0)
+- Summary: A team led by Politecnica Building for Humans, with Park Associati and AMDL CIRCLE as architectural co-leads and Studio Mattioli responsible for geology and archaeology, has won the competition for a new cultural hub in Ceto, Italy. The project will transform…
+- Source: https://www.archdaily.com/1187494/politecnica-park-associati-and-amdl-circle-win-competition-for-cultural-hub-in-italys-unesco-listed-valle-camonica
+- Date: 2026-10-26
+- Vendors: None
+- Topics: None
+
+Questions arising out of PHP breach (Score: 0)
+- Summary: For robust cybersecurity and prevention of breaches, investment in detection, containment and recovery is crucial
+- Source: https://www.thehindubusinessline.com/opinion/questions-arising-out-of-php-breach/article71624028.ece
+- Date: 2026-10-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A critical PHP security release is coming today, so get ready to update! The PHP security team has announced an urgent security release for Wednesday, 21 October…
+- Source: https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/
+- Date: 2026-10-25
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Luke Loucks instills belief in FSU basketball star guard Kam Taylor (Score: 0)
+- Summary: Luck Loucks thinks FSU men's basketball guard Kam Taylor has 'NBA' potential as the transfer guard begins to unlock his potential in Tallahassee.
+- Source: https://www.tallahassee.com/story/sports/college/fsu/mensbasketball/2026/10/24/florida-state-seminoles-basketball-lsu-basketball-kam-taylor-luke-loucks/92402780007/
+- Date: 2026-10-24
+- Vendors: None
+- Topics: None
+
+3 of the best ASX ETFs to buy in November (Score: 0)
+- Summary: Here's why these funds could be worth considering ahead of next month.
+The post 3 of the best ASX ETFs to buy in November appeared first on The Motley Fool Australia.
+- Source: https://www.fool.com.au/2026/10/24/3-of-the-best-asx-etfs-to-buy-in-november/
+- Date: 2026-10-23
+- Vendors: None
+- Topics: None
+
+Mark Zuckerberg keeps coming out on top (Score: 0)
+- Summary: From his AI gambles paying off to a winning bet on his own importance to the company, Meta CEO Mark Zuckerberg is riding high.
+- Source: https://www.businessinsider.com/ceo-mark-zuckerberg-keeps-winning-meta-ai-moves-muse-launch-2026-10#article
+- Date: 2026-10-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Ziihera® (zanidatamab-hrii) Combinations Demonstrate Sustained Survival at Three Years in First-Line HER2+ Advanced Gastroesophageal Adenocarcinoma at ESMO 2026 (Score: 0)
+- Summary: Nearly 40% of patients alive at three years with Ziihera plus tislelizumab and chemotherapy, irrespective of PD-L1 status, achieving a median OS of 27 months Mature HERIZON-GEA-01 results show Ziihera plus chemotherapy delivered statistically significant and …
+- Source: https://www.prnewswire.com/news-releases/ziihera-zanidatamab-hrii-combinations-demonstrate-sustained-survival-at-three-years-in-first-line-her2-advanced-gastroesophageal-adenocarcinoma-at-esmo-2026-302917899.html
+- Date: 2026-10-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
