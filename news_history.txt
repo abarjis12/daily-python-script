@@ -84787,3 +84787,199 @@ Post-Quantum Cryptography Market worth $3.80 billion by 2031 - Report by Markets
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-11-03 20:11  ---
+
+Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent (Score: 4)
+- Summary: Ludo Robotics Inc., a subsidiary of major South Korean video game publisher Krafton Inc., today debuted Ludi 0.2, a robotics artificial intelligence system built to understand people and interact with them in the physical world. Headquartered in Palo Alto, Lu…
+- Source: https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/
+- Date: 2026-10-30
+- Vendors: None
+- Topics: None
+
+CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets (Score: 4)
+- Summary: Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.
+
+TrendAI, which analyzed three exposed …
+- Source: https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html
+- Date: 2026-10-27
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Enterprise Networking Market worth $239.92 billion by 2032 - Report by MarketsandMarkets™ (Score: 2)
+- Summary: DELRAY BEACH, Fla., Nov. 2, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Enterprise Networking Market is expected to reach USD 239.92 billion by 2032 from USD 134.59 billion in 2026, at a compound annual growth rate (CAGR) of 10.1%. Browse 300 ma…
+- Source: https://www.prnewswire.co.uk/news-releases/enterprise-networking-market-worth-239-92-billion-by-2032--report-by-marketsandmarkets-302926314.html
+- Date: 2026-11-02
+- Vendors: None
+- Topics: None
+
+Exclusive: Guardz brings Palo Alto Networks browser protection to MSPs serving small businesses (Score: 2)
+- Summary: Cybersecurity startup Guardz Cyber Ltd. today added browser protection from Palo Alto Networks Inc.’s Prisma Browser for Business to its security platform for managed service providers that protect small businesses. The integration is aimed at phishing attack…
+- Source: https://siliconangle.com/2026/11/02/exclusive-guardz-brings-palo-alto-networks-browser-protection-to-msps-serving-small-businesses/
+- Date: 2026-11-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts (Score: 2)
+- Summary: Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.
+
+The activity, observed by Palo Alto Networks Unit 42 between O…
+- Source: https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
+- Date: 2026-11-02
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Game Day: Louisville vs. Stanford (Score: 2)
+- Summary: LOUISVILLE CARDINALS (4-3, 3-2) vs. STANFORD CARDINAL (4-4, 2-3) Game Time: 3:15 p.m. Location: L&N Stadium: Louisville, Ky. Television: ACC Network Announcers: Jorge Sedano (play-by-play), Rodney McLeod Jr (analyst), and Annabelle Hasselbeck (sidelines) Favo…
+- Source: https://www.cardchronicle.com/football/105511/game-day-louisville-vs-stanford
+- Date: 2026-10-31
+- Vendors: None
+- Topics: None
+
+Chinese hackers build PHP2SHELL exploit, use it to root 25 servers, breach US government-affiliated firewalls (Score: 2)
+- Summary: Palo Alto Networks firewalls running outdated OS seem to be the target, as Chinese hackers chain PHP2Shell to Fragnesia for the campaign.
+- Source: https://www.techradar.com/pro/security/chinese-hackers-build-php2shell-exploit-use-it-to-root-25-servers-breach-us-government-affiliated-firewalls
+- Date: 2026-10-30
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Chinese Actor Compromises US Government Network Via Chained PHP2Shell Exploit (Score: 2)
+- Summary: Dream found that a suspected Chinese-nexus actor gained root access to Palo Alto Network firewall servers to target government organizations
+- Source: https://www.infosecurity-magazine.com/news/chinese-us-government-chained-php2/
+- Date: 2026-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+php2shell one week later: Why one exploit doesn’t work everywhere (Score: 2)
+- Summary: php2shell raised fears of mass exploitation. A week of testing by our research team found that working exploits had to be fitted to each target’s exact PHP setup. Systems that share one build, such as network appliances, are the exception: one tuned exploit c…
+- Source: https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere
+- Date: 2026-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers (Score: 2)
+- Summary: Snoops 'likely still' have access to US government-affiliated network
+- Source: https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456
+- Date: 2026-10-29
+- Vendors: None
+- Topics: None
+
+Federal Circuit Affirms PTAB’s Unpatentability Finding for Palo Alto Networks (Score: 2)
+- Summary: The U.S. Court of Appeals for the Federal Circuit (CAFC) on Thursday affirmed a Patent Trial and Appeal Board (PTAB) ruling that held certain claims of a patent for network intrusion monitoring and detection unpatentable as obvious. The opinion was authored b…
+- Source: https://ipwatchdog.com/2026/10/29/federal-circuit-affirms-ptabs-unpatentability-finding-for-palo-alto-networks/
+- Date: 2026-10-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Volt Typhoon targeted enterprise control planes via ever-changing “Silent Train” relay network (Score: 2)
+- Summary: Volt Typhoon, a Chinese state-sponsored APT group that’s focused on cyberespionage and United States’ critical infrastructure, has been using a covert, constantly rotating relay network to hide its most sensitive intrusions, Lumen’s Black Lotus Labs revealed …
+- Source: https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/
+- Date: 2026-10-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces (Score: 2)
+- Summary: Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.
+
+"Active exploitation has been observed targeting the Palo Alto Networks management inte…
+- Source: https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html
+- Date: 2026-10-29
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Fortinet plunges 26% after hours and takes Tenable with it as Gen Digital rises (Score: 2)
+- Summary: A better-than-expected third quarter did nothing to stop shares in network security company Fortinet Inc. from falling about 26% in after-hours trading today. Tenable Holdings Inc., which also topped forecasts, was caught in the selloff that followed across c…
+- Source: https://siliconangle.com/2026/10/28/fortinet-plunges-26-after-hours-and-takes-tenable-with-it-as-gen-digital-rises/
+- Date: 2026-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+InfraTrust report warns of exploited flaws in critical network infrastructure (Score: 2)
+- Summary: Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]
+- Source: https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/
+- Date: 2026-10-28
+- Vendors: None
+- Topics: None
+
+Charles Porch Is OpenAI’s Hollywood Whisperer (Score: 0)
+- Summary: Charles Porch is rich, super-connected, and tasked with getting celebrities (and everyone else) to not hate OpenAI so much. “There’s a strategy around making friends,” he tells Charlotte Klein.
+- Source: http://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html
+- Date: 2026-11-02
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Global, regional and national burden of cervical cancer in 1990–2023 with forecasts to 2050: a Global Burden of Disease study (Score: 0)
+- Summary: Analyses of the Global Burden of Disease study reported 887,000 new cases and 369,000 deaths from cervical cancer worldwide in 2023, which are forecasted to rise by 2050.
+- Source: https://www.nature.com/articles/s41591-026-04729-4
+- Date: 2026-11-02
+- Vendors: None
+- Topics: None
+
+6 insights from the GSA Women’s Leadership Initiative: AI semiconductor industry trends turn the chip race into a systems race (Score: 0)
+- Summary: For decades, the semiconductor industry competed on one thing: the individual chip. One of the biggest AI semiconductor industry trends now under way is the shift toward treating chips as components of much larger systems. Performance, cost and reliability ar…
+- Source: https://siliconangle.com/2026/10/30/ai-semiconductor-industry-trends-from-chips-systems-gsawomensleadershipinitiative/
+- Date: 2026-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+To Help Robots Understand People Better, KRAFTON Introduces Ludi 0.2 (Score: 0)
+- Summary: KRAFTON's Ludo Robotics introduces Ludi 0.2, advancing AI-powered robots designed to understand and collaborate with people.
+- Source: https://incrediblethings.com/krafton-ludo-robotics-ai-socially-intelligent-robots/
+- Date: 2026-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Week in Security: Broken Embargoes, UEFI Overflow, Wormable Tailscale, Starlink Ad Snooping, and a DHS Directory Dump (Score: 0)
+- Summary: Last week brought us at least two broken embargoes: php2shell leaked onto Hacker News a day early, and a batch of Linux kernel bugs landed on the public kernel mailing list instead of the private s…
+- Source: https://hackaday.com/2026/10/30/this-week-in-security-broken-embargoes-uefi-overflow-wormable-tailscale-starlink-ad-snooping-and-a-dhs-directory-dump/
+- Date: 2026-10-30
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cardinals vs Cardinal Halloween Showdown: What to Know About Stanford (Score: 0)
+- Summary: Stanford invades Louisville and L&N Federal Credit Union Stadium for the first time Saturday. The Cardinal won the only previous game in the history of the s...
+- Source: https://www.si.com/college/louisville/cardinals-vs-cardinal-halloween-showdown-what-to-know-about-stanford-01m64szg4d12
+- Date: 2026-10-29
+- Vendors: None
+- Topics: None
+
+Fortinet turns its firewall footprint into an AI security on-ramp (Score: 0)
+- Summary: The fastest way to bring a new security capability into the enterprise has never been a new product. It’s a new license for something the customer already owns. Fortinet Inc. understands this better than most, as it has continued to add features to its FortiG…
+- Source: https://siliconangle.com/2026/10/29/fortinet-turns-its-firewall-footprint-into-an-ai-security-on-ramp/
+- Date: 2026-10-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+菴処 (Score: 0)
+- Summary: PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert (2026.10.21) 
+
+
+JPCERT/CC 羈儀2026.10.29 篁贋
+
+
+<ul> <li> PHP茲㍽綣掩'鐚置E-2026-109618VE-2026-109619鐚≪絵儀 (JPCERT/CC, 2026.10.29 贋) 
+ 2026綛09ャс識с⒦紙羇糸㍽ⅺ祉＜、≪ヲ❼劫吾潟絲障承絎潟ず莊＜腆肴怨莟∴茹…
+- Source: http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261030_tuiki
+- Date: 2026-10-29
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Top 50 Film Schools of 2026 (Score: 0)
+- Summary: TheWrap magazine: We teamed up with Screen Engine/ASI to implement a data-driven ranking system of the best places to study moviemaking
+The post The Top 50 Film Schools of 2026 appeared first on TheWrap.
+- Source: https://www.thewrap.com/creative-content/movies/top-50-film-schools-2026/
+- Date: 2026-10-29
+- Vendors: None
+- Topics: None
+
+Why India’s largest carmaker’s chairman believes small cars still rule the road despite the SUV craze (Score: 0)
+- Summary: Maruti Suzuki Chairman R C Bhargava highlighted the ongoing demand for small cars in India. He noted sales figures of 398,000 small cars and 162,000 SUVs in the first half of FY27. First-time buyers now account for 54% of Maruti's sales, marking a significant…
+- Source: https://economictimes.indiatimes.com/industry/auto/auto-news/why-indias-largest-carmakers-chairman-believes-small-cars-still-rule-the-road-despite-the-suv-craze/articleshow/135264494.cms
+- Date: 2026-10-28
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
