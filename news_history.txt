@@ -86484,3 +86484,192 @@ GreenboneOS: Brotli, Cisco and Sophos: When Configuration Decides Exposure (Scor
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-11-13 20:33  ---
+
+Siemens RUGGEDCOM APE1808 (Score: 2)
+- Summary: View CSAF
+Summary
+Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult a…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05
+- Date: 2026-11-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Siemens RUGGEDCOM APE1808 (Score: 2)
+- Summary: View CSAF
+Summary
+Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult a…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04
+- Date: 2026-11-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Bring Your Own CA: Palo Alto Networks Joins the Imperva SSL Integration Center (Score: 2)
+- Summary: In August we introduced the Imperva SSL Integration Center with one idea behind it: the certificates protecting your applications should be governed where you already govern certificates, and deploy to Imperva Cloud WAF without anyone copying a key. DigiCert …
+- Source: https://www.imperva.com/blog/ssl-integration-center-palo-alto-networks-venafi/
+- Date: 2026-11-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Citi Sees Powerful Upside for Palo Alto Network Stock (Score: 2)
+- Summary: This article first appeared on GuruFocus.
+Palo Alto Networks (NASDAQ:PANW) shares climbed 2.7% in Wednesday's premarket trading after Citi reiterated its Buy rating and $440 price target, arguing that the cybersecurity giant offers an attractive risk-reward o…
+- Source: https://biztoc.com/x/577a3431c2f64c6a
+- Date: 2026-11-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+More work than it looks: the new jobs coming from AI adoption (Score: 2)
+- Summary: From synthesisers to assembly lines, technological change has threatened familiar jobs while creating unexpected forms of work. Research into AI-related job vacancies is revealing strong demand for the people who help organisations adopt AI. Ed Teather argues…
+- Source: https://blogs.lse.ac.uk/businessreview/2026/11/11/more-work-than-it-looks-the-new-jobs-coming-from-ai-adoption/
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.3.1 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.3.1/
+- Date: 2026-11-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity jobs available right now: November 10, 2026 (Score: 2)
+- Summary: Application Security Engineer ONE ZERO BANK | Israel | Hybrid – View job details As an Application Security Engineer, you will work with developers to build security into the software development lifecycle. You will use security reviews and threat modeling to…
+- Source: https://www.helpnetsecurity.com/2026/11/10/cybersecurity-jobs-available-right-now-november-10-2026/
+- Date: 2026-11-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories (Score: 0)
+- Summary: A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there.
+
+Attackers are …
+- Source: https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html
+- Date: 2026-11-12
+- Vendors: None
+- Topics: None
+
+PAN-SA-2026-0014 Chromium: Monthly Vulnerability Update (November 2026) (Severity: HIGH) (Score: 0)
+- Summary: Related content: CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM) CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDI…
+- Source: https://security.paloaltonetworks.com/PAN-SA-2026-0014
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0329 PAN-OS: Buffer Overflow Vulnerability (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM) CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDI…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0329
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0330 PAN-OS: Authenticated Remote Code Execution (RCE) in Panorama (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM) CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDI…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0330
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0325 PAN-OS: GlobalProtect Authorization Bypass Vulnerability (Severity: LOW) (Score: 0)
+- Summary: Related content: CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM) CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDI…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0325
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0331 PAN-OS: Sensitive Information Disclosure Vulnerability (Severity: MEDIUM) (Score: 0)
+- Summary: Related content: CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM) CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDI…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0331
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CVE-2026-0323 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW) (Score: 0)
+- Summary: Related content: CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM) CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDI…
+- Source: https://security.paloaltonetworks.com/CVE-2026-0323
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Historic Squire House in Palo Alto listed for the first time since 1999, asking $20M (Score: 0)
+- Summary: The 1904 mansion has ties to a U.S. president.
+- Source: https://www.sfgate.com/realestate/article/historic-squire-house-listed-palo-alto-asking-22523738.php
+- Date: 2026-11-11
+- Vendors: None
+- Topics: None
+
+A+E Global Media, Versant Media and Blink49 Studios join North American Hitmakers @ Content Americas as January event extends US remit (Score: 0)
+- Summary: A+E Global Media’s Mary Donahue, Versant Media’s Miranda Weiss and Blink49 Studios’ Adam Steinman are the latest execs to join the North American Hitmakers strand at Content Americas as the event continues to extend its remit into the US market.
+- Source: https://www.c21media.net/department/marketing/ae-global-media-versant-media-and-blink49-studios-join-north-american-hitmakers-content-americas-as-january-event-extends-us-remit/
+- Date: 2026-11-11
+- Vendors: None
+- Topics: None
+
+Fireworks AI gets burned twice as customer data exposure widens (Score: 0)
+- Summary: Inference biz pins latest breach on cloud provider and LLMJacking miscreants
+- Source: https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722
+- Date: 2026-11-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PuppyGraph raises $10M to let AI agents query enterprise data as a graph (Score: 0)
+- Summary: Graph query engine startup PuppyGraph said today it has raised $10 million in new funding to build out its enterprise go-to-market operation. The round follows the general release of version 1.0 of its software. PuppyGraph provides a query engine that lets co…
+- Source: https://siliconangle.com/2026/11/10/puppygraph-raises-10m-to-let-ai-agents-query-enterprise-data-as-a-graph/
+- Date: 2026-11-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+IT threat evolution in Q3 2026. Non-mobile statistics (Score: 0)
+- Summary: Key trends and statistics on malware targeting Windows and macOS computers and Internet of Things (IoT) devices in Q3 2026.
+- Source: https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/
+- Date: 2026-11-10
+- Vendors: None
+- Topics: None
+
+Fireworks AI discloses new breach after cloud provider hack (Score: 0)
+- Summary: AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]
+- Source: https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/
+- Date: 2026-11-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+67 Companies Have Blocked Their Tokenized Stocks on OKXICE, but Robinhood and Coinbase Are Not Among Them (Score: 0)
+- Summary: Tokenized stocks face a corporate pushback: 67 issuers, from Nvidia to Apple, objected to OKXICE listings by Nov. 5, while Robinhood and Coinbase did not.
+- Source: https://www.dcforecasts.com/cryptocurrency-exchange-news/tokenized-stocks-okxice-issuer-objections/
+- Date: 2026-11-09
+- Vendors: None
+- Topics: None
+
+GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents (Score: 0)
+- Summary: Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
+- Source: https://openai.com/index/introducing-gpt-6-cyber/
+- Date: 2026-11-09
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI broke the cybersecurity world. What’s next? (Score: 0)
+- Summary: Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to A…
+- Source: https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
+- Date: 2026-11-07
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+This Week in Security: More Linux Bugs, Biggest Crypto Theft Ever, Prusa Printers, Residential Proxies (Score: 0)
+- Summary: Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those: …read more
+- Source: https://hackaday.com/2026/11/06/this-week-in-security-more-linux-bugs-biggest-crypto-theft-ever-prusa-printers-residential-proxies/
+- Date: 2026-11-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Midterm elections will put AI and data centers on trial, but Big Tech may end up winning anyway (Score: 0)
+- Summary: It may be a little soon to determine the ultimate winners and losers among enterprise suppliers after the midterm elections, but the early line is: Big Tech wins and data center suppliers operators such as chipmakers and neoclouds lose. Or will everybody lose…
+- Source: https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/
+- Date: 2026-11-06
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
