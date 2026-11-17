@@ -87421,3 +87421,282 @@ CVE-2026-0331 PAN-OS: Sensitive Information Disclosure Vulnerability (Severity: 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-11-17 21:50  ---
+
+Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud (Score: 6)
+- Summary: A new report out today from cybersecurity company Palo Alto Networks Inc. finds that artificial intelligence agents have quickly become a fixture in software development, but many organizations can’t properly track or secure what those agents are doing in the…
+- Source: https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/
+- Date: 2026-11-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days (Score: 2)
+- Summary: A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job.
+
+Meanwhile, AI is making…
+- Source: https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+claim-check-ci 1.1.0 (Score: 2)
+- Summary: Every number you publish is a claim. Bind it to the artifact it came from and prove it in CI -- no LLM, no network, no dependencies.
+- Source: https://pypi.org/project/claim-check-ci/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SilentAir and LIMINAL PANDA Target Telecom Networks to Spy on Subscribers (Score: 2)
+- Summary: Researchers uncover two threat groups, SilentAir and LIMINAL PANDA, exploiting mobile networks to spy on users and intercept calls and text messages. Telecom security firm Enea published research on two threat actors, dubbed SilentAir and LIMINAL PANDA, worki…
+- Source: https://securityaffairs.com/203099/apt/silentair-and-liminal-panda-target-telecom-networks-to-spy-on-subscribers.html
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+scm-python 0.0.1b4 (Score: 2)
+- Summary: Palo Alto Networks Strata Cloud Manager (SCM) Python SDK
+- Source: https://pypi.org/project/scm-python/0.0.1b4/
+- Date: 2026-11-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell (Score: 2)
+- Summary: Unpatched Check Point gateways were hacked worldwide, leading to root access, backdoors, network intrusion and destructive wiper attacks. Starting on 30 October, an attacker scanned and exploited Check Point Security Gateways that hadn’t been patched, going i…
+- Source: https://securityaffairs.com/202982/hacking/unpatched-check-point-gateways-are-being-wiped-exploiting-php2shell.html
+- Date: 2026-11-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Siemens RUGGEDCOM APE1808 (Score: 2)
+- Summary: View CSAF
+Summary
+Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult a…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04
+- Date: 2026-11-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Siemens RUGGEDCOM APE1808 (Score: 2)
+- Summary: View CSAF
+Summary
+Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult a…
+- Source: https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05
+- Date: 2026-11-12
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Bring Your Own CA: Palo Alto Networks Joins the Imperva SSL Integration Center (Score: 2)
+- Summary: In August we introduced the Imperva SSL Integration Center with one idea behind it: the certificates protecting your applications should be governed where you already govern certificates, and deploy to Imperva Cloud WAF without anyone copying a key. DigiCert …
+- Source: https://www.imperva.com/blog/ssl-integration-center-palo-alto-networks-venafi/
+- Date: 2026-11-12
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Citi Sees Powerful Upside for Palo Alto Network Stock (Score: 2)
+- Summary: This article first appeared on GuruFocus.
+Palo Alto Networks (NASDAQ:PANW) shares climbed 2.7% in Wednesday's premarket trading after Citi reiterated its Buy rating and $440 price target, arguing that the cybersecurity giant offers an attractive risk-reward o…
+- Source: https://biztoc.com/x/577a3431c2f64c6a
+- Date: 2026-11-11
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+More work than it looks: the new jobs coming from AI adoption (Score: 2)
+- Summary: From synthesisers to assembly lines, technological change has threatened familiar jobs while creating unexpected forms of work. Research into AI-related job vacancies is revealing strong demand for the people who help organisations adopt AI. Ed Teather argues…
+- Source: https://blogs.lse.ac.uk/businessreview/2026/11/11/more-work-than-it-looks-the-new-jobs-coming-from-ai-adoption/
+- Date: 2026-11-11
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+netbox-panorama-configpump-plugin 1.3.1 (Score: 2)
+- Summary: A NetBox plugin that synchronizes Palo Alto Networks Panorama configuration from NetBox data using a pull, diff and push workflow.
+- Source: https://pypi.org/project/netbox-panorama-configpump-plugin/1.3.1/
+- Date: 2026-11-11
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Cybersecurity jobs available right now: November 10, 2026 (Score: 2)
+- Summary: Application Security Engineer ONE ZERO BANK | Israel | Hybrid – View job details As an Application Security Engineer, you will work with developers to build security into the software development lifecycle. You will use security reviews and threat modeling to…
+- Source: https://www.helpnetsecurity.com/2026/11/10/cybersecurity-jobs-available-right-now-november-10-2026/
+- Date: 2026-11-10
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Migrate Apache Solr to Amazon OpenSearch Service with the AI-driven Migration Assistant (Score: 0)
+- Summary: Migrate a 600,000-document Apache Solr catalog to Amazon OpenSearch Serverless end to end using the AI-driven agent mode in the Migration Assistant for Amazon OpenSearch Service, from assessment through validated backfill.
+- Source: https://aws.amazon.com/blogs/big-data/migrate-apache-solr-to-amazon-opensearch-service-with-the-ai-driven-migration-assistant/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+verbatim-citation-gate added to PyPI (Score: 0)
+- Summary: Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framework-agnostic.
+- Source: https://pypi.org/project/verbatim-citation-gate/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: None
+
+secondop-panel added to PyPI (Score: 0)
+- Summary: A second opinion on your code from a PANEL of vendors, not one model. One reviewer is a special case of a panel, and it should be named out loud.
+- Source: https://pypi.org/project/secondop-panel/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: None
+
+Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What a security leader should tell the CEO about leaked credentials In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked cr…
+- Source: https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/
+- Date: 2026-11-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs (Score: 0)
+- Summary: Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy commun…
+- Source: https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+- Date: 2026-11-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Premios Xataka México 2026 (Score: 0)
+- Summary: Premios Xataka México 2026
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+
+ SíGUENOS EN :
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+ LA FIESTA DE LA MEJOR TECNOLOGÍA EN MÉXICO ESTÁ DE VUELTA.
+
+…
+- Source: https://www.xataka.com.mx/premios-xataka-mexico/premios-xataka-mexico-2026
+- Date: 2026-11-13
+- Vendors: None
+- Topics: None
+
+Other Barks & Bites for Friday, November 13: Tech Giants Oppose Indonesia AI Copyright Bill; Netlist Fails Appeal of PTAB’s Motivation to Combine Ruling; and CJEU AG Says General Court Erred in Reversing €1.5 Billion Google Fine (Score: 0)
+- Summary: This Week in Other Barks & Bites: the Federal Circuit rules that the inoperability of a prior art reference in combination with another does not extinguish the motivation to combine those references; the U.S. Trade Representative extends its Special 301 inves…
+- Source: https://ipwatchdog.com/2026/11/13/bites-barks-netlist-fails-appeal-of-ptabs-mtc-ruling-and-cjeu-ag-says-general-court-erred-in-reversing-e1-5-b/
+- Date: 2026-11-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic’s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr (Score: 0)
+- Summary: Also this week: why the AI trade only cracks on demand, an investment committee fight over Zipline, fal and Revolut, the API key crime wave, and why seat-based B2B can’t get a bid This was one of the busiest news weeks we’ve had on the pod. Sequoia unwound ye…
+- Source: https://www.saastr.com/jensen-resigns-sequoia-pulls-back-to-the-bay-and-anthropics-ipo-draws-6x-demand-the-top-takeaways-from-20vc-x-saastr/
+- Date: 2026-11-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Nvidia CEO Jensen Huang’s abrupt departure shakes AI industry’s foundations (Score: 0)
+- Summary: Oh, Jensen… really? Honeypot or not, the Chinese executive/accused spy with whom Nvidia CEO Jensen Huang admitted an affair this week should have been a flashing red light to him. So should fraternizing with one of your own VPs — and reportedly another employ…
+- Source: https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/
+- Date: 2026-11-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’ (Score: 0)
+- Summary: Nvidia named CFO Colette Kress interim CEO and gave it its first board chair. Huang leaves with a 3.6% stake, powerful defenders, and a hearing in Congress ahead.
+- Source: https://fortune.com/2026/11/13/jensen-huang-nvidia-elon-musk-hire-honor/
+- Date: 2026-11-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+PHP2Shell Exploited in Destructive Check Point Gateway Attacks (Score: 0)
+- Summary: PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root.
+The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek.
+- Source: https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/
+- Date: 2026-11-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Rouvenat Doubles Down on U.S. Market With Fresh Capital (Score: 0)
+- Summary: American clients already make up more than half of the circular jeweler's sales and spend twice as much as its French ones, so the four-year-old Paris house is following them home.
+- Source: http://wwd.com/accessories-news/jewelry/rouvenat-doubles-down-on-us-market-fresh-capital-1239408101/
+- Date: 2026-11-13
+- Vendors: None
+- Topics: None
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
