@@ -88255,3 +88255,189 @@ Other Barks & Bites for Friday, November 13: Tech Giants Oppose Indonesia AI Cop
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-11-20 21:23  ---
+
+Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts (Score: 9)
+- Summary: Cybersecurity company Palo Alto Networks Inc. today announced that it has agreed to acquire artificial intelligence model training and inference startup Applied Compute Inc. in an all-stock deal valued at $4.5 billion. The news came alongside fiscal first-qua…
+- Source: https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/
+- Date: 2026-11-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud (Score: 6)
+- Summary: A new report out today from cybersecurity company Palo Alto Networks Inc. finds that artificial intelligence agents have quickly become a fixture in software development, but many organizations can’t properly track or secure what those agents are doing in the…
+- Source: https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/
+- Date: 2026-11-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Metano launches with $12M to help enterprises secure AI agents (Score: 4)
+- Summary: Artificial intelligence agent security startup Metano Inc. today launched with $12 million in funding to help enterprises secure AI agents across endpoints, cloud infrastructure and software-as-a-service applications. Metano’s platform is aimed at giving ente…
+- Source: https://siliconangle.com/2026/11/19/metano-launches-with-12m-to-help-enterprises-secure-ai-agents/
+- Date: 2026-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies (Score: 2)
+- Summary: Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+A cybersecurity CEO offers plain talk on the outages sweeping through major companies and disrupting everything from your email to your flight.
+"I want to…
+- Source: https://biztoc.com/x/fcc2abfc3648b2e7
+- Date: 2026-11-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Arista takes aim at the next AI network battleground: distributed inference (Score: 2)
+- Summary: Awareness of the network’s role in AI has steadily increased, with much of the focus on the back end – larger clusters, faster ports, and scale-across fabrics that stitch GPUs together across data centers. Arista Networks Inc. has seen continued, accelerated …
+- Source: https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/
+- Date: 2026-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days (Score: 2)
+- Summary: A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job.
+
+Meanwhile, AI is making…
+- Source: https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+claim-check-ci 1.1.0 (Score: 2)
+- Summary: Every number you publish is a claim. Bind it to the artifact it came from and prove it in CI -- no LLM, no network, no dependencies.
+- Source: https://pypi.org/project/claim-check-ci/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SilentAir and LIMINAL PANDA Target Telecom Networks to Spy on Subscribers (Score: 2)
+- Summary: Researchers uncover two threat groups, SilentAir and LIMINAL PANDA, exploiting mobile networks to spy on users and intercept calls and text messages. Telecom security firm Enea published research on two threat actors, dubbed SilentAir and LIMINAL PANDA, worki…
+- Source: https://securityaffairs.com/203099/apt/silentair-and-liminal-panda-target-telecom-networks-to-spy-on-subscribers.html
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+scm-python 0.0.1b4 (Score: 2)
+- Summary: Palo Alto Networks Strata Cloud Manager (SCM) Python SDK
+- Source: https://pypi.org/project/scm-python/0.0.1b4/
+- Date: 2026-11-13
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell (Score: 2)
+- Summary: Unpatched Check Point gateways were hacked worldwide, leading to root access, backdoors, network intrusion and destructive wiper attacks. Starting on 30 October, an attacker scanned and exploited Check Point Security Gateways that hadn’t been patched, going i…
+- Source: https://securityaffairs.com/202982/hacking/unpatched-check-point-gateways-are-being-wiped-exploiting-php2shell.html
+- Date: 2026-11-13
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cyberattack responders are booked up as agentic AI attacks surge (Score: 0)
+- Summary: Greg Davison spent this past weekend taking calls from companies around the world that had been hit by AI-enabled attacks, and when he reached out to incident response firms to help them, he found those firms were turning new clients away. Incident response f…
+- Source: https://www.digitaljournal.com/article/cyberattack-responders-are-booked-up-as-agentic-ai-attacks-surge/
+- Date: 2026-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The Ultimate DealBook Summit TL;DR (Score: 0)
+- Summary: Here's every DealBook Summit 2026 highlight worth knowing, from Altman’s equity regret to Musk’s midterm mea culpa.
+- Source: https://www.adweek.com/media/the-ultimate-dealbook-summit-tldr/
+- Date: 2026-11-19
+- Vendors: None
+- Topics: None
+
+Introducing The Forrester Wave™ For Enterprise Firewall Solutions Q4 2026 (Score: 0)
+- Summary: How long does the “next-generation” thing keep that mantle before it’s really just the current generation? What comes after “next-generation”? After nearly two decades you could be forgiven for thinking that firewalls (next-gen and otherwise) have had their t…
+- Source: https://www.forrester.com/blogs/introducing-the-forrester-wave-for-enterprise-firewall-solutions-q4-2026/
+- Date: 2026-11-18
+- Vendors: None
+- Topics: None
+
+Tech outages no coincidence, AI making cyberattacks easier: Nikesh Arora (Score: 0)
+- Summary: US banks, airlines and tech firms face outages, with Apple, Microsoft and Google services hit. Palo Alto CEO Nikesh Arora warns AI is making cyberattacks easier
+- Source: https://www.business-standard.com/technology/tech-news/tech-outages-no-coincidence-ai-making-cyberattacks-easier-nikesh-arora-126111800236_1.html
+- Date: 2026-11-18
+- Vendors: Microsoft
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Widespread outages hit banks, air travel and now Apple, disrupting seemingly everything (Score: 0)
+- Summary: Major outages showcase the risks of interconnected tech in the age of AI.
+- Source: https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html
+- Date: 2026-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Show HN: Tool to measure log TCO savings without losing or migrating any data (Score: 0)
+- Summary: I work on Chiron. We provide a “lossless consolidation” solution for log savings on high-fidelity stores like Splunk, where you don’t lose any data, your query results stay intact, and you still meet your compliance needs. On a Palo Alto firewall log sample w…
+- Source: https://news.ycombinator.com/item?id=50535716
+- Date: 2026-11-17
+- Vendors: None
+- Topics: None
+
+Carney government amends controversial bill to fast track pipelines and mines (Score: 0)
+- Summary: Liberal MPs agreed to make minor changes to a controversial piece of legislation that's supposed to speed up the approval of major projects.
+- Source: https://www.cbc.ca/news/politics/bill-c-39-major-projects-fast-track-environmental-concerns-amendments-9.7424528
+- Date: 2026-11-17
+- Vendors: None
+- Topics: None
+
+Can Google win the AI race without killing its cash cow? (Score: 0)
+- Summary: In late October, Google had the worst stock day in its history as a public company.<em> The Planet Money </em>newsletter asks: has Google been caught in "the innovator's dilemma"?
+- Source: https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow
+- Date: 2026-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AWS Transit Gateway now shares resource context with firewalls for segmentation policies (Score: 0)
+- Summary: AWS Transit Gateway now supports context sharing with security services, such as attached firewalls, allowing you to use Amazon Virtual Private Clouds (VPCs), VPC subnets, VPC security groups, and transit gateway attachments in firewall policies alongside IP …
+- Source: https://aws.amazon.com/about-aws/whats-new/2026/11/transit-gateway-firewall-context-sharing/
+- Date: 2026-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Investigate security data in place with Amazon CloudWatch and 7AI (Score: 0)
+- Summary: Security teams don’t struggle to get alerts. They struggle to get the context needed to act on them. Consider a common scenario: an AWS Security Hub finding reports a critical vulnerability in a container image in Amazon Elastic Container Registry. The findin…
+- Source: https://aws.amazon.com/blogs/mt/investigate-security-data-in-place-with-amazon-cloudwatch-and-7ai/
+- Date: 2026-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Migrate Apache Solr to Amazon OpenSearch Service with the AI-driven Migration Assistant (Score: 0)
+- Summary: Migrate a 600,000-document Apache Solr catalog to Amazon OpenSearch Serverless end to end using the AI-driven agent mode in the Migration Assistant for Amazon OpenSearch Service, from assessment through validated backfill.
+- Source: https://aws.amazon.com/blogs/big-data/migrate-apache-solr-to-amazon-opensearch-service-with-the-ai-driven-migration-assistant/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+verbatim-citation-gate added to PyPI (Score: 0)
+- Summary: Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framework-agnostic.
+- Source: https://pypi.org/project/verbatim-citation-gate/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: None
+
+secondop-panel added to PyPI (Score: 0)
+- Summary: A second opinion on your code from a PANEL of vendors, not one model. One reviewer is a special case of a panel, and it should be named out loud.
+- Source: https://pypi.org/project/secondop-panel/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: None
+
+Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: What a security leader should tell the CEO about leaked credentials In this Help Net Security interview, Eric Fourrier, CEO of GitGuardian, talks about leaked cr…
+- Source: https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/
+- Date: 2026-11-15
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs (Score: 0)
+- Summary: Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy commun…
+- Source: https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+- Date: 2026-11-14
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
