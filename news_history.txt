@@ -88823,3 +88823,195 @@ Tech outages no coincidence, AI making cyberattacks easier: Nikesh Arora (Score:
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-11-24 01:05  ---
+
+Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts (Score: 9)
+- Summary: Cybersecurity company Palo Alto Networks Inc. today announced that it has agreed to acquire artificial intelligence model training and inference startup Applied Compute Inc. in an all-stock deal valued at $4.5 billion. The news came alongside fiscal first-qua…
+- Source: https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/
+- Date: 2026-11-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud (Score: 6)
+- Summary: A new report out today from cybersecurity company Palo Alto Networks Inc. finds that artificial intelligence agents have quickly become a fixture in software development, but many organizations can’t properly track or secure what those agents are doing in the…
+- Source: https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/
+- Date: 2026-11-16
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic goes public, but is it too late to save the AI trade? (Score: 4)
+- Summary: Anthropic came through with its initial public offering Thursday, but did it just signal a top in the AI trade? The artificial intelligence model maker’s IPO went almost picture-perfectly, really, producing a 17% pop that wasn’t so high that it left an excess…
+- Source: https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/
+- Date: 2026-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Metano launches with $12M to help enterprises secure AI agents (Score: 4)
+- Summary: Artificial intelligence agent security startup Metano Inc. today launched with $12 million in funding to help enterprises secure AI agents across endpoints, cloud infrastructure and software-as-a-service applications. Metano’s platform is aimed at giving ente…
+- Source: https://siliconangle.com/2026/11/19/metano-launches-with-12m-to-help-enterprises-secure-ai-agents/
+- Date: 2026-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies (Score: 2)
+- Summary: CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies
+- Jefferies said a potential acquisition of Zscaler would help CrowdStrike expand its presence in network security while strengthening its v…
+- Source: https://biztoc.com/x/e30decc3ad94b998
+- Date: 2026-11-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies (Score: 2)
+- Summary: Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+A cybersecurity CEO offers plain talk on the outages sweeping through major companies and disrupting everything from your email to your flight.
+"I want to…
+- Source: https://biztoc.com/x/fcc2abfc3648b2e7
+- Date: 2026-11-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Arista takes aim at the next AI network battleground: distributed inference (Score: 2)
+- Summary: Awareness of the network’s role in AI has steadily increased, with much of the focus on the back end – larger clusters, faster ports, and scale-across fabrics that stitch GPUs together across data centers. Arista Networks Inc. has seen continued, accelerated …
+- Source: https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/
+- Date: 2026-11-17
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days (Score: 2)
+- Summary: A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job.
+
+Meanwhile, AI is making…
+- Source: https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+claim-check-ci 1.1.0 (Score: 2)
+- Summary: Every number you publish is a claim. Bind it to the artifact it came from and prove it in CI -- no LLM, no network, no dependencies.
+- Source: https://pypi.org/project/claim-check-ci/
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+SilentAir and LIMINAL PANDA Target Telecom Networks to Spy on Subscribers (Score: 2)
+- Summary: Researchers uncover two threat groups, SilentAir and LIMINAL PANDA, exploiting mobile networks to spy on users and intercept calls and text messages. Telecom security firm Enea published research on two threat actors, dubbed SilentAir and LIMINAL PANDA, worki…
+- Source: https://securityaffairs.com/203099/apt/silentair-and-liminal-panda-target-telecom-networks-to-spy-on-subscribers.html
+- Date: 2026-11-16
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agents design an entirely new CPU architecture from scratch, startup claims (Score: 0)
+- Summary: Architect Labs says its AI agents designed Frostbite, an interaction-net CPU with 4.59x the performance per watt of an in-order core.
+- Source: https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests
+- Date: 2026-11-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Malware spread through Optimizely hits 178 organizations, including BBC, CNN and Zoom An attacker exploited a vulnerability in Optimizely’s web experimentation p…
+- Source: https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/
+- Date: 2026-11-22
+- Vendors: None
+- Topics: None
+
+CrowdStrike in talks to acquire Zscaler, sources say (Score: 0)
+- Summary: CrowdStrike and Zscaler discuss a potential merger to form a leading, multi-product cybersecurity platform amid sector consolidation.
+- Source: https://www.thehindubusinessline.com/info-tech/crowdstrike-in-talks-to-acquire-zscaler-sources-say/article71727400.ece
+- Date: 2026-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Exploring Carnia: fresh milk, ever-changing cheeses and cured ham (Score: 0)
+- Summary: Cycling by e-bike through the historic mountain dairies of Friuli Venezia Giulia, with one pressing question: how can we preserve a precious yet extremely fragile part of mountain heritage?
+- Source: https://www.repubblica.it/en/europe/food-travel/2026/11/21/news/cycling_carnia_mountain_dairies_cheese_prosciutto-425737914/
+- Date: 2026-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike in talks to acquire Zscaler (Score: 0)
+- Summary: A combination would create one of the world's largest pure-play cybersecurity providers as enterprise customers seek to reduce the number of security vendors they use, favoring providers that can deliver multiple products through a single relationship.
+- Source: https://m.economictimes.com/tech/technology/crowdstrike-in-talks-to-acquire-zscaler/articleshow/136043272.cms
+- Date: 2026-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike in talks to acquire Zscaler, sources say (Score: 0)
+- Summary: Nov 20 : CrowdStrike is in talks to acquire cybersecurity provider and rival Zscaler amid consolidation in the security software sector, according to two people familiar with the matter.The talks between the two companies are ongoing, the sources said. No dea…
+- Source: https://www.channelnewsasia.com/business/crowdstrike-in-talks-acquire-zscaler-sources-say-6570666
+- Date: 2026-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities (Score: 0)
+- Summary: PHP2Shell showed how fast a runtime-level flaw can go from disclosure to confirmed exploitation. Here’s how federal, state, local, and education teams can prepare for PHP2Shell-like flaws.Key takeaways<ol><li>PHP2Shell went from disclosure to confirmed exploi…
+- Source: https://www.tenable.com/blog/public-sector-exposure-management-php2shell
+- Date: 2026-11-20
+- Vendors: None
+- Topics: None
+
+Crazy Agent Scale: Companies All-in on AI (Score: 0)
+- Summary: At the Crazy Agent Scale event at Sutter Hill Ventures, Clement Pang, David Cramer, Shawn Wang, Quinn Slack, and John Hayes demonstrated what pushing agents to their limits looks like today.
+
+
+
+To kick things off, I shared an Alan Kay quote: "you can live in …
+- Source: https://www.lukew.com/ff/2173/crazy-agent-scale-companies-all-in-on-ai
+- Date: 2026-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI is giving hackers a head start. What's at risk for essential services? (Score: 0)
+- Summary: Recent outages showed how much banks, hospitals and airlines rely on shared technology. CERT-In found AI cut impact time from days to hours in one campaign against Indian organisations
+- Source: https://www.business-standard.com/technology/artificial-intelligence/ai-assisted-cyberattacks-critical-infrastructure-india-126112000288_1.html
+- Date: 2026-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+US: Russian Spied on Laptops Used by People at Silicon Valley Coffee Shop (Score: 0)
+- Summary: A Russian named Igor D’iu allegedly crossed the US-Mexico border and then snooped on the laptops of tech employees while they worked in a Palo Alto coffee shop.
+Here’s one way a privacy filter can protect your laptop: Federal investigators arrested a Russian …
+- Source: https://me.pcmag.com/en/security/38658/us-russian-spied-on-laptops-used-by-people-at-silicon-valley-coffee-shop
+- Date: 2026-11-20
+- Vendors: None
+- Topics: None
+
+nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them (Score: 0)
+- Summary: Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.
+- Source: https://blog.cloudflare.com/nginx2root/
+- Date: 2026-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Industrial monitoring startup BrightAI closes $97M investment (Score: 0)
+- Summary: BrightAI Inc., a startup that helps industrial companies detect malfunctioning equipment, has raised $97 million in funding. Smith Point Capital led the Series A round. BrightAI said in its Wednesday announcement of the deal that a number of other venture cap…
+- Source: https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/
+- Date: 2026-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Bassett: World Cup hero Briana Scurry takes on new challenge on the golf course (Score: 0)
+- Summary: World Cup-winning goalkeeper Briana Scurry teams up with coach Trillium Rose in the LPGA series "Breaking 99" as she learns golf ahead of the 2027 World Cup.
+- Source: https://www.timesunion.com/sports/article/briana-scurry-breaking-99-soccer-golf-22505016.php
+- Date: 2026-11-20
+- Vendors: None
+- Topics: None
+
+Feds charge Russian man with spying, stalking tech employees in Palo Alto (Score: 0)
+- Summary: The FBI says it found Telegram messages with instructions to surveil employees.
+- Source: https://www.sfgate.com/tech/article/palantir-russian-spying-stalking-22540161.php
+- Date: 2026-11-19
+- Vendors: None
+- Topics: None
+
+Cyberattack responders are booked up as agentic AI attacks surge (Score: 0)
+- Summary: Greg Davison spent this past weekend taking calls from companies around the world that had been hit by AI-enabled attacks, and when he reached out to incident response firms to help them, he found those firms were turning new clients away. Incident response f…
+- Source: https://www.digitaljournal.com/article/cyberattack-responders-are-booked-up-as-agentic-ai-attacks-surge/
+- Date: 2026-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
