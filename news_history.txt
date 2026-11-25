@@ -89206,3 +89206,189 @@ nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins 
 - Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
 - Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
 - Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
+
+--- Top 25 News Summary for 2026-11-25 22:38  ---
+
+Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts (Score: 9)
+- Summary: Cybersecurity company Palo Alto Networks Inc. today announced that it has agreed to acquire artificial intelligence model training and inference startup Applied Compute Inc. in an all-stock deal valued at $4.5 billion. The news came alongside fiscal first-qua…
+- Source: https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/
+- Date: 2026-11-18
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Anthropic goes public, but is it too late to save the AI trade? (Score: 4)
+- Summary: Anthropic came through with its initial public offering Thursday, but did it just signal a top in the AI trade? The artificial intelligence model maker’s IPO went almost picture-perfectly, really, producing a 17% pop that wasn’t so high that it left an excess…
+- Source: https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/
+- Date: 2026-11-20
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Metano launches with $12M to help enterprises secure AI agents (Score: 4)
+- Summary: Artificial intelligence agent security startup Metano Inc. today launched with $12 million in funding to help enterprises secure AI agents across endpoints, cloud infrastructure and software-as-a-service applications. Metano’s platform is aimed at giving ente…
+- Source: https://siliconangle.com/2026/11/19/metano-launches-with-12m-to-help-enterprises-secure-ai-agents/
+- Date: 2026-11-19
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks Takes Over La Quinta For New PGA Series (Score: 2)
+- Summary: The American Express tournament ends its run in 2028 as Palo Alto Networks steps in. Here is why the PGA Tour's new Challenger Series changes the game for fans and players.
+- Source: https://gamedaychatter.com/palo-alto-networks-takes-over-la-quinta-for-new-pga-series/
+- Date: 2026-11-24
+- Vendors: Palo Alto Networks
+- Topics: None
+
+Koepka's return allowed 3 players to move up a spot in the final FedEx Cup standings (Score: 2)
+- Summary: (AP) — PGA Tour players were allowed to move up in the FedEx Cup standings and on the career money list in 2022 to account for the defections to LIV Golf. Now three players will be able to move up their status because of someone who came back.
+- Source: https://sports.yahoo.com/articles/koepkas-return-allowed-3-players-161751990.html
+- Date: 2026-11-24
+- Vendors: None
+- Topics: None
+
+CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks (Score: 2)
+- Summary: For decades, the security industry has told buyers to choose best-of-breed security products, leaving practitioners to stitch them together. This has been perpetuated by the major analyst firms, which have a Wave for this product and a Magic Quadrant for that…
+- Source: https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/
+- Date: 2026-11-23
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike to Buy Zscaler In $44 Billion Deal (Score: 2)
+- Summary: CrowdStrike has agreed to acquire network security provider Zscaler in a $43.9 billion all-stock deal. "The deal marks CrowdStrike's biggest acquisition to date and is among the largest in the sector as businesses consolidate and ramp up defenses to fend off …
+- Source: https://slashdot.org/story/26/11/23/1845255/crowdstrike-to-buy-zscaler-in-44-billion-deal
+- Date: 2026-11-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+California PGA Tour event moves to Challenger Series in 2028 (Score: 2)
+- Summary: Sweeping changes are coming to the event now known as the American Express in 2028, including new sponsor Palo Alto Networks
+- Source: https://golfweek.usatoday.com/story/sports/golf/2026/11/23/american-express-california-pga-tour-event-moves-to-challenger-series-new-sponsor-2028/92923263007/
+- Date: 2026-11-23
+- Vendors: Palo Alto Networks
+- Topics: None
+
+CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies (Score: 2)
+- Summary: CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies
+- Jefferies said a potential acquisition of Zscaler would help CrowdStrike expand its presence in network security while strengthening its v…
+- Source: https://biztoc.com/x/e30decc3ad94b998
+- Date: 2026-11-22
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies (Score: 2)
+- Summary: Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies
+A cybersecurity CEO offers plain talk on the outages sweeping through major companies and disrupting everything from your email to your flight.
+"I want to…
+- Source: https://biztoc.com/x/fcc2abfc3648b2e7
+- Date: 2026-11-19
+- Vendors: Palo Alto Networks
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Frieze Los Angeles Lines Up 102 Exhibitors for 2027 Edition (Score: 0)
+- Summary: The upcoming edition of Frieze Los Angeles will feature 102 exhibitors and run February 25–28 at the Santa Monica Airport.
+- Source: https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/
+- Date: 2026-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike And Zscaler: The Pre-Black Friday $43 Billion Deal (Score: 0)
+- Summary: On Monday, November 23 after a short period of speculation, CrowdStrike confirmed its intention to acquire Zscaler in an all-stock deal valued $43.9B, making it the largest yet cybersecurity acquisition. Unsurprisingly, the primary motivation appears to be gr…
+- Source: https://www.forrester.com/blogs/crowdstrike-and-zscaler-the-pre-black-friday-43-billion-deal/
+- Date: 2026-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike splashes $44B on Zscaler, customers brace for the bill (Score: 0)
+- Summary: Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in
+- Source: https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877
+- Date: 2026-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Draft budget bill proposes sweeping new land-seizure powers for high-speed rail (Score: 0)
+- Summary: The federal government is proposing to scrap standard expropriation rules for Canada's first high-speed rail project.
+- Source: https://www.cbc.ca/news/politics/alto-expropriation-changes-9.7433464
+- Date: 2026-11-24
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse (Score: 0)
+- Summary: ‘Shirudo’ project promises to whip up compensating controls in a hurry
+- Source: https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795
+- Date: 2026-11-24
+- Vendors: Cisco
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination' (Score: 0)
+- Summary: CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.
+- Source: https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html
+- Date: 2026-11-23
+- Vendors: None
+- Topics: None
+
+CrowdStrike explores acquisition of Zscaler – report (Score: 0)
+- Summary: CrowdStrike is considering the acquisition of Zscaler in a deal that could rank among the cybersecurity sector’s “largest” transactions.
+- Source: https://www.verdict.co.uk/crowdstrike-explores-acquisition-zscaler/
+- Date: 2026-11-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks (Score: 0)
+- Summary: CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.
+- Source: https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html
+- Date: 2026-11-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+What does it take to overhaul a company bogged down by bureaucracy? Verizon’s transformation chief has 8,000 ideas (Score: 0)
+- Summary: Verizon asked employees to identify ways the company could improve, generating more than 8,000 suggestions.
+- Source: https://fortune.com/article/verizon-transformation-network-telecomms-turnaround-ideas/
+- Date: 2026-11-23
+- Vendors: None
+- Topics: None
+
+Open-source AI pentesting framework Cairn keeps turning up in real-world attacks (Score: 0)
+- Summary: Autonomous AI agents run by a Chinese-nexus threat actor spent nearly a full day failing to break into university servers, then found and exploited a zero-day in an open-source medical imaging AI application and gained a foothold. The agents ran on Cairn, an …
+- Source: https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/
+- Date: 2026-11-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+CrowdStrike moves on Zscaler in reported $43.9B all-stock deal (Score: 0)
+- Summary: The potential merger could reshape cybersecurity landscapes, prompting strategic shifts and investor scrutiny amid industry consolidation trends.
+The post CrowdStrike moves on Zscaler in reported $43.9B all-stock deal appeared first on Crypto Briefing.
+- Source: https://cryptobriefing.com/crowdstrike-acquire-zscaler-all-stock-deal/
+- Date: 2026-11-23
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+AI agents design an entirely new CPU architecture from scratch, startup claims (Score: 0)
+- Summary: Architect Labs says its AI agents designed Frostbite, an interaction-net CPU with 4.59x the performance per watt of an in-order core.
+- Source: https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests
+- Date: 2026-11-22
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs (Score: 0)
+- Summary: Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Malware spread through Optimizely hits 178 organizations, including BBC, CNN and Zoom An attacker exploited a vulnerability in Optimizely’s web experimentation p…
+- Source: https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/
+- Date: 2026-11-22
+- Vendors: None
+- Topics: None
+
+CrowdStrike in talks to acquire Zscaler, sources say (Score: 0)
+- Summary: CrowdStrike and Zscaler discuss a potential merger to form a leading, multi-product cybersecurity platform amid sector consolidation.
+- Source: https://www.thehindubusinessline.com/info-tech/crowdstrike-in-talks-to-acquire-zscaler-sources-say/article71727400.ece
+- Date: 2026-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+Exploring Carnia: fresh milk, ever-changing cheeses and cured ham (Score: 0)
+- Summary: Cycling by e-bike through the historic mountain dairies of Friuli Venezia Giulia, with one pressing question: how can we preserve a precious yet extremely fragile part of mountain heritage?
+- Source: https://www.repubblica.it/en/europe/food-travel/2026/11/21/news/cycling_carnia_mountain_dairies_cheese_prosciutto-425737914/
+- Date: 2026-11-21
+- Vendors: None
+- Topics: AI-driven networking, network automation, cybersecurity, cloud networking, job skills
+
+=== Changes in Network Engineering Job Skills and Certifications ===
+- Demand for skills in AI-augmented tools like Cisco AI Canvas and Palo Alto Precision AI is growing.
+- Certifications such as Cisco DevNet (evolving to CCNA/CCNP Automation) are critical for 2026.
+- Zero Trust Architecture (ZTA) expertise, supported by tools like Prisma and Duo, is increasingly required.
